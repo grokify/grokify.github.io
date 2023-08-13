@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://grokify.github.io/grokify-certificates/</loc>
+         <lastmod>2023-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/grokify-certificates/machine-learning/</loc>
+         <lastmod>2023-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/grokify-certificates/product/</loc>
+         <lastmod>2023-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/grokify-certificates/programming/</loc>
+         <lastmod>2023-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/grokify-certificates/scrum/</loc>
+         <lastmod>2023-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>

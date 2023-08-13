@@ -1,6 +1,6 @@
 site_name: John's Certificates
 site_url: https://grokify.github.io/grokify-certificates
-docs_dir: docs
+docs_dir: src
 theme: readthedocs
 markdown_extensions:
     - attr_list
