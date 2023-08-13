@@ -1,0 +1,13 @@
+site_name: John's Certificates
+site_url: https://grokify.github.io/grokify-certificates
+docs_dir: docs
+theme: readthedocs
+markdown_extensions:
+    - attr_list
+nav:
+- 'Home': index.md
+- 'Topics':
+    - 'Machine Learning (1)': 'machine-learning.md'
+    - 'Product (1)': 'product.md'
+    - 'Programming (8)': 'programming.md'
+    - 'Scrum (4)': 'scrum.md'
