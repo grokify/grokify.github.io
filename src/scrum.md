@@ -22,4 +22,4 @@
 
 ### Professional Scrum Master I (PSM I) - Scrum.org
 
-![](cert_scrum_scrum-master_scrum-org_professional-scrum-mater-i--psm-i_2012-12-14.png)
+![](cert_scrum_scrum-master_scrum-org_professional-scrum-master-i--psm-i_2012-12-14.png)
