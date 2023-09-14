@@ -26,15 +26,27 @@
 
 ### Professional Scrum Master III (PSM III) - Scrum.org
 
+> *People who have passed PSM III, achieving certification, demonstrate a distinguished level of Scrum mastery. PSM III certificate holders  have a deep understanding of the application and practices of Scrum and the Scrum Values in a variety of complex team and organizational situations. - [Scrum.org](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments)*
+
+* [John's Scrum.org Profile](https://www.scrum.org/user/16066/)
+
 ![](cert_scrum_scrum-master_scrum-org_professional-scrum-master-iii--psm-iii_2012-12-29_2023-09-13.png)
 
 ### Professional Scrum Master II (PSM II) - Scrum.org
+
+> *People who have passed PSM II, achieving certification, demonstrate an advanced level of Scrum mastery. PSM II certificate holders prove that they have an understanding of the underlying principles of Scrum and can effectively apply Scrum in complex, real-world situations. - [Scrum.org](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments)*
+
+* [John's Scrum.org Profile](https://www.scrum.org/user/16066/)
 
 ![](cert_scrum_scrum-master_scrum-org_professional-scrum-master-ii--psm-ii_2012-12-29_2023-09-13.png)
 
 ![](cert_scrum_scrum-master_scrum-org_professional-scrum-master-ii--psm-ii_2012-12-29.png)
 
 ### Professional Scrum Master I (PSM I) - Scrum.org
+
+> *People who have passed PSM I, achieving certification, demonstrate a fundamental level of Scrum mastery. PSM I certificate holders prove that they understand Scrum as described in the Scrum Guide and how to apply Scrum in Scrum Teams.  PSM I holders have a consistent terminology and approach to Scrum. - [Scrum.org](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments)*
+
+* [John's Scrum.org Profile](https://www.scrum.org/user/16066/)
 
 ![](cert_scrum_scrum-master_scrum-org_professional-scrum-master-i--psm-i_2012-12-14_2023-09-13.png)
 
