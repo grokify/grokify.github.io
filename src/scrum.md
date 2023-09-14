@@ -2,19 +2,28 @@
 
 1. Product Owner
 	1. CSPO from Scrum Alliance
+	1. PSPO I from Scrum.org
 2. Scrum Master
 	1. CSM from Scrum Alliance
-	1. PSM-III from Scrum.org
-	1. PSM-II from Scrum.org
-	1. PSM-I from Scrum.org
+	1. PSM III from Scrum.org
+	1. PSM II from Scrum.org
+	1. PSM I from Scrum.org
 
-## Product Owner (1)
+## Product Owner (2)
 
 ### Certified Scrum Product Owner (CSPO) - Scrum Alliance
 
 <img src="../cert_scrum_product-owner_scrumalliance_certified-scrum-product-owner--cspo_2025-09-04.png" style="border:1px solid #000000" />
 
 ![](cert_scrum_product-owner_scrumalliance_certified-scrum-product-owner--cspo_2012-12-07_trim.png)
+
+### Professional Scrum Product Owner I (PSPO I) - Scrum.org
+
+> *People that have passed PSPO I and achieved certification demonstrate a fundamental understanding of the Scrum framework, and how to apply it to maximize the value delivered with a product. They exhibit a dedication to continued professional development, and a high level of commitment to their field of practice. Achieving PSPO I is the minimum demonstration of knowledge any Professional Scrum Product Owner should be able to make. - [Scrum.org](https://www.scrum.org/professional-scrum-product-owner-certifications)*
+
+* [John's Scrum.org Profile](https://www.scrum.org/user/16066/)
+
+![](cert_scrum_product-owner_scrum-org_professional-scrum-product-owner-i--pspo-i_2023-09-14.png)
 
 ## Scrum Master (4)
 
