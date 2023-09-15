@@ -1,8 +1,23 @@
 # Programming Certificates
 
+1. C#
+	1. [C# (Basic) from HackerRank](#c-basic-from-hackerrank)
+1. Go
+	1. [Go (Basic) from HackerRank](#go-basic-hackerrank)
+1. Problem Solving
+	1. [Problem Solving (Basic) from HackerRank](#problem-solving-basic-from-hackerrank)
+1. Python
+	1. [Python (Basic) from HackerRank](#python-basic-from-hackerrank)
+1. Rest API
+	1. [Rest API (Intermediate) from HackerRank](#rest-api-intermediate-from-hackerrank)
+1. SQL
+	1. [SQL (Advanced) from HackerRank](#sql-advanced-from-hackerrank)
+	1. [SQL (Intermediate) from HackerRank](#sql-intermediate-from-hackerrank)
+	1. [SQL (Basic) from HackerRank](#sql-basic-from-hackerrank)
+
 ## C# (1)
 
-### C# (Basic) - HackerRank
+### C# (Basic) from HackerRank
 
 * [John's HackerRank profile](https://www.hackerrank.com/grokify)
 
@@ -10,7 +25,7 @@
 
 ## Go (1)
 
-### Go (Basic) - HackerRank
+### Go (Basic) from HackerRank
 
 * [John's HackerRank profile](https://www.hackerrank.com/grokify)
 
@@ -18,7 +33,7 @@
 
 ## Problem Solving (1)
 
-### Problem Solving (Basic) - Hacker Rank
+### Problem Solving (Basic) from HackerRank
 
 * [John's HackerRank profile](https://www.hackerrank.com/grokify)
 
@@ -26,7 +41,7 @@
 
 ## Python (1)
 
-### Python (Basic) - HackerRank
+### Python (Basic) from HackerRank
 
 * [John's HackerRank profile](https://www.hackerrank.com/grokify)
 
@@ -34,7 +49,7 @@
 
 ## Rest API (1)
 
-### Rest API (Intermediate) - HackerRank
+### Rest API (Intermediate) from HackerRank
 
 * [John's HackerRank profile](https://www.hackerrank.com/grokify)
 
@@ -42,20 +57,20 @@
 
 ## SQL (3)
 
-### SQL (Advanced) - HackerRank
+### SQL (Advanced) from HackerRank
 
 * [John's HackerRank profile](https://www.hackerrank.com/grokify)
 * [John's cert on HackerRank](https://www.hackerrank.com/certificates/3398beadc245)
 
 ![](cert_programming_sql_hackerrank_sql-advanced_2023-07-09.png)
 
-### SQL (Intermediate) - HackerRank
+### SQL (Intermediate) from HackerRank
 
 * [John's HackerRank profile](https://www.hackerrank.com/grokify)
 
 ![](cert_programming_sql_hackerrank_sql-intermediate_2023-07-08.png)
 
-### SQL (Basic) - HackerRank
+### SQL (Basic) from HackerRank
 
 * [John's HackerRank profile](https://www.hackerrank.com/grokify)
 
