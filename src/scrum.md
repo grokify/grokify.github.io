@@ -11,6 +11,10 @@
 1. Scaled Scrum
 	1. [Scaled Professional Scrum (SPS) from Scrum.org](#scaled-professional-scrum-sps-from-scrumorg)
 
+## Articles
+
+* [Renewing Scrum Alliance Certificates](../scrum_scrumalliance-renewal)
+
 ## Scrum Master (4)
 
 ### Certified ScrumMaster (CSM) from Scrum Alliance

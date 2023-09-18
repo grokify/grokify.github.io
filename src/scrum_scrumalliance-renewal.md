@@ -2,12 +2,11 @@
 
 ## TL;DR
 
-Updating my Scrum Alliance Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO) certifications provided much more benefit than the anticipated pre-requisities for attending the Advacned level programs. Specifically, I gained the following:
+Renewing my Scrum Alliance Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO) certifications exceeded my expectations and provided valuable benefits. This article outlines the additional knowledge and insights gained during the renewal process and emphasizes the significance of staying up-to-date with Scrum certifications.
 
-1. Additional learnings and knkoweldge of the broad resources at ScrumAlliance.org, some of which I was already interested in learning more about.
-1. A knowledge and appreciation of the people who take their time to write articles on Scrum.
+## Introduction
 
-In the end, I found it well worth the effort and time to get my certificates renewed.
+Renewing my Scrum Alliance certifications for Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO) turned out to be a more rewarding experience than I had anticipated. In this article, I will share the valuable insights and learnings I acquired during the renewal process, emphasizing the importance of staying connected with Scrum Alliance and its resources.
 
 This is what my certificate looked like when I received it in 2012:
 
@@ -19,30 +18,28 @@ And this is what it looked like in 2023 with the inactive notice. Of note, the d
 
 ## The Decision
 
-When I made the decision to renew my Scrum Alliance certificates, it had been over 10 years since I had attained them and while I had worked at multiple agile organizations in the intervening years, I had not found a reason to update them. However, times and situations change, and I found myself in an organization that was undergoing an agile transformation and I wanted to move ahead in my agile journey with Scrum Alliance.
+After over a decade since initially obtaining my CSM and CSPO certifications, I decided it was time to renew them. Despite working in various agile organizations during the intervening years, I hadn't felt the need to update my certifications. However, circumstances changed when I found myself in an organization undergoing an agile transformation, prompting me to advance my agile journey with Scrum Alliance.
 
-I had attained both the Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO) designations earlier and anted to move forward through the Advanced levels and to beyond. To do this, I needed to update my certicates, in the form of education and a fee. At first, I viewed this as a pre-requisite to taking the Advanced level programs, but I found out that, as with many things, the journey is more important than the destination, and I found a lot of value in gaining the required education described below.
+My goal was to progress through the Advanced levels and beyond, which required me to update my certificates through education and a fee. Initially, I viewed this as a mere prerequisite for accessing the Advanced level programs. However, I soon realized that the journey itself held immense value, and I found great benefit in acquiring the required education, as detailed below.
 
 ## The Requirements
 
-Once I made the decision to renew, I had to consider what it would take. At first, I was a bit concerned about this because of the amount of time that had lapsed and the requirement for 40 Scrum Education Units (SEUs) (20+20) for my CSM and CSPO certs. I was under the imporession this would be annual and was prepared to see what seemed like an insurmountable 400+ SEUs to renew my certs but not only did I only need 40, I received a 10 SEU discount by renewing both CSM and CSPO at the same time, so I only needed 30 SEUs.
+Renewing my certifications initially seemed daunting due to the substantial amount of time that had passed and the requirement of 40 Scrum Education Units (SEUs) for both my CSM and CSPO certifications (20 each). However, it turned out that I only needed 30 SEUs in total, thanks to a 10 SEU discount for renewing both certifications simultaneously.
 
-Next, I looked at various ways to gain SEUs which included:
+To meet the SEU requirement, I explored various avenues, including:
 
-1. reading articles
-1. watching videos
-1. attending converents and meet ups
-1. doing volunteer work
+1. Reading articles.
+1. Watching videos.
+1. Attending conferences and meetups.
+1. Engaging in volunteer work.
 
-The way to get the most SEUs seemed to be to do volunteer work, however, volunteer Scrum work seemed to be in limited supply and had some lead time to accomplish.
+While volunteer Scrum work was the most SEU-rich option, it proved to be scarce and required some lead time. Similarly, attending conferences and meetups took time. Consequently, I began by watching videos and reading articles. Initially, I manually inputted these activities into the Scrum Alliance website, but later discovered the convenience of automatic SEU tracking.
 
-In a similar fashion, attending conference and meet ups could take time.
-
-So I started by watching videos and reading articles. At first I entered these in the Scrum Alliance website manually until I learned they could be automatically added which made the process much smoother.
 
 ## The Content
 
-I ended up reading many articles and watching a few videos. The articles did extend my knowledge and appreciation of Scrum and Agile. In fact, some of the articles were ones that I would want to read on my own anyway. I ended up saving numerous articles for future reference, including the following:
+Throughout the renewal process, I delved into numerous articles and watched several videos. These resources expanded my understanding and appreciation of Scrum and Agile methodologies. Some of the articles were so informative that I saved them for future reference. Here are a few noteworthy articles:
+
 
 1. [Get in FRONT of the Daily Scrum](https://resources.scrumalliance.org/Article/daily-scrum) by [Bonsy Yelsangi](https://www.scrumalliance.org/community/profile/byelsangi)
 1. [7 Traits of a Good Facilitator](https://resources.scrumalliance.org/Article/7-traits-good-facilitator) by [Scrum Alliance](https://www.scrumalliance.org/about-us)
@@ -58,7 +55,9 @@ I ended up reading many articles and watching a few videos. The articles did ext
 
 ## The Renewal
 
-The Scrum Alliance dashboard provided a nice progress meter which was updated in near real-time after completing content on the website. Watching this meter indicated progress was moving faster than I thought it would be at 0.25 SEU per article.
+The Scrum Alliance dashboard provided an informative progress meter, updated in near real-time after completing content on the website. Surprisingly, I made faster progress than expected, earning 0.25 SEU per article. By the time I completed my renewal, my dashboard indicated significant progress, and I successfully updated my certification, which was now active once more.
+
+This is what my dashboard looked liked part way through the process.
 
 ![]( cert_scrum_scrum-master_scrumalliance_certified-scrum-master--csm_2012-12-14_renewal-progress.png)
 
@@ -72,10 +71,10 @@ And I was able to update my cert, which showed it was active again.
 
 ## The Community
 
-The community built by Scrum Alliance is one of its strengths, from requiring classes to it's conferences and resources. To begin with, I appreciated the inclusion of the Certified Scrum Trainer names on the certificates. For me, my CSM trainer was [Michael James](https://www.scrumalliance.org/community/profile/mjames) and my CSPO trainer was [Chris Sims](https://www.scrumalliance.org/community/profile/csims).
+Scrum Alliance's thriving community is one of its greatest strengths. From mandatory classes to conferences and various resources, Scrum Alliance fosters a sense of belonging and collaboration. I appreciated that my certificates included the names of Certified Scrum Trainers who had instructed me: [Michael James](https://www.scrumalliance.org/community/profile/mjames) for CSM and [Chris Sims](https://www.scrumalliance.org/community/profile/csims) for CSPO.
 
-In addition to the content, the renewal process allowed me to become familiar with many more members of Scrum Alliance by the the articles they wrote, some of which I listed above. It is great to see people participating in both writing articles and in the Scrum Alliance programs.
+Moreover, the renewal process allowed me to become acquainted with more members of the Scrum Alliance community through the articles they authored, some of which I mentioned earlier. Witnessing the active participation of individuals in writing articles and engaging in Scrum Alliance programs was inspiring.
 
 ## Summary
 
-Scrum Alliance has a focus on people including classes, conferences, content, and community. The certification renewal process requires Scrum Education Units (SEUs) which not only increases learning of content but of the community. I look forward to learning more through the organization and its members.
+Scrum Alliance's emphasis on people, through its classes, conferences, content, and community, makes it a valuable organization. The certification renewal process, requiring Scrum Education Units (SEUs), not only enhances one's knowledge of content but also deepens their connection to the Scrum Alliance community. I eagerly look forward to continuing my learning journey with this organization and its dedicated members.
