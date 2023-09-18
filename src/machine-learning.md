@@ -1,4 +1,4 @@
-# Machine Learning Certificates
+# John's Machine Learning Certificates
 
 ## Machine Learning - Stanford @ Coursera - Andrew Ng
 

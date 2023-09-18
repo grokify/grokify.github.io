@@ -1,4 +1,4 @@
-# Scrum Certificates
+# John's Scrum Certificates
 
 1. Scrum Master
 	1. [Certified ScrumMaster (CSM) from Scrum Alliance](#certified-scrummaster-csm-from-scrum-alliance)
