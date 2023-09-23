@@ -10,6 +10,8 @@
 	1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
 1. Scaled Scrum
 	1. [Scaled Professional Scrum (SPS) from Scrum.org](#scaled-professional-scrum-sps-from-scrumorg)
+1. Leadership
+	1. [Professional Agile Leadership I (PAL I) from Scrum.org](#professional-agile-leadership-i-pal-i-from-scrumorg)
 
 ## Articles
 
@@ -80,3 +82,13 @@
 * [John's Scrum.org profile](https://www.scrum.org/user/16066/)
 
 ![](cert_scrum_scaled_scrum-org_scaled-professional-scrum--sps_2023-09-14.png)
+
+## Leadership (1)
+
+### Professional Agile Leadership I (PAL I) from Scrum.org
+
+> *PAL certification is evidence that you have demonstrated a fundamental understanding of how leaders of agile teams best support, guide and coach teams to create conditions for greater agility. You recognize the role that leaders play in creating a successful agile environment.*
+
+* [John's Scrum.org profile](https://www.scrum.org/user/16066/)
+
+![](cert_scrum_leadership_scrum-org_professional-agile-leadership-1--pal-1_2023-09-23.png)
