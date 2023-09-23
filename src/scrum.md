@@ -87,7 +87,7 @@
 
 ### Professional Agile Leadership I (PAL I) from Scrum.org
 
-> *PAL certification is evidence that you have demonstrated a fundamental understanding of how leaders of agile teams best support, guide and coach teams to create conditions for greater agility. You recognize the role that leaders play in creating a successful agile environment.*
+> *PAL certification is evidence that you have demonstrated a fundamental understanding of how leaders of agile teams best support, guide and coach teams to create conditions for greater agility. You recognize the role that leaders play in creating a successful agile environment. - [Scrum.org](https://www.scrum.org/assessments/scaled-professional-scrum-certification)*
 
 * [John's Scrum.org profile](https://www.scrum.org/user/16066/)
 
