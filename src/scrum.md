@@ -85,7 +85,7 @@
 
 ![](cert_scrum_scaled_scrum-org_scaled-professional-scrum--sps_2023-09-14.png)
 
-## Leadership (1)
+## Leadership (2)
 
 ### Professional Agile Leadership I (PAL I) from Scrum.org
 
