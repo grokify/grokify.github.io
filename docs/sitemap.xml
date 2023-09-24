@@ -2,32 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://grokify.github.io/grokify-certificates/</loc>
-         <lastmod>2023-09-23</lastmod>
+         <lastmod>2023-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/machine-learning/</loc>
-         <lastmod>2023-09-23</lastmod>
+         <lastmod>2023-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/product/</loc>
-         <lastmod>2023-09-23</lastmod>
+         <lastmod>2023-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/programming/</loc>
-         <lastmod>2023-09-23</lastmod>
+         <lastmod>2023-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/scrum/</loc>
-         <lastmod>2023-09-23</lastmod>
+         <lastmod>2023-09-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/grokify-certificates/scrum_free-tests/</loc>
+         <lastmod>2023-09-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/grokify-certificates/scrum_scrum-org_pal-1/</loc>
+         <lastmod>2023-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/scrum_scrumalliance-renewal/</loc>
-         <lastmod>2023-09-23</lastmod>
+         <lastmod>2023-09-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
