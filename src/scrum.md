@@ -1,23 +1,22 @@
 # John's Scrum Certificates
 
-1. Scrum Master
+1. [Scrum Master](#scrum-master-4)
 	1. [Certified ScrumMaster (CSM) from Scrum Alliance](#certified-scrummaster-csm-from-scrum-alliance)
 	1. [Professional Scrum Master III (PSM III) from Scrum.org](#professional-scrum-master-iii-psm-iii-from-scrumorg)
 	1. [Professional Scrum Master II (PSM II) from Scrum.org](#professional-scrum-master-ii-psm-ii-from-scrumorg)
 	1. [Professional Scrum Master I (PSM I) from Scrum.org](#professional-scrum-master-i-psm-i-from-scrumorg)
-1. Product Owner
+1. [Product Owner](#product-owner-2)
 	1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
 	1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
-1. Scaled Scrum
+1. [Scaled Scrum](#scaled-scrum-1)
 	1. [Scaled Professional Scrum (SPS) from Scrum.org](#scaled-professional-scrum-sps-from-scrumorg)
-1. Leadership
+1. [Leadership](#leadership-2)
 	1. [Professional Agile Leadership I (PAL I) from Scrum.org](#professional-agile-leadership-i-pal-i-from-scrumorg)
     1. [Professional Agile Leadership - EBM (PAL-EBM) from Scrum.org](#professional-agile-leadership-ebm-pal-ebm-from-scrumorg)
 
 ## Articles
 
 * [Renewing Scrum Alliance Certificates](../scrum_scrumalliance-renewal)
-* [Passing the Scrum.org Professional Agile Leadership I (PAL I) Assessment](../scrum_scrum-org_pal-1)
 
 ## Scrum Master (4)
 
