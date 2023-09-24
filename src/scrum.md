@@ -12,10 +12,12 @@
 	1. [Scaled Professional Scrum (SPS) from Scrum.org](#scaled-professional-scrum-sps-from-scrumorg)
 1. Leadership
 	1. [Professional Agile Leadership I (PAL I) from Scrum.org](#professional-agile-leadership-i-pal-i-from-scrumorg)
+    1. [Professional Agile Leadership - EBM (PAL-EBM) from Scrum.org](#professional-agile-leadership-ebm-pal-ebm-from-scrumorg)
 
 ## Articles
 
 * [Renewing Scrum Alliance Certificates](../scrum_scrumalliance-renewal)
+* [Passing the Scrum.org Professional Agile Leadership I (PAL I) Assessment](../scrum_scrum-org_pal-1)
 
 ## Scrum Master (4)
 
@@ -92,3 +94,11 @@
 * [John's Scrum.org profile](https://www.scrum.org/user/16066/)
 
 ![](cert_scrum_leadership_scrum-org_professional-agile-leadership-1--pal-1_2023-09-23.png)
+
+### Professional Agile Leadership - EBM (PAL-EBM) from Scrum.org
+
+> *PAL-EBM certification is evidence that you have demonstrated a fundamental understanding of the EBM framework and  how to guide teams toward continuously improving customer outcomes, organizational capabilities and business results. You can help people and teams to set clear goals and measures - [Scrum.org](https://www.scrum.org/assessments/scaled-professional-scrum-certification)*
+
+* [John's Scrum.org profile](https://www.scrum.org/user/16066/)
+
+![](cert_scrum_leadership_scrum-org_pal-evidence-based-management--pal-ebm_2023-09-24.png)
