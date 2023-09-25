@@ -20,7 +20,6 @@
 ## Articles
 
 * [Renewing Scrum Alliance Certificates](../scrum_scrumalliance-renewal)
-* [Passing the Scrum.org Professional Agile Leadership I (PAL I) Assessment](../scrum_scrum-org_pal-1)
 
 ## Scrum Master (4)
 
