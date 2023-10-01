@@ -5,9 +5,10 @@
 	1. [Professional Scrum Master III (PSM III) from Scrum.org](#professional-scrum-master-iii-psm-iii-from-scrumorg)
 	1. [Professional Scrum Master II (PSM II) from Scrum.org](#professional-scrum-master-ii-psm-ii-from-scrumorg)
 	1. [Professional Scrum Master I (PSM I) from Scrum.org](#professional-scrum-master-i-psm-i-from-scrumorg)
-1. [Product Owner (2)](#product-owner-2)
+1. [Product Owner (3)](#product-owner-2)
 	1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
 	1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
+	1. [Certified DevOps Product Owner™ (DevOps-PO™) from DevOps Certification Academy](#certified-devops-product-ownertm-devops-potm-from-devops-certification-academy)
 1. [UX (1)](#ux-1)
     1. [Certified Professional In Design Thinking (CPDT) from Scrum Institute](#certified-professional-in-design-thinking-cpdt-from-scrum-institute)
 1. [Scaled Scrum (1)](#scaled-scrum-1)
@@ -59,7 +60,7 @@
 
 ![](cert_scrum_scrum-master_scrum-org_professional-scrum-master-i--psm-i_2012-12-14.png)
 
-## Product Owner (2)
+## Product Owner (3)
 
 ### Certified Scrum Product Owner (CSPO) from Scrum Alliance
 
@@ -76,6 +77,12 @@
 * [John's Scrum.org profile](https://www.scrum.org/user/16066/)
 
 ![](cert_scrum_product-owner_scrum-org_professional-scrum-product-owner-i--pspo-i_2023-09-14.png)
+
+### Certified DevOps Product Owner™ (DevOps-PO™) from DevOps Certification Academy
+
+* [John's DevOps Certification Academy online badge](https://www.devops-certification.org/badges/36722377107944)
+
+<img src="../cert_devops_po_devops-cert-org_devops-po_2023-10-01_36722377107944.png" style="border:1px solid #000000" />
 
 ## UX (1)
 
