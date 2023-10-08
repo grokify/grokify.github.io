@@ -8,6 +8,8 @@
 1. [Product Owner (2)](#product-owner-2)
 	1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
 	1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
+1. [Developer (1)](#developer-1)
+    1. [Professional Scrum Developer (PSD) from Scrum.org](#professional-scrum-developer-psd-from-scrumorg)
 1. [UX (1)](#ux-1)
     1. [Certified Professional In Design Thinking (CPDT) from Scrum Institute](#certified-professional-in-design-thinking-cpdt-from-scrum-institute)
 1. [Scaled Scrum (1)](#scaled-scrum-1)
@@ -76,6 +78,17 @@
 * [John's Scrum.org profile](https://www.scrum.org/user/16066/)
 
 ![](cert_scrum_product-owner_scrum-org_professional-scrum-product-owner-i--pspo-i_2023-09-14.png)
+
+## Developer (1)
+
+### Professional Scrum Developer (PSD) from Scrum.org
+
+> *The Professional Scrum Developer™ (PSD) certification validates your knowledge of how to deliver quality software using the Scrum framework while working in Scrum Teams including the application of modern Agile and DevOps practices. Earning PSD proves that you have demonstrated an understanding of the fundamentals of applying the Scrum framework as it applies to software development. - [Scrum.org](https://www.scrum.org/assessments/professional-scrum-developer-certification)*
+
+
+* [John's Scrum.org profile](https://www.scrum.org/user/16066/)
+
+![](cert_scrum_developer_scrum-org_professional-scrum-developer-i--psd-i_2023-10-07.png)
 
 ## UX (1)
 
