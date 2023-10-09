@@ -26,6 +26,7 @@
 
 ## Resource Links
 
+1. [Design Thinking Resource Links](../design-thinking_resource-links)
 1. [OKR Resource Links](../okr_resource-links)
 1. [Scrum Resource Links](../scrum_resource-links)
 
