@@ -40,7 +40,6 @@ While volunteer Scrum work was the most SEU-rich option, it proved to be scarce 
 
 Throughout the renewal process, I delved into numerous articles and watched several videos. These resources expanded my understanding and appreciation of Scrum and Agile methodologies. Some of the articles were so informative that I saved them for future reference. Here are a few noteworthy articles:
 
-
 1. [Get in FRONT of the Daily Scrum](https://resources.scrumalliance.org/Article/daily-scrum) by [Bonsy Yelsangi](https://www.scrumalliance.org/community/profile/byelsangi)
 1. [7 Traits of a Good Facilitator](https://resources.scrumalliance.org/Article/7-traits-good-facilitator) by [Scrum Alliance](https://www.scrumalliance.org/about-us)
 1. [The Differences Between Project Managers and Scrum Masters](https://resources.scrumalliance.org/Article/difference-project-managers-scrum-masters) by [Natalie Barnes](https://www.scrumalliance.org/community/profile/nbarnes2)
