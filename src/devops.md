@@ -1,6 +1,6 @@
 # John's DevOps Certificates
 
-* [Resource Links](../devops-resource-links)
+* [Resource Links](../devops_resource-links)
 
 ## Certified DevOps Generalist™ (DevOps-GEN™) from DevOps Certification Academy
 
