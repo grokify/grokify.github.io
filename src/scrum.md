@@ -22,6 +22,7 @@
 ## Articles
 
 * [Renewing Scrum Alliance Certificates](../scrum_scrumalliance-renewal)
+* [OKR Resource Links](../okr_resource-links)
 
 ## Scrum Master (4)
 
