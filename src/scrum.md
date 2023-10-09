@@ -21,7 +21,8 @@
 
 ## Articles
 
-* [Renewing Scrum Alliance Certificates](../scrum_scrumalliance-renewal)
+1. [Renewing Scrum Alliance Certificates](../scrum_scrumalliance-renewal)
+1. [How to Pass Scrum.org Assessments](../scrum_how-to-pass-scrum-org-assessments)
 
 ## Resource Links
 
