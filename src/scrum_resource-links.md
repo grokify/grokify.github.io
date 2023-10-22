@@ -30,3 +30,8 @@
     1. [Why Does Scrum Make Programmers HATE Coding?](https://www.linkedin.com/pulse/why-does-scrum-make-programmers-hate-coding-jayme-edwards/)
     1. [Does scrum ruin great engineers or are you doing it wrong?](https://stackoverflow.blog/2020/06/29/does-scrum-ruin-great-engineers-or-are-you-doing-it-wrong/)
     1. [I hate SCRUM, is it only me or other programmers as well?](https://www.reddit.com/r/Frontend/comments/vs3w1z/i_hate_scrum_is_it_only_me_or_other_programmers/)
+1. Free Training and Practice Exams
+    1. [The Scrum Master](https://www.thescrummaster.co.uk/scrum-org-practice-assessments/)
+    1. [Mikhail Lapshin](https://mlapshin.com/index.php/scrum-quizzes/)
+    1. [Volkerdon](https://www.volkerdon.com/)
+    1. [Agile Academy](https://www.agile-academy.com/en/)

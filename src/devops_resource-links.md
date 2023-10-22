@@ -21,6 +21,7 @@
     1. [DevOps Handbook Series Part 3: Practice Continuous Integration](https://medium.com/@stefanthorpe/devops-handbook-series-part-3-practice-continuous-integration-82ed1647c332)
 1. DevOps Teams
     1. [DevOps Team Structure and Best Practice](https://www.romexsoft.com/blog/devops-team-structure-best-practice/)
+    1. [Common roles in a DevOps Team](https://www.clickittech.com/resource/slides/devops/Roles-in-a-DevOps-Team.pdf)
 	1. [What makes a good code review in DevOps? Well-run code reviews balance the freedom to innovate rapidly with code quality and security.](https://opensource.com/article/19/7/code-reviews-devops)
 	1. [How to Run a Post-Mortem Meeting](https://www.smartsheet.com/content/post-mortem-meetings)
     1. [DevOps Team: Roles and Responsibilities [2023]](https://www.clickittech.com/devops/devops-team/)

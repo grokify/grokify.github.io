@@ -20,7 +20,7 @@
     1. [Importance of visualization in design thinking](https://sidlaurea.com/2015/10/02/importance-of-visualization-in-design-thinking/)
     1. [Importance of visualisation in design thinking](https://www.linkedin.com/pulse/importance-visualisation-design-thinking-rizan-rizvi/)
 1. In Education
-    1 [Know About Design Thinking in Education](https://mitidinnovation.com/recreation/know-about-design-thinking-in-education/)
+    1. [Know About Design Thinking in Education](https://mitidinnovation.com/recreation/know-about-design-thinking-in-education/)
     1. [Design Thinking Approaches in Education and Their Challenges: A Systematic Literature Review](https://www.scirp.org/journal/paperinformation.aspx?paperid=118734)
     1. [Real-Life Examples of Design Thinking in the Classroom](https://www.gettingsmart.com/2017/11/03/real-life-examples-of-design-thinking-in-the-clasroom/)
 1. Flaws
