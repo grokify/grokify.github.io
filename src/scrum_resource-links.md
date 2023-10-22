@@ -35,3 +35,5 @@
     1. [Mikhail Lapshin](https://mlapshin.com/index.php/scrum-quizzes/)
     1. [Volkerdon](https://www.volkerdon.com/)
     1. [Agile Academy](https://www.agile-academy.com/en/)
+1. Certification Info
+    1. [Scrum.org Certification Counts](https://www.scrum.org/professional-scrum-certifications/count)
