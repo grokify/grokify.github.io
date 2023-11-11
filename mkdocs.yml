@@ -7,8 +7,8 @@ markdown_extensions:
 nav:
 - 'Home': index.md
 - 'Topics':
-    - 'DevOps (3)': 'devops.md'
+    - 'DevOps (5)': 'devops.md'
     - 'Machine Learning (1)': 'machine-learning.md'
     - 'Product (1)': 'product.md'
     - 'Programming (8)': 'programming.md'
-    - 'Scrum (12)': 'scrum.md'
+    - 'Scrum (16)': 'scrum.md'

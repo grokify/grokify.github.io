@@ -14,6 +14,10 @@ Scrum.org provides well-regarded Scrum certifications due to the relatively diff
 | PAL I | $200 | PSFS | $200 |
 | PAL-EBM | $200 | Total | $3,300 |
 
+## Reading
+
+Scrum.org was started by Ken Schwaber, a co-founder of Scrum and co-author of the [Scrum Guide](https://scrumguides.org/). Reading the relevant topics from Scrum.org and ScrumGuides.org can provide ample background knowledge required to pass the assessments.
+
 ## Free Assessments
 
 Before paying for an taking an exam, it can be useful to take free assessments.
