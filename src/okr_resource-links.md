@@ -1,4 +1,4 @@
-# OKR - Resource Links
+# OKR Reading List
 
 1. Overview
     1. [This simple method is used by Bill Gates, Larry Page and even Bono to tackle their biggest goals](https://www.cnbc.com/2018/08/14/this-goal-setting-method-is-used-by-bill-gates-larry-page-and-bono.html)

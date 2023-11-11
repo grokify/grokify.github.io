@@ -1,18 +1,38 @@
-# Scrum - Resource Links
+# Scrum Reading List
 
 1. Overview
+    1. [Manifesto for Agile Software Development](https://agilemanifesto.org/)
     1. [What is Scrum?](https://www.scrum.org/resources/what-scrum-module)
-1. Roadmap
+1. Roles
+    1. [Scrum Roles – The Scrum Team](https://www.scrum-institute.org/Scrum_Roles_The_Scrum_Team.php)
+    1. [What Is The Role Of The Scrum Master? This Might Surprise You!](https://www.scrum-institute.org/the-scrum-master-role-scrum-framework.php)
+    1. [What Is The Role Of The Scrum Team? This Might Surprise You!](https://www.scrum-institute.org/scrum-roles-the-scrum-team-scrum-framework.php)
+1. Artifacts
+    1. [Agile scrum artifacts](https://www.atlassian.com/agile/scrum/artifacts)
+    1. [How to create the best Scrum documents possible](https://monday.com/blog/monday-workdocs/scrum-documents)
     1. [How Much Detail Should Be In My Product Roadmap?](https://resources.scrumalliance.org/Article/product-roadmap)
+    1. [How do burndown charts work and who facilitates them?](https://www.growingscrummasters.com/deploy-improve-scrum/how-do-burndown-charts-work-and-who-facilitates-them/)
+1. Ceremonies
+    1. [An agile guide to scrum meetings](https://www.atlassian.com/agile/scrum/ceremonies)
 1. Inspect & Adapt
     1. [Inspect & Adapt – Digging into Our Foundations of Agility](https://www.infoq.com/articles/inspect-adapt-foundations-agility/)
     1. [What Is Inspect And Adapt In Scrum Framework? This Might Surprise You!](https://www.scrum-institute.org/inspect-and-adapt-scrum-framework.php)
+1. Backlog and User Stories
+    1. [The Scrum Product Backlog](https://www.scrum-institute.org/The_Scrum_Product_Backlog.php)
+    1. [The Anatomy of a User Story](https://resources.scrumalliance.org/Article/anatomy-user-story) by [Jim Schiel](https://www.scrumalliance.org/community/profile/jschiel)
+1. Sprint Planning Meeting
+    1. [Sprint Planning Meeting - The WHAT-Meeting and The HOW-Meeting](https://www.scrum-institute.org/Sprint_Planning_Meeting.php)
+    1. [Scrum Effort Estimations – Planning Poker](https://www.scrum-institute.org/Effort_Estimations_Planning_Poker.php)
 1. Daily Scrum
     1. [Get in FRONT of the Daily Scrum](https://resources.scrumalliance.org/Article/daily-scrum) by [Bonsy Yelsangi](https://www.scrumalliance.org/community/profile/byelsangi)
-1. User Story
-    1. [The Anatomy of a User Story](https://resources.scrumalliance.org/Article/anatomy-user-story) by [Jim Schiel](https://www.scrumalliance.org/community/profile/jschiel)
 1. Sprint Review
     1. [Sample Sprint Review Agenda & Tips from a Coach](https://resources.scrumalliance.org/Article/sample-sprint-review-agenda-tips-coach) by [Joel Bancroft-Connors](https://www.scrumalliance.org/community/profile/jbancroftc)
+    1. [What Is A Sprint Review Meeting? This Might Surprise You!](https://www.scrum-institute.org/sprint-review-meeting-the-scrum-framework.php)
+1. Sprint Retrospective
+    1. [Sprint Retrospective Meeting](https://www.scrum-institute.org/Sprint_Retrospective_Meeting.php)
+    1. [What Is A Sprint Retrospective Meeting? This Might Surprise You!](https://www.scrum-institute.org/sprint-retrospective-meeting-the-scrum-framework.php)
+1. Release Planning
+    1. [Scrum Release Planning](https://www.scrum-institute.org/Release_Planning.php)
 1. Scrum Master and Facilitation
     1. [The Differences Between Project Managers and Scrum Masters](https://resources.scrumalliance.org/Article/difference-project-managers-scrum-masters) by [Natalie Barnes](https://www.scrumalliance.org/community/profile/nbarnes2)
     1. [Great Scrum Masters Demonstrate 5 Key Values](https://resources.scrumalliance.org/Article/great-scrum-masters-demonstrate-5-key-values)
