@@ -2,87 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://grokify.github.io/grokify-certificates/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/design-thinking_resource-links/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/devops-resource-links_notes/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/devops/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/devops_resource-links/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/machine-learning/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/okr_resource-links/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/grokify-certificates/prod_rr/</loc>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/product/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/programming/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/scrum-design-thinking-notes/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/scrum/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/scrum_certification-paths/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/scrum_how-to-pass-scrum-org-assessments/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/scrum_notes_facilitation/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/grokify-certificates/scrum_organizations/</loc>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/scrum_resource-links/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/scrum_scrum-org_pal-1/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/grokify-certificates/scrum_scrumalliance-renewal/</loc>
-         <lastmod>2023-10-22</lastmod>
+         <lastmod>2023-11-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
