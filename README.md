@@ -4,7 +4,7 @@ This is a collection of various information, including awards and certs that hav
 
 The online site is at:
 
-[https://grokify.github.io//](https://grokify.github.io/)
+[https://grokify.github.io/](https://grokify.github.io/)
 
 ## Run Locally
 
