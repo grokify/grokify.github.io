@@ -1,14 +1,16 @@
-site_name: John's Certificates
-site_url: https://grokify.github.io/grokify-certificates
+site_name: John Wang's Site
+site_url: https://grokify.github.io
 docs_dir: src
 theme: readthedocs
 markdown_extensions:
     - attr_list
 nav:
 - 'Home': index.md
-- 'Topics':
-    - 'DevOps (5)': 'devops.md'
-    - 'Machine Learning (1)': 'machine-learning.md'
-    - 'Product (1)': 'product.md'
-    - 'Programming (8)': 'programming.md'
-    - 'Scrum (16)': 'scrum.md'
+- 'Awards':
+    - 'APIs (7)': 'awards/index.md'
+- 'Certificates':
+    - 'DevOps (5)': 'certificates/devops.md'
+    - 'Machine Learning (1)': 'certificates/machine-learning.md'
+    - 'Product (2)': 'certificates/product.md'
+    - 'Programming (8)': 'certificates/programming.md'
+    - 'Scrum (16)': 'certificates/scrum.md'
