@@ -1,4 +1,4 @@
-# Scrum Reading List
+# John's Scrum Reading List
 
 1. Overview
     1. [Manifesto for Agile Software Development](https://agilemanifesto.org/)

@@ -1,4 +1,4 @@
-# DevOps Reading List
+# John's DevOps Reading List
 
 1. Overview
     1. [A Brief History of Lean, Agile, and DevOps](https://www.3pillarglobal.com/insights/lean-agile-and-devops-a-focus-on-delivering-value/)

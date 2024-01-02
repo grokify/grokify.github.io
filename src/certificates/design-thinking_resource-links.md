@@ -1,4 +1,4 @@
-# Design Thinking Reading List
+# John's Design Thinking Reading List
 
 1. Overview
     1. [What is Design Thinking?](https://www.interaction-design.org/literature/topics/design-thinking)
