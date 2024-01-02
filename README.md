@@ -1,10 +1,10 @@
-# Grokify Certificates
+# Grokify's GitHub Pages site.
 
-This is a collection of various certs that have been obtained. There is a priority for certs with PDF files / images, however, others may be added mentioned as well.
+This is a collection of various information, including awards and certs that have been obtained. There is a priority for certs with PDF files / images, however, others may be added mentioned as well.
 
 The online site is at:
 
-[https://grokify.github.io/grokify-certificates/](https://grokify.github.io/grokify-certificates/)
+[https://grokify.github.io//](https://grokify.github.io//)
 
 ## Run Locally
 
