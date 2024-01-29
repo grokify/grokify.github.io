@@ -14,4 +14,3 @@
 ### Product-Led Fundamentals from ProductLed
 
 <img src="../cert_product_plg_productled_product-led-growth-fundamentals_2022-10-08.png" style="border:1px solid #000000" />
-

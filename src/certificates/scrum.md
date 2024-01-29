@@ -13,6 +13,8 @@
 1. [Developer (2)](#developer-2)
     1. [Professional Scrum Developer (PSD) from Scrum.org](#professional-scrum-developer-psd-from-scrumorg)
     1. [Certified Professional In Design Thinking (CPDT) from Scrum Institute](#certified-professional-in-design-thinking-cpdt-from-scrum-institute)
+1. [Kanban (1)](#kanban-1)
+    1. [Certified Kanban Expert from Scrum Institute](#certified-kanban-expert-from-scrum-institute)
 1. [Scaled Scrum (2)](#scaled-scrum-2)
 	1. [Scaled Professional Scrum (SPS) from Scrum.org](#scaled-professional-scrum-sps-from-scrumorg)
 	1. [Scaled Scrum Expert (SSEAC) from Scrum Institute](#scaled-scrum-expert-sseac-from-scrum-institute)
@@ -117,6 +119,14 @@
 * [John's Scrum Institute online badge](https://www.scrum-institute.org/badges/34525810407940)
 
 <img src="../cert_scrum_ux_scrum-institute_certified-professional-in-design-thinking--cpdt_2023-09-24_cert-34525810407940.png" style="border:1px solid #000000" />
+
+## Kanban (1)
+
+### Certified Kanban Expert from Scrum Institute
+
+* [John's Scrum Institute online badge](https://www.scrum-institute.org/badges/13089873244985)
+
+<img src="../cert_kanban_scrum-institute_certified-kanban-expert_2023-11-18_cert-13089873244985.png" style="border:1px solid #000000" />
 
 ## Scaled Scrum (2)
 
