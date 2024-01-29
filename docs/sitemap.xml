@@ -2,117 +2,152 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://grokify.github.io/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/articles/databricks-links/</loc>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/awards/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/certificates/communications/</loc>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/design-thinking_resource-links/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/devops-resource-links_notes/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/devops/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/devops_resource-links/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/kanban_resource-links/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/machine-learning/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/certificates/machine-learning_resource-links/</loc>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/certificates/marketing/</loc>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/okr_resource-links/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/prod_rr/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/product/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/product_resource-links/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/programming/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/certificates/rest-api/</loc>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/scrum-design-thinking-notes/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/scrum/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/scrum_certification-paths/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/scrum_how-to-pass-scrum-org-assessments/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/scrum_notes_facilitation/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/scrum_organizations/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/scrum_resource-links/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/scrum_scrum-org_pal-1/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://grokify.github.io/certificates/scrum_scrumalliance-renewal/</loc>
-         <lastmod>2024-01-02</lastmod>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/certificates/security/</loc>
+         <lastmod>2024-01-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/certificates/strategy/</loc>
+         <lastmod>2024-01-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
