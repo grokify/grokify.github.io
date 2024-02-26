@@ -8,7 +8,7 @@
     <title>John's Certificates - John Wang's Site</title>
     <link rel="stylesheet" href="../css/theme.css" />
     <link rel="stylesheet" href="../css/theme_extra.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
@@ -17,12 +17,11 @@
         var mkdocs_page_url = "/certificates/";
       </script>
     
-    <script src="../js/jquery-3.6.0.min.js" defer></script>
     <!--[if lt IE 9]>
       <script src="../js/html5shiv.min.js"></script>
     <![endif]-->
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
-      <script>hljs.initHighlightingOnLoad();</script> 
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
 </head>
 
 <body class="wy-body-for-nav" role="document">
@@ -34,7 +33,7 @@
           <a href=".." class="icon icon-home"> John Wang's Site
         </a><div role="search">
   <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
-      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
   </form>
 </div>
       </div>
@@ -44,32 +43,47 @@
                 <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
                 </li>
               </ul>
+              <p class="caption"><span class="caption-text">Innovation</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../patents/">Patents (3)</a>
+                  </li>
+              </ul>
               <p class="caption"><span class="caption-text">Awards</span></p>
               <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="../awards/">APIs (7)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../awards/">API (7)</a>
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">Certificates</span></p>
               <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="api/">API (3)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="artificial-intelligence/">Artificial Intelligence (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="board-of-directors/">Board of Directors (4)</a>
+                  </li>
                   <li class="toctree-l1"><a class="reference internal" href="communications/">Communications (2)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="design-thinking/">Design Thinking (2)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="devops/">DevOps (5)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="machine-learning/">Machine Learning (6)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="machine-learning/">Machine Learning (8)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="management-consulting/">Management Consulting (7)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="marketing/">Marketing (1)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="product/">Product (2)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="nonprofit/">Nonprofit (3)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="programming/">Programming (8)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="product-management/">Product Management (7)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="rest-api/">REST API (2)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="programming/">Programming (9)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="scrum/">Scrum (17)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="security/">Security (2)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="security/">Security (5)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="strategy/">Strategy (6)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="strategy/">Strategy (2)</a>
                   </li>
               </ul>
       </div>
@@ -85,13 +99,13 @@
       <div class="wy-nav-content">
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
-    <li><a href=".." class="icon icon-home" alt="Docs"></a> &raquo;</li><li>John's Certificates</li>
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+      <li class="breadcrumb-item active">John's Certificates</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
   <hr/>
 </div>
-
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
@@ -130,14 +144,15 @@
     
   </span>
 </div>
-    <script>var base_url = '..';</script>
-    <script src="../js/theme_extra.js" defer></script>
-    <script src="../js/theme.js" defer></script>
-      <script src="../search/main.js" defer></script>
-    <script defer>
-        window.onload = function () {
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+      <script src="../search/main.js"></script>
+    <script>
+        jQuery(function () {
             SphinxRtdTheme.Navigation.enable(true);
-        };
+        });
     </script>
 
 </body>
