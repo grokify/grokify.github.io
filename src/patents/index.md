@@ -2,7 +2,7 @@
 
 ## Methods and systems for associating a team with a meeting
 
-Link: https://patents.google.com/patent/US20220207488A1/en
+* Link: [US20220207488A1](https://patents.google.com/patent/US20220207488A1/en)
 
 ### Abstract
 
@@ -10,7 +10,7 @@ A method for associating a team with a meeting for prospective meeting includes 
 
 ## Collaborative communications environment and automatic account creation thereof
 
-Link: https://patents.google.com/patent/US10805101B1/en
+* Link: [US10805101B1](https://patents.google.com/patent/US10805101B1/en)
 
 ### Abstract
 
@@ -18,7 +18,7 @@ A method includes receiving a signal associated with an electronic meeting invit
 
 ## Method and apparatus for cryptographic key storage wherein key servers are authenticated by possession and secure distribution of stored keys
 
-* Link: https://patents.google.com/patent/US7711122B2/en
+* Link: [US7711122B2](https://patents.google.com/patent/US7711122B2/en)
 
 ### Abstract
 
