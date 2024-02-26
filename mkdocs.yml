@@ -6,6 +6,8 @@ markdown_extensions:
     - attr_list
 nav:
 - 'Home': index.md
+- 'Innovation':
+    - 'Patents (3)': 'patents/index.md'
 - 'Awards':
     - 'APIs (7)': 'awards/index.md'
 - 'Certificates':
