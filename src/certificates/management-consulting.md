@@ -1,6 +1,6 @@
 # John's Management Consulting Certificates
 1. [Specialization](#specialization-1)
-    1. [Management Consulting Specialization (5 Classes) from Emory University by John Kim](#management-consulting-specialization-5-classes-from-emory-university-by-john-kim)
+    1. [Management Consulting Specialization (5 Courses) from Emory University by John Kim](#management-consulting-specialization-5-courses-from-emory-university-by-john-kim)
 1. [Fundamentals](#fundamentals-2)
     1. [Introduction to Management Consulting from Emory University by John Kim](#introduction-to-management-consulting-from-emory-university-by-john-kim)
     1. [Start Your Lifelong Learning from Accenture](#start-your-lifelong-learning-from-accenture)
@@ -12,10 +12,10 @@
 1. [Presentations](#presentations-1)
     1. [Consulting Presentations and Storytelling from Emory University by John Kim](#consulting-presentations-and-storytelling-from-emory-university-by-john-kim)
 ## Specialization (1)
-### Management Consulting Specialization (5 Classes) from Emory University by John Kim
+### Management Consulting Specialization (5 Courses) from Emory University by John Kim
 * [John's Emory University online credential](https://coursera.org/verify/specialization/ZM5E4DBYR7QW)
 
-<img src="../cert_management-consulting_emory_specialization_2024-01-21_cert-ZM5E4DBYR7QW.png" alt="John's Management Consulting Specialization (5 Classes) from Emory University by John Kim" style="border:1px solid #000000" />
+<img src="../cert_management-consulting_emory_specialization_2024-01-21_cert-ZM5E4DBYR7QW.png" alt="John's Management Consulting Specialization (5 Courses) from Emory University by John Kim" style="border:1px solid #000000" />
 
 ## Fundamentals (2)
 ### Introduction to Management Consulting from Emory University by John Kim

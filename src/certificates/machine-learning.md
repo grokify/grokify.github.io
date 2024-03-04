@@ -1,4 +1,6 @@
 # John's Machine Learning Certificates
+1. [Fundamentals](#fundamentals-1)
+    1. [Jupyter Notebok from Great Learning Academy by Anirudh Rao](#jupyter-notebok-from-great-learning-academy-by-anirudh-rao)
 1. [Product Management](#product-management-1)
     1. [Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](#machine-learning-foundations-for-product-managers-from-duke-university-by-jon-reifschneider)
 1. [Generative AI](#generative-ai-2)
@@ -12,9 +14,15 @@
     1. [Databricks Accredited Lakehouse Fundamentals from Databricks](#databricks-accredited-lakehouse-fundamentals-from-databricks)
 1. [Programming](#programming-1)
     1. [Machine Learning from Stanford by Andrew Ng](#machine-learning-from-stanford-by-andrew-ng)
+## Fundamentals (1)
+### Jupyter Notebok from Great Learning Academy by Anirudh Rao
+* [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/WRHCURXB)
+
+<img src="../cert_machine-learning_jupyter-notebook_greatlearning_cert-PPFKNCCJ_2024-02-28.jpg" alt="John's Jupyter Notebok from Great Learning Academy by Anirudh Rao" style="border:1px solid #000000" />
+
 ## Product Management (1)
 ### Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider
-* [John's Duke University online credential](https://coursera.org/verify/specialization/NCRF8YSUYLSB)
+* [John's Duke University online credential](https://coursera.org/verify/NCRF8YSUYLSB)
 
 ![John's Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](cert_machine-learning_duke_machine-learning-foundations-for-product-managers_2024_01-27_cert-NCRF8YSUYLSB.png)
 

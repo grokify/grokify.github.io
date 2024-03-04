@@ -19,6 +19,17 @@
 1. Visualization
     1. [Importance of visualization in design thinking](https://sidlaurea.com/2015/10/02/importance-of-visualization-in-design-thinking/)
     1. [Importance of visualisation in design thinking](https://www.linkedin.com/pulse/importance-visualisation-design-thinking-rizan-rizvi/)
+1. Tools: AIDAOR Storyboarding Framework
+    1. [Animating User Acquistion With Storyboards In 6 Steps](https://www.storyboardthat.com/articles/software-development/animating-user-acquistion-with-storyboards)
+    1. [AIDAOR Framework](https://www.storyboardthat.com/storyboards/aaron-sherman/aidor-framework)
+    1. [AIDAOR](https://www.acronymat.com/2023/02/11/aidaor/)
+1. Tools: Business Model Canvas and Business Case Canvas
+    1. [Business Model Canvas and Business Case Canvas: An Example](https://web.stanford.edu/group/instr_design/cgi-bin/LEAD_TIP/dt_to_go/BMC/index.html)
+    1. [The Business Model Canvas](https://www.interaction-design.org/literature/topics/business-model-canvas)
+    1. [Business Model Design and Design Thinking: Use Business Model Canvas to Make Better Designs](https://zerongyang.medium.com/business-model-design-and-design-thinking-use-business-model-canvas-to-make-better-designs-a1b31dbc24e2)
+1. Tools:
+    1. [Solving The Right Problem (UVA Ilab)](https://www.scribd.com/document/351309710/solving-the-right-problem-uva-ilab)
+    1. [Meet Enable Quiz, our startup company](https://www.futurelearn.com/info/courses/digital-product-management/0/steps/69967)
 1. In Education
     1. [Know About Design Thinking in Education](https://mitidinnovation.com/recreation/know-about-design-thinking-in-education/)
     1. [Design Thinking Approaches in Education and Their Challenges: A Systematic Literature Review](https://www.scirp.org/journal/paperinformation.aspx?paperid=118734)

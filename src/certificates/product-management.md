@@ -1,17 +1,30 @@
 # John's Product Management Certificates
+1. [Product-Led Growth (PLG)](#product-led-growth-plg-1)
+    1. [Product-Led Fundamentals from ProductLed](#product-led-fundamentals-from-productled)
+1. [Frameworks](#frameworks-1)
+    1. [Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](#customer-centric-it-strategy-from-university-of-virginia-darden-school-by-alex-cowan)
 1. [Machine Learning](#machine-learning-2)
     1. [Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](#machine-learning-foundations-for-product-managers-from-duke-university-by-jon-reifschneider)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
-1. [Product-Led Growth (PLG)](#product-led-growth-plg-1)
-    1. [Product-Led Fundamentals from ProductLed](#product-led-fundamentals-from-productled)
 1. [Product Owner](#product-owner-4)
     1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
     1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
     1. [Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute](#scrum-product-owner-accredited-certification-spoac-from-scrum-institute)
     1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devops-po-from-devops-academy)
+## Product-Led Growth (PLG) (1)
+### Product-Led Fundamentals from ProductLed
+
+<img src="../cert_product_plg_productled_product-led-growth-fundamentals_2022-10-08.png" alt="John's Product-Led Fundamentals from ProductLed" style="border:1px solid #000000" />
+
+## Frameworks (1)
+### Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan
+* [John's University of Virginia, Darden School online credential](https://coursera.org/verify/JU7THK93NFN3)
+
+![John's Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](cert_design-thinking_customer-centric-it_uvadarden-alex-cowan_cert-JU7THK93NFN3_2024-02-27.png)
+
 ## Machine Learning (2)
 ### Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider
-* [John's Duke University online credential](https://coursera.org/verify/specialization/NCRF8YSUYLSB)
+* [John's Duke University online credential](https://coursera.org/verify/NCRF8YSUYLSB)
 
 ![John's Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](cert_machine-learning_duke_machine-learning-foundations-for-product-managers_2024_01-27_cert-NCRF8YSUYLSB.png)
 
@@ -20,11 +33,6 @@
 * [John's Pendo online credential](https://www.credly.com/badges/64f1712e-652a-4f49-b392-209f420f5b38)
 
 <img src="../cert_product_ai_pendo_ai-product-management_2024-01-02_avatar.png" alt="John's AI for Product Management from Pendo" style="border:1px solid #000000" />
-
-## Product-Led Growth (PLG) (1)
-### Product-Led Fundamentals from ProductLed
-
-<img src="../cert_product_plg_productled_product-led-growth-fundamentals_2022-10-08.png" alt="John's Product-Led Fundamentals from ProductLed" style="border:1px solid #000000" />
 
 ## Product Owner (4)
 ### Certified Scrum Product Owner (CSPO) from Scrum Alliance
