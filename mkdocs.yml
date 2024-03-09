@@ -11,18 +11,20 @@ nav:
     - Awards:
         - API (7): awards/index.md
     - Certificates:
-        - API (3): certificates/api.md
+        - API (6): certificates/api.md
         - Artificial Intelligence (9): certificates/artificial-intelligence.md
         - Board of Directors (4): certificates/board-of-directors.md
         - Communications (2): certificates/communications.md
         - Design Thinking (4): certificates/design-thinking.md
         - DevOps (6): certificates/devops.md
+        - Leadership (5): certificates/leadership.md
         - Machine Learning (9): certificates/machine-learning.md
+        - Management (11): certificates/management.md
         - Management Consulting (7): certificates/management-consulting.md
         - Marketing (1): certificates/marketing.md
         - Nonprofit (3): certificates/nonprofit.md
         - Product Management (8): certificates/product-management.md
-        - Programming (9): certificates/programming.md
+        - Programming (12): certificates/programming.md
         - Scrum (17): certificates/scrum.md
-        - Security (5): certificates/security.md
+        - Security (9): certificates/security.md
         - Strategy (5): certificates/strategy.md
