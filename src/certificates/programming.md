@@ -5,10 +5,11 @@
     1. [Rest API (Intermediate) from HackerRank](#rest-api-intermediate-from-hackerrank)
 1. [Machine Learning](#machine-learning-1)
     1. [Machine Learning from Stanford by Andrew Ng](#machine-learning-from-stanford-by-andrew-ng)
-1. [Security](#security-3)
+1. [Security](#security-4)
     1. [OWASP Top 10 from Snyk](#owasp-top-10-from-snyk)
     1. [Snyk Top 10 from Snyk](#snyk-top-10-from-snyk)
     1. [Security for Developers from Snyk](#security-for-developers-from-snyk)
+    1. [Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck](#introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck)
 1. [C#](#c-1)
     1. [C# (Basic) from HackerRank](#c-basic-from-hackerrank)
 1. [Go](#go-1)
@@ -38,7 +39,7 @@
 
 <img src="../cert_machine-learning_stanford_machine-learning_2014-09-30_cert-972303~7600383.png" alt="John's Machine Learning from Stanford by Andrew Ng" style="border:1px solid #000000" />
 
-## Security (3)
+## Security (4)
 ### OWASP Top 10 from Snyk
 
 ![John's OWASP Top 10 from Snyk](cert_security_owaasp-top-10_snyk_2024-03-09.png)
@@ -50,6 +51,11 @@
 ### Security for Developers from Snyk
 
 ![John's Security for Developers from Snyk](cert_security_security-for-developers_snyk_2024-03-09.png)
+
+### Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck
+* [John's Pragmatic Web Security online profile](https://courses.pragmaticwebsecurity.com/certificates/ismezbjb1w)
+
+<img src="../cert_security_intro-to-oauth2-and-openid-connect-oidc_pragmaticwebsecurity_cert-ismezbjb1w_2024-03-24.png" alt="John's Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck" style="border:1px solid #000000" />
 
 ## C# (1)
 ### C# (Basic) from HackerRank

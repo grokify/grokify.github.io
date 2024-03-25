@@ -4,7 +4,7 @@
     1. [Corporate Governance from Great Learning Academy by Jeevan Sasidharan](#corporate-governance-from-great-learning-academy-by-jeevan-sasidharan)
 1. [Nonprofit Governance](#nonprofit-governance-2)
     1. [Setting Up a Nonprofit Board from Philanthropy University](#setting-up-a-nonprofit-board-from-philanthropy-university)
-    1. [Nonprofit Board Member Essentials Certificate from NonprofitReady](#nonprofit-board-member-essentials-certificate-from-nonprofitready)
+    1. [Nonprofit Board Member Essentials Certificate from Cornerstone OnDemand Foundation](#nonprofit-board-member-essentials-certificate-from-cornerstone-ondemand-foundation)
 ## Corporate Governance (2)
 ### Corporate Governance Certificate from Alison by Robert Klonoski
 * [John's Alison online credential](https://alison.com/certification/check/2y10z7CJmeCvq72QGFOnjkSWwupOsQsrMN7fAku6TAmzdzM4tFzIi0q2)
@@ -22,7 +22,7 @@
 
 ![John's Setting Up a Nonprofit Board from Philanthropy University](cert_nonprofit_setting-up-a-nonprofit-board_philanthropy-university_cert-SYTRVUMIDC_2024-02-22.png)
 
-### Nonprofit Board Member Essentials Certificate from NonprofitReady
+### Nonprofit Board Member Essentials Certificate from Cornerstone OnDemand Foundation
 
-![John's Nonprofit Board Member Essentials Certificate from NonprofitReady](cert_nonprofit_nonprofit-board-member-essentials_nonprofitready-org_cert_2024-02-09.png)
+![John's Nonprofit Board Member Essentials Certificate from Cornerstone OnDemand Foundation](cert_nonprofit_nonprofit-board-member-essentials_nonprofitready-org_cert_2024-02-09.png)
 

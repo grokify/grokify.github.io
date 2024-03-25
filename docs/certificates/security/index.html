@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/security/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Security (9) - John Wang's Site</title>
+    <title>Security (14) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Security (9)";
+        var mkdocs_page_name = "Security (14)";
         var mkdocs_page_input_path = "certificates/security.md";
         var mkdocs_page_url = "/certificates/security/";
       </script>
@@ -55,13 +55,15 @@
               </ul>
               <p class="caption"><span class="caption-text">Certificates</span></p>
               <ul class="current">
-                  <li class="toctree-l1"><a class="reference internal" href="../api/">API (6)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../api/">API (7)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (9)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../algorithms/">Algorithms (3)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (11)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (4)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../customer-service/">Customer Service (3)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../customer-service/">Customer Service (4)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
@@ -69,31 +71,39 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (5)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../machine-learning/">Machine Learning (9)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../machine-learning/">Machine Learning (12)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (11)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (14)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../management-consulting/">Management Consulting (7)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../marketing/">Marketing (1)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (3)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (7)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (8)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (9)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (12)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (13)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (17)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security (9)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security (14)</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#programming-3">Programming (3)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#programming-4">Programming (4)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#owasp-top-10-from-snyk">OWASP Top 10 from Snyk</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#snyk-top-10-from-snyk">Snyk Top 10 from Snyk</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#security-for-developers-from-snyk">Security for Developers from Snyk</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck">Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#artificial-intelligence-1">Artificial Intelligence (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#ai-security-from-lakera">AI Security from Lakera</a>
     </li>
         </ul>
     </li>
@@ -121,21 +131,29 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#general-data-protection-regulation-gdpr-1">General Data Protection Regulation (GDPR) (1)</a>
-        <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#general-data-protection-regulation-gdpr-from-saviynt">General Data Protection Regulation (GDPR) from Saviynt</a>
-    </li>
-        </ul>
-    </li>
     <li class="toctree-l2"><a class="reference internal" href="#information-technology-1">Information Technology (1)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#corporate-information-security-awareness-from-proofpoint">Corporate Information Security Awareness from Proofpoint</a>
     </li>
         </ul>
     </li>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-4">AWS (4)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#getting-started-with-aws-security-hub-from-simplilearn">Getting Started with AWS Security Hub from Simplilearn</a>
+    </li>
+        </ul>
+    </li>
     </ul>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (5)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../ted-talks/">TED Talks (5)</a>
                   </li>
               </ul>
       </div>
@@ -153,7 +171,7 @@
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
           <li class="breadcrumb-item">Certificates</li>
-      <li class="breadcrumb-item active">Security (9)</li>
+      <li class="breadcrumb-item active">Security (14)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -164,10 +182,15 @@
               
                 <h1 id="johns-security-certificates">John's Security Certificates</h1>
 <ol>
-<li><a href="#programming-3">Programming</a><ol>
+<li><a href="#programming-4">Programming</a><ol>
 <li><a href="#owasp-top-10-from-snyk">OWASP Top 10 from Snyk</a></li>
 <li><a href="#snyk-top-10-from-snyk">Snyk Top 10 from Snyk</a></li>
 <li><a href="#security-for-developers-from-snyk">Security for Developers from Snyk</a></li>
+<li><a href="#introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck">Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck</a></li>
+</ol>
+</li>
+<li><a href="#artificial-intelligence-1">Artificial Intelligence</a><ol>
+<li><a href="#ai-security-from-lakera">AI Security from Lakera</a></li>
 </ol>
 </li>
 <li><a href="#api-1">API</a><ol>
@@ -186,22 +209,36 @@
 <li><a href="#enterprise-protectionprivacy-accredited-engineer-from-proofpoint">Enterprise Protection/Privacy Accredited Engineer from Proofpoint</a></li>
 </ol>
 </li>
-<li><a href="#general-data-protection-regulation-gdpr-1">General Data Protection Regulation (GDPR)</a><ol>
-<li><a href="#general-data-protection-regulation-gdpr-from-saviynt">General Data Protection Regulation (GDPR) from Saviynt</a></li>
-</ol>
-</li>
 <li><a href="#information-technology-1">Information Technology</a><ol>
 <li><a href="#corporate-information-security-awareness-from-proofpoint">Corporate Information Security Awareness from Proofpoint</a></li>
 </ol>
 </li>
+<li><a href="#aws-4">AWS</a><ol>
+<li><a href="#aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</a></li>
+<li><a href="#introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</a></li>
+<li><a href="#introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</a></li>
+<li><a href="#getting-started-with-aws-security-hub-from-simplilearn">Getting Started with AWS Security Hub from Simplilearn</a></li>
 </ol>
-<h2 id="programming-3">Programming (3)</h2>
+</li>
+</ol>
+<h2 id="programming-4">Programming (4)</h2>
 <h3 id="owasp-top-10-from-snyk">OWASP Top 10 from Snyk</h3>
 <p><img alt="John's OWASP Top 10 from Snyk" src="../cert_security_owaasp-top-10_snyk_2024-03-09.png" /></p>
 <h3 id="snyk-top-10-from-snyk">Snyk Top 10 from Snyk</h3>
 <p><img alt="John's Snyk Top 10 from Snyk" src="../cert_security_snyk-top-10_snyk_2024-03-09.png" /></p>
 <h3 id="security-for-developers-from-snyk">Security for Developers from Snyk</h3>
 <p><img alt="John's Security for Developers from Snyk" src="../cert_security_security-for-developers_snyk_2024-03-09.png" /></p>
+<h3 id="introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck">Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck</h3>
+<ul>
+<li><a href="https://courses.pragmaticwebsecurity.com/certificates/ismezbjb1w">John's Pragmatic Web Security online profile</a></li>
+</ul>
+<p><img src="../cert_security_intro-to-oauth2-and-openid-connect-oidc_pragmaticwebsecurity_cert-ismezbjb1w_2024-03-24.png" alt="John's Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck" style="border:1px solid #000000" /></p>
+<h2 id="artificial-intelligence-1">Artificial Intelligence (1)</h2>
+<h3 id="ai-security-from-lakera">AI Security from Lakera</h3>
+<ul>
+<li><a href="https://security.certificates.lakera.ai/credentials/53495805-342d-41b7-b9bf-5923ae00422d">John's Lakera online credential</a></li>
+</ul>
+<p><img src="../cert_ai_ai-security_lakera_cert-53495805-342d-41b7-b9bf-5923ae00422d_2024-03-19.png" alt="John's AI Security from Lakera" style="border:1px solid #000000" /></p>
 <h2 id="api-1">API (1)</h2>
 <h3 id="api-security-architect-from-api-academy">API Security Architect from API Academy</h3>
 <p><img src="../cert_api_api-security-architect_apiacademy_2024-01-31.png" alt="John's API Security Architect from API Academy" style="border:1px solid #000000" /></p>
@@ -217,13 +254,18 @@
 <h2 id="email-protection-1">Email Protection (1)</h2>
 <h3 id="enterprise-protectionprivacy-accredited-engineer-from-proofpoint">Enterprise Protection/Privacy Accredited Engineer from Proofpoint</h3>
 <p><img alt="John's Enterprise Protection/Privacy Accredited Engineer from Proofpoint" src="../cert_infosec_proofpoint_enterprise-protection-privacy-accredited-engineer_2014-05-04.png" /></p>
-<h2 id="general-data-protection-regulation-gdpr-1">General Data Protection Regulation (GDPR) (1)</h2>
-<h3 id="general-data-protection-regulation-gdpr-from-saviynt">General Data Protection Regulation (GDPR) from Saviynt</h3>
-<p><img src="../cert_security_general-data-protection-regulation-gdpr_traliant-saviynt_2024-08-10_v2023.png" alt="John's General Data Protection Regulation (GDPR) from Saviynt" style="border:1px solid #000000" /></p>
-<p><img src="../cert_security_general-data-protection-regulation-gdpr_traliant-saviynt_2024-08-10_v2024.png" alt="John's General Data Protection Regulation (GDPR) from Saviynt" style="border:1px solid #000000" /></p>
 <h2 id="information-technology-1">Information Technology (1)</h2>
 <h3 id="corporate-information-security-awareness-from-proofpoint">Corporate Information Security Awareness from Proofpoint</h3>
 <p><img alt="John's Corporate Information Security Awareness from Proofpoint" src="../cert_infosec_proofpoint_corporate-information-security-awareness_2014-06-12.png" /></p>
+<h2 id="aws-4">AWS (4)</h2>
+<h3 id="aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</h3>
+<p><img alt="John's AWS: Identity and Access Management from Whizlabs" src="../cert_aws_aws-identity-and-access-management_whizlabs_cert-QRD93E7CVUMP_2024-03-20.png" /></p>
+<h3 id="introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</h3>
+<p><img alt="John's Introduction to AWS Identity and Access Management (IAM) from Simplilearn" src="../cert_aws_intro-to-aws-identity-and-access-management-iam_simplilearn_cert-4970506_1710929859_2024-03-20.png" /></p>
+<h3 id="introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</h3>
+<p><img alt="John's Introduction to AWS Trusted Advisor from Simplilearn" src="../cert_aws_intro-to-aws-trusted-advisor_simplilearn_cert-4971787_1710945844_2024-03-20.png" /></p>
+<h3 id="getting-started-with-aws-security-hub-from-simplilearn">Getting Started with AWS Security Hub from Simplilearn</h3>
+<p><img alt="John's Getting Started with AWS Security Hub from Simplilearn" src="../cert_aws_getting-started-with-aws-security-hub_simplilearn_cert-4973168_1711030705_2024-03-21.png" /></p>
               
             </div>
           </div><footer>

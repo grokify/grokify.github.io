@@ -1,6 +1,8 @@
 # John's Customer Service Certificates
 1. [Leadership](#leadership-1)
     1. [Becoming a Customer Service Executive from Alison by Janets](#becoming-a-customer-service-executive-from-alison-by-janets)
+1. [Generative AI](#generative-ai-1)
+    1. [ChatGPT for Customer Support from Great Learning Academy by Shantnu Rana](#chatgpt-for-customer-support-from-great-learning-academy-by-shantnu-rana)
 1. [Mass Notifications](#mass-notifications-2)
     1. [Everbridge Mass Notification Message Sender Certification from Everbridge](#everbridge-mass-notification-message-sender-certification-from-everbridge)
     1. [Everbridge CARES Best Practices for Notifications Certification from Everbridge](#everbridge-cares-best-practices-for-notifications-certification-from-everbridge)
@@ -11,6 +13,12 @@
 ![John's Becoming a Customer Service Executive from Alison by Janets](cert_customer-service_becoming-a-customer-service-executive_alison_cert-5349-37486854_2024-03-11.png)
 
 ![John's Becoming a Customer Service Executive from Alison by Janets](cert_customer-service_becoming-a-customer-service-executive_alison_2024-03-11_transcript_pg1.png)
+
+## Generative AI (1)
+### ChatGPT for Customer Support from Great Learning Academy by Shantnu Rana
+* [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/ACUMRVJG)
+
+<img src="../cert_ai_chatgpt-for-customer-service_greatlearning_2024-03-12.jpg" alt="John's ChatGPT for Customer Support from Great Learning Academy by Shantnu Rana" style="border:1px solid #000000" />
 
 ## Mass Notifications (2)
 ### Everbridge Mass Notification Message Sender Certification from Everbridge
