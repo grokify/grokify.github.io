@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/devops/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>DevOps (6) - John Wang's Site</title>
+    <title>DevOps (9) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "DevOps (6)";
+        var mkdocs_page_name = "DevOps (9)";
         var mkdocs_page_input_path = "certificates/devops.md";
         var mkdocs_page_url = "/certificates/devops/";
       </script>
@@ -55,19 +55,21 @@
               </ul>
               <p class="caption"><span class="caption-text">Certificates</span></p>
               <ul class="current">
-                  <li class="toctree-l1"><a class="reference internal" href="../api/">API (7)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../api/">API (8)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../algorithms/">Algorithms (3)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (11)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (12)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (4)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../customer-service/">Customer Service (4)</a>
                   </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../data-science/">Data Science (2)</a>
+                  </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">DevOps (6)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">DevOps (9)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#resources">Resources</a>
     </li>
@@ -97,9 +99,19 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#security-1">Security (1)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#security-2">Security (2)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#kubernetes-2">Kubernetes (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino">Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon">Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon</a>
     </li>
         </ul>
     </li>
@@ -107,7 +119,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (5)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../machine-learning/">Machine Learning (12)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../machine-learning/">Machine Learning (13)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../management/">Management (14)</a>
                   </li>
@@ -119,15 +131,15 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (9)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (13)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (17)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (17)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security/">Security (14)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security/">Security (21)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (5)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../ted-talks/">TED Talks (5)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../ted-talks/">TED Talks (6)</a>
                   </li>
               </ul>
       </div>
@@ -145,7 +157,7 @@
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
           <li class="breadcrumb-item">Certificates</li>
-      <li class="breadcrumb-item active">DevOps (6)</li>
+      <li class="breadcrumb-item active">DevOps (9)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -173,8 +185,14 @@
 <li><a href="#certified-devops-project-manager-devops-pm-from-devops-academy">Certified DevOps Project Manager (DevOps-PM) from DevOps Academy</a></li>
 </ol>
 </li>
-<li><a href="#security-1">Security</a><ol>
+<li><a href="#security-2">Security</a><ol>
 <li><a href="#certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</a></li>
+<li><a href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a></li>
+</ol>
+</li>
+<li><a href="#kubernetes-2">Kubernetes</a><ol>
+<li><a href="#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino">Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino</a></li>
+<li><a href="#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon">Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon</a></li>
 </ol>
 </li>
 </ol>
@@ -211,12 +229,19 @@
 <li><a href="https://www.devops-certification.org/badges/82770791998598">John's DevOps Academy online credential</a></li>
 </ul>
 <p><img src="../cert_devops_pm_devops-cert-org_devops-project-manager_2023-11-01_cert-82770791998598.png" alt="John's Certified DevOps Project Manager (DevOps-PM) from DevOps Academy" style="border:1px solid #000000" /></p>
-<h2 id="security-1">Security (1)</h2>
+<h2 id="security-2">Security (2)</h2>
 <h3 id="certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</h3>
 <ul>
 <li><a href="https://www.devops-certification.org/badges/22465533642098">John's DevOps Academy online credential</a></li>
 </ul>
 <p><img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" /></p>
+<h3 id="container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</h3>
+<p><img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" /></p>
+<h2 id="kubernetes-2">Kubernetes (2)</h2>
+<h3 id="certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino">Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino</h3>
+<p><img src="../cert_kubernetes_kubernetes-administrator-foundations_pluralsight_2024-03-27.png" alt="John's Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino" style="border:1px solid #000000" /></p>
+<h3 id="packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon">Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon</h3>
+<p><img src="../cert_kubernetes_packaging-applications-with-helm-for-kubernetes_pluralsight_2024-03-30.png" alt="John's Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon" style="border:1px solid #000000" /></p>
               
             </div>
           </div><footer>

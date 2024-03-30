@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/api/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>API (7) - John Wang's Site</title>
+    <title>API (8) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "API (7)";
+        var mkdocs_page_name = "API (8)";
         var mkdocs_page_input_path = "certificates/api.md";
         var mkdocs_page_url = "/certificates/api/";
       </script>
@@ -55,7 +55,7 @@
               </ul>
               <p class="caption"><span class="caption-text">Certificates</span></p>
               <ul class="current">
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">API (7)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">API (8)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#design-1">Design (1)</a>
         <ul>
@@ -63,7 +63,7 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#security-5">Security (5)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#security-4">Security (4)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#api-security-architect-from-api-academy">API Security Architect from API Academy</a>
     </li>
@@ -73,7 +73,13 @@
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#security-for-developers-from-snyk">Security for Developers from Snyk</a>
     </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#oauth-20-and-openid-connect-oidc-2">OAuth 2.0 and OpenID Connect (OIDC) (2)</a>
+        <ul>
     <li class="toctree-l3"><a class="reference internal" href="#introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck">Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt">OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt</a>
     </li>
         </ul>
     </li>
@@ -87,19 +93,21 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../algorithms/">Algorithms (3)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (11)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (12)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (4)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../customer-service/">Customer Service (4)</a>
                   </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../data-science/">Data Science (2)</a>
+                  </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (6)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (9)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (5)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../machine-learning/">Machine Learning (12)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../machine-learning/">Machine Learning (13)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../management/">Management (14)</a>
                   </li>
@@ -111,15 +119,15 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (9)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (13)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (17)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (17)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security/">Security (14)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security/">Security (21)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (5)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../ted-talks/">TED Talks (5)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../ted-talks/">TED Talks (6)</a>
                   </li>
               </ul>
       </div>
@@ -137,7 +145,7 @@
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
           <li class="breadcrumb-item">Certificates</li>
-      <li class="breadcrumb-item active">API (7)</li>
+      <li class="breadcrumb-item active">API (8)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -152,12 +160,16 @@
 <li><a href="#fundamentals-of-restful-api-design-from-apigee">Fundamentals of RESTful API Design from Apigee</a></li>
 </ol>
 </li>
-<li><a href="#security-5">Security</a><ol>
+<li><a href="#security-4">Security</a><ol>
 <li><a href="#api-security-architect-from-api-academy">API Security Architect from API Academy</a></li>
 <li><a href="#owasp-top-10-from-snyk">OWASP Top 10 from Snyk</a></li>
 <li><a href="#snyk-top-10-from-snyk">Snyk Top 10 from Snyk</a></li>
 <li><a href="#security-for-developers-from-snyk">Security for Developers from Snyk</a></li>
+</ol>
+</li>
+<li><a href="#oauth-20-and-openid-connect-oidc-2">OAuth 2.0 and OpenID Connect (OIDC)</a><ol>
 <li><a href="#introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck">Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck</a></li>
+<li><a href="#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt">OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt</a></li>
 </ol>
 </li>
 <li><a href="#programming-1">Programming</a><ol>
@@ -168,7 +180,7 @@
 <h2 id="design-1">Design (1)</h2>
 <h3 id="fundamentals-of-restful-api-design-from-apigee">Fundamentals of RESTful API Design from Apigee</h3>
 <p><img src="../cert_rest_apigee_fundamentals-of-restful-api-design_2015-03-08.png" alt="John's Fundamentals of RESTful API Design from Apigee" style="border:1px solid #000000" /></p>
-<h2 id="security-5">Security (5)</h2>
+<h2 id="security-4">Security (4)</h2>
 <h3 id="api-security-architect-from-api-academy">API Security Architect from API Academy</h3>
 <p><img src="../cert_api_api-security-architect_apiacademy_2024-01-31.png" alt="John's API Security Architect from API Academy" style="border:1px solid #000000" /></p>
 <h3 id="owasp-top-10-from-snyk">OWASP Top 10 from Snyk</h3>
@@ -177,11 +189,14 @@
 <p><img alt="John's Snyk Top 10 from Snyk" src="../cert_security_snyk-top-10_snyk_2024-03-09.png" /></p>
 <h3 id="security-for-developers-from-snyk">Security for Developers from Snyk</h3>
 <p><img alt="John's Security for Developers from Snyk" src="../cert_security_security-for-developers_snyk_2024-03-09.png" /></p>
+<h2 id="oauth-20-and-openid-connect-oidc-2">OAuth 2.0 and OpenID Connect (OIDC) (2)</h2>
 <h3 id="introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck">Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck</h3>
 <ul>
 <li><a href="https://courses.pragmaticwebsecurity.com/certificates/ismezbjb1w">John's Pragmatic Web Security online profile</a></li>
 </ul>
 <p><img src="../cert_security_intro-to-oauth2-and-openid-connect-oidc_pragmaticwebsecurity_cert-ismezbjb1w_2024-03-24.png" alt="John's Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck" style="border:1px solid #000000" /></p>
+<h3 id="oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt">OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt</h3>
+<p><img src="../cert_security_oauth2-and-openid-connect-easy-now_pluralsight_2024-03-27.png" alt="John's OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt" style="border:1px solid #000000" /></p>
 <h2 id="programming-1">Programming (1)</h2>
 <h3 id="rest-api-intermediate-from-hackerrank">Rest API (Intermediate) from HackerRank</h3>
 <ul>
