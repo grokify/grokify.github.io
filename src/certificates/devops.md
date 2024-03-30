@@ -8,8 +8,12 @@
     1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devops-po-from-devops-academy)
 1. [Project Management](#project-management-1)
     1. [Certified DevOps Project Manager (DevOps-PM) from DevOps Academy](#certified-devops-project-manager-devops-pm-from-devops-academy)
-1. [Security](#security-1)
+1. [Security](#security-2)
     1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
+    1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
+1. [Kubernetes](#kubernetes-2)
+    1. [Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino](#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino)
+    1. [Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon](#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon)
 ## Resources
 
 1. [DevOps Reading List](../devops_resource-links)
@@ -42,9 +46,22 @@
 
 <img src="../cert_devops_pm_devops-cert-org_devops-project-manager_2023-11-01_cert-82770791998598.png" alt="John's Certified DevOps Project Manager (DevOps-PM) from DevOps Academy" style="border:1px solid #000000" />
 
-## Security (1)
+## Security (2)
 ### Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy
 * [John's DevOps Academy online credential](https://www.devops-certification.org/badges/22465533642098)
 
 <img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" />
+
+### Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof
+
+<img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" />
+
+## Kubernetes (2)
+### Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino
+
+<img src="../cert_kubernetes_kubernetes-administrator-foundations_pluralsight_2024-03-27.png" alt="John's Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino" style="border:1px solid #000000" />
+
+### Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon
+
+<img src="../cert_kubernetes_packaging-applications-with-helm-for-kubernetes_pluralsight_2024-03-30.png" alt="John's Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon" style="border:1px solid #000000" />
 

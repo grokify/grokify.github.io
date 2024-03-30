@@ -1,7 +1,8 @@
 # John's Machine Learning Certificates
-1. [Fundamentals](#fundamentals-3)
+1. [Fundamentals](#fundamentals-4)
     1. [Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](#machine-learning-foundations-for-product-managers-from-duke-university-by-jon-reifschneider)
     1. [Vector Search and Embeddings from Google Cloud](#vector-search-and-embeddings-from-google-cloud)
+    1. [Intro to Hugging Face from Codecademy](#intro-to-hugging-face-from-codecademy)
     1. [Jupyter Notebook from Great Learning Academy by Anirudh Rao](#jupyter-notebook-from-great-learning-academy-by-anirudh-rao)
 1. [Generative AI](#generative-ai-2)
     1. [Attention Mechanism from Google Cloud](#attention-mechanism-from-google-cloud)
@@ -18,7 +19,7 @@
     1. [Databricks Accredited Lakehouse Fundamentals from Databricks](#databricks-accredited-lakehouse-fundamentals-from-databricks)
 1. [Programming](#programming-1)
     1. [Machine Learning from Stanford by Andrew Ng](#machine-learning-from-stanford-by-andrew-ng)
-## Fundamentals (3)
+## Fundamentals (4)
 ### Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider
 * [John's Duke University online credential](https://coursera.org/verify/NCRF8YSUYLSB)
 
@@ -28,6 +29,10 @@
 * [John's Google Cloud online credential](https://coursera.org/verify/LXLLVCKAXMDX)
 
 ![John's Vector Search and Embeddings from Google Cloud](cert_machine-learning_vector-search-and-embeddings_googlecloud_cert-LXLLVCKAXMDX_2024-03-14.png)
+
+### Intro to Hugging Face from Codecademy
+
+<img src="../cert_machine-learning_intro-to-hugging-face_codecademy_2024-03-26.png" alt="John's Intro to Hugging Face from Codecademy" style="border:1px solid #000000" />
 
 ### Jupyter Notebook from Great Learning Academy by Anirudh Rao
 * [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/PPFKNCCJ)

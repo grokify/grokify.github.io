@@ -3,8 +3,9 @@
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
 1. [Product Management](#product-management-1)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
-1. [Security](#security-1)
+1. [Security](#security-2)
     1. [AI Security from Lakera](#ai-security-from-lakera)
+    1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-ai-generated-attacks-from-codecademy)
 1. [Governance](#governance-1)
     1. [Introduction to Responsible AI from Google Cloud](#introduction-to-responsible-ai-from-google-cloud)
 1. [Generative AI](#generative-ai-7)
@@ -28,11 +29,15 @@
 
 <img src="../cert_product_ai_pendo_ai-product-management_2024-01-02_avatar.png" alt="John's AI for Product Management from Pendo" style="border:1px solid #000000" />
 
-## Security (1)
+## Security (2)
 ### AI Security from Lakera
 * [John's Lakera online credential](https://security.certificates.lakera.ai/credentials/53495805-342d-41b7-b9bf-5923ae00422d)
 
 <img src="../cert_ai_ai-security_lakera_cert-53495805-342d-41b7-b9bf-5923ae00422d_2024-03-19.png" alt="John's AI Security from Lakera" style="border:1px solid #000000" />
+
+### Defending Against AI-Generated Attacks from Codecademy
+
+<img src="../cert_ai_defending-against-ai-generated-attacks_codecademy_2024-03-28.png" alt="John's Defending Against AI-Generated Attacks from Codecademy" style="border:1px solid #000000" />
 
 ## Governance (1)
 ### Introduction to Responsible AI from Google Cloud
