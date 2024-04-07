@@ -14,6 +14,8 @@
 1. [Kubernetes](#kubernetes-2)
     1. [Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino](#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino)
     1. [Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon](#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon)
+1. [AWS](#aws-1)
+    1. [AWS CI/CD Pipeline from Great Learning Academy](#aws-cicd-pipeline-from-great-learning-academy)
 ## Resources
 
 1. [DevOps Reading List](../devops_resource-links)
@@ -64,4 +66,10 @@
 ### Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon
 
 <img src="../cert_kubernetes_packaging-applications-with-helm-for-kubernetes_pluralsight_2024-03-30.png" alt="John's Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon" style="border:1px solid #000000" />
+
+## AWS (1)
+### AWS CI/CD Pipeline from Great Learning Academy
+* [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/ZGRSHOKG)
+
+<img src="../cert_aws_aws-ci-cd-pipeline_greatlearning_cert-ZGRSHOKG_2024-04-07.jpg" alt="John's AWS CI/CD Pipeline from Great Learning Academy" style="border:1px solid #000000" />
 
