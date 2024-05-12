@@ -7,6 +7,7 @@ markdown_extension:
 nav:
     - Home: index.md
     - Innovation:
+        - Publications (1): publications/index.md
         - Patents (3): patents/index.md
     - Awards:
         - API (7): awards/index.md
