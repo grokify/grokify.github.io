@@ -6,6 +6,8 @@
     1. [OWASP Top 10: Broken Access Control from Codecademy](#owasp-top-10-broken-access-control-from-codecademy)
     1. [OWASP Top 10: Identification and Authentication Failures from Codecademy](#owasp-top-10-identification-and-authentication-failures-from-codecademy)
     1. [Learn about CSRF Attacks from Codecademy](#learn-about-csrf-attacks-from-codecademy)
+1. [AppSec](#appsec-1)
+    1. [Application Analysis with Snyk from Pluralsight by Hiren Gadhvi](#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi)
 1. [OAuth 2.0 and OpenID Connect (OIDC)](#oauth-20-and-openid-connect-oidc-2)
     1. [Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck](#introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck)
     1. [OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt](#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt)
@@ -14,13 +16,17 @@
     1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-ai-generated-attacks-from-codecademy)
 1. [API](#api-1)
     1. [API Security Architect from API Academy](#api-security-architect-from-api-academy)
-1. [DevOps](#devops-2)
+1. [DevOps](#devops-3)
     1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
+    1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
     1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
 1. [Mobile](#mobile-1)
     1. [Protect Your Mobile Device from Attack from NonprofitReady](#protect-your-mobile-device-from-attack-from-nonprofitready)
 1. [Email Protection](#email-protection-1)
     1. [Enterprise Protection/Privacy Accredited Engineer from Proofpoint](#enterprise-protectionprivacy-accredited-engineer-from-proofpoint)
+1. [General Data Protection Regulation (GDPR)](#general-data-protection-regulation-gdpr-2)
+    1. [General Data Protection Regulation (GDPR) 2024 from Saviynt](#general-data-protection-regulation-gdpr-2024-from-saviynt)
+    1. [General Data Protection Regulation (GDPR) "2023" from Saviynt](#general-data-protection-regulation-gdpr-2023-from-saviynt)
 1. [Information Technology](#information-technology-1)
     1. [Corporate Information Security Awareness from Proofpoint](#corporate-information-security-awareness-from-proofpoint)
 1. [AWS](#aws-4)
@@ -30,6 +36,8 @@
     1. [Getting Started with AWS Security Hub from Simplilearn](#getting-started-with-aws-security-hub-from-simplilearn)
 1. [Azure](#azure-1)
     1. [Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry](#microsoft-azure-identity-and-security-for-administrators-the-big-picture-from-pluralsight-by-jean-francois-landry)
+1. [Saviynt](#saviynt-1)
+    1. [Application Onboarding (AOB) Fundamentals from Saviynt](#application-onboarding-aob-fundamentals-from-saviynt)
 ## Programming (6)
 ### OWASP Top 10 from Snyk
 
@@ -54,6 +62,11 @@
 ### Learn about CSRF Attacks from Codecademy
 
 <img src="../cert_security_learn-about-csrf-attacks_codecademy_2024-03-27.png" alt="John's Learn about CSRF Attacks from Codecademy" style="border:1px solid #000000" />
+
+## AppSec (1)
+### Application Analysis with Snyk from Pluralsight by Hiren Gadhvi
+
+<img src="../cert_security_application-analysis-with-snyk_pluralsight_2024-04-10.png" alt="John's Application Analysis with Snyk from Pluralsight by Hiren Gadhvi" style="border:1px solid #000000" />
 
 ## OAuth 2.0 and OpenID Connect (OIDC) (2)
 ### Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck
@@ -80,11 +93,15 @@
 
 <img src="../cert_api_api-security-architect_apiacademy_2024-01-31.png" alt="John's API Security Architect from API Academy" style="border:1px solid #000000" />
 
-## DevOps (2)
+## DevOps (3)
 ### Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy
 * [John's DevOps Academy online credential](https://www.devops-certification.org/badges/22465533642098)
 
 <img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" />
+
+### Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra
+
+<img src="../cert_security_kubernetes-security-cluster-setup_pluralsight_2024-05-12.png" alt="John's Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" />
 
 ### Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof
 
@@ -99,6 +116,17 @@
 ### Enterprise Protection/Privacy Accredited Engineer from Proofpoint
 
 ![John's Enterprise Protection/Privacy Accredited Engineer from Proofpoint](cert_infosec_proofpoint_enterprise-protection-privacy-accredited-engineer_2014-05-04.png)
+
+## General Data Protection Regulation (GDPR) (2)
+### General Data Protection Regulation (GDPR) 2024 from Saviynt
+
+<img src="../cert_security_general-data-protection-regulation-gdpr_traliant-saviynt_2024-04-21_v2024.png" alt="John's General Data Protection Regulation (GDPR) 2024 from Saviynt" style="border:1px solid #000000" />
+
+### General Data Protection Regulation (GDPR) "2023" from Saviynt
+
+<img src="../cert_security_general-data-protection-regulation-gdpr_traliant-saviynt_2023-08-10_v2023.png" alt="John's General Data Protection Regulation (GDPR) "2023" from Saviynt" style="border:1px solid #000000" />
+
+<img src="../cert_security_general-data-protection-regulation-gdpr_traliant-saviynt_2023-08-10_v2024.png" alt="John's General Data Protection Regulation (GDPR) "2023" from Saviynt" style="border:1px solid #000000" />
 
 ## Information Technology (1)
 ### Corporate Information Security Awareness from Proofpoint
@@ -126,4 +154,9 @@
 ### Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry
 
 <img src="../cert_azure_microsoft-azure-identity-and-security-for-administrators-the-big-picture_pluralsight_2024-03-27.png" alt="John's Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry" style="border:1px solid #000000" />
+
+## Saviynt (1)
+### Application Onboarding (AOB) Fundamentals from Saviynt
+
+<img src="../cert_saviynt_application-onboarding-aob_cert-638465894805387290_2024-03-21.png" alt="John's Application Onboarding (AOB) Fundamentals from Saviynt" style="border:1px solid #000000" />
 

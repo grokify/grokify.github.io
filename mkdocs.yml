@@ -7,8 +7,8 @@ markdown_extension:
 nav:
     - Home: index.md
     - Innovation:
-        - Publications (1): publications/index.md
         - Patents (3): patents/index.md
+        - Publications (1): publications/index.md
     - Awards:
         - API (7): awards/index.md
     - Certificates:
@@ -19,7 +19,7 @@ nav:
         - Customer Service (4): certificates/customer-service.md
         - Data Science (3): certificates/data-science.md
         - Design Thinking (4): certificates/design-thinking.md
-        - DevOps (10): certificates/devops.md
+        - DevOps (11): certificates/devops.md
         - Leadership (5): certificates/leadership.md
         - Machine Learning (13): certificates/machine-learning.md
         - Management (14): certificates/management.md
@@ -29,6 +29,6 @@ nav:
         - Product Management (9): certificates/product-management.md
         - Programming (17): certificates/programming.md
         - Scrum (17): certificates/scrum.md
-        - Security (21): certificates/security.md
+        - Security (26): certificates/security.md
         - Strategy (5): certificates/strategy.md
         - TED Talks (6): certificates/ted-talks.md

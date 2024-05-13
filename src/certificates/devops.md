@@ -11,9 +11,10 @@
 1. [Security](#security-2)
     1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
     1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
-1. [Kubernetes](#kubernetes-2)
+1. [Kubernetes](#kubernetes-3)
     1. [Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino](#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino)
     1. [Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon](#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon)
+    1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
 1. [AWS](#aws-1)
     1. [AWS CI/CD Pipeline from Great Learning Academy](#aws-cicd-pipeline-from-great-learning-academy)
 ## Resources
@@ -58,7 +59,7 @@
 
 <img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" />
 
-## Kubernetes (2)
+## Kubernetes (3)
 ### Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino
 
 <img src="../cert_kubernetes_kubernetes-administrator-foundations_pluralsight_2024-03-27.png" alt="John's Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino" style="border:1px solid #000000" />
@@ -66,6 +67,10 @@
 ### Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon
 
 <img src="../cert_kubernetes_packaging-applications-with-helm-for-kubernetes_pluralsight_2024-03-30.png" alt="John's Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon" style="border:1px solid #000000" />
+
+### Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra
+
+<img src="../cert_security_kubernetes-security-cluster-setup_pluralsight_2024-05-12.png" alt="John's Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" />
 
 ## AWS (1)
 ### AWS CI/CD Pipeline from Great Learning Academy
