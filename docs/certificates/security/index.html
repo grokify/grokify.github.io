@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/security/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Security (21) - John Wang's Site</title>
+    <title>Security (26) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Security (21)";
+        var mkdocs_page_name = "Security (26)";
         var mkdocs_page_input_path = "certificates/security.md";
         var mkdocs_page_url = "/certificates/security/";
       </script>
@@ -45,9 +45,9 @@
               </ul>
               <p class="caption"><span class="caption-text">Innovation</span></p>
               <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="../../publications/">Publications (1)</a>
-                  </li>
                   <li class="toctree-l1"><a class="reference internal" href="../../patents/">Patents (3)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../publications/">Publications (1)</a>
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">Awards</span></p>
@@ -71,7 +71,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (10)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (11)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (5)</a>
                   </li>
@@ -91,7 +91,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (17)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security (21)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security (26)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#programming-6">Programming (6)</a>
         <ul>
@@ -106,6 +106,12 @@
     <li class="toctree-l3"><a class="reference internal" href="#owasp-top-10-identification-and-authentication-failures-from-codecademy">OWASP Top 10: Identification and Authentication Failures from Codecademy</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#learn-about-csrf-attacks-from-codecademy">Learn about CSRF Attacks from Codecademy</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#appsec-1">AppSec (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi">Application Analysis with Snyk from Pluralsight by Hiren Gadhvi</a>
     </li>
         </ul>
     </li>
@@ -131,9 +137,11 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#devops-2">DevOps (2)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#devops-3">DevOps (3)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a>
     </li>
@@ -148,6 +156,14 @@
     <li class="toctree-l2"><a class="reference internal" href="#email-protection-1">Email Protection (1)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#enterprise-protectionprivacy-accredited-engineer-from-proofpoint">Enterprise Protection/Privacy Accredited Engineer from Proofpoint</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#general-data-protection-regulation-gdpr-2">General Data Protection Regulation (GDPR) (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#general-data-protection-regulation-gdpr-2024-from-saviynt">General Data Protection Regulation (GDPR) 2024 from Saviynt</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#general-data-protection-regulation-gdpr-2023-from-saviynt">General Data Protection Regulation (GDPR) "2023" from Saviynt</a>
     </li>
         </ul>
     </li>
@@ -175,6 +191,12 @@
     </li>
         </ul>
     </li>
+    <li class="toctree-l2"><a class="reference internal" href="#saviynt-1">Saviynt (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#application-onboarding-aob-fundamentals-from-saviynt">Application Onboarding (AOB) Fundamentals from Saviynt</a>
+    </li>
+        </ul>
+    </li>
     </ul>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (5)</a>
@@ -197,7 +219,7 @@
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
           <li class="breadcrumb-item">Certificates</li>
-      <li class="breadcrumb-item active">Security (21)</li>
+      <li class="breadcrumb-item active">Security (26)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -217,6 +239,10 @@
 <li><a href="#learn-about-csrf-attacks-from-codecademy">Learn about CSRF Attacks from Codecademy</a></li>
 </ol>
 </li>
+<li><a href="#appsec-1">AppSec</a><ol>
+<li><a href="#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi">Application Analysis with Snyk from Pluralsight by Hiren Gadhvi</a></li>
+</ol>
+</li>
 <li><a href="#oauth-20-and-openid-connect-oidc-2">OAuth 2.0 and OpenID Connect (OIDC)</a><ol>
 <li><a href="#introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck">Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck</a></li>
 <li><a href="#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt">OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt</a></li>
@@ -231,8 +257,9 @@
 <li><a href="#api-security-architect-from-api-academy">API Security Architect from API Academy</a></li>
 </ol>
 </li>
-<li><a href="#devops-2">DevOps</a><ol>
+<li><a href="#devops-3">DevOps</a><ol>
 <li><a href="#certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</a></li>
+<li><a href="#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</a></li>
 <li><a href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a></li>
 </ol>
 </li>
@@ -242,6 +269,11 @@
 </li>
 <li><a href="#email-protection-1">Email Protection</a><ol>
 <li><a href="#enterprise-protectionprivacy-accredited-engineer-from-proofpoint">Enterprise Protection/Privacy Accredited Engineer from Proofpoint</a></li>
+</ol>
+</li>
+<li><a href="#general-data-protection-regulation-gdpr-2">General Data Protection Regulation (GDPR)</a><ol>
+<li><a href="#general-data-protection-regulation-gdpr-2024-from-saviynt">General Data Protection Regulation (GDPR) 2024 from Saviynt</a></li>
+<li><a href="#general-data-protection-regulation-gdpr-2023-from-saviynt">General Data Protection Regulation (GDPR) "2023" from Saviynt</a></li>
 </ol>
 </li>
 <li><a href="#information-technology-1">Information Technology</a><ol>
@@ -259,6 +291,10 @@
 <li><a href="#microsoft-azure-identity-and-security-for-administrators-the-big-picture-from-pluralsight-by-jean-francois-landry">Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry</a></li>
 </ol>
 </li>
+<li><a href="#saviynt-1">Saviynt</a><ol>
+<li><a href="#application-onboarding-aob-fundamentals-from-saviynt">Application Onboarding (AOB) Fundamentals from Saviynt</a></li>
+</ol>
+</li>
 </ol>
 <h2 id="programming-6">Programming (6)</h2>
 <h3 id="owasp-top-10-from-snyk">OWASP Top 10 from Snyk</h3>
@@ -273,6 +309,9 @@
 <p><img src="../cert_security_owasp-top-10-identification-and-authentication-failures_codecademy_2024-03-28.png" alt="John's OWASP Top 10: Identification and Authentication Failures from Codecademy" style="border:1px solid #000000" /></p>
 <h3 id="learn-about-csrf-attacks-from-codecademy">Learn about CSRF Attacks from Codecademy</h3>
 <p><img src="../cert_security_learn-about-csrf-attacks_codecademy_2024-03-27.png" alt="John's Learn about CSRF Attacks from Codecademy" style="border:1px solid #000000" /></p>
+<h2 id="appsec-1">AppSec (1)</h2>
+<h3 id="application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi">Application Analysis with Snyk from Pluralsight by Hiren Gadhvi</h3>
+<p><img src="../cert_security_application-analysis-with-snyk_pluralsight_2024-04-10.png" alt="John's Application Analysis with Snyk from Pluralsight by Hiren Gadhvi" style="border:1px solid #000000" /></p>
 <h2 id="oauth-20-and-openid-connect-oidc-2">OAuth 2.0 and OpenID Connect (OIDC) (2)</h2>
 <h3 id="introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck">Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck</h3>
 <ul>
@@ -292,12 +331,14 @@
 <h2 id="api-1">API (1)</h2>
 <h3 id="api-security-architect-from-api-academy">API Security Architect from API Academy</h3>
 <p><img src="../cert_api_api-security-architect_apiacademy_2024-01-31.png" alt="John's API Security Architect from API Academy" style="border:1px solid #000000" /></p>
-<h2 id="devops-2">DevOps (2)</h2>
+<h2 id="devops-3">DevOps (3)</h2>
 <h3 id="certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</h3>
 <ul>
 <li><a href="https://www.devops-certification.org/badges/22465533642098">John's DevOps Academy online credential</a></li>
 </ul>
 <p><img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" /></p>
+<h3 id="kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</h3>
+<p><img src="../cert_security_kubernetes-security-cluster-setup_pluralsight_2024-05-12.png" alt="John's Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" /></p>
 <h3 id="container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</h3>
 <p><img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" /></p>
 <h2 id="mobile-1">Mobile (1)</h2>
@@ -306,6 +347,12 @@
 <h2 id="email-protection-1">Email Protection (1)</h2>
 <h3 id="enterprise-protectionprivacy-accredited-engineer-from-proofpoint">Enterprise Protection/Privacy Accredited Engineer from Proofpoint</h3>
 <p><img alt="John's Enterprise Protection/Privacy Accredited Engineer from Proofpoint" src="../cert_infosec_proofpoint_enterprise-protection-privacy-accredited-engineer_2014-05-04.png" /></p>
+<h2 id="general-data-protection-regulation-gdpr-2">General Data Protection Regulation (GDPR) (2)</h2>
+<h3 id="general-data-protection-regulation-gdpr-2024-from-saviynt">General Data Protection Regulation (GDPR) 2024 from Saviynt</h3>
+<p><img src="../cert_security_general-data-protection-regulation-gdpr_traliant-saviynt_2024-04-21_v2024.png" alt="John's General Data Protection Regulation (GDPR) 2024 from Saviynt" style="border:1px solid #000000" /></p>
+<h3 id="general-data-protection-regulation-gdpr-2023-from-saviynt">General Data Protection Regulation (GDPR) "2023" from Saviynt</h3>
+<p><img src="../cert_security_general-data-protection-regulation-gdpr_traliant-saviynt_2023-08-10_v2023.png" alt="John's General Data Protection Regulation (GDPR) "2023" from Saviynt" style="border:1px solid #000000" /></p>
+<p><img src="../cert_security_general-data-protection-regulation-gdpr_traliant-saviynt_2023-08-10_v2024.png" alt="John's General Data Protection Regulation (GDPR) "2023" from Saviynt" style="border:1px solid #000000" /></p>
 <h2 id="information-technology-1">Information Technology (1)</h2>
 <h3 id="corporate-information-security-awareness-from-proofpoint">Corporate Information Security Awareness from Proofpoint</h3>
 <p><img alt="John's Corporate Information Security Awareness from Proofpoint" src="../cert_infosec_proofpoint_corporate-information-security-awareness_2014-06-12.png" /></p>
@@ -321,6 +368,9 @@
 <h2 id="azure-1">Azure (1)</h2>
 <h3 id="microsoft-azure-identity-and-security-for-administrators-the-big-picture-from-pluralsight-by-jean-francois-landry">Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry</h3>
 <p><img src="../cert_azure_microsoft-azure-identity-and-security-for-administrators-the-big-picture_pluralsight_2024-03-27.png" alt="John's Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry" style="border:1px solid #000000" /></p>
+<h2 id="saviynt-1">Saviynt (1)</h2>
+<h3 id="application-onboarding-aob-fundamentals-from-saviynt">Application Onboarding (AOB) Fundamentals from Saviynt</h3>
+<p><img src="../cert_saviynt_application-onboarding-aob_cert-638465894805387290_2024-03-21.png" alt="John's Application Onboarding (AOB) Fundamentals from Saviynt" style="border:1px solid #000000" /></p>
               
             </div>
           </div><footer>
