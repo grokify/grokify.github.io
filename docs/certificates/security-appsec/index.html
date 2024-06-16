@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/security-appsec/" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>Security: AppSec (21) - John Wang's Site</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Security: AppSec (21)";
+        var mkdocs_page_input_path = "certificates/security-appsec.md";
+        var mkdocs_page_url = "/certificates/security-appsec/";
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../.." class="icon icon-home"> John Wang's Site
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../..">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Innovation</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../patents/">Patents (3)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../publications/">Publications (1)</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Awards</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../awards/">API (7)</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Certificates</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../api/">API (8)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../algorithms/">Algorithms (3)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (13)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (5)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../customer-service/">Customer Service (5)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../data-science/">Data Science (3)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (12)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (5)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../machine-learning/">Machine Learning (13)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (14)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../management-consulting/">Management Consulting (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../marketing/">Marketing (1)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../personal-development/">Personal Development (3)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (9)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (18)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (17)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (5)</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AppSec (21)</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#programming-6">Programming (6)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#owasp-top-10-from-snyk">OWASP Top 10 from Snyk</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#snyk-top-10-from-snyk">Snyk Top 10 from Snyk</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#security-for-developers-from-snyk">Security for Developers from Snyk</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#owasp-top-10-broken-access-control-from-codecademy">OWASP Top 10: Broken Access Control from Codecademy</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#owasp-top-10-identification-and-authentication-failures-from-codecademy">OWASP Top 10: Identification and Authentication Failures from Codecademy</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#learn-about-csrf-attacks-from-codecademy">Learn about CSRF Attacks from Codecademy</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#access-2">Access (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck">Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt">OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#api-1">API (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#api-security-architect-from-api-academy">API Security Architect from API Academy</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#devops-2">DevOps (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#software-supply-chain-security-sscs-2">Software Supply Chain Security (SSCS) (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#secure-coding-using-components-with-known-vulnerabilities-from-pluralsight-by-peter-mosmans">Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#kubernetes-2">Kubernetes (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer">Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-5">AWS (5)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#getting-started-with-aws-security-hub-from-simplilearn">Getting Started with AWS Security Hub from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-security-token-services-sts-from-simplilearn">Introduction to AWS Security Token Services (STS) from Simplilearn</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#snyk-1">Snyk (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi">Application Analysis with Snyk from Pluralsight by Hiren Gadhvi</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (21)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (5)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../ted-talks/">TED Talks (7)</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../..">John Wang's Site</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">Certificates</li>
+      <li class="breadcrumb-item active">Security: AppSec (21)</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="johns-security-appsec-certificates">John's Security: AppSec Certificates</h1>
+<ol>
+<li><a href="#programming-6">Programming</a><ol>
+<li><a href="#owasp-top-10-from-snyk">OWASP Top 10 from Snyk</a></li>
+<li><a href="#snyk-top-10-from-snyk">Snyk Top 10 from Snyk</a></li>
+<li><a href="#security-for-developers-from-snyk">Security for Developers from Snyk</a></li>
+<li><a href="#owasp-top-10-broken-access-control-from-codecademy">OWASP Top 10: Broken Access Control from Codecademy</a></li>
+<li><a href="#owasp-top-10-identification-and-authentication-failures-from-codecademy">OWASP Top 10: Identification and Authentication Failures from Codecademy</a></li>
+<li><a href="#learn-about-csrf-attacks-from-codecademy">Learn about CSRF Attacks from Codecademy</a></li>
+</ol>
+</li>
+<li><a href="#access-2">Access</a><ol>
+<li><a href="#introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck">Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck</a></li>
+<li><a href="#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt">OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt</a></li>
+</ol>
+</li>
+<li><a href="#api-1">API</a><ol>
+<li><a href="#api-security-architect-from-api-academy">API Security Architect from API Academy</a></li>
+</ol>
+</li>
+<li><a href="#devops-2">DevOps</a><ol>
+<li><a href="#certified-devops-information-security-engineer-devopssec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</a></li>
+<li><a href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a></li>
+</ol>
+</li>
+<li><a href="#software-supply-chain-security-sscs-2">Software Supply Chain Security (SSCS)</a><ol>
+<li><a href="#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry</a></li>
+<li><a href="#secure-coding-using-components-with-known-vulnerabilities-from-pluralsight-by-peter-mosmans">Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans</a></li>
+</ol>
+</li>
+<li><a href="#kubernetes-2">Kubernetes</a><ol>
+<li><a href="#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</a></li>
+<li><a href="#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer">Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer</a></li>
+</ol>
+</li>
+<li><a href="#aws-5">AWS</a><ol>
+<li><a href="#aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</a></li>
+<li><a href="#introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</a></li>
+<li><a href="#introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</a></li>
+<li><a href="#getting-started-with-aws-security-hub-from-simplilearn">Getting Started with AWS Security Hub from Simplilearn</a></li>
+<li><a href="#introduction-to-aws-security-token-services-sts-from-simplilearn">Introduction to AWS Security Token Services (STS) from Simplilearn</a></li>
+</ol>
+</li>
+<li><a href="#snyk-1">Snyk</a><ol>
+<li><a href="#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi">Application Analysis with Snyk from Pluralsight by Hiren Gadhvi</a></li>
+</ol>
+</li>
+</ol>
+<h2 id="programming-6">Programming (6)</h2>
+<h3 id="owasp-top-10-from-snyk">OWASP Top 10 from Snyk</h3>
+<p><img alt="John's OWASP Top 10 from Snyk" src="../cert_security_owaasp-top-10_snyk_2024-03-09.png" /></p>
+<h3 id="snyk-top-10-from-snyk">Snyk Top 10 from Snyk</h3>
+<p><img alt="John's Snyk Top 10 from Snyk" src="../cert_security_snyk-top-10_snyk_2024-03-09.png" /></p>
+<h3 id="security-for-developers-from-snyk">Security for Developers from Snyk</h3>
+<p><img alt="John's Security for Developers from Snyk" src="../cert_security_security-for-developers_snyk_2024-03-09.png" /></p>
+<h3 id="owasp-top-10-broken-access-control-from-codecademy">OWASP Top 10: Broken Access Control from Codecademy</h3>
+<p><img src="../cert_security_owasp-top-10-broken-access-control_codecademy_2024-03-27.png" alt="John's OWASP Top 10: Broken Access Control from Codecademy" style="border:1px solid #000000" /></p>
+<h3 id="owasp-top-10-identification-and-authentication-failures-from-codecademy">OWASP Top 10: Identification and Authentication Failures from Codecademy</h3>
+<p><img src="../cert_security_owasp-top-10-identification-and-authentication-failures_codecademy_2024-03-28.png" alt="John's OWASP Top 10: Identification and Authentication Failures from Codecademy" style="border:1px solid #000000" /></p>
+<h3 id="learn-about-csrf-attacks-from-codecademy">Learn about CSRF Attacks from Codecademy</h3>
+<p><img src="../cert_security_learn-about-csrf-attacks_codecademy_2024-03-27.png" alt="John's Learn about CSRF Attacks from Codecademy" style="border:1px solid #000000" /></p>
+<h2 id="access-2">Access (2)</h2>
+<h3 id="introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck">Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck</h3>
+<ul>
+<li><a href="https://courses.pragmaticwebsecurity.com/certificates/ismezbjb1w">John's Pragmatic Web Security online profile</a></li>
+</ul>
+<p><img src="../cert_security_intro-to-oauth2-and-openid-connect-oidc_pragmaticwebsecurity_cert-ismezbjb1w_2024-03-24.png" alt="John's Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck" style="border:1px solid #000000" /></p>
+<h3 id="oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt">OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt</h3>
+<p><img src="../cert_security_oauth2-and-openid-connect-easy-now_pluralsight_2024-03-27.png" alt="John's OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt" style="border:1px solid #000000" /></p>
+<h2 id="api-1">API (1)</h2>
+<h3 id="api-security-architect-from-api-academy">API Security Architect from API Academy</h3>
+<p><img src="../cert_api_api-security-architect_apiacademy_2024-01-31.png" alt="John's API Security Architect from API Academy" style="border:1px solid #000000" /></p>
+<h2 id="devops-2">DevOps (2)</h2>
+<h3 id="certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</h3>
+<ul>
+<li><a href="https://www.devops-certification.org/badges/22465533642098">John's DevOps Academy online credential</a></li>
+</ul>
+<p><img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" /></p>
+<h3 id="container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</h3>
+<p><img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" /></p>
+<h2 id="software-supply-chain-security-sscs-2">Software Supply Chain Security (SSCS) (2)</h2>
+<h3 id="secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry</h3>
+<p><img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry" style="border:1px solid #000000" /></p>
+<h3 id="secure-coding-using-components-with-known-vulnerabilities-from-pluralsight-by-peter-mosmans">Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans</h3>
+<p><img src="../cert_appsec_sscs_secure-coding-using-components-with-known-vulnerabilities_pluralsight_peter-mosmans_2024-06-05.png" alt="John's Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans" style="border:1px solid #000000" /></p>
+<h2 id="kubernetes-2">Kubernetes (2)</h2>
+<h3 id="kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</h3>
+<p><img src="../cert_security_kubernetes-security-cluster-setup_pluralsight_2024-05-12.png" alt="John's Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" /></p>
+<h3 id="kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer">Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer</h3>
+<p><img src="../cert_security_appsec_kubernetes-security-minimizing-microservice-vulnerabilities_pluralsight_2024-06-12.png" alt="John's Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer" style="border:1px solid #000000" /></p>
+<h2 id="aws-5">AWS (5)</h2>
+<h3 id="aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</h3>
+<p><img alt="John's AWS: Identity and Access Management from Whizlabs" src="../cert_aws_aws-identity-and-access-management_whizlabs_cert-QRD93E7CVUMP_2024-03-20.png" /></p>
+<h3 id="introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</h3>
+<p><img alt="John's Introduction to AWS Identity and Access Management (IAM) from Simplilearn" src="../cert_aws_intro-to-aws-identity-and-access-management-iam_simplilearn_cert-4970506_1710929859_2024-03-20.png" /></p>
+<h3 id="introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</h3>
+<p><img alt="John's Introduction to AWS Trusted Advisor from Simplilearn" src="../cert_aws_intro-to-aws-trusted-advisor_simplilearn_cert-4971787_1710945844_2024-03-20.png" /></p>
+<h3 id="getting-started-with-aws-security-hub-from-simplilearn">Getting Started with AWS Security Hub from Simplilearn</h3>
+<p><img alt="John's Getting Started with AWS Security Hub from Simplilearn" src="../cert_aws_getting-started-with-aws-security-hub_simplilearn_cert-4973168_1711030705_2024-03-21.png" /></p>
+<h3 id="introduction-to-aws-security-token-services-sts-from-simplilearn">Introduction to AWS Security Token Services (STS) from Simplilearn</h3>
+<p><img alt="John's Introduction to AWS Security Token Services (STS) from Simplilearn" src="../cert_aws_introduction-to-aws-security-token-services-sts_6733873_2024-06-15.png" /></p>
+<h2 id="snyk-1">Snyk (1)</h2>
+<h3 id="application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi">Application Analysis with Snyk from Pluralsight by Hiren Gadhvi</h3>
+<p><img src="../cert_security_application-analysis-with-snyk_pluralsight_2024-04-10.png" alt="John's Application Analysis with Snyk from Pluralsight by Hiren Gadhvi" style="border:1px solid #000000" /></p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../security-ai/" class="btn btn-neutral float-left" title="Security: AI (5)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../security-infosec/" class="btn btn-neutral float-right" title="Security: InfoSec (21)">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../security-ai/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../security-infosec/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "../..";</script>
+    <script src="../../js/theme_extra.js"></script>
+    <script src="../../js/theme.js"></script>
+      <script src="../../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
