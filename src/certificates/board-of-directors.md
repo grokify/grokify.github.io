@@ -5,6 +5,8 @@
 1. [Nonprofit Governance](#nonprofit-governance-2)
     1. [Setting Up a Nonprofit Board from Philanthropy University](#setting-up-a-nonprofit-board-from-philanthropy-university)
     1. [Nonprofit Board Member Essentials Certificate from Cornerstone OnDemand Foundation](#nonprofit-board-member-essentials-certificate-from-cornerstone-ondemand-foundation)
+1. [Executive Director](#executive-director-1)
+    1. [The 6 Biggest Mistakes Executive Directors Make from NonprofitReady by Cornerstone OnDemand Foundation](#the-6-biggest-mistakes-executive-directors-make-from-nonprofitready-by-cornerstone-ondemand-foundation)
 ## Corporate Governance (2)
 ### Corporate Governance Certificate from Alison by Robert Klonoski
 * [John's Alison online credential](https://alison.com/certification/check/2y10z7CJmeCvq72QGFOnjkSWwupOsQsrMN7fAku6TAmzdzM4tFzIi0q2)
@@ -25,4 +27,9 @@
 ### Nonprofit Board Member Essentials Certificate from Cornerstone OnDemand Foundation
 
 ![John's Nonprofit Board Member Essentials Certificate from Cornerstone OnDemand Foundation](cert_nonprofit_nonprofit-board-member-essentials_nonprofitready-org_cert_2024-02-09.png)
+
+## Executive Director (1)
+### The 6 Biggest Mistakes Executive Directors Make from NonprofitReady by Cornerstone OnDemand Foundation
+
+<img src="../cert_boardofdirectors_the-6-biggest-mistakes-executive-directors-make_nonprofitready_cornerstone_2024-06-11.png" alt="John's The 6 Biggest Mistakes Executive Directors Make from NonprofitReady by Cornerstone OnDemand Foundation" style="border:1px solid #000000" />
 

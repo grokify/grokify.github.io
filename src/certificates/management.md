@@ -6,16 +6,16 @@
     1. [Stay Calm Under Pressure as a Manager from NonprofitReady by Grovo](#stay-calm-under-pressure-as-a-manager-from-nonprofitready-by-grovo)
     1. [Help Others Be Accountable from Grovo](#help-others-be-accountable-from-grovo)
 1. [Team Building](#team-building-6)
-    1. [Develop High-Potential Employees from NonprofitReady](#develop-high-potential-employees-from-nonprofitready)
+    1. [Develop High-Potential Employees from NonprofitReady](#develop-highpotential-employees-from-nonprofitready)
     1. [Find the Root Cause of Performance Problems from NonprofitReady](#find-the-root-cause-of-performance-problems-from-nonprofitready)
     1. [Know What Your Direct Reports Really Care About from NonprofitReady](#know-what-your-direct-reports-really-care-about-from-nonprofitready)
     1. [Recognize Leadership in Others from NonprofitReady](#recognize-leadership-in-others-from-nonprofitready)
     1. [Planning an Effective Performance Appraisal from SkillSoft](#planning-an-effective-performance-appraisal-from-skillsoft)
-    1. [Lead Your Virtual Team from Eleventure](#lead-your-virtual-team-from-eleventure)
+    1. [Lead Your Virtual Team from NonprofitReady by Eleventure](#lead-your-virtual-team-from-nonprofitready-by-eleventure)
 1. [Hiring](#hiring-3)
     1. [Break Down Job Competencies Into Behaviors from NonprofitReady by Grovo](#break-down-job-competencies-into-behaviors-from-nonprofitready-by-grovo)
-    1. [Prepare for a Behavior-Based Interview from NonprofitReady by Grovo](#prepare-for-a-behavior-based-interview-from-nonprofitready-by-grovo)
-    1. [The Advantages of a Behavior-Based Interview from NonprofitReady by Grovo](#the-advantages-of-a-behavior-based-interview-from-nonprofitready-by-grovo)
+    1. [Prepare for a Behavior-Based Interview from NonprofitReady by Grovo](#prepare-for-a-behaviorbased-interview-from-nonprofitready-by-grovo)
+    1. [The Advantages of a Behavior-Based Interview from NonprofitReady by Grovo](#the-advantages-of-a-behaviorbased-interview-from-nonprofitready-by-grovo)
 ## Fundamentals (5)
 ### The Management Styles from NonprofitReady by Cegos
 
@@ -58,9 +58,9 @@
 
 <img src="../cert_management_planning-an-effective-performance-appraisal_skillsoft_2024-03-14.png" alt="John's Planning an Effective Performance Appraisal from SkillSoft" style="border:1px solid #000000" />
 
-### Lead Your Virtual Team from Eleventure
+### Lead Your Virtual Team from NonprofitReady by Eleventure
 
-<img src="../cert_management_lead-your-virtual-team_eleventure_2024-03-14.png" alt="John's Lead Your Virtual Team from Eleventure" style="border:1px solid #000000" />
+<img src="../cert_management_lead-your-virtual-team_eleventure_2024-03-14.png" alt="John's Lead Your Virtual Team from NonprofitReady by Eleventure" style="border:1px solid #000000" />
 
 ## Hiring (3)
 ### Break Down Job Competencies Into Behaviors from NonprofitReady by Grovo

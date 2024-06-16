@@ -3,7 +3,7 @@
     1. [Management Consulting Specialization (5 Courses) from Emory University by John Kim](#management-consulting-specialization-5-courses-from-emory-university-by-john-kim)
     1. [Consulting Approach to Problem Solving from Emory University by John Kim](#consulting-approach-to-problem-solving-from-emory-university-by-john-kim)
 1. [Frameworks](#frameworks-2)
-    1. [Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](#customer-centric-it-strategy-from-university-of-virginia-darden-school-by-alex-cowan)
+    1. [Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](#customercentric-it-strategy-from-university-of-virginia-darden-school-by-alex-cowan)
     1. [The Strategist's Challenge from University of Virginia, Darden School Foundation by Michael Lenox, Jared Harris](#the-strategists-challenge-from-university-of-virginia-darden-school-foundation-by-michael-lenox-jared-harris)
 1. [Artificial Intelligence](#artificial-intelligence-1)
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)

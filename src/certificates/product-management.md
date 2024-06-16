@@ -1,9 +1,9 @@
 # John's Product Management Certificates
 1. [Frameworks](#frameworks-2)
-    1. [Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](#customer-centric-it-strategy-from-university-of-virginia-darden-school-by-alex-cowan)
+    1. [Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](#customercentric-it-strategy-from-university-of-virginia-darden-school-by-alex-cowan)
     1. [The Strategist's Challenge from University of Virginia, Darden School Foundation by Michael Lenox, Jared Harris](#the-strategists-challenge-from-university-of-virginia-darden-school-foundation-by-michael-lenox-jared-harris)
-1. [Product-Led Growth (PLG)](#product-led-growth-plg-1)
-    1. [Product-Led Fundamentals from ProductLed](#product-led-fundamentals-from-productled)
+1. [Product-Led Growth (PLG)](#productled-growth-plg-1)
+    1. [Product-Led Fundamentals from ProductLed](#productled-fundamentals-from-productled)
 1. [Machine Learning](#machine-learning-2)
     1. [Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](#machine-learning-foundations-for-product-managers-from-duke-university-by-jon-reifschneider)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
@@ -11,7 +11,7 @@
     1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
     1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
     1. [Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute](#scrum-product-owner-accredited-certification-spoac-from-scrum-institute)
-    1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devops-po-from-devops-academy)
+    1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devopspo-from-devops-academy)
 ## Frameworks (2)
 ### Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan
 * [John's University of Virginia, Darden School online credential](https://coursera.org/verify/JU7THK93NFN3)

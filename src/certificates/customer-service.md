@@ -6,6 +6,8 @@
 1. [Mass Notifications](#mass-notifications-2)
     1. [Everbridge Mass Notification Message Sender Certification from Everbridge](#everbridge-mass-notification-message-sender-certification-from-everbridge)
     1. [Everbridge CARES Best Practices for Notifications Certification from Everbridge](#everbridge-cares-best-practices-for-notifications-certification-from-everbridge)
+1. [Security](#security-1)
+    1. [Call Center Security Awareness from KnowBe4](#call-center-security-awareness-from-knowbe4)
 ## Leadership (1)
 ### Becoming a Customer Service Executive from Alison by Janets
 * [John's Alison online credential](https://alison.com/certification/check/2y10Q606CDG642cBw9NHeN4A9Ba5Y5rDn3FfmuK1oCKHvviA7vpvQ5W)
@@ -28,4 +30,9 @@
 ### Everbridge CARES Best Practices for Notifications Certification from Everbridge
 
 <img src="../cert_communications_everbridge_cares-best-practices-for-notifications-certification_20141211_cert-2881-3F9A-7A68-4CBD.png" alt="John's Everbridge CARES Best Practices for Notifications Certification from Everbridge" style="border:1px solid #000000" />
+
+## Security (1)
+### Call Center Security Awareness from KnowBe4
+
+<img src="../cert_infosec_call-center-security-awareness_knowbe4_2024-06-03.png" alt="John's Call Center Security Awareness from KnowBe4" style="border:1px solid #000000" />
 

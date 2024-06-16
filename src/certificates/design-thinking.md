@@ -3,7 +3,7 @@
     1. [Introduction to Design Thinking from Great Learning Academy by Milind Kopikare](#introduction-to-design-thinking-from-great-learning-academy-by-milind-kopikare)
 1. [Frameworks](#frameworks-2)
     1. [Design Thinking for Innovation from University of Virginia, Darden School by Jeanne M. Liedtka](#design-thinking-for-innovation-from-university-of-virginia-darden-school-by-jeanne-m-liedtka)
-    1. [Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](#customer-centric-it-strategy-from-university-of-virginia-darden-school-by-alex-cowan)
+    1. [Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](#customercentric-it-strategy-from-university-of-virginia-darden-school-by-alex-cowan)
 1. [Agile](#agile-1)
     1. [Certified Professional In Design Thinking (CPDT) from Scrum Institute](#certified-professional-in-design-thinking-cpdt-from-scrum-institute)
 ## Resources

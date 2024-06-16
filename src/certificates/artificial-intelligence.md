@@ -3,9 +3,10 @@
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
 1. [Product Management](#product-management-1)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
-1. [Security](#security-2)
+1. [Security](#security-3)
     1. [AI Security from Lakera](#ai-security-from-lakera)
-    1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-ai-generated-attacks-from-codecademy)
+    1. [Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana](#security-risks-and-privacy-concerns-using-generative-ai-from-pluralsight-by-dr-shaila-rana)
+    1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-aigenerated-attacks-from-codecademy)
 1. [Governance](#governance-1)
     1. [Introduction to Responsible AI from Google Cloud](#introduction-to-responsible-ai-from-google-cloud)
 1. [Generative AI](#generative-ai-7)
@@ -29,11 +30,15 @@
 
 <img src="../cert_product_ai_pendo_ai-product-management_2024-01-02_avatar.png" alt="John's AI for Product Management from Pendo" style="border:1px solid #000000" />
 
-## Security (2)
+## Security (3)
 ### AI Security from Lakera
 * [John's Lakera online credential](https://security.certificates.lakera.ai/credentials/53495805-342d-41b7-b9bf-5923ae00422d)
 
 <img src="../cert_ai_ai-security_lakera_cert-53495805-342d-41b7-b9bf-5923ae00422d_2024-03-19.png" alt="John's AI Security from Lakera" style="border:1px solid #000000" />
+
+### Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana
+
+<img src="../cert_aisec_security-risks-and-privacy-concerns-using-generative-ai_pluralsight_dr-shaila-rana_2024-06-10.png" alt="John's Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana" style="border:1px solid #000000" />
 
 ### Defending Against AI-Generated Attacks from Codecademy
 

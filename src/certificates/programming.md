@@ -25,6 +25,8 @@
     1. [SQL (Advanced) from HackerRank](#sql-advanced-from-hackerrank)
     1. [SQL (Intermediate) from HackerRank](#sql-intermediate-from-hackerrank)
     1. [SQL (Basic) from HackerRank](#sql-basic-from-hackerrank)
+1. [Salesforce](#salesforce-1)
+    1. [Getting Started with Salesforce Lightning Web Components from Pluralsight by Sara Morgan Nettles](#getting-started-with-salesforce-lightning-web-components-from-pluralsight-by-sara-morgan-nettles)
 ## Algorithms (1)
 ### Problem Solving (Basic) from HackerRank
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
@@ -118,4 +120,9 @@
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/85d3ebe85d24)
 
 ![John's SQL (Basic) from HackerRank](cert_programming_sql_hackerrank_sql-basic_2023-07-08.png)
+
+## Salesforce (1)
+### Getting Started with Salesforce Lightning Web Components from Pluralsight by Sara Morgan Nettles
+
+<img src="../cert_programming_frontend_getting-started-with-salesforce-lightning-web-components_pluralsight_sara-morgan-nettles_2024-06-16.png" alt="John's Getting Started with Salesforce Lightning Web Components from Pluralsight by Sara Morgan Nettles" style="border:1px solid #000000" />
 

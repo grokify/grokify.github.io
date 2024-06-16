@@ -1,6 +1,7 @@
 # John's TED Talks Certificates
-1. [Leadership](#leadership-1)
-    1. [Jim Hemerling: 5 Ways to Lead in an Era of Constant Change from NonprofitReady](#jim-hemerling-5-ways-to-lead-in-an-era-of-constant-change-from-nonprofitready)
+1. [Leadership](#leadership-2)
+    1. [5 Ways to Lead in an Era of Constant Change from NonprofitReady by Jim Hemerling](#5-ways-to-lead-in-an-era-of-constant-change-from-nonprofitready-by-jim-hemerling)
+    1. [Why Good Leaders Make You Feel Safe from NonprofitReady by Simon Sinek](#why-good-leaders-make-you-feel-safe-from-nonprofitready-by-simon-sinek)
 1. [Hiring](#hiring-1)
     1. [Why the Best Hire Might Not Have the Perfect Resume from TED Talks by Regina Hartley](#why-the-best-hire-might-not-have-the-perfect-resume-from-ted-talks-by-regina-hartley)
 1. [Mindfulness](#mindfulness-2)
@@ -8,11 +9,15 @@
     1. [How to Stay Calm When You Know You'll Be Stressed from TED Talks by Daniel Levintin](#how-to-stay-calm-when-you-know-youll-be-stressed-from-ted-talks-by-daniel-levintin)
 1. [Storytelling](#storytelling-2)
     1. [The Secret Structure of Great Talks from TED Talks by Nancy Duarte](#the-secret-structure-of-great-talks-from-ted-talks-by-nancy-duarte)
-    1. [Simon Sinek: How Great Leaders Inspire Action from NonprofitReady](#simon-sinek-how-great-leaders-inspire-action-from-nonprofitready)
-## Leadership (1)
-### Jim Hemerling: 5 Ways to Lead in an Era of Constant Change from NonprofitReady
+    1. [How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](#how-great-leaders-inspire-action-from-nonprofitready-by-simon-sinek)
+## Leadership (2)
+### 5 Ways to Lead in an Era of Constant Change from NonprofitReady by Jim Hemerling
 
-![John's Jim Hemerling: 5 Ways to Lead in an Era of Constant Change from NonprofitReady](cert_leadership_jim-hemerling-5-ways-to-lead-in-an-era-of-constant-change_ted-talks_2024-03-25.png)
+![John's 5 Ways to Lead in an Era of Constant Change from NonprofitReady by Jim Hemerling](cert_leadership_jim-hemerling-5-ways-to-lead-in-an-era-of-constant-change_ted-talks_2024-03-25.png)
+
+### Why Good Leaders Make You Feel Safe from NonprofitReady by Simon Sinek
+
+![John's Why Good Leaders Make You Feel Safe from NonprofitReady by Simon Sinek](ccert_leadership_simon-sinek-why-good-leaders-make-you-feel-safe_ted-talks_simon-sinek_2024-05-14.png)
 
 ## Hiring (1)
 ### Why the Best Hire Might Not Have the Perfect Resume from TED Talks by Regina Hartley
@@ -33,7 +38,7 @@
 
 <img src="../cert_storytelling_nancy-duarte-the-secret-structure-of-great-talks.png" alt="John's The Secret Structure of Great Talks from TED Talks by Nancy Duarte" style="border:1px solid #000000" />
 
-### Simon Sinek: How Great Leaders Inspire Action from NonprofitReady
+### How Great Leaders Inspire Action from NonprofitReady by Simon Sinek
 
-![John's Simon Sinek: How Great Leaders Inspire Action from NonprofitReady](cert_leadership_simon-sinek-how-great-leaders-inspire-action_nonprofitready_2024-03-06.png)
+![John's How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](cert_leadership_simon-sinek-how-great-leaders-inspire-action_nonprofitready_2024-03-06.png)
 

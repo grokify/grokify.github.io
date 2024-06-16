@@ -6,7 +6,7 @@
 1. [Strategy](#strategy-1)
     1. [Successful Strategies for Emerging Leaders from NonprofitReady by The Jeff Havens Company](#successful-strategies-for-emerging-leaders-from-nonprofitready-by-the-jeff-havens-company)
 1. [Inspiration](#inspiration-1)
-    1. [Simon Sinek: How Great Leaders Inspire Action from NonprofitReady](#simon-sinek-how-great-leaders-inspire-action-from-nonprofitready)
+    1. [How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](#how-great-leaders-inspire-action-from-nonprofitready-by-simon-sinek)
 ## Fundamentals (3)
 ### Are There Fixed Leadership Traits? from NonprofitReady
 
@@ -26,7 +26,7 @@
 ![John's Successful Strategies for Emerging Leaders from NonprofitReady by The Jeff Havens Company](cert_leadership_successful-strategies-for-emerging-leaders_nonprofitready_2024-03-07.png)
 
 ## Inspiration (1)
-### Simon Sinek: How Great Leaders Inspire Action from NonprofitReady
+### How Great Leaders Inspire Action from NonprofitReady by Simon Sinek
 
-![John's Simon Sinek: How Great Leaders Inspire Action from NonprofitReady](cert_leadership_simon-sinek-how-great-leaders-inspire-action_nonprofitready_2024-03-06.png)
+![John's How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](cert_leadership_simon-sinek-how-great-leaders-inspire-action_nonprofitready_2024-03-06.png)
 
