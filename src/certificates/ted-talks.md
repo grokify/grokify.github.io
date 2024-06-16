@@ -17,7 +17,7 @@
 
 ### Why Good Leaders Make You Feel Safe from NonprofitReady by Simon Sinek
 
-![John's Why Good Leaders Make You Feel Safe from NonprofitReady by Simon Sinek](ccert_leadership_simon-sinek-why-good-leaders-make-you-feel-safe_ted-talks_simon-sinek_2024-05-14.png)
+![John's Why Good Leaders Make You Feel Safe from NonprofitReady by Simon Sinek](cert_leadership_simon-sinek-why-good-leaders-make-you-feel-safe_ted-talks_simon-sinek_2024-05-14.png)
 
 ## Hiring (1)
 ### Why the Best Hire Might Not Have the Perfect Resume from TED Talks by Regina Hartley
