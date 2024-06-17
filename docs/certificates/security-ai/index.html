@@ -5,23 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/security-ai/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Security: AI (5) - John Wang's Site</title>
+    <title>Security: AI (6) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Security: AI (5)";
+        var mkdocs_page_name = "Security: AI (6)";
         var mkdocs_page_input_path = "certificates/security-ai.md";
         var mkdocs_page_url = "/certificates/security-ai/";
       </script>
     
+    <script src="../../js/jquery-3.6.0.min.js" defer></script>
     <!--[if lt IE 9]>
       <script src="../../js/html5shiv.min.js"></script>
     <![endif]-->
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
-      <script>hljs.highlightAll();</script> 
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script> 
 </head>
 
 <body class="wy-body-for-nav" role="document">
@@ -33,7 +34,7 @@
           <a href="../.." class="icon icon-home"> John Wang's Site
         </a><div role="search">
   <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
-      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
   </form>
 </div>
       </div>
@@ -73,11 +74,11 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (12)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (5)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (6)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../machine-learning/">Machine Learning (13)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (14)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (15)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../management-consulting/">Management Consulting (7)</a>
                   </li>
@@ -89,11 +90,11 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (9)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (18)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (19)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (17)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AI (5)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AI (6)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#fundamentals-2">Fundamentals (2)</a>
         <ul>
@@ -103,9 +104,11 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#generative-ai-2">Generative AI (2)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#generative-ai-3">Generative AI (3)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#security-risks-and-privacy-concerns-using-generative-ai-from-pluralsight-by-dr-shaila-rana">Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#security-hot-takes-chatgpt-from-pluralsight-by-michael-teske-aaron-rosenmund">Security Hot Takes: ChatGPT from Pluralsight by Michael Teske, Aaron Rosenmund</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#generative-ai-intelligent-and-dangerous-from-knowbe4-by-dr-swantje-westpfahl">Generative AI: Intelligent and Dangerous? from KnowBe4 by Dr. Swantje Westpfahl</a>
     </li>
@@ -119,9 +122,9 @@
     </li>
     </ul>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (21)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (25)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (21)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (23)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (5)</a>
                   </li>
@@ -141,14 +144,14 @@
       <div class="wy-nav-content">
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
-    <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
-          <li class="breadcrumb-item">Certificates</li>
-      <li class="breadcrumb-item active">Security: AI (5)</li>
+    <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
+          <li>Certificates &raquo;</li><li>Security: AI (6)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
   <hr/>
 </div>
+
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
@@ -156,11 +159,12 @@
 <ol>
 <li><a href="#fundamentals-2">Fundamentals</a><ol>
 <li><a href="#ai-security-from-lakera">AI Security from Lakera</a></li>
-<li><a href="#defending-against-aigenerated-attacks-from-codecademy">Defending Against AI-Generated Attacks from Codecademy</a></li>
+<li><a href="#defending-against-ai-generated-attacks-from-codecademy">Defending Against AI-Generated Attacks from Codecademy</a></li>
 </ol>
 </li>
-<li><a href="#generative-ai-2">Generative AI</a><ol>
+<li><a href="#generative-ai-3">Generative AI</a><ol>
 <li><a href="#security-risks-and-privacy-concerns-using-generative-ai-from-pluralsight-by-dr-shaila-rana">Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana</a></li>
+<li><a href="#security-hot-takes-chatgpt-from-pluralsight-by-michael-teske-aaron-rosenmund">Security Hot Takes: ChatGPT from Pluralsight by Michael Teske, Aaron Rosenmund</a></li>
 <li><a href="#generative-ai-intelligent-and-dangerous-from-knowbe4-by-dr-swantje-westpfahl">Generative AI: Intelligent and Dangerous? from KnowBe4 by Dr. Swantje Westpfahl</a></li>
 </ol>
 </li>
@@ -177,9 +181,11 @@
 <p><img src="../cert_ai_ai-security_lakera_cert-53495805-342d-41b7-b9bf-5923ae00422d_2024-03-19.png" alt="John's AI Security from Lakera" style="border:1px solid #000000" /></p>
 <h3 id="defending-against-ai-generated-attacks-from-codecademy">Defending Against AI-Generated Attacks from Codecademy</h3>
 <p><img src="../cert_ai_defending-against-ai-generated-attacks_codecademy_2024-03-28.png" alt="John's Defending Against AI-Generated Attacks from Codecademy" style="border:1px solid #000000" /></p>
-<h2 id="generative-ai-2">Generative AI (2)</h2>
+<h2 id="generative-ai-3">Generative AI (3)</h2>
 <h3 id="security-risks-and-privacy-concerns-using-generative-ai-from-pluralsight-by-dr-shaila-rana">Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana</h3>
 <p><img src="../cert_aisec_security-risks-and-privacy-concerns-using-generative-ai_pluralsight_dr-shaila-rana_2024-06-10.png" alt="John's Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana" style="border:1px solid #000000" /></p>
+<h3 id="security-hot-takes-chatgpt-from-pluralsight-by-michael-teske-aaron-rosenmund">Security Hot Takes: ChatGPT from Pluralsight by Michael Teske, Aaron Rosenmund</h3>
+<p><img src="../cert_aisec_chatgpt_security-hot-takes-chatgpt_pluralsight_michael-teske-and-aaron-rosenmund_2024-06-17.png" alt="John's Security Hot Takes: ChatGPT from Pluralsight by Michael Teske, Aaron Rosenmund" style="border:1px solid #000000" /></p>
 <h3 id="generative-ai-intelligent-and-dangerous-from-knowbe4-by-dr-swantje-westpfahl">Generative AI: Intelligent and Dangerous? from KnowBe4 by Dr. Swantje Westpfahl</h3>
 <p><img src="../cert_aisec_generative-ai-intelligent-and-dangerous_knowbe4_dr-swantje-westpfahl_2024-06-11.png" alt="John's Generative AI: Intelligent and Dangerous? from KnowBe4 by Dr. Swantje Westpfahl" style="border:1px solid #000000" /></p>
 <h2 id="infosec-1">InfoSec (1)</h2>
@@ -190,7 +196,7 @@
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
         <a href="../scrum/" class="btn btn-neutral float-left" title="Scrum (17)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../security-appsec/" class="btn btn-neutral float-right" title="Security: AppSec (21)">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../security-appsec/" class="btn btn-neutral float-right" title="Security: AppSec (25)">Next <span class="icon icon-circle-arrow-right"></span></a>
     </div>
 
   <hr/>
@@ -220,15 +226,14 @@
     
   </span>
 </div>
-    <script src="../../js/jquery-3.6.0.min.js"></script>
-    <script>var base_url = "../..";</script>
-    <script src="../../js/theme_extra.js"></script>
-    <script src="../../js/theme.js"></script>
-      <script src="../../search/main.js"></script>
-    <script>
-        jQuery(function () {
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
             SphinxRtdTheme.Navigation.enable(true);
-        });
+        };
     </script>
 
 </body>

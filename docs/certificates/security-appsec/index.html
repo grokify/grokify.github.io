@@ -5,23 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/security-appsec/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Security: AppSec (21) - John Wang's Site</title>
+    <title>Security: AppSec (25) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Security: AppSec (21)";
+        var mkdocs_page_name = "Security: AppSec (25)";
         var mkdocs_page_input_path = "certificates/security-appsec.md";
         var mkdocs_page_url = "/certificates/security-appsec/";
       </script>
     
+    <script src="../../js/jquery-3.6.0.min.js" defer></script>
     <!--[if lt IE 9]>
       <script src="../../js/html5shiv.min.js"></script>
     <![endif]-->
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
-      <script>hljs.highlightAll();</script> 
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script> 
 </head>
 
 <body class="wy-body-for-nav" role="document">
@@ -33,7 +34,7 @@
           <a href="../.." class="icon icon-home"> John Wang's Site
         </a><div role="search">
   <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
-      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
   </form>
 </div>
       </div>
@@ -73,11 +74,11 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (12)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (5)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (6)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../machine-learning/">Machine Learning (13)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (14)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (15)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../management-consulting/">Management Consulting (7)</a>
                   </li>
@@ -89,13 +90,13 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (9)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (18)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (19)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (17)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (5)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (6)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AppSec (21)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AppSec (25)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#programming-6">Programming (6)</a>
         <ul>
@@ -127,14 +128,6 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#devops-2">DevOps (2)</a>
-        <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a>
-    </li>
-        </ul>
-    </li>
     <li class="toctree-l2"><a class="reference internal" href="#software-supply-chain-security-sscs-2">Software Supply Chain Security (SSCS) (2)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry</a>
@@ -151,7 +144,23 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#aws-5">AWS (5)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#devops-2">DevOps (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#secops-2">SecOps (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund">Red Team Tools for Emulated Adversary Techniques with MITRE ATT&amp;CK from Pluralsight by Aaron Rosenmund</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund">Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-6">AWS (6)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</a>
     </li>
@@ -163,6 +172,8 @@
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-security-token-services-sts-from-simplilearn">Introduction to AWS Security Token Services (STS) from Simplilearn</a>
     </li>
+    <li class="toctree-l3"><a class="reference internal" href="#getting-started-with-aws-control-tower-from-simplilearn">Getting Started with AWS Control Tower from Simplilearn</a>
+    </li>
         </ul>
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#snyk-1">Snyk (1)</a>
@@ -171,9 +182,15 @@
     </li>
         </ul>
     </li>
+    <li class="toctree-l2"><a class="reference internal" href="#vulnerability-examples-1">Vulnerability Examples (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#xz-backdoor-supply-chain-vulnerability-what-you-should-know-from-pluralsight-by-aaron-rosenmund-matthew-lloyd-davies">XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies</a>
+    </li>
+        </ul>
+    </li>
     </ul>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (21)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (23)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (5)</a>
                   </li>
@@ -193,14 +210,14 @@
       <div class="wy-nav-content">
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
-    <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
-          <li class="breadcrumb-item">Certificates</li>
-      <li class="breadcrumb-item active">Security: AppSec (21)</li>
+    <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
+          <li>Certificates &raquo;</li><li>Security: AppSec (25)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
   <hr/>
 </div>
+
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
@@ -224,11 +241,6 @@
 <li><a href="#api-security-architect-from-api-academy">API Security Architect from API Academy</a></li>
 </ol>
 </li>
-<li><a href="#devops-2">DevOps</a><ol>
-<li><a href="#certified-devops-information-security-engineer-devopssec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</a></li>
-<li><a href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a></li>
-</ol>
-</li>
 <li><a href="#software-supply-chain-security-sscs-2">Software Supply Chain Security (SSCS)</a><ol>
 <li><a href="#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry</a></li>
 <li><a href="#secure-coding-using-components-with-known-vulnerabilities-from-pluralsight-by-peter-mosmans">Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans</a></li>
@@ -239,16 +251,31 @@
 <li><a href="#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer">Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer</a></li>
 </ol>
 </li>
-<li><a href="#aws-5">AWS</a><ol>
+<li><a href="#devops-2">DevOps</a><ol>
+<li><a href="#certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</a></li>
+<li><a href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a></li>
+</ol>
+</li>
+<li><a href="#secops-2">SecOps</a><ol>
+<li><a href="#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund">Red Team Tools for Emulated Adversary Techniques with MITRE ATT&amp;CK from Pluralsight by Aaron Rosenmund</a></li>
+<li><a href="#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund">Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund</a></li>
+</ol>
+</li>
+<li><a href="#aws-6">AWS</a><ol>
 <li><a href="#aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</a></li>
 <li><a href="#introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</a></li>
 <li><a href="#introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</a></li>
 <li><a href="#getting-started-with-aws-security-hub-from-simplilearn">Getting Started with AWS Security Hub from Simplilearn</a></li>
 <li><a href="#introduction-to-aws-security-token-services-sts-from-simplilearn">Introduction to AWS Security Token Services (STS) from Simplilearn</a></li>
+<li><a href="#getting-started-with-aws-control-tower-from-simplilearn">Getting Started with AWS Control Tower from Simplilearn</a></li>
 </ol>
 </li>
 <li><a href="#snyk-1">Snyk</a><ol>
 <li><a href="#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi">Application Analysis with Snyk from Pluralsight by Hiren Gadhvi</a></li>
+</ol>
+</li>
+<li><a href="#vulnerability-examples-1">Vulnerability Examples</a><ol>
+<li><a href="#xz-backdoor-supply-chain-vulnerability-what-you-should-know-from-pluralsight-by-aaron-rosenmund-matthew-lloyd-davies">XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies</a></li>
 </ol>
 </li>
 </ol>
@@ -276,14 +303,6 @@
 <h2 id="api-1">API (1)</h2>
 <h3 id="api-security-architect-from-api-academy">API Security Architect from API Academy</h3>
 <p><img src="../cert_api_api-security-architect_apiacademy_2024-01-31.png" alt="John's API Security Architect from API Academy" style="border:1px solid #000000" /></p>
-<h2 id="devops-2">DevOps (2)</h2>
-<h3 id="certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</h3>
-<ul>
-<li><a href="https://www.devops-certification.org/badges/22465533642098">John's DevOps Academy online credential</a></li>
-</ul>
-<p><img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" /></p>
-<h3 id="container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</h3>
-<p><img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" /></p>
 <h2 id="software-supply-chain-security-sscs-2">Software Supply Chain Security (SSCS) (2)</h2>
 <h3 id="secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry</h3>
 <p><img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry" style="border:1px solid #000000" /></p>
@@ -294,7 +313,20 @@
 <p><img src="../cert_security_kubernetes-security-cluster-setup_pluralsight_2024-05-12.png" alt="John's Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" /></p>
 <h3 id="kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer">Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer</h3>
 <p><img src="../cert_security_appsec_kubernetes-security-minimizing-microservice-vulnerabilities_pluralsight_2024-06-12.png" alt="John's Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer" style="border:1px solid #000000" /></p>
-<h2 id="aws-5">AWS (5)</h2>
+<h2 id="devops-2">DevOps (2)</h2>
+<h3 id="certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</h3>
+<ul>
+<li><a href="https://www.devops-certification.org/badges/22465533642098">John's DevOps Academy online credential</a></li>
+</ul>
+<p><img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" /></p>
+<h3 id="container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</h3>
+<p><img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" /></p>
+<h2 id="secops-2">SecOps (2)</h2>
+<h3 id="red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund">Red Team Tools for Emulated Adversary Techniques with MITRE ATT&amp;CK from Pluralsight by Aaron Rosenmund</h3>
+<p><img src="../cert_appsec_secops_red-team-tools-for-emulated-adversary-techniques-with-mitre-attack_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" /></p>
+<h3 id="blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund">Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund</h3>
+<p><img src="../cert_appsec_secops_blue-team-tools-defense-against-adversary-activity-using-mitre-techniques_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" /></p>
+<h2 id="aws-6">AWS (6)</h2>
 <h3 id="aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</h3>
 <p><img alt="John's AWS: Identity and Access Management from Whizlabs" src="../cert_aws_aws-identity-and-access-management_whizlabs_cert-QRD93E7CVUMP_2024-03-20.png" /></p>
 <h3 id="introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</h3>
@@ -305,15 +337,20 @@
 <p><img alt="John's Getting Started with AWS Security Hub from Simplilearn" src="../cert_aws_getting-started-with-aws-security-hub_simplilearn_cert-4973168_1711030705_2024-03-21.png" /></p>
 <h3 id="introduction-to-aws-security-token-services-sts-from-simplilearn">Introduction to AWS Security Token Services (STS) from Simplilearn</h3>
 <p><img alt="John's Introduction to AWS Security Token Services (STS) from Simplilearn" src="../cert_aws_introduction-to-aws-security-token-services-sts_6733873_2024-06-15.png" /></p>
+<h3 id="getting-started-with-aws-control-tower-from-simplilearn">Getting Started with AWS Control Tower from Simplilearn</h3>
+<p><img alt="John's Getting Started with AWS Control Tower from Simplilearn" src="../cert_aws_getting-started-with-aws-control-tower_simplilearn_cert-6735033_1718548596_2024-06-16.png" /></p>
 <h2 id="snyk-1">Snyk (1)</h2>
 <h3 id="application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi">Application Analysis with Snyk from Pluralsight by Hiren Gadhvi</h3>
 <p><img src="../cert_security_application-analysis-with-snyk_pluralsight_2024-04-10.png" alt="John's Application Analysis with Snyk from Pluralsight by Hiren Gadhvi" style="border:1px solid #000000" /></p>
+<h2 id="vulnerability-examples-1">Vulnerability Examples (1)</h2>
+<h3 id="xz-backdoor-supply-chain-vulnerability-what-you-should-know-from-pluralsight-by-aaron-rosenmund-matthew-lloyd-davies">XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies</h3>
+<p><img src="../cert_appsec_vuln-examples_xz-backdoor-supply-chain-what-you-should-know_pluralsight_aaron-rosenmund-and-matthew-lloyd-davies_2024-06-17.png" alt="John's XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies" style="border:1px solid #000000" /></p>
               
             </div>
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../security-ai/" class="btn btn-neutral float-left" title="Security: AI (5)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../security-infosec/" class="btn btn-neutral float-right" title="Security: InfoSec (21)">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../security-ai/" class="btn btn-neutral float-left" title="Security: AI (6)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../security-infosec/" class="btn btn-neutral float-right" title="Security: InfoSec (23)">Next <span class="icon icon-circle-arrow-right"></span></a>
     </div>
 
   <hr/>
@@ -343,15 +380,14 @@
     
   </span>
 </div>
-    <script src="../../js/jquery-3.6.0.min.js"></script>
-    <script>var base_url = "../..";</script>
-    <script src="../../js/theme_extra.js"></script>
-    <script src="../../js/theme.js"></script>
-      <script src="../../search/main.js"></script>
-    <script>
-        jQuery(function () {
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
             SphinxRtdTheme.Navigation.enable(true);
-        });
+        };
     </script>
 
 </body>
