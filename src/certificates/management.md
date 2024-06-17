@@ -1,4 +1,6 @@
 # John's Management Certificates
+1. [General Management](#general-management-1)
+    1. [Stanford Executive Program (SEP) from Stanford](#stanford-executive-program-sep-from-stanford)
 1. [Fundamentals](#fundamentals-5)
     1. [The Management Styles from NonprofitReady by Cegos](#the-management-styles-from-nonprofitready-by-cegos)
     1. [Find Quick Wins as a New Manager from NonprofitReady by Grovo](#find-quick-wins-as-a-new-manager-from-nonprofitready-by-grovo)
@@ -16,6 +18,11 @@
     1. [Break Down Job Competencies Into Behaviors from NonprofitReady by Grovo](#break-down-job-competencies-into-behaviors-from-nonprofitready-by-grovo)
     1. [Prepare for a Behavior-Based Interview from NonprofitReady by Grovo](#prepare-for-a-behavior-based-interview-from-nonprofitready-by-grovo)
     1. [The Advantages of a Behavior-Based Interview from NonprofitReady by Grovo](#the-advantages-of-a-behavior-based-interview-from-nonprofitready-by-grovo)
+## General Management (1)
+### Stanford Executive Program (SEP) from Stanford
+
+<img src="../cert_management_stanford-executive-program-sep_stanford_2023-02-18.png" alt="John's Stanford Executive Program (SEP) from Stanford" style="border:1px solid #000000" />
+
 ## Fundamentals (5)
 ### The Management Styles from NonprofitReady by Cegos
 

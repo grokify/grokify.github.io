@@ -11,15 +11,18 @@
     1. [OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt](#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt)
 1. [API](#api-1)
     1. [API Security Architect from API Academy](#api-security-architect-from-api-academy)
-1. [DevOps](#devops-2)
-    1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
-    1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
 1. [Software Supply Chain Security (SSCS)](#software-supply-chain-security-sscs-2)
     1. [Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry](#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry)
     1. [Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans](#secure-coding-using-components-with-known-vulnerabilities-from-pluralsight-by-peter-mosmans)
 1. [Kubernetes](#kubernetes-2)
     1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
     1. [Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer](#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer)
+1. [DevOps](#devops-2)
+    1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
+    1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
+1. [SecOps](#secops-2)
+    1. [Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund](#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund)
+    1. [Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund](#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund)
 1. [AWS](#aws-6)
     1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
     1. [Introduction to AWS Identity and Access Management (IAM) from Simplilearn](#introduction-to-aws-identity-and-access-management-iam-from-simplilearn)
@@ -29,6 +32,8 @@
     1. [Getting Started with AWS Control Tower from Simplilearn](#getting-started-with-aws-control-tower-from-simplilearn)
 1. [Snyk](#snyk-1)
     1. [Application Analysis with Snyk from Pluralsight by Hiren Gadhvi](#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi)
+1. [Vulnerability Examples](#vulnerability-examples-1)
+    1. [XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies](#xz-backdoor-supply-chain-vulnerability-what-you-should-know-from-pluralsight-by-aaron-rosenmund-matthew-lloyd-davies)
 ## Programming (6)
 ### OWASP Top 10 from Snyk
 
@@ -69,16 +74,6 @@
 
 <img src="../cert_api_api-security-architect_apiacademy_2024-01-31.png" alt="John's API Security Architect from API Academy" style="border:1px solid #000000" />
 
-## DevOps (2)
-### Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy
-* [John's DevOps Academy online credential](https://www.devops-certification.org/badges/22465533642098)
-
-<img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" />
-
-### Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof
-
-<img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" />
-
 ## Software Supply Chain Security (SSCS) (2)
 ### Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry
 
@@ -96,6 +91,25 @@
 ### Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer
 
 <img src="../cert_security_appsec_kubernetes-security-minimizing-microservice-vulnerabilities_pluralsight_2024-06-12.png" alt="John's Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer" style="border:1px solid #000000" />
+
+## DevOps (2)
+### Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy
+* [John's DevOps Academy online credential](https://www.devops-certification.org/badges/22465533642098)
+
+<img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" />
+
+### Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof
+
+<img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" />
+
+## SecOps (2)
+### Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund
+
+<img src="../cert_appsec_secops_red-team-tools-for-emulated-adversary-techniques-with-mitre-attack_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" />
+
+### Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund
+
+<img src="../cert_appsec_secops_blue-team-tools-defense-against-adversary-activity-using-mitre-techniques_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" />
 
 ## AWS (6)
 ### AWS: Identity and Access Management from Whizlabs
@@ -126,4 +140,9 @@
 ### Application Analysis with Snyk from Pluralsight by Hiren Gadhvi
 
 <img src="../cert_security_application-analysis-with-snyk_pluralsight_2024-04-10.png" alt="John's Application Analysis with Snyk from Pluralsight by Hiren Gadhvi" style="border:1px solid #000000" />
+
+## Vulnerability Examples (1)
+### XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies
+
+<img src="../cert_appsec_vuln-examples_xz-backdoor-supply-chain-what-you-should-know_pluralsight_aaron-rosenmund-and-matthew-lloyd-davies_2024-06-17.png" alt="John's XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies" style="border:1px solid #000000" />
 

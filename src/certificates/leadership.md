@@ -1,5 +1,6 @@
 # John's Leadership Certificates
-1. [Fundamentals](#fundamentals-3)
+1. [Fundamentals](#fundamentals-4)
+    1. [Stanford Executive Program (SEP) from Stanford](#stanford-executive-program-sep-from-stanford)
     1. [Are There Fixed Leadership Traits? from NonprofitReady](#are-there-fixed-leadership-traits-from-nonprofitready)
     1. [What is the Difference Between Management and Leadership from NonprofitReady](#what-is-the-difference-between-management-and-leadership-from-nonprofitready)
     1. [Why Leadership Isn't About the Leader from NonprofitReady](#why-leadership-isnt-about-the-leader-from-nonprofitready)
@@ -7,7 +8,11 @@
     1. [Successful Strategies for Emerging Leaders from NonprofitReady by The Jeff Havens Company](#successful-strategies-for-emerging-leaders-from-nonprofitready-by-the-jeff-havens-company)
 1. [Inspiration](#inspiration-1)
     1. [How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](#how-great-leaders-inspire-action-from-nonprofitready-by-simon-sinek)
-## Fundamentals (3)
+## Fundamentals (4)
+### Stanford Executive Program (SEP) from Stanford
+
+<img src="../cert_management_stanford-executive-program-sep_stanford_2023-02-18.png" alt="John's Stanford Executive Program (SEP) from Stanford" style="border:1px solid #000000" />
+
 ### Are There Fixed Leadership Traits? from NonprofitReady
 
 ![John's Are There Fixed Leadership Traits? from NonprofitReady](cert_leadership_are-there-fixed-leadership-traits_nonprofitready_2024-03-06.png)
