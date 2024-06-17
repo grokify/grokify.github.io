@@ -6,7 +6,7 @@
 1. [Security](#security-3)
     1. [AI Security from Lakera](#ai-security-from-lakera)
     1. [Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana](#security-risks-and-privacy-concerns-using-generative-ai-from-pluralsight-by-dr-shaila-rana)
-    1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-aigenerated-attacks-from-codecademy)
+    1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-ai-generated-attacks-from-codecademy)
 1. [Governance](#governance-1)
     1. [Introduction to Responsible AI from Google Cloud](#introduction-to-responsible-ai-from-google-cloud)
 1. [Generative AI](#generative-ai-7)

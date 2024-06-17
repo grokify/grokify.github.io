@@ -18,7 +18,7 @@
     1. [Scaled Professional Scrum (SPS) from Scrum.org](#scaled-professional-scrum-sps-from-scrumorg)
     1. [Scaled Scrum Expert (SSEAC) from Scrum Institute](#scaled-scrum-expert-sseac-from-scrum-institute)
 1. [Leadership](#leadership-3)
-    1. [Professional Agile Leadership - Evidence-Based Management (PAL-EBM) from Scrum.org](#professional-agile-leadership-evidencebased-management-palebm-from-scrumorg)
+    1. [Professional Agile Leadership - Evidence-Based Management (PAL-EBM) from Scrum.org](#professional-agile-leadership-evidence-based-management-pal-ebm-from-scrumorg)
     1. [Professional Agile Leadership I (PAL I) from Scrum.org](#professional-agile-leadership-i-pal-i-from-scrumorg)
     1. [Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute](#certified-professional-in-okr-objectives-key-results-cpokr-from-scrum-institute)
 1. [Coach](#coach-1)

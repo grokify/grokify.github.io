@@ -1,7 +1,7 @@
 # John's Security: AI Certificates
 1. [Fundamentals](#fundamentals-2)
     1. [AI Security from Lakera](#ai-security-from-lakera)
-    1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-aigenerated-attacks-from-codecademy)
+    1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-ai-generated-attacks-from-codecademy)
 1. [Generative AI](#generative-ai-2)
     1. [Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana](#security-risks-and-privacy-concerns-using-generative-ai-from-pluralsight-by-dr-shaila-rana)
     1. [Generative AI: Intelligent and Dangerous? from KnowBe4 by Dr. Swantje Westpfahl](#generative-ai-intelligent-and-dangerous-from-knowbe4-by-dr-swantje-westpfahl)

@@ -12,7 +12,7 @@
 1. [API](#api-1)
     1. [API Security Architect from API Academy](#api-security-architect-from-api-academy)
 1. [DevOps](#devops-2)
-    1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devopssec-from-devops-academy)
+    1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
     1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
 1. [Software Supply Chain Security (SSCS)](#software-supply-chain-security-sscs-2)
     1. [Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry](#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry)
@@ -20,12 +20,13 @@
 1. [Kubernetes](#kubernetes-2)
     1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
     1. [Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer](#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer)
-1. [AWS](#aws-5)
+1. [AWS](#aws-6)
     1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
     1. [Introduction to AWS Identity and Access Management (IAM) from Simplilearn](#introduction-to-aws-identity-and-access-management-iam-from-simplilearn)
     1. [Introduction to AWS Trusted Advisor from Simplilearn](#introduction-to-aws-trusted-advisor-from-simplilearn)
     1. [Getting Started with AWS Security Hub from Simplilearn](#getting-started-with-aws-security-hub-from-simplilearn)
     1. [Introduction to AWS Security Token Services (STS) from Simplilearn](#introduction-to-aws-security-token-services-sts-from-simplilearn)
+    1. [Getting Started with AWS Control Tower from Simplilearn](#getting-started-with-aws-control-tower-from-simplilearn)
 1. [Snyk](#snyk-1)
     1. [Application Analysis with Snyk from Pluralsight by Hiren Gadhvi](#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi)
 ## Programming (6)
@@ -96,7 +97,7 @@
 
 <img src="../cert_security_appsec_kubernetes-security-minimizing-microservice-vulnerabilities_pluralsight_2024-06-12.png" alt="John's Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer" style="border:1px solid #000000" />
 
-## AWS (5)
+## AWS (6)
 ### AWS: Identity and Access Management from Whizlabs
 
 ![John's AWS: Identity and Access Management from Whizlabs](cert_aws_aws-identity-and-access-management_whizlabs_cert-QRD93E7CVUMP_2024-03-20.png)
@@ -116,6 +117,10 @@
 ### Introduction to AWS Security Token Services (STS) from Simplilearn
 
 ![John's Introduction to AWS Security Token Services (STS) from Simplilearn](cert_aws_introduction-to-aws-security-token-services-sts_6733873_2024-06-15.png)
+
+### Getting Started with AWS Control Tower from Simplilearn
+
+![John's Getting Started with AWS Control Tower from Simplilearn](cert_aws_getting-started-with-aws-control-tower_simplilearn_cert-6735033_1718548596_2024-06-16.png)
 
 ## Snyk (1)
 ### Application Analysis with Snyk from Pluralsight by Hiren Gadhvi
