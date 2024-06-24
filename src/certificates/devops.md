@@ -20,6 +20,8 @@
     1. [AWS CI/CD Pipeline from Great Learning Academy](#aws-ci-cd-pipeline-from-great-learning-academy)
 1. [Azure](#azure-1)
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
+1. [Datadog](#datadog-1)
+    1. [Introduction to Observability from Datadog](#introduction-to-observability-from-datadog)
 ## Resources
 
 1. [DevOps Reading List](../devops_resource-links)
@@ -89,4 +91,10 @@
 ### Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts
 
 <img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" />
+
+## Datadog (1)
+### Introduction to Observability from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/yv6tc8ptwl)
+
+<img src="../cert_datadog_observability_introduction-to-observability_datadog_cert-524379653_2024-06-24.jpg" alt="John's Introduction to Observability from Datadog" style="border:1px solid #000000" />
 
