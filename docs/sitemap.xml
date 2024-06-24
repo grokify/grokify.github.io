@@ -131,6 +131,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://grokify.github.io/certificates/observability/</loc>
+         <lastmod>2024-06-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://grokify.github.io/certificates/okr_resource-links/</loc>
          <lastmod>2024-06-24</lastmod>
          <changefreq>daily</changefreq>
