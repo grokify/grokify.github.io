@@ -5,6 +5,8 @@
 1. [Frameworks](#frameworks-2)
     1. [Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](#customer-centric-it-strategy-from-university-of-virginia-darden-school-by-alex-cowan)
     1. [The Strategist's Challenge from University of Virginia, Darden School Foundation by Michael Lenox, Jared Harris](#the-strategists-challenge-from-university-of-virginia-darden-school-foundation-by-michael-lenox-jared-harris)
+1. [Product Management](#product-management-1)
+    1. [Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell](#product-management-strategy-and-vision-from-pluralsight-by-jeremy-jarrell)
 1. [Artificial Intelligence](#artificial-intelligence-1)
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
 ## Resources
@@ -31,6 +33,11 @@
 * [John's University of Virginia, Darden School Foundation online credential](https://coursera.org/verify/TRF84QSBXV2S)
 
 ![John's The Strategist's Challenge from University of Virginia, Darden School Foundation by Michael Lenox, Jared Harris](cert_strategy_strategists-challenge_uvadarden_cert-TRF84QSBXV2S_2024-03-04.png)
+
+## Product Management (1)
+### Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell
+
+<img src="../cert_product_product-management-strategy-and-vision_pluralsight_jeremy-jarrell_2024-06-22.png" alt="John's Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell" style="border:1px solid #000000" />
 
 ## Artificial Intelligence (1)
 ### AI Strategy and Governance from University of Pennsylvania, Wharton School

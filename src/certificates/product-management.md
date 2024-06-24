@@ -1,4 +1,6 @@
 # John's Product Management Certificates
+1. [Strategy](#strategy-1)
+    1. [Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell](#product-management-strategy-and-vision-from-pluralsight-by-jeremy-jarrell)
 1. [Frameworks](#frameworks-2)
     1. [Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](#customer-centric-it-strategy-from-university-of-virginia-darden-school-by-alex-cowan)
     1. [The Strategist's Challenge from University of Virginia, Darden School Foundation by Michael Lenox, Jared Harris](#the-strategists-challenge-from-university-of-virginia-darden-school-foundation-by-michael-lenox-jared-harris)
@@ -12,6 +14,11 @@
     1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
     1. [Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute](#scrum-product-owner-accredited-certification-spoac-from-scrum-institute)
     1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devops-po-from-devops-academy)
+## Strategy (1)
+### Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell
+
+<img src="../cert_product_product-management-strategy-and-vision_pluralsight_jeremy-jarrell_2024-06-22.png" alt="John's Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell" style="border:1px solid #000000" />
+
 ## Frameworks (2)
 ### Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan
 * [John's University of Virginia, Darden School online credential](https://coursera.org/verify/JU7THK93NFN3)

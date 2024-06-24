@@ -18,6 +18,8 @@
     1. [Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer](#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer)
 1. [AWS](#aws-1)
     1. [AWS CI/CD Pipeline from Great Learning Academy](#aws-ci-cd-pipeline-from-great-learning-academy)
+1. [Azure](#azure-1)
+    1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
 ## Resources
 
 1. [DevOps Reading List](../devops_resource-links)
@@ -82,4 +84,9 @@
 * [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/ZGRSHOKG)
 
 <img src="../cert_aws_aws-ci-cd-pipeline_greatlearning_cert-ZGRSHOKG_2024-04-07.jpg" alt="John's AWS CI/CD Pipeline from Great Learning Academy" style="border:1px solid #000000" />
+
+## Azure (1)
+### Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts
+
+<img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" />
 

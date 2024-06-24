@@ -17,8 +17,9 @@
     1. [OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt](#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt)
 1. [C#](#c-1)
     1. [C# (Basic) from HackerRank](#c-basic-from-hackerrank)
-1. [Go](#go-2)
+1. [Go](#go-3)
     1. [Go (Basic) from HackerRank](#go-basic-from-hackerrank)
+    1. [Concurrency in Go from University of California, Irvine by Ian Harris](#concurrency-in-go-from-university-of-california-irvine-by-ian-harris)
     1. [Concurrent Programming in Go from Pluralsight by Mike Van Sickle](#concurrent-programming-in-go-from-pluralsight-by-mike-van-sickle)
 1. [Python](#python-1)
     1. [Python (Basic) from HackerRank](#python-basic-from-hackerrank)
@@ -89,12 +90,17 @@
 
 ![John's C# (Basic) from HackerRank](cert_programming_csharp_hackerrank_csharp-basic_2023-07-16.png)
 
-## Go (2)
+## Go (3)
 ### Go (Basic) from HackerRank
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/7666f51dbcdf)
 
 ![John's Go (Basic) from HackerRank](cert_programming_go_hackerrank_go-basic_2023-07-07.png)
+
+### Concurrency in Go from University of California, Irvine by Ian Harris
+* [John's University of California, Irvine online credential](https://coursera.org/verify/V69VBBWW7CFJ)
+
+![John's Concurrency in Go from University of California, Irvine by Ian Harris](cert_programming_concurrency-in-go_coursera_ucirvine_ian-harris_cert-V69VBBWW7CFJ_2024-06-23.png)
 
 ### Concurrent Programming in Go from Pluralsight by Mike Van Sickle
 

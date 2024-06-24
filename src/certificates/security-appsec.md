@@ -1,4 +1,6 @@
 # John's Security: AppSec Certificates
+1. [Strategy](#strategy-1)
+    1. [Security Framework: NIST CSF from Pluralsight by Mike Woolard](#security-framework-nist-csf-from-pluralsight-by-mike-woolard)
 1. [Programming](#programming-6)
     1. [OWASP Top 10 from Snyk](#owasp-top-10-from-snyk)
     1. [Snyk Top 10 from Snyk](#snyk-top-10-from-snyk)
@@ -20,7 +22,8 @@
 1. [DevOps](#devops-2)
     1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
     1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
-1. [SecOps](#secops-2)
+1. [SecOps](#secops-3)
+    1. [Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry](#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry)
     1. [Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund](#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund)
     1. [Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund](#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund)
 1. [AWS](#aws-6)
@@ -34,6 +37,11 @@
     1. [Application Analysis with Snyk from Pluralsight by Hiren Gadhvi](#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi)
 1. [Vulnerability Examples](#vulnerability-examples-1)
     1. [XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies](#xz-backdoor-supply-chain-vulnerability-what-you-should-know-from-pluralsight-by-aaron-rosenmund-matthew-lloyd-davies)
+## Strategy (1)
+### Security Framework: NIST CSF from Pluralsight by Mike Woolard
+
+<img src="../cert_security_strategy_security-framework-nist-csf_pluralsight_mike-woolard_2024-06-19.png" alt="John's Security Framework: NIST CSF from Pluralsight by Mike Woolard" style="border:1px solid #000000" />
+
 ## Programming (6)
 ### OWASP Top 10 from Snyk
 
@@ -102,7 +110,11 @@
 
 <img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" />
 
-## SecOps (2)
+## SecOps (3)
+### Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry
+
+<img src="../cert_appsec_secops_secure-software-testing-for-csslp_pluralsight_kevin-henry_2024-06-18.png" alt="John's Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
+
 ### Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund
 
 <img src="../cert_appsec_secops_red-team-tools-for-emulated-adversary-techniques-with-mitre-attack_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" />

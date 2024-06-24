@@ -1,9 +1,10 @@
 # John's Nonprofit Certificates
 1. [Fundamentals](#fundamentals-1)
     1. [Nonprofit Essentials Certificate from Cornerstone OnDemand Foundation](#nonprofit-essentials-certificate-from-cornerstone-ondemand-foundation)
-1. [Board of Directors](#board-of-directors-2)
+1. [Board of Directors](#board-of-directors-3)
     1. [Setting Up a Nonprofit Board from Philanthropy University](#setting-up-a-nonprofit-board-from-philanthropy-university)
     1. [Nonprofit Board Member Essentials Certificate from Cornerstone OnDemand Foundation](#nonprofit-board-member-essentials-certificate-from-cornerstone-ondemand-foundation)
+    1. [The 6 Biggest Mistakes Executive Directors Make from NonprofitReady by Cornerstone OnDemand Foundation](#the-6-biggest-mistakes-executive-directors-make-from-nonprofitready-by-cornerstone-ondemand-foundation)
 1. [Fundraising](#fundraising-1)
     1. [Major Donor Fundraising from Cornerstone OnDemand Foundation](#major-donor-fundraising-from-cornerstone-ondemand-foundation)
 1. [Grant Writing](#grant-writing-2)
@@ -16,7 +17,7 @@
 
 ![John's Nonprofit Essentials Certificate from Cornerstone OnDemand Foundation](cert_nonprofit_nonprofit-essentials_nonprofitready-org_cert_2024-02-09.png)
 
-## Board of Directors (2)
+## Board of Directors (3)
 ### Setting Up a Nonprofit Board from Philanthropy University
 * [John's Philanthropy University online credential](https://courses.philanthropyu.org/verify/SYTRVUMIDC)
 
@@ -25,6 +26,10 @@
 ### Nonprofit Board Member Essentials Certificate from Cornerstone OnDemand Foundation
 
 ![John's Nonprofit Board Member Essentials Certificate from Cornerstone OnDemand Foundation](cert_nonprofit_nonprofit-board-member-essentials_nonprofitready-org_cert_2024-02-09.png)
+
+### The 6 Biggest Mistakes Executive Directors Make from NonprofitReady by Cornerstone OnDemand Foundation
+
+<img src="../cert_boardofdirectors_the-6-biggest-mistakes-executive-directors-make_nonprofitready_cornerstone_2024-06-11.png" alt="John's The 6 Biggest Mistakes Executive Directors Make from NonprofitReady by Cornerstone OnDemand Foundation" style="border:1px solid #000000" />
 
 ## Fundraising (1)
 ### Major Donor Fundraising from Cornerstone OnDemand Foundation
