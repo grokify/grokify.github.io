@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/programming/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Programming (19) - John Wang's Site</title>
+    <title>Programming (20) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Programming (19)";
+        var mkdocs_page_name = "Programming (20)";
         var mkdocs_page_input_path = "certificates/programming.md";
         var mkdocs_page_url = "/certificates/programming/";
       </script>
@@ -72,7 +72,9 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (12)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (13)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../information-technology/">Information Technology (1)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (6)</a>
                   </li>
@@ -84,13 +86,13 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../marketing/">Marketing (1)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (7)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (8)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../personal-development/">Personal Development (3)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (9)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (10)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Programming (19)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Programming (20)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#algorithms-1">Algorithms (1)</a>
         <ul>
@@ -140,9 +142,11 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#go-2">Go (2)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#go-3">Go (3)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#go-basic-from-hackerrank">Go (Basic) from HackerRank</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#concurrency-in-go-from-university-of-california-irvine-by-ian-harris">Concurrency in Go from University of California, Irvine by Ian Harris</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#concurrent-programming-in-go-from-pluralsight-by-mike-van-sickle">Concurrent Programming in Go from Pluralsight by Mike Van Sickle</a>
     </li>
@@ -172,15 +176,15 @@
     </li>
     </ul>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (17)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (18)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (6)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (25)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (27)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (23)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (5)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (6)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../ted-talks/">TED Talks (7)</a>
                   </li>
@@ -199,7 +203,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>Programming (19)</li>
+          <li>Certificates &raquo;</li><li>Programming (20)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -241,8 +245,9 @@
 <li><a href="#c-basic-from-hackerrank">C# (Basic) from HackerRank</a></li>
 </ol>
 </li>
-<li><a href="#go-2">Go</a><ol>
+<li><a href="#go-3">Go</a><ol>
 <li><a href="#go-basic-from-hackerrank">Go (Basic) from HackerRank</a></li>
+<li><a href="#concurrency-in-go-from-university-of-california-irvine-by-ian-harris">Concurrency in Go from University of California, Irvine by Ian Harris</a></li>
 <li><a href="#concurrent-programming-in-go-from-pluralsight-by-mike-van-sickle">Concurrent Programming in Go from Pluralsight by Mike Van Sickle</a></li>
 </ol>
 </li>
@@ -306,13 +311,18 @@
 <li><a href="https://www.hackerrank.com/certificates/0b44cb39a3b8">John's HackerRank online credential</a></li>
 </ul>
 <p><img alt="John's C# (Basic) from HackerRank" src="../cert_programming_csharp_hackerrank_csharp-basic_2023-07-16.png" /></p>
-<h2 id="go-2">Go (2)</h2>
+<h2 id="go-3">Go (3)</h2>
 <h3 id="go-basic-from-hackerrank">Go (Basic) from HackerRank</h3>
 <ul>
 <li><a href="https://www.hackerrank.com/profile/grokify">John's HackerRank online profile</a></li>
 <li><a href="https://www.hackerrank.com/certificates/7666f51dbcdf">John's HackerRank online credential</a></li>
 </ul>
 <p><img alt="John's Go (Basic) from HackerRank" src="../cert_programming_go_hackerrank_go-basic_2023-07-07.png" /></p>
+<h3 id="concurrency-in-go-from-university-of-california-irvine-by-ian-harris">Concurrency in Go from University of California, Irvine by Ian Harris</h3>
+<ul>
+<li><a href="https://coursera.org/verify/V69VBBWW7CFJ">John's University of California, Irvine online credential</a></li>
+</ul>
+<p><img alt="John's Concurrency in Go from University of California, Irvine by Ian Harris" src="../cert_programming_concurrency-in-go_coursera_ucirvine_ian-harris_cert-V69VBBWW7CFJ_2024-06-23.png" /></p>
 <h3 id="concurrent-programming-in-go-from-pluralsight-by-mike-van-sickle">Concurrent Programming in Go from Pluralsight by Mike Van Sickle</h3>
 <p><img src="../cert_programming_go_concurrent-programming-in-go_pluralsight_mike-van-sickle_2024-06-17.png" alt="John's Concurrent Programming in Go from Pluralsight by Mike Van Sickle" style="border:1px solid #000000" /></p>
 <h2 id="python-1">Python (1)</h2>
@@ -348,8 +358,8 @@
             </div>
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../product-management/" class="btn btn-neutral float-left" title="Product Management (9)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../scrum/" class="btn btn-neutral float-right" title="Scrum (17)">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../product-management/" class="btn btn-neutral float-left" title="Product Management (10)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../scrum/" class="btn btn-neutral float-right" title="Scrum (18)">Next <span class="icon icon-circle-arrow-right"></span></a>
     </div>
 
   <hr/>

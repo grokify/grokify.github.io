@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/security-appsec/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Security: AppSec (25) - John Wang's Site</title>
+    <title>Security: AppSec (27) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Security: AppSec (25)";
+        var mkdocs_page_name = "Security: AppSec (27)";
         var mkdocs_page_input_path = "certificates/security-appsec.md";
         var mkdocs_page_url = "/certificates/security-appsec/";
       </script>
@@ -72,7 +72,9 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (12)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (13)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../information-technology/">Information Technology (1)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (6)</a>
                   </li>
@@ -84,20 +86,26 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../marketing/">Marketing (1)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (7)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (8)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../personal-development/">Personal Development (3)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (9)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (10)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (19)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (20)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (17)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (18)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (6)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AppSec (25)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AppSec (27)</a>
     <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#strategy-1">Strategy (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#security-framework-nist-csf-from-pluralsight-by-mike-woolard">Security Framework: NIST CSF from Pluralsight by Mike Woolard</a>
+    </li>
+        </ul>
+    </li>
     <li class="toctree-l2"><a class="reference internal" href="#programming-6">Programming (6)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#owasp-top-10-from-snyk">OWASP Top 10 from Snyk</a>
@@ -152,8 +160,10 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#secops-2">SecOps (2)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#secops-3">SecOps (3)</a>
         <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry</a>
+    </li>
     <li class="toctree-l3"><a class="reference internal" href="#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund">Red Team Tools for Emulated Adversary Techniques with MITRE ATT&amp;CK from Pluralsight by Aaron Rosenmund</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund">Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund</a>
@@ -192,7 +202,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (23)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (5)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (6)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../ted-talks/">TED Talks (7)</a>
                   </li>
@@ -211,7 +221,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>Security: AppSec (25)</li>
+          <li>Certificates &raquo;</li><li>Security: AppSec (27)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -223,6 +233,10 @@
               
                 <h1 id="johns-security-appsec-certificates">John's Security: AppSec Certificates</h1>
 <ol>
+<li><a href="#strategy-1">Strategy</a><ol>
+<li><a href="#security-framework-nist-csf-from-pluralsight-by-mike-woolard">Security Framework: NIST CSF from Pluralsight by Mike Woolard</a></li>
+</ol>
+</li>
 <li><a href="#programming-6">Programming</a><ol>
 <li><a href="#owasp-top-10-from-snyk">OWASP Top 10 from Snyk</a></li>
 <li><a href="#snyk-top-10-from-snyk">Snyk Top 10 from Snyk</a></li>
@@ -256,7 +270,8 @@
 <li><a href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a></li>
 </ol>
 </li>
-<li><a href="#secops-2">SecOps</a><ol>
+<li><a href="#secops-3">SecOps</a><ol>
+<li><a href="#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry</a></li>
 <li><a href="#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund">Red Team Tools for Emulated Adversary Techniques with MITRE ATT&amp;CK from Pluralsight by Aaron Rosenmund</a></li>
 <li><a href="#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund">Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund</a></li>
 </ol>
@@ -279,6 +294,9 @@
 </ol>
 </li>
 </ol>
+<h2 id="strategy-1">Strategy (1)</h2>
+<h3 id="security-framework-nist-csf-from-pluralsight-by-mike-woolard">Security Framework: NIST CSF from Pluralsight by Mike Woolard</h3>
+<p><img src="../cert_security_strategy_security-framework-nist-csf_pluralsight_mike-woolard_2024-06-19.png" alt="John's Security Framework: NIST CSF from Pluralsight by Mike Woolard" style="border:1px solid #000000" /></p>
 <h2 id="programming-6">Programming (6)</h2>
 <h3 id="owasp-top-10-from-snyk">OWASP Top 10 from Snyk</h3>
 <p><img alt="John's OWASP Top 10 from Snyk" src="../cert_security_owaasp-top-10_snyk_2024-03-09.png" /></p>
@@ -321,7 +339,9 @@
 <p><img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" /></p>
 <h3 id="container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</h3>
 <p><img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" /></p>
-<h2 id="secops-2">SecOps (2)</h2>
+<h2 id="secops-3">SecOps (3)</h2>
+<h3 id="secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry</h3>
+<p><img src="../cert_appsec_secops_secure-software-testing-for-csslp_pluralsight_kevin-henry_2024-06-18.png" alt="John's Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" /></p>
 <h3 id="red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund">Red Team Tools for Emulated Adversary Techniques with MITRE ATT&amp;CK from Pluralsight by Aaron Rosenmund</h3>
 <p><img src="../cert_appsec_secops_red-team-tools-for-emulated-adversary-techniques-with-mitre-attack_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" /></p>
 <h3 id="blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund">Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund</h3>
