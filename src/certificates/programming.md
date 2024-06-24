@@ -21,6 +21,8 @@
     1. [Go (Basic) from HackerRank](#go-basic-from-hackerrank)
     1. [Concurrency in Go from University of California, Irvine by Ian Harris](#concurrency-in-go-from-university-of-california-irvine-by-ian-harris)
     1. [Concurrent Programming in Go from Pluralsight by Mike Van Sickle](#concurrent-programming-in-go-from-pluralsight-by-mike-van-sickle)
+1. [Java](#java-1)
+    1. [Java Performance Tuning from Pluralsight by Tim Ojo](#java-performance-tuning-from-pluralsight-by-tim-ojo)
 1. [Python](#python-1)
     1. [Python (Basic) from HackerRank](#python-basic-from-hackerrank)
 1. [SQL](#sql-3)
@@ -105,6 +107,11 @@
 ### Concurrent Programming in Go from Pluralsight by Mike Van Sickle
 
 <img src="../cert_programming_go_concurrent-programming-in-go_pluralsight_mike-van-sickle_2024-06-17.png" alt="John's Concurrent Programming in Go from Pluralsight by Mike Van Sickle" style="border:1px solid #000000" />
+
+## Java (1)
+### Java Performance Tuning from Pluralsight by Tim Ojo
+
+<img src="../cert_programming_java_java-performance-tuning_pluralsight_tim-ojo_2024-06-24.png" alt="John's Java Performance Tuning from Pluralsight by Tim Ojo" style="border:1px solid #000000" />
 
 ## Python (1)
 ### Python (Basic) from HackerRank
