@@ -1,7 +1,7 @@
 # John's Security: AI Certificates
 1. [Fundamentals](#fundamentals-2)
-    1. [AI Security from Lakera](#ai-security-from-lakera)
     1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-ai-generated-attacks-from-codecademy)
+    1. [AI Security from Lakera](#ai-security-from-lakera)
 1. [Generative AI](#generative-ai-3)
     1. [Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana](#security-risks-and-privacy-concerns-using-generative-ai-from-pluralsight-by-dr-shaila-rana)
     1. [Security Hot Takes: ChatGPT from Pluralsight by Michael Teske, Aaron Rosenmund](#security-hot-takes-chatgpt-from-pluralsight-by-michael-teske-aaron-rosenmund)
@@ -9,14 +9,14 @@
 1. [InfoSec](#infosec-1)
     1. [AI, Phishing, and Cybersafety from KnowBe4](#ai-phishing-and-cybersafety-from-knowbe4)
 ## Fundamentals (2)
+### Defending Against AI-Generated Attacks from Codecademy
+
+<img src="../cert_ai_defending-against-ai-generated-attacks_codecademy_2024-03-28.png" alt="John's Defending Against AI-Generated Attacks from Codecademy" style="border:1px solid #000000" />
+
 ### AI Security from Lakera
 * [John's Lakera online credential](https://security.certificates.lakera.ai/credentials/53495805-342d-41b7-b9bf-5923ae00422d)
 
 <img src="../cert_ai_ai-security_lakera_cert-53495805-342d-41b7-b9bf-5923ae00422d_2024-03-19.png" alt="John's AI Security from Lakera" style="border:1px solid #000000" />
-
-### Defending Against AI-Generated Attacks from Codecademy
-
-<img src="../cert_ai_defending-against-ai-generated-attacks_codecademy_2024-03-28.png" alt="John's Defending Against AI-Generated Attacks from Codecademy" style="border:1px solid #000000" />
 
 ## Generative AI (3)
 ### Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana

@@ -1,11 +1,11 @@
-# John's Observability Certificates
-1. [Site Reliability Enginering (SRE)](#site-reliability-enginering-sre-2)
+# John's Observability and Reliability Certificates
+1. [Site Reliability Engineering (SRE)](#site-reliability-engineering-sre-2)
     1. [Incorporating Site Reliability Engineering (SRE) in Your System Design from Pluralsight by Elton Stoneman](#incorporating-site-reliability-engineering-sre-in-your-system-design-from-pluralsight-by-elton-stoneman)
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
 1. [Datadog](#datadog-2)
     1. [Introduction to Observability from Datadog](#introduction-to-observability-from-datadog)
     1. [Introduction to Service Level Objectives from Datadog](#introduction-to-service-level-objectives-from-datadog)
-## Site Reliability Enginering (SRE) (2)
+## Site Reliability Engineering (SRE) (2)
 ### Incorporating Site Reliability Engineering (SRE) in Your System Design from Pluralsight by Elton Stoneman
 
 <img src="../cert_observability_site-reliability-engineering-sre-system-design-incorporating_pluralsight_elton-stoneman_2024-06-28.png" alt="John's Incorporating Site Reliability Engineering (SRE) in Your System Design from Pluralsight by Elton Stoneman" style="border:1px solid #000000" />

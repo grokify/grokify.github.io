@@ -5,7 +5,8 @@
     1. [Setting Up a Nonprofit Board from Philanthropy University](#setting-up-a-nonprofit-board-from-philanthropy-university)
     1. [Nonprofit Board Member Essentials Certificate from Cornerstone OnDemand Foundation](#nonprofit-board-member-essentials-certificate-from-cornerstone-ondemand-foundation)
     1. [The 6 Biggest Mistakes Executive Directors Make from NonprofitReady by Cornerstone OnDemand Foundation](#the-6-biggest-mistakes-executive-directors-make-from-nonprofitready-by-cornerstone-ondemand-foundation)
-1. [Fundraising](#fundraising-1)
+1. [Fundraising](#fundraising-2)
+    1. [Fundraising Essentials Certificate from Cornerstone OnDemand Foundation](#fundraising-essentials-certificate-from-cornerstone-ondemand-foundation)
     1. [Major Donor Fundraising from Cornerstone OnDemand Foundation](#major-donor-fundraising-from-cornerstone-ondemand-foundation)
 1. [Grant Writing](#grant-writing-2)
     1. [Grant Seeking Essentials Certificate from Cornerstone OnDemand Foundation](#grant-seeking-essentials-certificate-from-cornerstone-ondemand-foundation)
@@ -31,7 +32,11 @@
 
 <img src="../cert_boardofdirectors_the-6-biggest-mistakes-executive-directors-make_nonprofitready_cornerstone_2024-06-11.png" alt="John's The 6 Biggest Mistakes Executive Directors Make from NonprofitReady by Cornerstone OnDemand Foundation" style="border:1px solid #000000" />
 
-## Fundraising (1)
+## Fundraising (2)
+### Fundraising Essentials Certificate from Cornerstone OnDemand Foundation
+
+![John's Fundraising Essentials Certificate from Cornerstone OnDemand Foundation](cert_nonprofit_fundraising-essentials_cornerstone_2024-06-26.png)
+
 ### Major Donor Fundraising from Cornerstone OnDemand Foundation
 
 <img src="../cert_fundraising_major-donor-fundraising_cornerstone_2024-03-13.png" alt="John's Major Donor Fundraising from Cornerstone OnDemand Foundation" style="border:1px solid #000000" />
