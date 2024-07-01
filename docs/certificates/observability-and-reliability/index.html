@@ -3,18 +3,18 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/security-ai/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/observability-and-reliability/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Security: AI (6) - John Wang's Site</title>
+    <title>Observability and Reliability (4) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Security: AI (6)";
-        var mkdocs_page_input_path = "certificates/security-ai.md";
-        var mkdocs_page_url = "/certificates/security-ai/";
+        var mkdocs_page_name = "Observability and Reliability (4)";
+        var mkdocs_page_input_path = "certificates/observability-and-reliability.md";
+        var mkdocs_page_url = "/certificates/observability-and-reliability/";
       </script>
     
     <script src="../../js/jquery-3.6.0.min.js" defer></script>
@@ -88,7 +88,25 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (9)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../observability-and-reliability/">Observability and Reliability (4)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Observability and Reliability (4)</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#site-reliability-engineering-sre-2">Site Reliability Engineering (SRE) (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#incorporating-site-reliability-engineering-sre-in-your-system-design-from-pluralsight-by-elton-stoneman">Incorporating Site Reliability Engineering (SRE) in Your System Design from Pluralsight by Elton Stoneman</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#datadog-2">Datadog (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-observability-from-datadog">Introduction to Observability from Datadog</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-service-level-objectives-from-datadog">Introduction to Service Level Objectives from Datadog</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../personal-development/">Personal Development (3)</a>
                   </li>
@@ -98,33 +116,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (18)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AI (6)</a>
-    <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#fundamentals-2">Fundamentals (2)</a>
-        <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#defending-against-ai-generated-attacks-from-codecademy">Defending Against AI-Generated Attacks from Codecademy</a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#ai-security-from-lakera">AI Security from Lakera</a>
-    </li>
-        </ul>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#generative-ai-3">Generative AI (3)</a>
-        <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#security-risks-and-privacy-concerns-using-generative-ai-from-pluralsight-by-dr-shaila-rana">Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana</a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#security-hot-takes-chatgpt-from-pluralsight-by-michael-teske-aaron-rosenmund">Security Hot Takes: ChatGPT from Pluralsight by Michael Teske, Aaron Rosenmund</a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#generative-ai-intelligent-and-dangerous-from-knowbe4-by-dr-swantje-westpfahl">Generative AI: Intelligent and Dangerous? from KnowBe4 by Dr. Swantje Westpfahl</a>
-    </li>
-        </ul>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#infosec-1">InfoSec (1)</a>
-        <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#ai-phishing-and-cybersafety-from-knowbe4">AI, Phishing, and Cybersafety from KnowBe4</a>
-    </li>
-        </ul>
-    </li>
-    </ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (6)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (27)</a>
                   </li>
@@ -149,7 +141,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>Security: AI (6)</li>
+          <li>Certificates &raquo;</li><li>Observability and Reliability (4)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -159,48 +151,41 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <h1 id="johns-security-ai-certificates">John's Security: AI Certificates</h1>
+                <h1 id="johns-observability-and-reliability-certificates">John's Observability and Reliability Certificates</h1>
 <ol>
-<li><a href="#fundamentals-2">Fundamentals</a><ol>
-<li><a href="#defending-against-ai-generated-attacks-from-codecademy">Defending Against AI-Generated Attacks from Codecademy</a></li>
-<li><a href="#ai-security-from-lakera">AI Security from Lakera</a></li>
+<li><a href="#site-reliability-engineering-sre-2">Site Reliability Engineering (SRE)</a><ol>
+<li><a href="#incorporating-site-reliability-engineering-sre-in-your-system-design-from-pluralsight-by-elton-stoneman">Incorporating Site Reliability Engineering (SRE) in Your System Design from Pluralsight by Elton Stoneman</a></li>
+<li><a href="#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</a></li>
 </ol>
 </li>
-<li><a href="#generative-ai-3">Generative AI</a><ol>
-<li><a href="#security-risks-and-privacy-concerns-using-generative-ai-from-pluralsight-by-dr-shaila-rana">Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana</a></li>
-<li><a href="#security-hot-takes-chatgpt-from-pluralsight-by-michael-teske-aaron-rosenmund">Security Hot Takes: ChatGPT from Pluralsight by Michael Teske, Aaron Rosenmund</a></li>
-<li><a href="#generative-ai-intelligent-and-dangerous-from-knowbe4-by-dr-swantje-westpfahl">Generative AI: Intelligent and Dangerous? from KnowBe4 by Dr. Swantje Westpfahl</a></li>
-</ol>
-</li>
-<li><a href="#infosec-1">InfoSec</a><ol>
-<li><a href="#ai-phishing-and-cybersafety-from-knowbe4">AI, Phishing, and Cybersafety from KnowBe4</a></li>
+<li><a href="#datadog-2">Datadog</a><ol>
+<li><a href="#introduction-to-observability-from-datadog">Introduction to Observability from Datadog</a></li>
+<li><a href="#introduction-to-service-level-objectives-from-datadog">Introduction to Service Level Objectives from Datadog</a></li>
 </ol>
 </li>
 </ol>
-<h2 id="fundamentals-2">Fundamentals (2)</h2>
-<h3 id="defending-against-ai-generated-attacks-from-codecademy">Defending Against AI-Generated Attacks from Codecademy</h3>
-<p><img src="../cert_ai_defending-against-ai-generated-attacks_codecademy_2024-03-28.png" alt="John's Defending Against AI-Generated Attacks from Codecademy" style="border:1px solid #000000" /></p>
-<h3 id="ai-security-from-lakera">AI Security from Lakera</h3>
+<h2 id="site-reliability-engineering-sre-2">Site Reliability Engineering (SRE) (2)</h2>
+<h3 id="incorporating-site-reliability-engineering-sre-in-your-system-design-from-pluralsight-by-elton-stoneman">Incorporating Site Reliability Engineering (SRE) in Your System Design from Pluralsight by Elton Stoneman</h3>
+<p><img src="../cert_observability_site-reliability-engineering-sre-system-design-incorporating_pluralsight_elton-stoneman_2024-06-28.png" alt="John's Incorporating Site Reliability Engineering (SRE) in Your System Design from Pluralsight by Elton Stoneman" style="border:1px solid #000000" /></p>
+<h3 id="microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</h3>
+<p><img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" /></p>
+<h2 id="datadog-2">Datadog (2)</h2>
+<h3 id="introduction-to-observability-from-datadog">Introduction to Observability from Datadog</h3>
 <ul>
-<li><a href="https://security.certificates.lakera.ai/credentials/53495805-342d-41b7-b9bf-5923ae00422d">John's Lakera online credential</a></li>
+<li><a href="https://learn.datadoghq.com/certificates/yv6tc8ptwl">John's Datadog online credential</a></li>
 </ul>
-<p><img src="../cert_ai_ai-security_lakera_cert-53495805-342d-41b7-b9bf-5923ae00422d_2024-03-19.png" alt="John's AI Security from Lakera" style="border:1px solid #000000" /></p>
-<h2 id="generative-ai-3">Generative AI (3)</h2>
-<h3 id="security-risks-and-privacy-concerns-using-generative-ai-from-pluralsight-by-dr-shaila-rana">Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana</h3>
-<p><img src="../cert_aisec_security-risks-and-privacy-concerns-using-generative-ai_pluralsight_dr-shaila-rana_2024-06-10.png" alt="John's Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana" style="border:1px solid #000000" /></p>
-<h3 id="security-hot-takes-chatgpt-from-pluralsight-by-michael-teske-aaron-rosenmund">Security Hot Takes: ChatGPT from Pluralsight by Michael Teske, Aaron Rosenmund</h3>
-<p><img src="../cert_aisec_chatgpt_security-hot-takes-chatgpt_pluralsight_michael-teske-and-aaron-rosenmund_2024-06-17.png" alt="John's Security Hot Takes: ChatGPT from Pluralsight by Michael Teske, Aaron Rosenmund" style="border:1px solid #000000" /></p>
-<h3 id="generative-ai-intelligent-and-dangerous-from-knowbe4-by-dr-swantje-westpfahl">Generative AI: Intelligent and Dangerous? from KnowBe4 by Dr. Swantje Westpfahl</h3>
-<p><img src="../cert_aisec_generative-ai-intelligent-and-dangerous_knowbe4_dr-swantje-westpfahl_2024-06-11.png" alt="John's Generative AI: Intelligent and Dangerous? from KnowBe4 by Dr. Swantje Westpfahl" style="border:1px solid #000000" /></p>
-<h2 id="infosec-1">InfoSec (1)</h2>
-<h3 id="ai-phishing-and-cybersafety-from-knowbe4">AI, Phishing, and Cybersafety from KnowBe4</h3>
-<p><img src="../cert_infosec_phishing_ai-phishing-and-cybersecurity_knowbe4_2024-06-03.png" alt="John's AI, Phishing, and Cybersafety from KnowBe4" style="border:1px solid #000000" /></p>
+<p><img src="../cert_datadog_observability_introduction-to-observability_datadog_cert-524379653_2024-06-24.jpg" alt="John's Introduction to Observability from Datadog" style="border:1px solid #000000" /></p>
+<h3 id="introduction-to-service-level-objectives-from-datadog">Introduction to Service Level Objectives from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/k0hkjemqbk">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_introduction-to-service-level-objectives_datadog_cert-525403903_2024-06-26.jpg" alt="John's Introduction to Service Level Objectives from Datadog" style="border:1px solid #000000" /></p>
               
             </div>
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../scrum/" class="btn btn-neutral float-left" title="Scrum (18)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../security-appsec/" class="btn btn-neutral float-right" title="Security: AppSec (27)">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../nonprofit/" class="btn btn-neutral float-left" title="Nonprofit (9)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../personal-development/" class="btn btn-neutral float-right" title="Personal Development (3)">Next <span class="icon icon-circle-arrow-right"></span></a>
     </div>
 
   <hr/>
@@ -223,10 +208,10 @@
   <span class="rst-current-version" data-toggle="rst-current-version">
     
     
-      <span><a href="../scrum/" style="color: #fcfcfc">&laquo; Previous</a></span>
+      <span><a href="../nonprofit/" style="color: #fcfcfc">&laquo; Previous</a></span>
     
     
-      <span><a href="../security-appsec/" style="color: #fcfcfc">Next &raquo;</a></span>
+      <span><a href="../personal-development/" style="color: #fcfcfc">Next &raquo;</a></span>
     
   </span>
 </div>
