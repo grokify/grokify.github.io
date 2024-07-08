@@ -2,6 +2,8 @@
 1. [Fundamentals](#fundamentals-2)
     1. [Certified DevOps Generalist (DevOps-GEN) from DevOps Academy](#certified-devops-generalist-devops-gen-from-devops-academy)
     1. [AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan](#aws-vs-azure-vs-gcp-from-great-learning-academy-by-vishal-padghan)
+1. [Culture](#culture-1)
+    1. [You Can't Buy DevOps from Pluralsight by Julie Gunderson](#you-cant-buy-devops-from-pluralsight-by-julie-gunderson)
 1. [Developer](#developer-1)
     1. [Certified DevOps Developer (DevOps-DEV) from DevOps Academy](#certified-devops-developer-devops-dev-from-devops-academy)
 1. [Product Owner](#product-owner-1)
@@ -36,6 +38,11 @@
 * [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/WRHCURXB)
 
 <img src="../cert_infra_aws-vs-azure-vs-gcp_greatlearning_cert-WRHCURXB_2024-02-28.jpg" alt="John's AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan" style="border:1px solid #000000" />
+
+## Culture (1)
+### You Can't Buy DevOps from Pluralsight by Julie Gunderson
+
+<img src="../cert_devops_culture_you-cant-buy-devops_pluralsight_julie-gunderson_cert-5f4e9bca-978b-4574-b890-54b1a92a821d_2024-07-08.png" alt="John's You Can't Buy DevOps from Pluralsight by Julie Gunderson" style="border:1px solid #000000" />
 
 ## Developer (1)
 ### Certified DevOps Developer (DevOps-DEV) from DevOps Academy

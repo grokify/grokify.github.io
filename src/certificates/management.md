@@ -14,7 +14,8 @@
     1. [Recognize Leadership in Others from NonprofitReady](#recognize-leadership-in-others-from-nonprofitready)
     1. [Planning an Effective Performance Appraisal from SkillSoft](#planning-an-effective-performance-appraisal-from-skillsoft)
     1. [Lead Your Virtual Team from NonprofitReady by Eleventure](#lead-your-virtual-team-from-nonprofitready-by-eleventure)
-1. [Hiring](#hiring-3)
+1. [Hiring](#hiring-4)
+    1. [Interview Compliance and Fair Hiring V2.1 from Traliant](#interview-compliance-and-fair-hiring-v21-from-traliant)
     1. [Break Down Job Competencies Into Behaviors from NonprofitReady by Grovo](#break-down-job-competencies-into-behaviors-from-nonprofitready-by-grovo)
     1. [Prepare for a Behavior-Based Interview from NonprofitReady by Grovo](#prepare-for-a-behavior-based-interview-from-nonprofitready-by-grovo)
     1. [The Advantages of a Behavior-Based Interview from NonprofitReady by Grovo](#the-advantages-of-a-behavior-based-interview-from-nonprofitready-by-grovo)
@@ -69,7 +70,11 @@
 
 <img src="../cert_management_lead-your-virtual-team_eleventure_2024-03-14.png" alt="John's Lead Your Virtual Team from NonprofitReady by Eleventure" style="border:1px solid #000000" />
 
-## Hiring (3)
+## Hiring (4)
+### Interview Compliance and Fair Hiring V2.1 from Traliant
+
+<img src="../cert_hr_hiring_interview-compliance-and-fair-hiring-v2.1_traliant_2024-07-05.png" alt="John's Interview Compliance and Fair Hiring V2.1 from Traliant" style="border:1px solid #000000" />
+
 ### Break Down Job Competencies Into Behaviors from NonprofitReady by Grovo
 
 ![John's Break Down Job Competencies Into Behaviors from NonprofitReady by Grovo](cert_hiring_break-down-job-competencies-into-behaviors_nonprofitready_2024-03-07.png)

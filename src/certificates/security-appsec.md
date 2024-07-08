@@ -14,8 +14,8 @@
 1. [API](#api-1)
     1. [API Security Architect from API Academy](#api-security-architect-from-api-academy)
 1. [Software Supply Chain Security (SSCS)](#software-supply-chain-security-sscs-2)
-    1. [Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry](#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry)
     1. [Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans](#secure-coding-using-components-with-known-vulnerabilities-from-pluralsight-by-peter-mosmans)
+    1. [Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry](#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry)
 1. [Kubernetes](#kubernetes-2)
     1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
     1. [Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer](#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer)
@@ -83,13 +83,13 @@
 <img src="../cert_api_api-security-architect_apiacademy_2024-01-31.png" alt="John's API Security Architect from API Academy" style="border:1px solid #000000" />
 
 ## Software Supply Chain Security (SSCS) (2)
-### Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry
-
-<img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
-
 ### Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans
 
 <img src="../cert_appsec_sscs_secure-coding-using-components-with-known-vulnerabilities_pluralsight_peter-mosmans_2024-06-05.png" alt="John's Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans" style="border:1px solid #000000" />
+
+### Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry
+
+<img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
 
 ## Kubernetes (2)
 ### Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra
