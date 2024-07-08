@@ -201,6 +201,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://grokify.github.io/certificates/security-identity/</loc>
+         <lastmod>2024-07-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grokify.github.io/certificates/security-idsec/</loc>
+         <lastmod>2024-07-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://grokify.github.io/certificates/security-infosec/</loc>
          <lastmod>2024-07-08</lastmod>
          <changefreq>daily</changefreq>
