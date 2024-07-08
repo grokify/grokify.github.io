@@ -35,15 +35,8 @@
 1. [Ransomware](#ransomware-2)
     1. [Ransomware: Blackmail Using Encrypted Data from KnowBe4](#ransomware-blackmail-using-encrypted-data-from-knowbe4)
     1. [World Wild Web: Ransomware from KnowBe4](#world-wild-web-ransomware-from-knowbe4)
-1. [Azure](#azure-1)
-    1. [Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry](#microsoft-azure-identity-and-security-for-administrators-the-big-picture-from-pluralsight-by-jean-francois-landry)
 1. [Proofpoint](#proofpoint-1)
     1. [Enterprise Protection/Privacy Accredited Engineer from Proofpoint](#enterprise-protection-privacy-accredited-engineer-from-proofpoint)
-1. [Saviynt](#saviynt-4)
-    1. [Saviynt IGA L100 Self-Paced Training from Saviynt](#saviynt-iga-l100-self-paced-training-from-saviynt)
-    1. [Saviynt IGA for MSPs from Saviynt](#saviynt-iga-for-msps-from-saviynt)
-    1. [Application Onboarding (AOB) Fundamentals from Saviynt](#application-onboarding-aob-fundamentals-from-saviynt)
-    1. [Saviynt CPAM L100 - Self-Paced Training from Saviynt](#saviynt-cpam-l100-self-paced-training-from-saviynt)
 ## Fundamentals (5)
 ### Corporate Information Security Awareness - Proofpoint 2014 from Proofpoint
 
@@ -162,30 +155,8 @@
 
 <img src="../cert_infosec_ransomware_world-wild-web-ransomware_knowbe4_2024-06-03.png" alt="John's World Wild Web: Ransomware from KnowBe4" style="border:1px solid #000000" />
 
-## Azure (1)
-### Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry
-
-<img src="../cert_azure_microsoft-azure-identity-and-security-for-administrators-the-big-picture_pluralsight_2024-03-27.png" alt="John's Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry" style="border:1px solid #000000" />
-
 ## Proofpoint (1)
 ### Enterprise Protection/Privacy Accredited Engineer from Proofpoint
 
 ![John's Enterprise Protection/Privacy Accredited Engineer from Proofpoint](cert_infosec_proofpoint_enterprise-protection-privacy-accredited-engineer_2014-05-04.png)
-
-## Saviynt (4)
-### Saviynt IGA L100 Self-Paced Training from Saviynt
-
-<img src="../cert_saviynt_saviynt-iga-l100-self-paced-training-older-version-2023_saviynt_cert-638557445150170966_2024-07-05.png" alt="John's Saviynt IGA L100 Self-Paced Training from Saviynt" style="border:1px solid #000000" />
-
-### Saviynt IGA for MSPs from Saviynt
-
-<img src="../cert_saviynt_saviynt-iga-for-msps_saviynt_cert-638556617907981626_2024-07-04.png" alt="John's Saviynt IGA for MSPs from Saviynt" style="border:1px solid #000000" />
-
-### Application Onboarding (AOB) Fundamentals from Saviynt
-
-<img src="../cert_saviynt_application-onboarding-aob-fundamentals_saviynt_cert-638556603880420320_2024-03-21.png" alt="John's Application Onboarding (AOB) Fundamentals from Saviynt" style="border:1px solid #000000" />
-
-### Saviynt CPAM L100 - Self-Paced Training from Saviynt
-
-<img src="../cert_saviynt_saviynt-cpam-l100-self-paced-training_saviynt_cert-638560233519926136_2024-07-08.png" alt="John's Saviynt CPAM L100 - Self-Paced Training from Saviynt" style="border:1px solid #000000" />
 
