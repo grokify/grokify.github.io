@@ -5,6 +5,8 @@
     1. [Rest API (Intermediate) from HackerRank](#rest-api-intermediate-from-hackerrank)
 1. [Machine Learning](#machine-learning-1)
     1. [Machine Learning from Stanford by Andrew Ng](#machine-learning-from-stanford-by-andrew-ng)
+1. [Refactoring](#refactoring-1)
+    1. [ICAgile (ICP-PRG): Improving and Refactoring Code from Pluralsight by Jeremy Jarrell](#icagile-icp-prg-improving-and-refactoring-code-from-pluralsight-by-jeremy-jarrell)
 1. [Security](#security-6)
     1. [OWASP Top 10: Broken Access Control from Codecademy](#owasp-top-10-broken-access-control-from-codecademy)
     1. [OWASP Top 10: Identification and Authentication Failures from Codecademy](#owasp-top-10-identification-and-authentication-failures-from-codecademy)
@@ -53,6 +55,11 @@
 ### Machine Learning from Stanford by Andrew Ng
 
 <img src="../cert_machine-learning_stanford_machine-learning_2014-09-30_cert-972303~7600383.png" alt="John's Machine Learning from Stanford by Andrew Ng" style="border:1px solid #000000" />
+
+## Refactoring (1)
+### ICAgile (ICP-PRG): Improving and Refactoring Code from Pluralsight by Jeremy Jarrell
+
+<img src="../cert_programming_icagile-icp-prg_refactoring-and-improving-code_pluralsight_jeremy-jarrell_2024-07-13.png" alt="John's ICAgile (ICP-PRG): Improving and Refactoring Code from Pluralsight by Jeremy Jarrell" style="border:1px solid #000000" />
 
 ## Security (6)
 ### OWASP Top 10: Broken Access Control from Codecademy

@@ -1,6 +1,7 @@
 # John's Security: InfoSec Certificates
-1. [Fundamentals](#fundamentals-5)
+1. [Fundamentals](#fundamentals-6)
     1. [Corporate Information Security Awareness - Proofpoint 2014 from Proofpoint](#corporate-information-security-awareness-proofpoint-2014-from-proofpoint)
+    1. [Saviynt Information Security Annual Training from Saviynt](#saviynt-information-security-annual-training-from-saviynt)
     1. [2024 Kevin Mitnick Security Awareness Training from KnowBe4 by Kevin Mitnick](#2024-kevin-mitnick-security-awareness-training-from-knowbe4-by-kevin-mitnick)
     1. [Top 5 Security Awareness Fundamentals from KnowBe4](#top-5-security-awareness-fundamentals-from-knowbe4)
     1. [Cybersecurity: Every second counts from KnowBe4](#cybersecurity-every-second-counts-from-knowbe4)
@@ -37,10 +38,14 @@
     1. [World Wild Web: Ransomware from KnowBe4](#world-wild-web-ransomware-from-knowbe4)
 1. [Proofpoint](#proofpoint-1)
     1. [Enterprise Protection/Privacy Accredited Engineer from Proofpoint](#enterprise-protection-privacy-accredited-engineer-from-proofpoint)
-## Fundamentals (5)
+## Fundamentals (6)
 ### Corporate Information Security Awareness - Proofpoint 2014 from Proofpoint
 
 ![John's Corporate Information Security Awareness - Proofpoint 2014 from Proofpoint](cert_infosec_proofpoint_corporate-information-security-awareness_2014-06-12.png)
+
+### Saviynt Information Security Annual Training from Saviynt
+
+<img src="../cert_infosec_saviynt-information-security-annual-training_saviynt_638561624537311652_2024-07-09.png" alt="John's Saviynt Information Security Annual Training from Saviynt" style="border:1px solid #000000" />
 
 ### 2024 Kevin Mitnick Security Awareness Training from KnowBe4 by Kevin Mitnick
 

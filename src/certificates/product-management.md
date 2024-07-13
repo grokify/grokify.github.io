@@ -9,11 +9,14 @@
 1. [Machine Learning](#machine-learning-2)
     1. [Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](#machine-learning-foundations-for-product-managers-from-duke-university-by-jon-reifschneider)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
-1. [Product Owner](#product-owner-4)
+1. [Product Craft](#product-craft-1)
+    1. [The Emotional Side of Product Management from Pluralsight by Nicole Castillo](#the-emotional-side-of-product-management-from-pluralsight-by-nicole-castillo)
+1. [Product Owner](#product-owner-5)
     1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
     1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
     1. [Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute](#scrum-product-owner-accredited-certification-spoac-from-scrum-institute)
     1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devops-po-from-devops-academy)
+    1. [Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell](#becoming-a-great-product-owner-from-pluralsight-by-jeremy-jarrell)
 ## Strategy (1)
 ### Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell
 
@@ -47,7 +50,12 @@
 
 <img src="../cert_product_ai_pendo_ai-product-management_2024-01-02_avatar.png" alt="John's AI for Product Management from Pendo" style="border:1px solid #000000" />
 
-## Product Owner (4)
+## Product Craft (1)
+### The Emotional Side of Product Management from Pluralsight by Nicole Castillo
+
+<img src="../cert_product_the-emotional-side-of-product-management_plurasight_nicole-castillo_2024-07-12.png" alt="John's The Emotional Side of Product Management from Pluralsight by Nicole Castillo" style="border:1px solid #000000" />
+
+## Product Owner (5)
 ### Certified Scrum Product Owner (CSPO) from Scrum Alliance
 * [John's Scrum Alliance online profile](https://www.scrumalliance.org/community/profile/jwang96)
 
@@ -70,4 +78,8 @@
 * [John's DevOps Academy online credential](https://www.devops-certification.org/badges/36722377107944)
 
 <img src="../cert_devops_po_devops-cert-org_devops-po_2023-10-01_36722377107944.png" alt="John's Certified DevOps Product Owner (DevOps-PO) from DevOps Academy" style="border:1px solid #000000" />
+
+### Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell
+
+<img src="../cert_product_becoming-a-great-product-owner_pluralsight_jeremy-jarrell_2024-07-12.png" alt="John's Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell" style="border:1px solid #000000" />
 

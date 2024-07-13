@@ -2,7 +2,8 @@
 1. [Fundamentals](#fundamentals-2)
     1. [Certified DevOps Generalist (DevOps-GEN) from DevOps Academy](#certified-devops-generalist-devops-gen-from-devops-academy)
     1. [AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan](#aws-vs-azure-vs-gcp-from-great-learning-academy-by-vishal-padghan)
-1. [Culture](#culture-1)
+1. [Culture](#culture-2)
+    1. [Developing a Google SRE Culture from Google Cloud by Kiran Varma](#developing-a-google-sre-culture-from-google-cloud-by-kiran-varma)
     1. [You Can't Buy DevOps from Pluralsight by Julie Gunderson](#you-cant-buy-devops-from-pluralsight-by-julie-gunderson)
 1. [Developer](#developer-1)
     1. [Certified DevOps Developer (DevOps-DEV) from DevOps Academy](#certified-devops-developer-devops-dev-from-devops-academy)
@@ -13,18 +14,24 @@
 1. [Security](#security-2)
     1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
     1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
-1. [Kubernetes](#kubernetes-4)
+1. [Kubernetes](#kubernetes-6)
+    1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
+    1. [Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker](#kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker)
+    1. [Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer](#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer)
+    1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jess-piedra)
     1. [Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino](#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino)
     1. [Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon](#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon)
-    1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
-    1. [Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer](#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer)
 1. [AWS](#aws-1)
     1. [AWS CI/CD Pipeline from Great Learning Academy](#aws-ci-cd-pipeline-from-great-learning-academy)
 1. [Azure](#azure-1)
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
-1. [Datadog](#datadog-2)
+1. [Datadog](#datadog-3)
     1. [Introduction to Observability from Datadog](#introduction-to-observability-from-datadog)
     1. [Introduction to Service Level Objectives from Datadog](#introduction-to-service-level-objectives-from-datadog)
+    1. [Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog](#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog)
+1. [Google Cloud](#google-cloud-2)
+    1. [Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud](#site-reliability-engineering-measuring-and-managing-reliability-from-google-cloud)
+    1. [Scaling with Google Cloud Operations from Google Cloud](#scaling-with-google-cloud-operations-from-google-cloud)
 ## Resources
 
 1. [DevOps Reading List](../devops_resource-links)
@@ -39,7 +46,12 @@
 
 <img src="../cert_infra_aws-vs-azure-vs-gcp_greatlearning_cert-WRHCURXB_2024-02-28.jpg" alt="John's AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan" style="border:1px solid #000000" />
 
-## Culture (1)
+## Culture (2)
+### Developing a Google SRE Culture from Google Cloud by Kiran Varma
+* [John's Google Cloud online credential](https://coursera.org/verify/ND9VWTRXTZXF)
+
+![John's Developing a Google SRE Culture from Google Cloud by Kiran Varma](cert_sre_developing-a-google-sre-culture_google_cert-ND9VWTRXTZXF_2024-07-10.png)
+
 ### You Can't Buy DevOps from Pluralsight by Julie Gunderson
 
 <img src="../cert_devops_culture_you-cant-buy-devops_pluralsight_julie-gunderson_cert-5f4e9bca-978b-4574-b890-54b1a92a821d_2024-07-08.png" alt="John's You Can't Buy DevOps from Pluralsight by Julie Gunderson" style="border:1px solid #000000" />
@@ -72,7 +84,23 @@
 
 <img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" />
 
-## Kubernetes (4)
+## Kubernetes (6)
+### Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra
+
+<img src="../cert_security_kubernetes-security-cluster-setup_pluralsight_2024-05-12.png" alt="John's Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" />
+
+### Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker
+
+<img src="../cert_appsec_kubernetes-security-cluster-hardening_pluralsight_erik-whitaker_2024-07-11.png" alt="John's Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker" style="border:1px solid #000000" />
+
+### Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer
+
+<img src="../cert_security_appsec_kubernetes-security-minimizing-microservice-vulnerabilities_pluralsight_2024-06-12.png" alt="John's Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer" style="border:1px solid #000000" />
+
+### Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra
+
+<img src="../cert_appsec_container_kubernetes-security-implementing-supply-chain-security_pluralsight_antonio-jesus-piedra_cert-639e7a4d-50bf-445e-a1be-b38da0dcffd0_2024-07-09.png" alt="John's Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" />
+
 ### Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino
 
 <img src="../cert_kubernetes_kubernetes-administrator-foundations_pluralsight_2024-03-27.png" alt="John's Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino" style="border:1px solid #000000" />
@@ -80,14 +108,6 @@
 ### Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon
 
 <img src="../cert_kubernetes_packaging-applications-with-helm-for-kubernetes_pluralsight_2024-03-30.png" alt="John's Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon" style="border:1px solid #000000" />
-
-### Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra
-
-<img src="../cert_security_kubernetes-security-cluster-setup_pluralsight_2024-05-12.png" alt="John's Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" />
-
-### Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer
-
-<img src="../cert_security_appsec_kubernetes-security-minimizing-microservice-vulnerabilities_pluralsight_2024-06-12.png" alt="John's Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer" style="border:1px solid #000000" />
 
 ## AWS (1)
 ### AWS CI/CD Pipeline from Great Learning Academy
@@ -100,7 +120,7 @@
 
 <img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" />
 
-## Datadog (2)
+## Datadog (3)
 ### Introduction to Observability from Datadog
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/yv6tc8ptwl)
 
@@ -110,4 +130,20 @@
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/k0hkjemqbk)
 
 <img src="../cert_datadog_introduction-to-service-level-objectives_datadog_cert-525403903_2024-06-26.jpg" alt="John's Introduction to Service Level Objectives from Datadog" style="border:1px solid #000000" />
+
+### Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/jq29dawso1)
+
+<img src="../cert_datadog_appsec_detect-prioritize-remediate-cloud-security-riskes-with-datadog-csm_datadog_cert-jq29dawso1_2024-07-10.jpg" alt="John's Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog" style="border:1px solid #000000" />
+
+## Google Cloud (2)
+### Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud
+* [John's Google Cloud online credential](https://coursera.org/verify/2VT7MFUZYCPJ)
+
+![John's Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud](cert_sre_site-reliability-engineering-measuring-and-managing-reliability_google_cert-2VT7MFUZYCPJ_2024-07-11.png)
+
+### Scaling with Google Cloud Operations from Google Cloud
+* [John's Google Cloud online credential](https://coursera.org/verify/UZNVFWLTKF6V)
+
+![John's Scaling with Google Cloud Operations from Google Cloud](cert_googlecloud_scaling-with-google-cloud-operations_google_cert-UZNVFWLTKF6V_2024-07-10.png)
 

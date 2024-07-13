@@ -16,9 +16,11 @@
 1. [Software Supply Chain Security (SSCS)](#software-supply-chain-security-sscs-2)
     1. [Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans](#secure-coding-using-components-with-known-vulnerabilities-from-pluralsight-by-peter-mosmans)
     1. [Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry](#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry)
-1. [Kubernetes](#kubernetes-2)
+1. [Kubernetes](#kubernetes-4)
     1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
+    1. [Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker](#kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker)
     1. [Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer](#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer)
+    1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jess-piedra)
 1. [DevOps](#devops-2)
     1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
     1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
@@ -91,14 +93,22 @@
 
 <img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
 
-## Kubernetes (2)
+## Kubernetes (4)
 ### Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra
 
 <img src="../cert_security_kubernetes-security-cluster-setup_pluralsight_2024-05-12.png" alt="John's Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" />
 
+### Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker
+
+<img src="../cert_appsec_kubernetes-security-cluster-hardening_pluralsight_erik-whitaker_2024-07-11.png" alt="John's Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker" style="border:1px solid #000000" />
+
 ### Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer
 
 <img src="../cert_security_appsec_kubernetes-security-minimizing-microservice-vulnerabilities_pluralsight_2024-06-12.png" alt="John's Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer" style="border:1px solid #000000" />
+
+### Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra
+
+<img src="../cert_appsec_container_kubernetes-security-implementing-supply-chain-security_pluralsight_antonio-jesus-piedra_cert-639e7a4d-50bf-445e-a1be-b38da0dcffd0_2024-07-09.png" alt="John's Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" />
 
 ## DevOps (2)
 ### Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy
