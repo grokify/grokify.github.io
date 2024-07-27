@@ -5,7 +5,7 @@
     1. [Design Thinking for Innovation from University of Virginia, Darden School by Jeanne M. Liedtka](#design-thinking-for-innovation-from-university-of-virginia-darden-school-by-jeanne-m-liedtka)
     1. [Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](#customer-centric-it-strategy-from-university-of-virginia-darden-school-by-alex-cowan)
 1. [Agile](#agile-1)
-    1. [Certified Professional In Design Thinking (CPDT) from Scrum Institute](#certified-professional-in-design-thinking-cpdt-from-scrum-institute)
+    1. [Certified Professional In Design Thinking (CPDT) from Scrum Institute by Yeliz Obergfell](#certified-professional-in-design-thinking-cpdt-from-scrum-institute-by-yeliz-obergfell)
 ## Resources
 
 1. [Design Thinking Resource Links](../design-thinking_resource-links)
@@ -27,8 +27,8 @@
 ![John's Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](cert_design-thinking_customer-centric-it_uvadarden-alex-cowan_cert-JU7THK93NFN3_2024-02-27.png)
 
 ## Agile (1)
-### Certified Professional In Design Thinking (CPDT) from Scrum Institute
+### Certified Professional In Design Thinking (CPDT) from Scrum Institute by Yeliz Obergfell
 * [John's Scrum Institute online credential](https://www.scrum-institute.org/badges/34525810407940)
 
-<img src="../cert_scrum_ux_scrum-institute_certified-professional-in-design-thinking--cpdt_2023-09-24_cert-34525810407940.png" alt="John's Certified Professional In Design Thinking (CPDT) from Scrum Institute" style="border:1px solid #000000" />
+<img src="../cert_scrum_ux_scrum-institute_certified-professional-in-design-thinking--cpdt_2023-09-24_cert-34525810407940.png" alt="John's Certified Professional In Design Thinking (CPDT) from Scrum Institute by Yeliz Obergfell" style="border:1px solid #000000" />
 

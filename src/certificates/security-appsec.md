@@ -24,10 +24,11 @@
 1. [DevOps](#devops-2)
     1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
     1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
-1. [SecOps](#secops-3)
+1. [SecOps](#secops-4)
     1. [Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry](#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry)
     1. [Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund](#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund)
     1. [Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund](#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund)
+    1. [Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog](#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog)
 1. [AWS](#aws-6)
     1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
     1. [Introduction to AWS Identity and Access Management (IAM) from Simplilearn](#introduction-to-aws-identity-and-access-management-iam-from-simplilearn)
@@ -120,7 +121,7 @@
 
 <img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" />
 
-## SecOps (3)
+## SecOps (4)
 ### Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry
 
 <img src="../cert_appsec_secops_secure-software-testing-for-csslp_pluralsight_kevin-henry_2024-06-18.png" alt="John's Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
@@ -132,6 +133,11 @@
 ### Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund
 
 <img src="../cert_appsec_secops_blue-team-tools-defense-against-adversary-activity-using-mitre-techniques_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" />
+
+### Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/jq29dawso1)
+
+<img src="../cert_datadog_appsec_detect-prioritize-remediate-cloud-security-riskes-with-datadog-csm_datadog_cert-jq29dawso1_2024-07-10.jpg" alt="John's Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog" style="border:1px solid #000000" />
 
 ## AWS (6)
 ### AWS: Identity and Access Management from Whizlabs

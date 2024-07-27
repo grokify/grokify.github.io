@@ -15,7 +15,7 @@
     1. [California Consumer Privacy Act (CCPA & CPRA) V2 from Traliant](#california-consumer-privacy-act-ccpa-cpra-v2-from-traliant)
 1. [Passwords](#passwords-1)
     1. [Secure Passwords With Quiz from KnowBe4](#secure-passwords-with-quiz-from-knowbe4)
-1. [Email Protection](#email-protection-11)
+1. [Email Protection](#email-protection-12)
     1. [2024 Kevin Mitnick Enabled Content Demonstration from KnowBe4 by Kevin Mitnick](#2024-kevin-mitnick-enabled-content-demonstration-from-knowbe4-by-kevin-mitnick)
     1. [Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick](#kevin-mitnick-two-factor-authentication-attack-from-knowbe4-by-kevin-mitnick)
     1. [Fake Meeting Request Demonstration from KnowBe4 by Kevin Mitnick](#fake-meeting-request-demonstration-from-knowbe4-by-kevin-mitnick)
@@ -27,15 +27,24 @@
     1. [Business Email Compromise: Not Just for Execs and Finance Anymore from KnowBe4](#business-email-compromise-not-just-for-execs-and-finance-anymore-from-knowbe4)
     1. [What is CEO Fraud? from KnowBe4](#what-is-ceo-fraud-from-knowbe4)
     1. [Criminal Minds: Spear Phishing from KnowBe4](#criminal-minds-spear-phishing-from-knowbe4)
+    1. [Browser-in-the-Browser Attacks from KnowBe4](#browser-in-the-browser-attacks-from-knowbe4)
 1. [Web Surfing](#web-surfing-1)
     1. [Safe Surfing 101 from KnowBe4](#safe-surfing-101-from-knowbe4)
+1. [Applications](#applications-1)
+    1. [Do You Know What Third-Party Apps Are? from KnowBe4](#do-you-know-what-third-party-apps-are-from-knowbe4)
 1. [Endpoints](#endpoints-1)
     1. [Dangers of USBs from KnowBe4](#dangers-of-usbs-from-knowbe4)
 1. [Mobile](#mobile-1)
     1. [Protect Your Mobile Device from Attack from NonprofitReady by Grovo](#protect-your-mobile-device-from-attack-from-nonprofitready-by-grovo)
+1. [Malware](#malware-1)
+    1. [Malware as a Service from KnowBe4](#malware-as-a-service-from-knowbe4)
 1. [Ransomware](#ransomware-2)
     1. [Ransomware: Blackmail Using Encrypted Data from KnowBe4](#ransomware-blackmail-using-encrypted-data-from-knowbe4)
     1. [World Wild Web: Ransomware from KnowBe4](#world-wild-web-ransomware-from-knowbe4)
+1. [Social Engineering](#social-engineering-1)
+    1. [Pretexting - "Tech Support" Social Engineering? from KnowBe4](#pretexting-tech-support-social-engineering-from-knowbe4)
+1. [Disaster Recovery](#disaster-recovery-1)
+    1. [Security and Disaster Preparedness from KnowBe4](#security-and-disaster-preparedness-from-knowbe4)
 1. [Proofpoint](#proofpoint-1)
     1. [Enterprise Protection/Privacy Accredited Engineer from Proofpoint](#enterprise-protection-privacy-accredited-engineer-from-proofpoint)
 ## Fundamentals (6)
@@ -91,7 +100,7 @@
 
 <img src="../cert_infosec_passwords_secure-passwords-with-quiz_knowbe4_2024-06-03.png" alt="John's Secure Passwords With Quiz from KnowBe4" style="border:1px solid #000000" />
 
-## Email Protection (11)
+## Email Protection (12)
 ### 2024 Kevin Mitnick Enabled Content Demonstration from KnowBe4 by Kevin Mitnick
 
 <img src="../cert_infosec_phishing_2024-kevin-mitnick-enabled-content-demonstration_knowbe4_2024-07-01_cert-787482015.png" alt="John's 2024 Kevin Mitnick Enabled Content Demonstration from KnowBe4 by Kevin Mitnick" style="border:1px solid #000000" />
@@ -136,10 +145,19 @@
 
 <img src="../cert_infosec_phishing_criminal-minds-spear-phishing_knowbe4_2024-06-16.png" alt="John's Criminal Minds: Spear Phishing from KnowBe4" style="border:1px solid #000000" />
 
+### Browser-in-the-Browser Attacks from KnowBe4
+
+<img src="../cert_infosec_phishing_browser-in-the-browser-attacks_knowbe4_cert-803989875_2024-07-26.png" alt="John's Browser-in-the-Browser Attacks from KnowBe4" style="border:1px solid #000000" />
+
 ## Web Surfing (1)
 ### Safe Surfing 101 from KnowBe4
 
 <img src="../cert_infosec_websurfing_safe-surfing-101_knowbe4_cert-793071703_2024-07-08.png" alt="John's Safe Surfing 101 from KnowBe4" style="border:1px solid #000000" />
+
+## Applications (1)
+### Do You Know What Third-Party Apps Are? from KnowBe4
+
+<img src="../cert_infosec_apps_do-you-known-what-third-party-apps-are_knowbe4_el-pescador_cert-803991971_2024-07-26.png" alt="John's Do You Know What Third-Party Apps Are? from KnowBe4" style="border:1px solid #000000" />
 
 ## Endpoints (1)
 ### Dangers of USBs from KnowBe4
@@ -151,6 +169,11 @@
 
 ![John's Protect Your Mobile Device from Attack from NonprofitReady by Grovo](cert_security_protect-your-mobile-device-from-attack_nonprofitready_2024-03-06.png)
 
+## Malware (1)
+### Malware as a Service from KnowBe4
+
+<img src="../cert_infosec_malware_malware-as-a-service_knowbe4_cert-803994452_2024-07-26.png" alt="John's Malware as a Service from KnowBe4" style="border:1px solid #000000" />
+
 ## Ransomware (2)
 ### Ransomware: Blackmail Using Encrypted Data from KnowBe4
 
@@ -159,6 +182,16 @@
 ### World Wild Web: Ransomware from KnowBe4
 
 <img src="../cert_infosec_ransomware_world-wild-web-ransomware_knowbe4_2024-06-03.png" alt="John's World Wild Web: Ransomware from KnowBe4" style="border:1px solid #000000" />
+
+## Social Engineering (1)
+### Pretexting - "Tech Support" Social Engineering? from KnowBe4
+
+<img src="../cert_infosec_social-engineering_knowbe4-pretexting-tech-support_social-engineering_knowbe4_2024-07-21.png" alt="John's Pretexting - "Tech Support" Social Engineering? from KnowBe4" style="border:1px solid #000000" />
+
+## Disaster Recovery (1)
+### Security and Disaster Preparedness from KnowBe4
+
+<img src="../cert_infosec_dr_security-and-disaster-preparedness_knowbe4_2024-07-23.png" alt="John's Security and Disaster Preparedness from KnowBe4" style="border:1px solid #000000" />
 
 ## Proofpoint (1)
 ### Enterprise Protection/Privacy Accredited Engineer from Proofpoint

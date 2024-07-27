@@ -6,6 +6,9 @@
     1. [OWASP Top 10: Identification and Authentication Failures from Codecademy](#owasp-top-10-identification-and-authentication-failures-from-codecademy)
     1. [Learn about CSRF Attacks from Codecademy](#learn-about-csrf-attacks-from-codecademy)
     1. [OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt](#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt)
+1. [Third-Party](#third-party-2)
+    1. [Working With Third Parties Securely from KnowBe4](#working-with-third-parties-securely-from-knowbe4)
+    1. [Minimising Third-Party Risk from KnowBe4](#minimising-third-party-risk-from-knowbe4)
 1. [AWS](#aws-3)
     1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
     1. [Introduction to AWS Identity and Access Management (IAM) from Simplilearn](#introduction-to-aws-identity-and-access-management-iam-from-simplilearn)
@@ -43,6 +46,15 @@
 ### OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt
 
 <img src="../cert_security_oauth2-and-openid-connect-easy-now_pluralsight_2024-03-27.png" alt="John's OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt" style="border:1px solid #000000" />
+
+## Third-Party (2)
+### Working With Third Parties Securely from KnowBe4
+
+<img src="../cert_third-party_working-with-third-parties-securely_knowbe4_cert-803988822_2024-07-26.png" alt="John's Working With Third Parties Securely from KnowBe4" style="border:1px solid #000000" />
+
+### Minimising Third-Party Risk from KnowBe4
+
+<img src="../cert_third-party_minimising-third-party-risk_knowbe4_cert-803986043_2024-07-26.png" alt="John's Minimising Third-Party Risk from KnowBe4" style="border:1px solid #000000" />
 
 ## AWS (3)
 ### AWS: Identity and Access Management from Whizlabs

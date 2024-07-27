@@ -7,6 +7,9 @@
     1. [Common Misconceptions of New Managers from NonprofitReady by Grovo](#common-misconceptions-of-new-managers-from-nonprofitready-by-grovo)
     1. [Stay Calm Under Pressure as a Manager from NonprofitReady by Grovo](#stay-calm-under-pressure-as-a-manager-from-nonprofitready-by-grovo)
     1. [Help Others Be Accountable from Grovo](#help-others-be-accountable-from-grovo)
+1. [Objectives and Key Results](#objectives-and-key-results-2)
+    1. [Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell](#certified-professional-in-okr-objectives-key-results-cpokr-from-scrum-institute-by-yeliz-obergfell)
+    1. [Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson](#product-management-delivering-on-okrs-from-pluralsight-by-keisha-johnson)
 1. [Team Building](#team-building-6)
     1. [Develop High-Potential Employees from NonprofitReady](#develop-high-potential-employees-from-nonprofitready)
     1. [Find the Root Cause of Performance Problems from NonprofitReady](#find-the-root-cause-of-performance-problems-from-nonprofitready)
@@ -44,6 +47,16 @@
 ### Help Others Be Accountable from Grovo
 
 <img src="../cert_management_help-others-be-accountable_grovo_2024-03-14.png" alt="John's Help Others Be Accountable from Grovo" style="border:1px solid #000000" />
+
+## Objectives and Key Results (2)
+### Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell
+* [John's Scrum Institute online credential](https://www.scrum-institute.org/badges/34694795736577)
+
+<img src="../cert_scrum_leadership_scrum-institute_certified-professional-in-okr--cpokr_2023-09-24_cert-34694795736577.png" alt="John's Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell" style="border:1px solid #000000" />
+
+### Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson
+
+<img src="../cert_product_okrs_product-management-delivering-on-okrs_pluralsight_keisha-johnson_2024-07-27.png" alt="John's Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson" style="border:1px solid #000000" />
 
 ## Team Building (6)
 ### Develop High-Potential Employees from NonprofitReady

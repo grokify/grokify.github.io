@@ -4,6 +4,10 @@
 1. [Frameworks](#frameworks-2)
     1. [Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](#customer-centric-it-strategy-from-university-of-virginia-darden-school-by-alex-cowan)
     1. [The Strategist's Challenge from University of Virginia, Darden School Foundation by Michael Lenox, Jared Harris](#the-strategists-challenge-from-university-of-virginia-darden-school-foundation-by-michael-lenox-jared-harris)
+1. [Outcomes](#outcomes-3)
+    1. [Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell](#certified-professional-in-okr-objectives-key-results-cpokr-from-scrum-institute-by-yeliz-obergfell)
+    1. [Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson](#product-management-delivering-on-okrs-from-pluralsight-by-keisha-johnson)
+    1. [Exploring Envisioning Outcomes from Pluralsight by Lauren Gray](#exploring-envisioning-outcomes-from-pluralsight-by-lauren-gray)
 1. [Product-Led Growth (PLG)](#product-led-growth-plg-1)
     1. [Product-Led Fundamentals from ProductLed](#product-led-fundamentals-from-productled)
 1. [Machine Learning](#machine-learning-2)
@@ -32,6 +36,20 @@
 * [John's University of Virginia, Darden School Foundation online credential](https://coursera.org/verify/TRF84QSBXV2S)
 
 ![John's The Strategist's Challenge from University of Virginia, Darden School Foundation by Michael Lenox, Jared Harris](cert_strategy_strategists-challenge_uvadarden_cert-TRF84QSBXV2S_2024-03-04.png)
+
+## Outcomes (3)
+### Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell
+* [John's Scrum Institute online credential](https://www.scrum-institute.org/badges/34694795736577)
+
+<img src="../cert_scrum_leadership_scrum-institute_certified-professional-in-okr--cpokr_2023-09-24_cert-34694795736577.png" alt="John's Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell" style="border:1px solid #000000" />
+
+### Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson
+
+<img src="../cert_product_okrs_product-management-delivering-on-okrs_pluralsight_keisha-johnson_2024-07-27.png" alt="John's Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson" style="border:1px solid #000000" />
+
+### Exploring Envisioning Outcomes from Pluralsight by Lauren Gray
+
+<img src="../cert_product_exploring-envisioning-outcomes_pluralsight_lauren-gray_2024-07-17.png" alt="John's Exploring Envisioning Outcomes from Pluralsight by Lauren Gray" style="border:1px solid #000000" />
 
 ## Product-Led Growth (PLG) (1)
 ### Product-Led Fundamentals from ProductLed

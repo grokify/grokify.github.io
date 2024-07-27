@@ -13,7 +13,7 @@
     1. [Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell](#becoming-a-great-product-owner-from-pluralsight-by-jeremy-jarrell)
 1. [Developer](#developer-2)
     1. [Professional Scrum Developer (PSD) from Scrum.org](#professional-scrum-developer-psd-from-scrumorg)
-    1. [Certified Professional In Design Thinking (CPDT) from Scrum Institute](#certified-professional-in-design-thinking-cpdt-from-scrum-institute)
+    1. [Certified Professional In Design Thinking (CPDT) from Scrum Institute by Yeliz Obergfell](#certified-professional-in-design-thinking-cpdt-from-scrum-institute-by-yeliz-obergfell)
 1. [Kanban](#kanban-1)
     1. [Certified Kanban Expert from Scrum Institute](#certified-kanban-expert-from-scrum-institute)
 1. [Scaled Scrum](#scaled-scrum-2)
@@ -22,7 +22,7 @@
 1. [Leadership](#leadership-3)
     1. [Professional Agile Leadership - Evidence-Based Management (PAL-EBM) from Scrum.org](#professional-agile-leadership-evidence-based-management-pal-ebm-from-scrumorg)
     1. [Professional Agile Leadership I (PAL I) from Scrum.org](#professional-agile-leadership-i-pal-i-from-scrumorg)
-    1. [Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute](#certified-professional-in-okr-objectives-key-results-cpokr-from-scrum-institute)
+    1. [Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell](#certified-professional-in-okr-objectives-key-results-cpokr-from-scrum-institute-by-yeliz-obergfell)
 1. [Coach](#coach-1)
     1. [Agile Coach Accredited Certification (ACAC) from Scrum Institute](#agile-coach-accredited-certification-acac-from-scrum-institute)
 ## Articles
@@ -103,10 +103,10 @@
 
 ![John's Professional Scrum Developer (PSD) from Scrum.org](cert_scrum_developer_scrum-org_professional-scrum-developer-i--psd-i_2023-10-07.png)
 
-### Certified Professional In Design Thinking (CPDT) from Scrum Institute
+### Certified Professional In Design Thinking (CPDT) from Scrum Institute by Yeliz Obergfell
 * [John's Scrum Institute online credential](https://www.scrum-institute.org/badges/34525810407940)
 
-<img src="../cert_scrum_ux_scrum-institute_certified-professional-in-design-thinking--cpdt_2023-09-24_cert-34525810407940.png" alt="John's Certified Professional In Design Thinking (CPDT) from Scrum Institute" style="border:1px solid #000000" />
+<img src="../cert_scrum_ux_scrum-institute_certified-professional-in-design-thinking--cpdt_2023-09-24_cert-34525810407940.png" alt="John's Certified Professional In Design Thinking (CPDT) from Scrum Institute by Yeliz Obergfell" style="border:1px solid #000000" />
 
 ## Kanban (1)
 ### Certified Kanban Expert from Scrum Institute
@@ -139,10 +139,10 @@
 
 ![John's Professional Agile Leadership I (PAL I) from Scrum.org](cert_scrum_leadership_scrum-org_professional-agile-leadership-1--pal-1_2023-09-23.png)
 
-### Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute
+### Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell
 * [John's Scrum Institute online credential](https://www.scrum-institute.org/badges/34694795736577)
 
-<img src="../cert_scrum_leadership_scrum-institute_certified-professional-in-okr--cpokr_2023-09-24_cert-34694795736577.png" alt="John's Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute" style="border:1px solid #000000" />
+<img src="../cert_scrum_leadership_scrum-institute_certified-professional-in-okr--cpokr_2023-09-24_cert-34694795736577.png" alt="John's Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell" style="border:1px solid #000000" />
 
 ## Coach (1)
 ### Agile Coach Accredited Certification (ACAC) from Scrum Institute
