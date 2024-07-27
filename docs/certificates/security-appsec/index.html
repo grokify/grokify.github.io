@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/security-appsec/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Security: AppSec (29) - John Wang's Site</title>
+    <title>Security: AppSec (30) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Security: AppSec (29)";
+        var mkdocs_page_name = "Security: AppSec (30)";
         var mkdocs_page_input_path = "certificates/security-appsec.md";
         var mkdocs_page_url = "/certificates/security-appsec/";
       </script>
@@ -84,7 +84,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../machine-learning/">Machine Learning (13)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (16)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (18)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../management-consulting/">Management Consulting (7)</a>
                   </li>
@@ -96,7 +96,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../personal-development/">Personal Development (3)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (12)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (15)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (25)</a>
                   </li>
@@ -104,7 +104,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (6)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AppSec (29)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AppSec (30)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#strategy-1">Strategy (1)</a>
         <ul>
@@ -170,13 +170,15 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#secops-3">SecOps (3)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#secops-4">SecOps (4)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund">Red Team Tools for Emulated Adversary Techniques with MITRE ATT&amp;CK from Pluralsight by Aaron Rosenmund</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund">Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog">Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog</a>
     </li>
         </ul>
     </li>
@@ -210,9 +212,9 @@
     </li>
     </ul>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-idsec/">Security: IDSec (15)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-idsec/">Security: IDSec (17)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (28)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (33)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (6)</a>
                   </li>
@@ -233,7 +235,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>Security: AppSec (29)</li>
+          <li>Certificates &raquo;</li><li>Security: AppSec (30)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -284,10 +286,11 @@
 <li><a href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a></li>
 </ol>
 </li>
-<li><a href="#secops-3">SecOps</a><ol>
+<li><a href="#secops-4">SecOps</a><ol>
 <li><a href="#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry</a></li>
 <li><a href="#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund">Red Team Tools for Emulated Adversary Techniques with MITRE ATT&amp;CK from Pluralsight by Aaron Rosenmund</a></li>
 <li><a href="#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund">Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund</a></li>
+<li><a href="#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog">Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog</a></li>
 </ol>
 </li>
 <li><a href="#aws-6">AWS</a><ol>
@@ -357,13 +360,18 @@
 <p><img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" /></p>
 <h3 id="container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</h3>
 <p><img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" /></p>
-<h2 id="secops-3">SecOps (3)</h2>
+<h2 id="secops-4">SecOps (4)</h2>
 <h3 id="secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry</h3>
 <p><img src="../cert_appsec_secops_secure-software-testing-for-csslp_pluralsight_kevin-henry_2024-06-18.png" alt="John's Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" /></p>
 <h3 id="red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund">Red Team Tools for Emulated Adversary Techniques with MITRE ATT&amp;CK from Pluralsight by Aaron Rosenmund</h3>
 <p><img src="../cert_appsec_secops_red-team-tools-for-emulated-adversary-techniques-with-mitre-attack_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" /></p>
 <h3 id="blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund">Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund</h3>
 <p><img src="../cert_appsec_secops_blue-team-tools-defense-against-adversary-activity-using-mitre-techniques_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" /></p>
+<h3 id="detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog">Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/jq29dawso1">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_appsec_detect-prioritize-remediate-cloud-security-riskes-with-datadog-csm_datadog_cert-jq29dawso1_2024-07-10.jpg" alt="John's Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog" style="border:1px solid #000000" /></p>
 <h2 id="aws-6">AWS (6)</h2>
 <h3 id="aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</h3>
 <ul>
@@ -391,7 +399,7 @@
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
         <a href="../security-ai/" class="btn btn-neutral float-left" title="Security: AI (6)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../security-idsec/" class="btn btn-neutral float-right" title="Security: IDSec (15)">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../security-idsec/" class="btn btn-neutral float-right" title="Security: IDSec (17)">Next <span class="icon icon-circle-arrow-right"></span></a>
     </div>
 
   <hr/>
