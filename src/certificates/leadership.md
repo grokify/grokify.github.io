@@ -6,7 +6,8 @@
     1. [Why Leadership Isn't About the Leader from NonprofitReady](#why-leadership-isnt-about-the-leader-from-nonprofitready)
 1. [Strategy](#strategy-1)
     1. [Successful Strategies for Emerging Leaders from NonprofitReady by The Jeff Havens Company](#successful-strategies-for-emerging-leaders-from-nonprofitready-by-the-jeff-havens-company)
-1. [Inspiration](#inspiration-1)
+1. [Inspiration](#inspiration-2)
+    1. [Recognize Leadership in Others from NonprofitReady](#recognize-leadership-in-others-from-nonprofitready)
     1. [How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](#how-great-leaders-inspire-action-from-nonprofitready-by-simon-sinek)
 ## Fundamentals (4)
 ### Stanford Executive Program (SEP) from Stanford
@@ -30,7 +31,11 @@
 
 ![John's Successful Strategies for Emerging Leaders from NonprofitReady by The Jeff Havens Company](cert_leadership_successful-strategies-for-emerging-leaders_nonprofitready_2024-03-07.png)
 
-## Inspiration (1)
+## Inspiration (2)
+### Recognize Leadership in Others from NonprofitReady
+
+![John's Recognize Leadership in Others from NonprofitReady](cert_leadership_recognize-leadership-in-others_nonprofitready_2024-03-06.png)
+
 ### How Great Leaders Inspire Action from NonprofitReady by Simon Sinek
 
 ![John's How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](cert_leadership_simon-sinek-how-great-leaders-inspire-action_nonprofitready_2024-03-06.png)
