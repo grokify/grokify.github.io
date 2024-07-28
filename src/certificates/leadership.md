@@ -1,30 +1,35 @@
 # John's Leadership Certificates
-1. [Fundamentals](#fundamentals-4)
+1. [Fundamentals](#fundamentals-5)
     1. [Stanford Executive Program (SEP) from Stanford](#stanford-executive-program-sep-from-stanford)
-    1. [Are There Fixed Leadership Traits? from NonprofitReady](#are-there-fixed-leadership-traits-from-nonprofitready)
-    1. [What is the Difference Between Management and Leadership from NonprofitReady](#what-is-the-difference-between-management-and-leadership-from-nonprofitready)
-    1. [Why Leadership Isn't About the Leader from NonprofitReady](#why-leadership-isnt-about-the-leader-from-nonprofitready)
+    1. [Becoming a Great Leader - Leadership Skills from EJ4](#becoming-a-great-leader-leadership-skills-from-ej4)
+    1. [Are There Fixed Leadership Traits? from Grovo](#are-there-fixed-leadership-traits-from-grovo)
+    1. [Why Leadership Isn't About the Leader from Grovo](#why-leadership-isnt-about-the-leader-from-grovo)
+    1. [What is the Difference Between Management and Leadership from Grovo](#what-is-the-difference-between-management-and-leadership-from-grovo)
 1. [Strategy](#strategy-1)
     1. [Successful Strategies for Emerging Leaders from NonprofitReady by The Jeff Havens Company](#successful-strategies-for-emerging-leaders-from-nonprofitready-by-the-jeff-havens-company)
 1. [Inspiration](#inspiration-2)
     1. [Recognize Leadership in Others from NonprofitReady](#recognize-leadership-in-others-from-nonprofitready)
     1. [How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](#how-great-leaders-inspire-action-from-nonprofitready-by-simon-sinek)
-## Fundamentals (4)
+## Fundamentals (5)
 ### Stanford Executive Program (SEP) from Stanford
 
 <img src="../cert_management_stanford-executive-program-sep_stanford_2023-02-18.png" alt="John's Stanford Executive Program (SEP) from Stanford" style="border:1px solid #000000" />
 
-### Are There Fixed Leadership Traits? from NonprofitReady
+### Becoming a Great Leader - Leadership Skills from EJ4
 
-![John's Are There Fixed Leadership Traits? from NonprofitReady](cert_leadership_are-there-fixed-leadership-traits_nonprofitready_2024-03-06.png)
+![John's Becoming a Great Leader - Leadership Skills from EJ4](cert_leadership_becoming-a-great-leader-leadership-skills_nonprofitready_ej4_2024-07-28.png)
 
-### What is the Difference Between Management and Leadership from NonprofitReady
+### Are There Fixed Leadership Traits? from Grovo
 
-![John's What is the Difference Between Management and Leadership from NonprofitReady](cert_leadership_what-is-the-difference-between-management-and-leadership_nonprofitready_2024-03-06.png)
+![John's Are There Fixed Leadership Traits? from Grovo](cert_leadership_are-there-fixed-leadership-traits_nonprofitready_2024-03-06.png)
 
-### Why Leadership Isn't About the Leader from NonprofitReady
+### Why Leadership Isn't About the Leader from Grovo
 
-![John's Why Leadership Isn't About the Leader from NonprofitReady](cert_leadership_why-leadership-isnt-about-the-leader_nonprofitready_2024-03-06.png)
+![John's Why Leadership Isn't About the Leader from Grovo](cert_leadership_why-leadership-isnt-about-the-leader_nonprofitready_2024-03-06.png)
+
+### What is the Difference Between Management and Leadership from Grovo
+
+![John's What is the Difference Between Management and Leadership from Grovo](cert_leadership_what-is-the-difference-between-management-and-leadership_nonprofitready_2024-03-06.png)
 
 ## Strategy (1)
 ### Successful Strategies for Emerging Leaders from NonprofitReady by The Jeff Havens Company

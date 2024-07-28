@@ -35,7 +35,7 @@
 1. [Endpoints](#endpoints-1)
     1. [Dangers of USBs from KnowBe4](#dangers-of-usbs-from-knowbe4)
 1. [Mobile](#mobile-1)
-    1. [Protect Your Mobile Device from Attack from NonprofitReady by Grovo](#protect-your-mobile-device-from-attack-from-nonprofitready-by-grovo)
+    1. [Protect Your Mobile Device from Attack from Grovo](#protect-your-mobile-device-from-attack-from-grovo)
 1. [Malware](#malware-1)
     1. [Malware as a Service from KnowBe4](#malware-as-a-service-from-knowbe4)
 1. [Ransomware](#ransomware-2)
@@ -165,9 +165,9 @@
 <img src="../cert_infosec_endpoints_dangers-of-usbs_knowbe4_2024-06-04.png" alt="John's Dangers of USBs from KnowBe4" style="border:1px solid #000000" />
 
 ## Mobile (1)
-### Protect Your Mobile Device from Attack from NonprofitReady by Grovo
+### Protect Your Mobile Device from Attack from Grovo
 
-![John's Protect Your Mobile Device from Attack from NonprofitReady by Grovo](cert_security_protect-your-mobile-device-from-attack_nonprofitready_2024-03-06.png)
+![John's Protect Your Mobile Device from Attack from Grovo](cert_security_protect-your-mobile-device-from-attack_nonprofitready_2024-03-06.png)
 
 ## Malware (1)
 ### Malware as a Service from KnowBe4
