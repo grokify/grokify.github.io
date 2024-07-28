@@ -12,7 +12,7 @@
     1. [Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson](#product-management-delivering-on-okrs-from-pluralsight-by-keisha-johnson)
 1. [Team Building](#team-building-6)
     1. [Planning an Effective Performance Appraisal from SkillSoft](#planning-an-effective-performance-appraisal-from-skillsoft)
-    1. [Lead Your Virtual Team from NonprofitReady by Eleventure](#lead-your-virtual-team-from-nonprofitready-by-eleventure)
+    1. [Lead Your Virtual Team from Eleventure](#lead-your-virtual-team-from-eleventure)
     1. [Develop High-Potential Employees from NonprofitReady](#develop-high-potential-employees-from-nonprofitready)
     1. [Find the Root Cause of Performance Problems from NonprofitReady](#find-the-root-cause-of-performance-problems-from-nonprofitready)
     1. [Know What Your Direct Reports Really Care About from NonprofitReady](#know-what-your-direct-reports-really-care-about-from-nonprofitready)
@@ -63,9 +63,9 @@
 
 <img src="../cert_management_planning-an-effective-performance-appraisal_skillsoft_2024-03-14.png" alt="John's Planning an Effective Performance Appraisal from SkillSoft" style="border:1px solid #000000" />
 
-### Lead Your Virtual Team from NonprofitReady by Eleventure
+### Lead Your Virtual Team from Eleventure
 
-<img src="../cert_management_lead-your-virtual-team_eleventure_2024-03-14.png" alt="John's Lead Your Virtual Team from NonprofitReady by Eleventure" style="border:1px solid #000000" />
+<img src="../cert_management_lead-your-virtual-team_eleventure_2024-03-14.png" alt="John's Lead Your Virtual Team from Eleventure" style="border:1px solid #000000" />
 
 ### Develop High-Potential Employees from NonprofitReady
 

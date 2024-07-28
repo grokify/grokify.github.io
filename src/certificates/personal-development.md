@@ -4,10 +4,11 @@
 1. [Learning](#learning-2)
     1. [Start Your Lifelong Learning from Accenture](#start-your-lifelong-learning-from-accenture)
     1. [Keeping up with Technology from Pluralsight by Dan Appleman](#keeping-up-with-technology-from-pluralsight-by-dan-appleman)
-1. [Mentorship](#mentorship-1)
+1. [Mentorship](#mentorship-2)
+    1. [Be a Great Mentor from Eleventure](#be-a-great-mentor-from-eleventure)
     1. [How to Be a Great Mentee: Get More Out of Mentoring from Pluralsight by Jason Alba](#how-to-be-a-great-mentee-get-more-out-of-mentoring-from-pluralsight-by-jason-alba)
 1. [Resiliency](#resiliency-1)
-    1. [Bounce Back From Failure from NonprofitReady by Eleventure](#bounce-back-from-failure-from-nonprofitready-by-eleventure)
+    1. [Bounce Back From Failure from Eleventure](#bounce-back-from-failure-from-eleventure)
 ## Goals (1)
 ### Setting Goals - Your Guide to Focusing on What Is Important from Pluralsight by Tommy van Schaik
 
@@ -23,13 +24,17 @@
 
 <img src="../cert_learning_keeping-up-with-technology_pluralsight_dan-appleman_2024-07-27.png" alt="John's Keeping up with Technology from Pluralsight by Dan Appleman" style="border:1px solid #000000" />
 
-## Mentorship (1)
+## Mentorship (2)
+### Be a Great Mentor from Eleventure
+
+<img src="../cert_learning_mentorship_be-a-great-mentor_nonprofitready_eleventure_2024-07-28.png" alt="John's Be a Great Mentor from Eleventure" style="border:1px solid #000000" />
+
 ### How to Be a Great Mentee: Get More Out of Mentoring from Pluralsight by Jason Alba
 
 <img src="../cert_learning_mentorship_how-to-be-a-great-mentee-get-more-out-of-mentorship_pluralsight_jason-alba_2024-07-27.png" alt="John's How to Be a Great Mentee: Get More Out of Mentoring from Pluralsight by Jason Alba" style="border:1px solid #000000" />
 
 ## Resiliency (1)
-### Bounce Back From Failure from NonprofitReady by Eleventure
+### Bounce Back From Failure from Eleventure
 
-<img src="../cert_personal-development_resiliency_bounce-back-from-failure_eleventure_2024-03-25.png" alt="John's Bounce Back From Failure from NonprofitReady by Eleventure" style="border:1px solid #000000" />
+<img src="../cert_personal-development_resiliency_bounce-back-from-failure_eleventure_2024-03-25.png" alt="John's Bounce Back From Failure from Eleventure" style="border:1px solid #000000" />
 
