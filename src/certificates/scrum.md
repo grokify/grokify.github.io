@@ -38,9 +38,11 @@
 ### Certified ScrumMaster (CSM) from Scrum Alliance
 * [John's Scrum Alliance online profile](https://www.scrumalliance.org/community/profile/jwang96)
 
-<img src="../cert_scrum_scrum-master_scrumalliance_certified-scrum-master--csm_2025-09-04.png" alt="John's Certified ScrumMaster (CSM) from Scrum Alliance" style="border:1px solid #000000" />
+<img src="../cert_scrum_scrum-master_scrumalliance_certified-scrum-master--csm_2012-12-14_dl-2024-07-27.png" alt="John's Certified ScrumMaster (CSM) from Scrum Alliance" style="border:1px solid #000000" />
 
-![John's Certified ScrumMaster (CSM) from Scrum Alliance](cert_scrum_scrum-master_scrumalliance_certified-scrum-master--csm_2012-12-14_trim.png)
+<img src="../cert_scrum_scrum-master_scrumalliance_certified-scrum-master--csm_2012-12-14_dl-2023-09-04.png" alt="John's Certified ScrumMaster (CSM) from Scrum Alliance" style="border:1px solid #000000" />
+
+![John's Certified ScrumMaster (CSM) from Scrum Alliance](cert_scrum_scrum-master_scrumalliance_certified-scrum-master--csm_2012-12-12_trim.png)
 
 ### Professional Scrum Master III (PSM III) from Scrum.org
 * [John's Scrum.org online profile](https://www.scrum.org/user/16066/)
@@ -77,7 +79,9 @@
 ### Certified Scrum Product Owner (CSPO) from Scrum Alliance
 * [John's Scrum Alliance online profile](https://www.scrumalliance.org/community/profile/jwang96)
 
-<img src="../cert_scrum_product-owner_scrumalliance_certified-scrum-product-owner--cspo_2025-09-04.png" alt="John's Certified Scrum Product Owner (CSPO) from Scrum Alliance" style="border:1px solid #000000" />
+<img src="../cert_scrum_product-owner_scrumalliance_certified-scrum-product-owner--cspo_2012-12-10_dl-2024-07-27.png" alt="John's Certified Scrum Product Owner (CSPO) from Scrum Alliance" style="border:1px solid #000000" />
+
+<img src="../cert_scrum_product-owner_scrumalliance_certified-scrum-product-owner--cspo_2012-12-10_dl-2023-09-04.png" alt="John's Certified Scrum Product Owner (CSPO) from Scrum Alliance" style="border:1px solid #000000" />
 
 ![John's Certified Scrum Product Owner (CSPO) from Scrum Alliance](cert_scrum_product-owner_scrumalliance_certified-scrum-product-owner--cspo_2012-12-07_trim.png)
 

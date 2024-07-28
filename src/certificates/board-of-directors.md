@@ -20,9 +20,11 @@
 
 ## Nonprofit Governance (2)
 ### Setting Up a Nonprofit Board from Philanthropy University
-* [John's Philanthropy University online credential](https://courses.philanthropyu.org/verify/SYTRVUMIDC)
+* [John's Philanthropy University online credential](https://courses.philanthropyu.org/certificates/90450863063e40b086eccedd2a8a1925)
 
-![John's Setting Up a Nonprofit Board from Philanthropy University](cert_nonprofit_setting-up-a-nonprofit-board_philanthropy-university_cert-SYTRVUMIDC_2024-02-22.png)
+![John's Setting Up a Nonprofit Board from Philanthropy University](cert_nonprofit_board_setting-up-a-nonprofit-board_philanthropy-university_cert-90450863063e40b086eccedd2a8a1925_2024-02-22.png)
+
+![John's Setting Up a Nonprofit Board from Philanthropy University](cert_nonprofit_board_setting-up-a-nonprofit-board_philanthropy-university_cert-SYTRVUMIDC_2024-02-22_1000x.png)
 
 ### Nonprofit Board Member Essentials Certificate from Cornerstone OnDemand Foundation
 
