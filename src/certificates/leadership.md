@@ -10,6 +10,8 @@
 1. [Inspiration](#inspiration-2)
     1. [Recognize Leadership in Others from NonprofitReady](#recognize-leadership-in-others-from-nonprofitready)
     1. [How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](#how-great-leaders-inspire-action-from-nonprofitready-by-simon-sinek)
+1. [Communications](#communications-1)
+    1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
 ## Fundamentals (5)
 ### Stanford Executive Program (SEP) from Stanford
 
@@ -44,4 +46,9 @@
 ### How Great Leaders Inspire Action from NonprofitReady by Simon Sinek
 
 ![John's How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](cert_leadership_simon-sinek-how-great-leaders-inspire-action_nonprofitready_2024-03-06.png)
+
+## Communications (1)
+### Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas
+
+<img src="../cert_leadership_communications_using-generative-ai-to-refine-communications-to-executives_pluralsight_ed-freitas_2024-07-28.png" alt="John's Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas" style="border:1px solid #000000" />
 

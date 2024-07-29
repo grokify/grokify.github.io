@@ -1,9 +1,12 @@
 # John's Product Management Certificates
 1. [Strategy](#strategy-1)
     1. [Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell](#product-management-strategy-and-vision-from-pluralsight-by-jeremy-jarrell)
-1. [Frameworks](#frameworks-2)
+1. [Frameworks](#frameworks-3)
     1. [Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](#customer-centric-it-strategy-from-university-of-virginia-darden-school-by-alex-cowan)
     1. [The Strategist's Challenge from University of Virginia, Darden School Foundation by Michael Lenox, Jared Harris](#the-strategists-challenge-from-university-of-virginia-darden-school-foundation-by-michael-lenox-jared-harris)
+    1. [Exploring Product Management Philosophies and Frameworks from Pluralsight by Dave Masom](#exploring-product-management-philosophies-and-frameworks-from-pluralsight-by-dave-masom)
+1. [Roadmap](#roadmap-1)
+    1. [Develop a Product Roadmap Using Generative AI from Pluralsight by Harit Himanshu](#develop-a-product-roadmap-using-generative-ai-from-pluralsight-by-harit-himanshu)
 1. [Outcomes](#outcomes-3)
     1. [Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell](#certified-professional-in-okr-objectives-key-results-cpokr-from-scrum-institute-by-yeliz-obergfell)
     1. [Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson](#product-management-delivering-on-okrs-from-pluralsight-by-keisha-johnson)
@@ -26,7 +29,7 @@
 
 <img src="../cert_product_product-management-strategy-and-vision_pluralsight_jeremy-jarrell_2024-06-22.png" alt="John's Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell" style="border:1px solid #000000" />
 
-## Frameworks (2)
+## Frameworks (3)
 ### Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan
 * [John's University of Virginia, Darden School online credential](https://coursera.org/verify/JU7THK93NFN3)
 
@@ -36,6 +39,15 @@
 * [John's University of Virginia, Darden School Foundation online credential](https://coursera.org/verify/TRF84QSBXV2S)
 
 ![John's The Strategist's Challenge from University of Virginia, Darden School Foundation by Michael Lenox, Jared Harris](cert_strategy_strategists-challenge_uvadarden_cert-TRF84QSBXV2S_2024-03-04.png)
+
+### Exploring Product Management Philosophies and Frameworks from Pluralsight by Dave Masom
+
+<img src="../cert_product_frameworks_exploring-product-management-philosophies-and-frameworks_pluralsight_dave-masom_2024-07-29.png" alt="John's Exploring Product Management Philosophies and Frameworks from Pluralsight by Dave Masom" style="border:1px solid #000000" />
+
+## Roadmap (1)
+### Develop a Product Roadmap Using Generative AI from Pluralsight by Harit Himanshu
+
+<img src="../cert_product_roadmap_develop-a-product-roadmap-using-generative-ai_pluralsight_harit-himanshu_2024-07-28.png" alt="John's Develop a Product Roadmap Using Generative AI from Pluralsight by Harit Himanshu" style="border:1px solid #000000" />
 
 ## Outcomes (3)
 ### Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell

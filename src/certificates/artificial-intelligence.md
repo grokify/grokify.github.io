@@ -21,6 +21,8 @@
     1. [AI Security from Lakera](#ai-security-from-lakera)
 1. [Governance](#governance-1)
     1. [Introduction to Responsible AI from Google Cloud](#introduction-to-responsible-ai-from-google-cloud)
+1. [Applications](#applications-1)
+    1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
 ## Strategy (1)
 ### AI Strategy and Governance from University of Pennsylvania, Wharton School
 * [John's University of Pennsylvania, Wharton School online credential](https://coursera.org/verify/DGB6XB4C7VKD)
@@ -102,4 +104,9 @@
 * [John's Google Cloud online credential](https://coursera.org/verify/ZWGW9HZZC2ET)
 
 ![John's Introduction to Responsible AI from Google Cloud](cert_ai_introduction-to-responsible-ai_google-cloud_cert-ZWGW9HZZC2ET_2024-02-21.png)
+
+## Applications (1)
+### Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas
+
+<img src="../cert_leadership_communications_using-generative-ai-to-refine-communications-to-executives_pluralsight_ed-freitas_2024-07-28.png" alt="John's Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas" style="border:1px solid #000000" />
 
