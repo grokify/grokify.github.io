@@ -1,4 +1,6 @@
 # John's Programming Certificates
+1. [Fundamentals](#fundamentals-1)
+    1. [Software Design Principles from Codecademy](#software-design-principles-from-codecademy)
 1. [Algorithms](#algorithms-1)
     1. [Problem Solving (Basic) from HackerRank](#problem-solving-basic-from-hackerrank)
 1. [API](#api-1)
@@ -23,8 +25,9 @@
     1. [Go (Basic) from HackerRank](#go-basic-from-hackerrank)
     1. [Concurrency in Go from University of California, Irvine by Ian Harris](#concurrency-in-go-from-university-of-california-irvine-by-ian-harris)
     1. [Concurrent Programming in Go from Pluralsight by Mike Van Sickle](#concurrent-programming-in-go-from-pluralsight-by-mike-van-sickle)
-1. [Java](#java-1)
+1. [Java](#java-2)
     1. [Java Performance Tuning from Pluralsight by Tim Ojo](#java-performance-tuning-from-pluralsight-by-tim-ojo)
+    1. [Refactoring to SOLID Java from Pluralsight by Dan Geabunea](#refactoring-to-solid-java-from-pluralsight-by-dan-geabunea)
 1. [Python](#python-1)
     1. [Python (Basic) from HackerRank](#python-basic-from-hackerrank)
 1. [SQL](#sql-3)
@@ -37,6 +40,11 @@
     1. [Learn Svelte from Scrimba by Noah Kaufman](#learn-svelte-from-scrimba-by-noah-kaufman)
 1. [Salesforce](#salesforce-1)
     1. [Getting Started with Salesforce Lightning Web Components from Pluralsight by Sara Morgan Nettles](#getting-started-with-salesforce-lightning-web-components-from-pluralsight-by-sara-morgan-nettles)
+## Fundamentals (1)
+### Software Design Principles from Codecademy
+
+<img src="../cert_programming_principles_software-design-rinciples-source_codecademy_cert-920e83367c1e1b29ef2ce88c8086a0b6_2024-08-03.png" alt="John's Software Design Principles from Codecademy" style="border:1px solid #000000" />
+
 ## Algorithms (1)
 ### Problem Solving (Basic) from HackerRank
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
@@ -119,10 +127,14 @@
 
 <img src="../cert_programming_go_concurrent-programming-in-go_pluralsight_mike-van-sickle_2024-06-17.png" alt="John's Concurrent Programming in Go from Pluralsight by Mike Van Sickle" style="border:1px solid #000000" />
 
-## Java (1)
+## Java (2)
 ### Java Performance Tuning from Pluralsight by Tim Ojo
 
 <img src="../cert_programming_java_java-performance-tuning_pluralsight_tim-ojo_2024-06-24.png" alt="John's Java Performance Tuning from Pluralsight by Tim Ojo" style="border:1px solid #000000" />
+
+### Refactoring to SOLID Java from Pluralsight by Dan Geabunea
+
+<img src="../cert_programming_java_refactoring-to-solid-java_pluralsight_dan-geabunea_2024-08-02.png" alt="John's Refactoring to SOLID Java from Pluralsight by Dan Geabunea" style="border:1px solid #000000" />
 
 ## Python (1)
 ### Python (Basic) from HackerRank

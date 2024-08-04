@@ -10,6 +10,8 @@
 1. [Inspiration](#inspiration-2)
     1. [Recognize Leadership in Others from NonprofitReady](#recognize-leadership-in-others-from-nonprofitready)
     1. [How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](#how-great-leaders-inspire-action-from-nonprofitready-by-simon-sinek)
+1. [Change Management](#change-management-1)
+    1. [Removing Barriers to Change from University of Pennsylvania, Wharton School by Jonah Berger](#removing-barriers-to-change-from-university-of-pennsylvania-wharton-school-by-jonah-berger)
 1. [Communications](#communications-1)
     1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
 ## Fundamentals (5)
@@ -46,6 +48,12 @@
 ### How Great Leaders Inspire Action from NonprofitReady by Simon Sinek
 
 ![John's How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](cert_leadership_simon-sinek-how-great-leaders-inspire-action_nonprofitready_2024-03-06.png)
+
+## Change Management (1)
+### Removing Barriers to Change from University of Pennsylvania, Wharton School by Jonah Berger
+* [John's University of Pennsylvania, Wharton School online credential](https://coursera.org/verify/JN1TH83RD9CY)
+
+![John's Removing Barriers to Change from University of Pennsylvania, Wharton School by Jonah Berger](cert_leadership_change-management_removing-barries-to-change_wharton_jonah-berger_cert-JN1TH83RD9CY_2024-08-04.png)
 
 ## Communications (1)
 ### Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas
