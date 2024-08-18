@@ -8,8 +8,9 @@
     1. [Non-Technical Security from KnowBe4](#non-technical-security-from-knowbe4)
 1. [Concepts](#concepts-1)
     1. [Voice on Security: Piggybacking from KnowBe4](#voice-on-security-piggybacking-from-knowbe4)
-1. [Zero Trust](#zero-trust-1)
+1. [Zero Trust](#zero-trust-2)
     1. [Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews](#zero-trust-architecture-zta-getting-started-from-pluralsight-by-dr-lyron-h-andrews)
+    1. [Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews](#zero-trust-architecture-zta-strategize-and-establish-from-pluralsight-by-dr-lyron-h-andrews)
 1. [General Data Protection Regulation (GDPR)](#general-data-protection-regulation-gdpr-2)
     1. [General Data Protection Regulation (GDPR) 2024 from Traliant](#general-data-protection-regulation-gdpr-2024-from-traliant)
     1. [General Data Protection Regulation (GDPR) "2023" from Traliant](#general-data-protection-regulation-gdpr-2023-from-traliant)
@@ -79,10 +80,14 @@
 
 <img src="../cert_infosec_concepts_voice-on-security-piggybacking_knowbe4_2024-06-04.png" alt="John's Voice on Security: Piggybacking from KnowBe4" style="border:1px solid #000000" />
 
-## Zero Trust (1)
+## Zero Trust (2)
 ### Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews
 
 <img src="../cert_infosec_zero-trust_zero-trust-architecture-zta-getting-started_pluralsight_lyron-h-andrews_2024-08-01.png" alt="John's Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews" style="border:1px solid #000000" />
+
+### Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews
+
+<img src="../cert_infosec_zero-trust_zero-trust-architecture-zta-strategize-and-establish_pluralsight_dr-lyron-h-andrews_2024-08-18.png" alt="John's Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews" style="border:1px solid #000000" />
 
 ## General Data Protection Regulation (GDPR) (2)
 ### General Data Protection Regulation (GDPR) 2024 from Traliant

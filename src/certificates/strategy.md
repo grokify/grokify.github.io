@@ -1,4 +1,6 @@
 # John's Strategy Certificates
+1. [Fundamentals](#fundamentals-1)
+    1. [Managing Strategy and Vision from Pluralsight by Curtis Webb](#managing-strategy-and-vision-from-pluralsight-by-curtis-webb)
 1. [Management Consulting](#management-consulting-2)
     1. [Management Consulting Specialization (5 Courses) from Emory University by John Kim](#management-consulting-specialization-5-courses-from-emory-university-by-john-kim)
     1. [Consulting Approach to Problem Solving from Emory University by John Kim](#consulting-approach-to-problem-solving-from-emory-university-by-john-kim)
@@ -12,6 +14,11 @@
 ## Resources
 
 1. [Strategy Reading List](../strategy_resource-links)
+## Fundamentals (1)
+### Managing Strategy and Vision from Pluralsight by Curtis Webb
+
+<img src="../cert_strategy_fundamentals_managing-strategy-and-vision_pluralsight_curtis-webb_2024-08-08.png" alt="John's Managing Strategy and Vision from Pluralsight by Curtis Webb" style="border:1px solid #000000" />
+
 ## Management Consulting (2)
 ### Management Consulting Specialization (5 Courses) from Emory University by John Kim
 * [John's Emory University online credential](https://coursera.org/verify/specialization/ZM5E4DBYR7QW)
