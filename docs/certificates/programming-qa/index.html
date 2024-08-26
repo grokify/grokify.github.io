@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/programming-qa/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Programming: QA (3) - John Wang's Site</title>
+    <title>Programming: QA (5) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Programming: QA (3)";
+        var mkdocs_page_name = "Programming: QA (5)";
         var mkdocs_page_input_path = "certificates/programming-qa.md";
         var mkdocs_page_url = "/certificates/programming-qa/";
       </script>
@@ -74,7 +74,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (22)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (23)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../human-resources/">Human Resources (4)</a>
                   </li>
@@ -100,11 +100,19 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (27)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Programming: QA (3)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Programming: QA (5)</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#test-driven-development-tdd-1">Test Driven Development (TDD) (1)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#unit-testing-1">Unit Testing (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#unit-testing-legacy-code-in-java-se-8-from-pluralsight-by-jim-weaver">Unit Testing Legacy Code in Java SE 8 from Pluralsight by Jim Weaver</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#test-driven-development-tdd-2">Test Driven Development (TDD) (2)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#what-is-tdd-and-why-it-is-not-unit-testing-executive-briefing-from-pluralsight-by-amy-dredge">What Is TDD and Why It Is Not Unit Testing: Executive Briefing from Pluralsight by Amy Dredge</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#tdd-in-java-from-pluralsight-by-andrejs-doronins">TDD in Java from Pluralsight by Andrejs Doronins</a>
     </li>
         </ul>
     </li>
@@ -130,7 +138,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-idsec/">Security: IDSec (17)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (35)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (36)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (7)</a>
                   </li>
@@ -151,7 +159,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>Programming: QA (3)</li>
+          <li>Certificates &raquo;</li><li>Programming: QA (5)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -163,8 +171,13 @@
               
                 <h1 id="johns-programming-qa-certificates">John's Programming: QA Certificates</h1>
 <ol>
-<li><a href="#test-driven-development-tdd-1">Test Driven Development (TDD)</a><ol>
+<li><a href="#unit-testing-1">Unit Testing</a><ol>
+<li><a href="#unit-testing-legacy-code-in-java-se-8-from-pluralsight-by-jim-weaver">Unit Testing Legacy Code in Java SE 8 from Pluralsight by Jim Weaver</a></li>
+</ol>
+</li>
+<li><a href="#test-driven-development-tdd-2">Test Driven Development (TDD)</a><ol>
 <li><a href="#what-is-tdd-and-why-it-is-not-unit-testing-executive-briefing-from-pluralsight-by-amy-dredge">What Is TDD and Why It Is Not Unit Testing: Executive Briefing from Pluralsight by Amy Dredge</a></li>
+<li><a href="#tdd-in-java-from-pluralsight-by-andrejs-doronins">TDD in Java from Pluralsight by Andrejs Doronins</a></li>
 </ol>
 </li>
 <li><a href="#rest-assured-1">REST Assured</a><ol>
@@ -176,9 +189,14 @@
 </ol>
 </li>
 </ol>
-<h2 id="test-driven-development-tdd-1">Test Driven Development (TDD) (1)</h2>
+<h2 id="unit-testing-1">Unit Testing (1)</h2>
+<h3 id="unit-testing-legacy-code-in-java-se-8-from-pluralsight-by-jim-weaver">Unit Testing Legacy Code in Java SE 8 from Pluralsight by Jim Weaver</h3>
+<p><img src="../cert_sqa_unit-testing_unit-testing-legacy-code-in-java-se-8_pluralsight_jim-weaver_2024-08-26.png" alt="John's Unit Testing Legacy Code in Java SE 8 from Pluralsight by Jim Weaver" style="border:1px solid #000000" /></p>
+<h2 id="test-driven-development-tdd-2">Test Driven Development (TDD) (2)</h2>
 <h3 id="what-is-tdd-and-why-it-is-not-unit-testing-executive-briefing-from-pluralsight-by-amy-dredge">What Is TDD and Why It Is Not Unit Testing: Executive Briefing from Pluralsight by Amy Dredge</h3>
 <p><img src="../cert_sqa_tdd_what-is-tdd-and-why-it-is-not-unit-testing-executive-briefing_pluralsight_amy-dredge_2024-08-08.png" alt="John's What Is TDD and Why It Is Not Unit Testing: Executive Briefing from Pluralsight by Amy Dredge" style="border:1px solid #000000" /></p>
+<h3 id="tdd-in-java-from-pluralsight-by-andrejs-doronins">TDD in Java from Pluralsight by Andrejs Doronins</h3>
+<p><img src="../cert_sqa_tdd_tdd-in-java_pluralsight_andrejs-doronins_2024-08-26.png" alt="John's TDD in Java from Pluralsight by Andrejs Doronins" style="border:1px solid #000000" /></p>
 <h2 id="rest-assured-1">REST Assured (1)</h2>
 <h3 id="rest-assured-fundamentals-from-pluralsight-by-andrejs-doronins">REST Assured Fundamentals from Pluralsight by Andrejs Doronins</h3>
 <p><img src="../cert_sqa_rest-assured_rest-assured-fundamentals_pluralsight_andrejs-doronins_2024-08-25.png" alt="John's REST Assured Fundamentals from Pluralsight by Andrejs Doronins" style="border:1px solid #000000" /></p>
