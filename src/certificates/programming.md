@@ -1,39 +1,39 @@
 # John's Programming Certificates
 1. [Fundamentals](#fundamentals-1)
-    1. [Software Design Principles from Codecademy](#software-design-principles-from-codecademy)
+    1. [Software Design Principles from Codecademy by](#software-design-principles-from-codecademy-by)
 1. [Algorithms](#algorithms-1)
-    1. [Problem Solving (Basic) from HackerRank](#problem-solving-basic-from-hackerrank)
+    1. [Problem Solving (Basic) from HackerRank by](#problem-solving-basic-from-hackerrank-by)
 1. [API](#api-1)
-    1. [Rest API (Intermediate) from HackerRank](#rest-api-intermediate-from-hackerrank)
+    1. [Rest API (Intermediate) from HackerRank by](#rest-api-intermediate-from-hackerrank-by)
 1. [Machine Learning](#machine-learning-1)
     1. [Machine Learning from Stanford by Andrew Ng](#machine-learning-from-stanford-by-andrew-ng)
 1. [Refactoring](#refactoring-1)
     1. [ICAgile (ICP-PRG): Improving and Refactoring Code from Pluralsight by Jeremy Jarrell](#icagile-icp-prg-improving-and-refactoring-code-from-pluralsight-by-jeremy-jarrell)
 1. [Security](#security-6)
-    1. [OWASP Top 10: Broken Access Control from Codecademy](#owasp-top-10-broken-access-control-from-codecademy)
-    1. [OWASP Top 10: Identification and Authentication Failures from Codecademy](#owasp-top-10-identification-and-authentication-failures-from-codecademy)
-    1. [Learn about CSRF Attacks from Codecademy](#learn-about-csrf-attacks-from-codecademy)
-    1. [OWASP Top 10 from Snyk](#owasp-top-10-from-snyk)
-    1. [Snyk Top 10 from Snyk](#snyk-top-10-from-snyk)
-    1. [Security for Developers from Snyk](#security-for-developers-from-snyk)
+    1. [OWASP Top 10: Broken Access Control from Codecademy by](#owasp-top-10-broken-access-control-from-codecademy-by)
+    1. [OWASP Top 10: Identification and Authentication Failures from Codecademy by](#owasp-top-10-identification-and-authentication-failures-from-codecademy-by)
+    1. [Learn about CSRF Attacks from Codecademy by](#learn-about-csrf-attacks-from-codecademy-by)
+    1. [OWASP Top 10 from Snyk by](#owasp-top-10-from-snyk-by)
+    1. [Snyk Top 10 from Snyk by](#snyk-top-10-from-snyk-by)
+    1. [Security for Developers from Snyk by](#security-for-developers-from-snyk-by)
 1. [OAuth 2.0 and OpenID Connect (OIDC)](#oauth-20-and-openid-connect-oidc-2)
     1. [Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck](#introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck)
     1. [OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt](#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt)
 1. [C#](#c-1)
-    1. [C# (Basic) from HackerRank](#c-basic-from-hackerrank)
+    1. [C# (Basic) from HackerRank by](#c-basic-from-hackerrank-by)
 1. [Go](#go-3)
-    1. [Go (Basic) from HackerRank](#go-basic-from-hackerrank)
+    1. [Go (Basic) from HackerRank by](#go-basic-from-hackerrank-by)
     1. [Concurrency in Go from University of California, Irvine by Ian Harris](#concurrency-in-go-from-university-of-california-irvine-by-ian-harris)
     1. [Concurrent Programming in Go from Pluralsight by Mike Van Sickle](#concurrent-programming-in-go-from-pluralsight-by-mike-van-sickle)
 1. [Java](#java-2)
     1. [Java Performance Tuning from Pluralsight by Tim Ojo](#java-performance-tuning-from-pluralsight-by-tim-ojo)
     1. [Refactoring to SOLID Java from Pluralsight by Dan Geabunea](#refactoring-to-solid-java-from-pluralsight-by-dan-geabunea)
 1. [Python](#python-1)
-    1. [Python (Basic) from HackerRank](#python-basic-from-hackerrank)
+    1. [Python (Basic) from HackerRank by](#python-basic-from-hackerrank-by)
 1. [SQL](#sql-3)
-    1. [SQL (Advanced) from HackerRank](#sql-advanced-from-hackerrank)
-    1. [SQL (Intermediate) from HackerRank](#sql-intermediate-from-hackerrank)
-    1. [SQL (Basic) from HackerRank](#sql-basic-from-hackerrank)
+    1. [SQL (Advanced) from HackerRank by](#sql-advanced-from-hackerrank-by)
+    1. [SQL (Intermediate) from HackerRank by](#sql-intermediate-from-hackerrank-by)
+    1. [SQL (Basic) from HackerRank by](#sql-basic-from-hackerrank-by)
 1. [Front-End](#front-end-3)
     1. [React 18: The Big Picture from Pluralsight by Cory House](#react-18-the-big-picture-from-pluralsight-by-cory-house)
     1. [Next.js 12: The Big Picture from Pluralsight by Cory House](#nextjs-12-the-big-picture-from-pluralsight-by-cory-house)
@@ -41,23 +41,23 @@
 1. [Salesforce](#salesforce-1)
     1. [Getting Started with Salesforce Lightning Web Components from Pluralsight by Sara Morgan Nettles](#getting-started-with-salesforce-lightning-web-components-from-pluralsight-by-sara-morgan-nettles)
 ## Fundamentals (1)
-### Software Design Principles from Codecademy
+### Software Design Principles from Codecademy by 
 
-<img src="../cert_programming_principles_software-design-rinciples-source_codecademy_cert-920e83367c1e1b29ef2ce88c8086a0b6_2024-08-03.png" alt="John's Software Design Principles from Codecademy" style="border:1px solid #000000" />
+<img src="../cert_programming_principles_software-design-rinciples-source_codecademy_cert-920e83367c1e1b29ef2ce88c8086a0b6_2024-08-03.png" alt="John's Software Design Principles from Codecademy by " style="border:1px solid #000000" />
 
 ## Algorithms (1)
-### Problem Solving (Basic) from HackerRank
+### Problem Solving (Basic) from HackerRank by 
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/354553bb6ea7)
 
-![John's Problem Solving (Basic) from HackerRank](cert_programming_problem-solving_hackerrank_problem-solving-basic_2023-07-08.png)
+![John's Problem Solving (Basic) from HackerRank by](cert_programming_problem-solving_hackerrank_problem-solving-basic_2023-07-08.png)
 
 ## API (1)
-### Rest API (Intermediate) from HackerRank
+### Rest API (Intermediate) from HackerRank by 
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/4c5d7cc60c64)
 
-![John's Rest API (Intermediate) from HackerRank](cert_programming_rest-api_hackerrank_rest-api-intermediate_2023-07-08.png)
+![John's Rest API (Intermediate) from HackerRank by](cert_programming_rest-api_hackerrank_rest-api-intermediate_2023-07-08.png)
 
 ## Machine Learning (1)
 ### Machine Learning from Stanford by Andrew Ng
@@ -70,29 +70,29 @@
 <img src="../cert_programming_icagile-icp-prg_refactoring-and-improving-code_pluralsight_jeremy-jarrell_2024-07-13.png" alt="John's ICAgile (ICP-PRG): Improving and Refactoring Code from Pluralsight by Jeremy Jarrell" style="border:1px solid #000000" />
 
 ## Security (6)
-### OWASP Top 10: Broken Access Control from Codecademy
+### OWASP Top 10: Broken Access Control from Codecademy by 
 
-<img src="../cert_security_owasp-top-10-broken-access-control_codecademy_2024-03-27.png" alt="John's OWASP Top 10: Broken Access Control from Codecademy" style="border:1px solid #000000" />
+<img src="../cert_security_owasp-top-10-broken-access-control_codecademy_2024-03-27.png" alt="John's OWASP Top 10: Broken Access Control from Codecademy by " style="border:1px solid #000000" />
 
-### OWASP Top 10: Identification and Authentication Failures from Codecademy
+### OWASP Top 10: Identification and Authentication Failures from Codecademy by 
 
-<img src="../cert_security_owasp-top-10-identification-and-authentication-failures_codecademy_2024-03-28.png" alt="John's OWASP Top 10: Identification and Authentication Failures from Codecademy" style="border:1px solid #000000" />
+<img src="../cert_security_owasp-top-10-identification-and-authentication-failures_codecademy_2024-03-28.png" alt="John's OWASP Top 10: Identification and Authentication Failures from Codecademy by " style="border:1px solid #000000" />
 
-### Learn about CSRF Attacks from Codecademy
+### Learn about CSRF Attacks from Codecademy by 
 
-<img src="../cert_security_learn-about-csrf-attacks_codecademy_2024-03-27.png" alt="John's Learn about CSRF Attacks from Codecademy" style="border:1px solid #000000" />
+<img src="../cert_security_learn-about-csrf-attacks_codecademy_2024-03-27.png" alt="John's Learn about CSRF Attacks from Codecademy by " style="border:1px solid #000000" />
 
-### OWASP Top 10 from Snyk
+### OWASP Top 10 from Snyk by 
 
-![John's OWASP Top 10 from Snyk](cert_security_owaasp-top-10_snyk_2024-03-09.png)
+![John's OWASP Top 10 from Snyk by](cert_security_owaasp-top-10_snyk_2024-03-09.png)
 
-### Snyk Top 10 from Snyk
+### Snyk Top 10 from Snyk by 
 
-![John's Snyk Top 10 from Snyk](cert_security_snyk-top-10_snyk_2024-03-09.png)
+![John's Snyk Top 10 from Snyk by](cert_security_snyk-top-10_snyk_2024-03-09.png)
 
-### Security for Developers from Snyk
+### Security for Developers from Snyk by 
 
-![John's Security for Developers from Snyk](cert_security_security-for-developers_snyk_2024-03-09.png)
+![John's Security for Developers from Snyk by](cert_security_security-for-developers_snyk_2024-03-09.png)
 
 ## OAuth 2.0 and OpenID Connect (OIDC) (2)
 ### Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck
@@ -105,18 +105,18 @@
 <img src="../cert_security_oauth2-and-openid-connect-easy-now_pluralsight_2024-03-27.png" alt="John's OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt" style="border:1px solid #000000" />
 
 ## C# (1)
-### C# (Basic) from HackerRank
+### C# (Basic) from HackerRank by 
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/0b44cb39a3b8)
 
-![John's C# (Basic) from HackerRank](cert_programming_csharp_hackerrank_csharp-basic_2023-07-16.png)
+![John's C# (Basic) from HackerRank by](cert_programming_csharp_hackerrank_csharp-basic_2023-07-16.png)
 
 ## Go (3)
-### Go (Basic) from HackerRank
+### Go (Basic) from HackerRank by 
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/7666f51dbcdf)
 
-![John's Go (Basic) from HackerRank](cert_programming_go_hackerrank_go-basic_2023-07-07.png)
+![John's Go (Basic) from HackerRank by](cert_programming_go_hackerrank_go-basic_2023-07-07.png)
 
 ### Concurrency in Go from University of California, Irvine by Ian Harris
 * [John's University of California, Irvine online credential](https://coursera.org/verify/V69VBBWW7CFJ)
@@ -137,30 +137,30 @@
 <img src="../cert_programming_java_refactoring-to-solid-java_pluralsight_dan-geabunea_2024-08-02.png" alt="John's Refactoring to SOLID Java from Pluralsight by Dan Geabunea" style="border:1px solid #000000" />
 
 ## Python (1)
-### Python (Basic) from HackerRank
+### Python (Basic) from HackerRank by 
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/b72ee71f1292)
 
-![John's Python (Basic) from HackerRank](cert_programming_python_hackerrank_python-basic_2023-07-08.png)
+![John's Python (Basic) from HackerRank by](cert_programming_python_hackerrank_python-basic_2023-07-08.png)
 
 ## SQL (3)
-### SQL (Advanced) from HackerRank
+### SQL (Advanced) from HackerRank by 
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/3398beadc245)
 
-![John's SQL (Advanced) from HackerRank](cert_programming_sql_hackerrank_sql-advanced_2023-07-09.png)
+![John's SQL (Advanced) from HackerRank by](cert_programming_sql_hackerrank_sql-advanced_2023-07-09.png)
 
-### SQL (Intermediate) from HackerRank
+### SQL (Intermediate) from HackerRank by 
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/7326755aba4a)
 
-![John's SQL (Intermediate) from HackerRank](cert_programming_sql_hackerrank_sql-intermediate_2023-07-08.png)
+![John's SQL (Intermediate) from HackerRank by](cert_programming_sql_hackerrank_sql-intermediate_2023-07-08.png)
 
-### SQL (Basic) from HackerRank
+### SQL (Basic) from HackerRank by 
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/85d3ebe85d24)
 
-![John's SQL (Basic) from HackerRank](cert_programming_sql_hackerrank_sql-basic_2023-07-08.png)
+![John's SQL (Basic) from HackerRank by](cert_programming_sql_hackerrank_sql-basic_2023-07-08.png)
 
 ## Front-End (3)
 ### React 18: The Big Picture from Pluralsight by Cory House

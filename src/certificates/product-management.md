@@ -12,17 +12,17 @@
     1. [Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson](#product-management-delivering-on-okrs-from-pluralsight-by-keisha-johnson)
     1. [Exploring Envisioning Outcomes from Pluralsight by Lauren Gray](#exploring-envisioning-outcomes-from-pluralsight-by-lauren-gray)
 1. [Product-Led Growth (PLG)](#product-led-growth-plg-1)
-    1. [Product-Led Fundamentals from ProductLed](#product-led-fundamentals-from-productled)
+    1. [Product-Led Fundamentals from ProductLed by](#product-led-fundamentals-from-productled-by)
 1. [Machine Learning](#machine-learning-2)
     1. [Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](#machine-learning-foundations-for-product-managers-from-duke-university-by-jon-reifschneider)
-    1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
+    1. [AI for Product Management from Pendo by](#ai-for-product-management-from-pendo-by)
 1. [Product Craft](#product-craft-1)
     1. [The Emotional Side of Product Management from Pluralsight by Nicole Castillo](#the-emotional-side-of-product-management-from-pluralsight-by-nicole-castillo)
 1. [Product Owner](#product-owner-5)
-    1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
-    1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
-    1. [Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute](#scrum-product-owner-accredited-certification-spoac-from-scrum-institute)
-    1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devops-po-from-devops-academy)
+    1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance by](#certified-scrum-product-owner-cspo-from-scrum-alliance-by)
+    1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org by](#professional-scrum-product-owner-i-pspo-i-from-scrumorg-by)
+    1. [Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute by](#scrum-product-owner-accredited-certification-spoac-from-scrum-institute-by)
+    1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy by](#certified-devops-product-owner-devops-po-from-devops-academy-by)
     1. [Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell](#becoming-a-great-product-owner-from-pluralsight-by-jeremy-jarrell)
 ## Strategy (1)
 ### Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell
@@ -64,9 +64,9 @@
 <img src="../cert_product_exploring-envisioning-outcomes_pluralsight_lauren-gray_2024-07-17.png" alt="John's Exploring Envisioning Outcomes from Pluralsight by Lauren Gray" style="border:1px solid #000000" />
 
 ## Product-Led Growth (PLG) (1)
-### Product-Led Fundamentals from ProductLed
+### Product-Led Fundamentals from ProductLed by 
 
-![John's Product-Led Fundamentals from ProductLed](cert_product_plg_productled_product-led-growth-fundamentals_2022-10-08_date.png)
+![John's Product-Led Fundamentals from ProductLed by](cert_product_plg_productled_product-led-growth-fundamentals_2022-10-08_date.png)
 
 ## Machine Learning (2)
 ### Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider
@@ -74,11 +74,11 @@
 
 ![John's Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](cert_machine-learning_duke_machine-learning-foundations-for-product-managers_2024_01-27_cert-NCRF8YSUYLSB.png)
 
-### AI for Product Management from Pendo
+### AI for Product Management from Pendo by 
 * [John's Credly online profile](https://www.credly.com/users/grokify/)
 * [John's Pendo online credential](https://www.credly.com/badges/64f1712e-652a-4f49-b392-209f420f5b38)
 
-<img src="../cert_product_ai_pendo_ai-product-management_2024-01-02_avatar.png" alt="John's AI for Product Management from Pendo" style="border:1px solid #000000" />
+<img src="../cert_product_ai_pendo_ai-product-management_2024-01-02_avatar.png" alt="John's AI for Product Management from Pendo by " style="border:1px solid #000000" />
 
 ## Product Craft (1)
 ### The Emotional Side of Product Management from Pluralsight by Nicole Castillo
@@ -86,30 +86,30 @@
 <img src="../cert_product_the-emotional-side-of-product-management_plurasight_nicole-castillo_2024-07-12.png" alt="John's The Emotional Side of Product Management from Pluralsight by Nicole Castillo" style="border:1px solid #000000" />
 
 ## Product Owner (5)
-### Certified Scrum Product Owner (CSPO) from Scrum Alliance
+### Certified Scrum Product Owner (CSPO) from Scrum Alliance by 
 * [John's Scrum Alliance online profile](https://www.scrumalliance.org/community/profile/jwang96)
 
-<img src="../cert_scrum_product-owner_scrumalliance_certified-scrum-product-owner--cspo_2012-12-10_dl-2024-07-27.png" alt="John's Certified Scrum Product Owner (CSPO) from Scrum Alliance" style="border:1px solid #000000" />
+<img src="../cert_scrum_product-owner_scrumalliance_certified-scrum-product-owner--cspo_2012-12-10_dl-2024-07-27.png" alt="John's Certified Scrum Product Owner (CSPO) from Scrum Alliance by " style="border:1px solid #000000" />
 
-<img src="../cert_scrum_product-owner_scrumalliance_certified-scrum-product-owner--cspo_2012-12-10_dl-2023-09-04.png" alt="John's Certified Scrum Product Owner (CSPO) from Scrum Alliance" style="border:1px solid #000000" />
+<img src="../cert_scrum_product-owner_scrumalliance_certified-scrum-product-owner--cspo_2012-12-10_dl-2023-09-04.png" alt="John's Certified Scrum Product Owner (CSPO) from Scrum Alliance by " style="border:1px solid #000000" />
 
-![John's Certified Scrum Product Owner (CSPO) from Scrum Alliance](cert_scrum_product-owner_scrumalliance_certified-scrum-product-owner--cspo_2012-12-07_trim.png)
+![John's Certified Scrum Product Owner (CSPO) from Scrum Alliance by](cert_scrum_product-owner_scrumalliance_certified-scrum-product-owner--cspo_2012-12-07_trim.png)
 
-### Professional Scrum Product Owner I (PSPO I) from Scrum.org
+### Professional Scrum Product Owner I (PSPO I) from Scrum.org by 
 * [John's Scrum.org online profile](https://www.scrum.org/user/16066/)
 * [John's Credly online profile](https://www.credly.com/users/grokify/)
 
-![John's Professional Scrum Product Owner I (PSPO I) from Scrum.org](cert_scrum_product-owner_scrum-org_professional-scrum-product-owner-i--pspo-i_2023-09-14.png)
+![John's Professional Scrum Product Owner I (PSPO I) from Scrum.org by](cert_scrum_product-owner_scrum-org_professional-scrum-product-owner-i--pspo-i_2023-09-14.png)
 
-### Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute
+### Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute by 
 * [John's Scrum Institute online credential](https://www.scrum-institute.org/badges/79982314947061)
 
-<img src="../cert_scrum_product-owner_scrum-institute_scrum-master-product-owner-accredited-certification--spoac__23-10-27_cert-79982314947061.png" alt="John's Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute" style="border:1px solid #000000" />
+<img src="../cert_scrum_product-owner_scrum-institute_scrum-master-product-owner-accredited-certification--spoac__23-10-27_cert-79982314947061.png" alt="John's Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute by " style="border:1px solid #000000" />
 
-### Certified DevOps Product Owner (DevOps-PO) from DevOps Academy
+### Certified DevOps Product Owner (DevOps-PO) from DevOps Academy by 
 * [John's DevOps Academy online credential](https://www.devops-certification.org/badges/36722377107944)
 
-<img src="../cert_devops_po_devops-cert-org_devops-po_2023-10-01_36722377107944.png" alt="John's Certified DevOps Product Owner (DevOps-PO) from DevOps Academy" style="border:1px solid #000000" />
+<img src="../cert_devops_po_devops-cert-org_devops-po_2023-10-01_36722377107944.png" alt="John's Certified DevOps Product Owner (DevOps-PO) from DevOps Academy by " style="border:1px solid #000000" />
 
 ### Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell
 

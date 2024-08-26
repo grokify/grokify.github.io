@@ -1,76 +1,76 @@
 # John's Artificial Intelligence Certificates
 1. [Strategy](#strategy-1)
-    1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
+    1. [AI Strategy and Governance from University of Pennsylvania, Wharton School by](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school-by)
 1. [Product Management](#product-management-1)
-    1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
+    1. [AI for Product Management from Pendo by](#ai-for-product-management-from-pendo-by)
 1. [Generative AI](#generative-ai-7)
-    1. [Introduction to Generative AI from Google Cloud](#introduction-to-generative-ai-from-google-cloud)
-    1. [Introduction to Large Language Models from Google Cloud](#introduction-to-large-language-models-from-google-cloud)
-    1. [Introduction to Image Generation from Google Cloud](#introduction-to-image-generation-from-google-cloud)
-    1. [Duet AI in Gmail from Google Cloud](#duet-ai-in-gmail-from-google-cloud)
-    1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
+    1. [Introduction to Generative AI from Google Cloud by](#introduction-to-generative-ai-from-google-cloud-by)
+    1. [Introduction to Large Language Models from Google Cloud by](#introduction-to-large-language-models-from-google-cloud-by)
+    1. [Introduction to Image Generation from Google Cloud by](#introduction-to-image-generation-from-google-cloud-by)
+    1. [Duet AI in Gmail from Google Cloud by](#duet-ai-in-gmail-from-google-cloud-by)
+    1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute by](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute-by)
     1. [ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy](#chatgpt-for-excel-from-great-learning-academy-by-e-balachandra-murthy)
-    1. [Databricks Accredited Generative AI Fundamentals from Databricks](#databricks-accredited-generative-ai-fundamentals-from-databricks)
+    1. [Databricks Accredited Generative AI Fundamentals from Databricks by](#databricks-accredited-generative-ai-fundamentals-from-databricks-by)
 1. [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag-3)
     1. [Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota](#vector-space-models-and-embeddings-in-rags-from-pluralsight-by-axel-sirota)
     1. [Multi-modal RAGs from Pluralsight by Dhiraj Kumar](#multi-modal-rags-from-pluralsight-by-dhiraj-kumar)
     1. [Modular RAGs from Pluralsight by JS Padoan](#modular-rags-from-pluralsight-by-js-padoan)
 1. [Security](#security-3)
-    1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-ai-generated-attacks-from-codecademy)
+    1. [Defending Against AI-Generated Attacks from Codecademy by](#defending-against-ai-generated-attacks-from-codecademy-by)
     1. [Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana](#security-risks-and-privacy-concerns-using-generative-ai-from-pluralsight-by-dr-shaila-rana)
-    1. [AI Security from Lakera](#ai-security-from-lakera)
+    1. [AI Security from Lakera by](#ai-security-from-lakera-by)
 1. [Governance](#governance-1)
-    1. [Introduction to Responsible AI from Google Cloud](#introduction-to-responsible-ai-from-google-cloud)
+    1. [Introduction to Responsible AI from Google Cloud by](#introduction-to-responsible-ai-from-google-cloud-by)
 1. [Applications](#applications-1)
     1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
 ## Strategy (1)
-### AI Strategy and Governance from University of Pennsylvania, Wharton School
+### AI Strategy and Governance from University of Pennsylvania, Wharton School by 
 * [John's University of Pennsylvania, Wharton School online credential](https://coursera.org/verify/DGB6XB4C7VKD)
 
-![John's AI Strategy and Governance from University of Pennsylvania, Wharton School](cert_ai_ai-strategy-and-governance_wharton_cert-DGB6XB4C7VKD_2024-03-03.png)
+![John's AI Strategy and Governance from University of Pennsylvania, Wharton School by](cert_ai_ai-strategy-and-governance_wharton_cert-DGB6XB4C7VKD_2024-03-03.png)
 
 ## Product Management (1)
-### AI for Product Management from Pendo
+### AI for Product Management from Pendo by 
 * [John's Credly online profile](https://www.credly.com/users/grokify/)
 * [John's Pendo online credential](https://www.credly.com/badges/64f1712e-652a-4f49-b392-209f420f5b38)
 
-<img src="../cert_product_ai_pendo_ai-product-management_2024-01-02_avatar.png" alt="John's AI for Product Management from Pendo" style="border:1px solid #000000" />
+<img src="../cert_product_ai_pendo_ai-product-management_2024-01-02_avatar.png" alt="John's AI for Product Management from Pendo by " style="border:1px solid #000000" />
 
 ## Generative AI (7)
-### Introduction to Generative AI from Google Cloud
+### Introduction to Generative AI from Google Cloud by 
 * [John's Google Cloud online credential](https://coursera.org/verify/3VBHJ76MBTU9)
 
-![John's Introduction to Generative AI from Google Cloud](cert_ai_introduction-to-generative-ai_google-cloud_cert-3VBHJ76MBTU9_2024-02-21.png)
+![John's Introduction to Generative AI from Google Cloud by](cert_ai_introduction-to-generative-ai_google-cloud_cert-3VBHJ76MBTU9_2024-02-21.png)
 
-### Introduction to Large Language Models from Google Cloud
+### Introduction to Large Language Models from Google Cloud by 
 * [John's Google Cloud online credential](https://coursera.org/verify/QEDZTHK9UC3W)
 
-![John's Introduction to Large Language Models from Google Cloud](cert_ai_introduction-to-large-language-models_google-cloud_cert-QEDZTHK9UC3W_2024-02-21.png)
+![John's Introduction to Large Language Models from Google Cloud by](cert_ai_introduction-to-large-language-models_google-cloud_cert-QEDZTHK9UC3W_2024-02-21.png)
 
-### Introduction to Image Generation from Google Cloud
+### Introduction to Image Generation from Google Cloud by 
 * [John's Google Cloud online credential](https://coursera.org/verify/8QPV3NJLRBUK)
 
-![John's Introduction to Image Generation from Google Cloud](cert_ai_introduction-to-image-generation_google-cloud_cert-8QPV3NJLRBUK_2024-02-21.png)
+![John's Introduction to Image Generation from Google Cloud by](cert_ai_introduction-to-image-generation_google-cloud_cert-8QPV3NJLRBUK_2024-02-21.png)
 
-### Duet AI in Gmail from Google Cloud
+### Duet AI in Gmail from Google Cloud by 
 * [John's Google Cloud online credential](https://coursera.org/verify/DHKM6DF4MQ67)
 
-![John's Duet AI in Gmail from Google Cloud](cert_ai_duet-ai-in-gmail_google-cloud_cert-DHKM6DF4MQ67_2024-02-22.png)
+![John's Duet AI in Gmail from Google Cloud by](cert_ai_duet-ai-in-gmail_google-cloud_cert-DHKM6DF4MQ67_2024-02-22.png)
 
-### AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute
+### AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute by 
 
-<img src="../cert_ai_ai-prompting-essentials-certifiedd_APEI_MSI_cert-335389458_2024-03-14.png" alt="John's AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute" style="border:1px solid #000000" />
+<img src="../cert_ai_ai-prompting-essentials-certifiedd_APEI_MSI_cert-335389458_2024-03-14.png" alt="John's AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute by " style="border:1px solid #000000" />
 
 ### ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy
 * [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/WFDRKONI)
 
 <img src="../cert_ai_chatgpt-for-excel_greatlearning-by-e-balachandra-murthy_cert-WFDRKONI_2024-03-03.jpg" alt="John's ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy" style="border:1px solid #000000" />
 
-### Databricks Accredited Generative AI Fundamentals from Databricks
+### Databricks Accredited Generative AI Fundamentals from Databricks by 
 * [John's Databricks online profile](https://credentials.databricks.com/profile/grokify)
 * [John's Databricks online credential](https://credentials.databricks.com/4ca910a4-6dd5-4e91-97a7-ccc7ed80424f)
 
-![John's Databricks Accredited Generative AI Fundamentals from Databricks](cert_databricks_generative-ai-fundamentals_2024-01-19_cert-ca910a4-6dd5-4e91-97a7-ccc7ed80424f.png)
+![John's Databricks Accredited Generative AI Fundamentals from Databricks by](cert_databricks_generative-ai-fundamentals_2024-01-19_cert-ca910a4-6dd5-4e91-97a7-ccc7ed80424f.png)
 
 ## Retrieval-Augmented Generation (RAG) (3)
 ### Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota
@@ -86,24 +86,24 @@
 <img src="../cert_ai_rag_modular-rags_pluralsight_js-padoan_2024-07-28.png" alt="John's Modular RAGs from Pluralsight by JS Padoan" style="border:1px solid #000000" />
 
 ## Security (3)
-### Defending Against AI-Generated Attacks from Codecademy
+### Defending Against AI-Generated Attacks from Codecademy by 
 
-<img src="../cert_ai_defending-against-ai-generated-attacks_codecademy_2024-03-28.png" alt="John's Defending Against AI-Generated Attacks from Codecademy" style="border:1px solid #000000" />
+<img src="../cert_ai_defending-against-ai-generated-attacks_codecademy_2024-03-28.png" alt="John's Defending Against AI-Generated Attacks from Codecademy by " style="border:1px solid #000000" />
 
 ### Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana
 
 <img src="../cert_aisec_security-risks-and-privacy-concerns-using-generative-ai_pluralsight_dr-shaila-rana_2024-06-10.png" alt="John's Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana" style="border:1px solid #000000" />
 
-### AI Security from Lakera
+### AI Security from Lakera by 
 * [John's Lakera online credential](https://security.certificates.lakera.ai/credentials/53495805-342d-41b7-b9bf-5923ae00422d)
 
-<img src="../cert_ai_ai-security_lakera_cert-53495805-342d-41b7-b9bf-5923ae00422d_2024-03-19.png" alt="John's AI Security from Lakera" style="border:1px solid #000000" />
+<img src="../cert_ai_ai-security_lakera_cert-53495805-342d-41b7-b9bf-5923ae00422d_2024-03-19.png" alt="John's AI Security from Lakera by " style="border:1px solid #000000" />
 
 ## Governance (1)
-### Introduction to Responsible AI from Google Cloud
+### Introduction to Responsible AI from Google Cloud by 
 * [John's Google Cloud online credential](https://coursera.org/verify/ZWGW9HZZC2ET)
 
-![John's Introduction to Responsible AI from Google Cloud](cert_ai_introduction-to-responsible-ai_google-cloud_cert-ZWGW9HZZC2ET_2024-02-21.png)
+![John's Introduction to Responsible AI from Google Cloud by](cert_ai_introduction-to-responsible-ai_google-cloud_cert-ZWGW9HZZC2ET_2024-02-21.png)
 
 ## Applications (1)
 ### Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas

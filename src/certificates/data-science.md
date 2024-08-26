@@ -1,12 +1,12 @@
 # John's Data Science Certificates
 1. [Visualization](#visualization-3)
-    1. [BI Dashboards with Tableau from Codecademy](#bi-dashboards-with-tableau-from-codecademy)
+    1. [BI Dashboards with Tableau from Codecademy by](#bi-dashboards-with-tableau-from-codecademy-by)
     1. [Interactivity in Data Visualizations from Pluralsight by Tiffany France](#interactivity-in-data-visualizations-from-pluralsight-by-tiffany-france)
     1. [Jupyter Notebook from Great Learning Academy by Anirudh Rao](#jupyter-notebook-from-great-learning-academy-by-anirudh-rao)
 ## Visualization (3)
-### BI Dashboards with Tableau from Codecademy
+### BI Dashboards with Tableau from Codecademy by 
 
-<img src="../cert_data-science_bi-dashboards-with-tableau_codecademy_2024-03-27.png" alt="John's BI Dashboards with Tableau from Codecademy" style="border:1px solid #000000" />
+<img src="../cert_data-science_bi-dashboards-with-tableau_codecademy_2024-03-27.png" alt="John's BI Dashboards with Tableau from Codecademy by " style="border:1px solid #000000" />
 
 ### Interactivity in Data Visualizations from Pluralsight by Tiffany France
 
