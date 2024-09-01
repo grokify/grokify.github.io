@@ -10,7 +10,7 @@
 1. [Product Management](#product-management-1)
     1. [Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell](#product-management-strategy-and-vision-from-pluralsight-by-jeremy-jarrell)
 1. [Artificial Intelligence](#artificial-intelligence-1)
-    1. [AI Strategy and Governance from University of Pennsylvania, Wharton School by](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school-by)
+    1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
 ## Resources
 
 1. [Strategy Reading List](../strategy_resource-links)
@@ -47,8 +47,8 @@
 <img src="../cert_product_product-management-strategy-and-vision_pluralsight_jeremy-jarrell_2024-06-22.png" alt="John's Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell" style="border:1px solid #000000" />
 
 ## Artificial Intelligence (1)
-### AI Strategy and Governance from University of Pennsylvania, Wharton School by 
+### AI Strategy and Governance from University of Pennsylvania, Wharton School
 * [John's University of Pennsylvania, Wharton School online credential](https://coursera.org/verify/DGB6XB4C7VKD)
 
-![John's AI Strategy and Governance from University of Pennsylvania, Wharton School by](cert_ai_ai-strategy-and-governance_wharton_cert-DGB6XB4C7VKD_2024-03-03.png)
+![John's AI Strategy and Governance from University of Pennsylvania, Wharton School](cert_ai_ai-strategy-and-governance_wharton_cert-DGB6XB4C7VKD_2024-03-03.png)
 

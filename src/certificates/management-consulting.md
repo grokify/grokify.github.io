@@ -3,7 +3,7 @@
     1. [Management Consulting Specialization (5 Courses) from Emory University by John Kim](#management-consulting-specialization-5-courses-from-emory-university-by-john-kim)
 1. [Fundamentals](#fundamentals-2)
     1. [Introduction to Management Consulting from Emory University by John Kim](#introduction-to-management-consulting-from-emory-university-by-john-kim)
-    1. [Start Your Lifelong Learning from Accenture by](#start-your-lifelong-learning-from-accenture-by)
+    1. [Start Your Lifelong Learning from Accenture](#start-your-lifelong-learning-from-accenture)
 1. [Career Guidance](#career-guidance-1)
     1. [Getting a Consulting Job from Emory University by John Kim](#getting-a-consulting-job-from-emory-university-by-john-kim)
 1. [Problem Solving](#problem-solving-2)
@@ -23,10 +23,10 @@
 
 ![John's Introduction to Management Consulting from Emory University by John Kim](cert_management-consulting_emory_1_introduction-to-management-consulting_2024-01-09_cert-5MTSEBL95Y7S.png)
 
-### Start Your Lifelong Learning from Accenture by 
+### Start Your Lifelong Learning from Accenture
 * [John's Accenture online credential](https://coursera.org/verify/WVYWXG2LT3UX)
 
-![John's Start Your Lifelong Learning from Accenture by](cert_learning_start-your-lifelong-learning_accenture_cert-WVYWXG2LT3UX_2024-02-17.png)
+![John's Start Your Lifelong Learning from Accenture](cert_learning_start-your-lifelong-learning_accenture_cert-WVYWXG2LT3UX_2024-02-17.png)
 
 ## Career Guidance (1)
 ### Getting a Consulting Job from Emory University by John Kim

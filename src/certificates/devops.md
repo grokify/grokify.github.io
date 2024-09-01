@@ -1,6 +1,6 @@
 # John's DevOps Certificates
 1. [Fundamentals](#fundamentals-2)
-    1. [Certified DevOps Generalist (DevOps-GEN) from DevOps Academy by](#certified-devops-generalist-devops-gen-from-devops-academy-by)
+    1. [Certified DevOps Generalist (DevOps-GEN) from DevOps Academy](#certified-devops-generalist-devops-gen-from-devops-academy)
     1. [AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan](#aws-vs-azure-vs-gcp-from-great-learning-academy-by-vishal-padghan)
 1. [Culture](#culture-2)
     1. [Developing a Google SRE Culture from Google Cloud by Kiran Varma](#developing-a-google-sre-culture-from-google-cloud-by-kiran-varma)
@@ -8,13 +8,13 @@
 1. [DORA Metrics](#dora-metrics-1)
     1. [Leveraging Data & DORA Metrics to Transform Software Delivery Processes from Pluralsight by Greg Ceccarelli, Nicole Forsgren, Dan Carpenter](#leveraging-data-dora-metrics-to-transform-software-delivery-processes-from-pluralsight-by-greg-ceccarelli-nicole-forsgren-dan-carpenter)
 1. [Developer](#developer-1)
-    1. [Certified DevOps Developer (DevOps-DEV) from DevOps Academy by](#certified-devops-developer-devops-dev-from-devops-academy-by)
+    1. [Certified DevOps Developer (DevOps-DEV) from DevOps Academy](#certified-devops-developer-devops-dev-from-devops-academy)
 1. [Product Owner](#product-owner-1)
-    1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy by](#certified-devops-product-owner-devops-po-from-devops-academy-by)
+    1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devops-po-from-devops-academy)
 1. [Project Management](#project-management-1)
-    1. [Certified DevOps Project Manager (DevOps-PM) from DevOps Academy by](#certified-devops-project-manager-devops-pm-from-devops-academy-by)
+    1. [Certified DevOps Project Manager (DevOps-PM) from DevOps Academy](#certified-devops-project-manager-devops-pm-from-devops-academy)
 1. [Security](#security-2)
-    1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy by](#certified-devops-information-security-engineer-devops-sec-from-devops-academy-by)
+    1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
     1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
 1. [Kubernetes](#kubernetes-6)
     1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
@@ -24,24 +24,24 @@
     1. [Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino](#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino)
     1. [Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon](#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon)
 1. [AWS](#aws-1)
-    1. [AWS CI/CD Pipeline from Great Learning Academy by](#aws-ci-cd-pipeline-from-great-learning-academy-by)
+    1. [AWS CI/CD Pipeline from Great Learning Academy](#aws-ci-cd-pipeline-from-great-learning-academy)
 1. [Azure](#azure-1)
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
 1. [Datadog](#datadog-3)
-    1. [Introduction to Observability from Datadog by](#introduction-to-observability-from-datadog-by)
-    1. [Introduction to Service Level Objectives from Datadog by](#introduction-to-service-level-objectives-from-datadog-by)
-    1. [Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog by](#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog-by)
+    1. [Introduction to Observability from Datadog](#introduction-to-observability-from-datadog)
+    1. [Introduction to Service Level Objectives from Datadog](#introduction-to-service-level-objectives-from-datadog)
+    1. [Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog](#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog)
 1. [Google Cloud](#google-cloud-2)
-    1. [Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud by](#site-reliability-engineering-measuring-and-managing-reliability-from-google-cloud-by)
-    1. [Scaling with Google Cloud Operations from Google Cloud by](#scaling-with-google-cloud-operations-from-google-cloud-by)
+    1. [Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud](#site-reliability-engineering-measuring-and-managing-reliability-from-google-cloud)
+    1. [Scaling with Google Cloud Operations from Google Cloud](#scaling-with-google-cloud-operations-from-google-cloud)
 ## Resources
 
 1. [DevOps Reading List](../devops_resource-links)
 ## Fundamentals (2)
-### Certified DevOps Generalist (DevOps-GEN) from DevOps Academy by 
+### Certified DevOps Generalist (DevOps-GEN) from DevOps Academy
 * [John's DevOps Academy online credential](https://www.devops-certification.org/badges/64340326384175)
 
-<img src="../cert_devops_intro_devops-cert-org_devops-gen_2023-09-30_64340326384175.png" alt="John's Certified DevOps Generalist (DevOps-GEN) from DevOps Academy by " style="border:1px solid #000000" />
+<img src="../cert_devops_intro_devops-cert-org_devops-gen_2023-09-30_64340326384175.png" alt="John's Certified DevOps Generalist (DevOps-GEN) from DevOps Academy" style="border:1px solid #000000" />
 
 ### AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan
 * [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/WRHCURXB)
@@ -64,28 +64,28 @@
 <img src="../cert_devops_dora-metrics_leveraging-data-and-dora-metrics-to-transform-software-delivery-processes_pluralsight_greg-ceccarelli-nicole-forsgren-dan-carpenter_2024-08-26.png" alt="John's Leveraging Data & DORA Metrics to Transform Software Delivery Processes from Pluralsight by Greg Ceccarelli, Nicole Forsgren, Dan Carpenter" style="border:1px solid #000000" />
 
 ## Developer (1)
-### Certified DevOps Developer (DevOps-DEV) from DevOps Academy by 
+### Certified DevOps Developer (DevOps-DEV) from DevOps Academy
 * [John's DevOps Academy online credential](https://www.devops-certification.org/badges/79762822092976)
 
-<img src="../cert_devops_dev_devops-cert-org_devops-dev_2023-09-30_79762822092976.png" alt="John's Certified DevOps Developer (DevOps-DEV) from DevOps Academy by " style="border:1px solid #000000" />
+<img src="../cert_devops_dev_devops-cert-org_devops-dev_2023-09-30_79762822092976.png" alt="John's Certified DevOps Developer (DevOps-DEV) from DevOps Academy" style="border:1px solid #000000" />
 
 ## Product Owner (1)
-### Certified DevOps Product Owner (DevOps-PO) from DevOps Academy by 
+### Certified DevOps Product Owner (DevOps-PO) from DevOps Academy
 * [John's DevOps Academy online credential](https://www.devops-certification.org/badges/36722377107944)
 
-<img src="../cert_devops_po_devops-cert-org_devops-po_2023-10-01_36722377107944.png" alt="John's Certified DevOps Product Owner (DevOps-PO) from DevOps Academy by " style="border:1px solid #000000" />
+<img src="../cert_devops_po_devops-cert-org_devops-po_2023-10-01_36722377107944.png" alt="John's Certified DevOps Product Owner (DevOps-PO) from DevOps Academy" style="border:1px solid #000000" />
 
 ## Project Management (1)
-### Certified DevOps Project Manager (DevOps-PM) from DevOps Academy by 
+### Certified DevOps Project Manager (DevOps-PM) from DevOps Academy
 * [John's DevOps Academy online credential](https://www.devops-certification.org/badges/82770791998598)
 
-<img src="../cert_devops_pm_devops-cert-org_devops-project-manager_2023-11-01_cert-82770791998598.png" alt="John's Certified DevOps Project Manager (DevOps-PM) from DevOps Academy by " style="border:1px solid #000000" />
+<img src="../cert_devops_pm_devops-cert-org_devops-project-manager_2023-11-01_cert-82770791998598.png" alt="John's Certified DevOps Project Manager (DevOps-PM) from DevOps Academy" style="border:1px solid #000000" />
 
 ## Security (2)
-### Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy by 
+### Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy
 * [John's DevOps Academy online credential](https://www.devops-certification.org/badges/22465533642098)
 
-<img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy by " style="border:1px solid #000000" />
+<img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" />
 
 ### Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof
 
@@ -117,10 +117,10 @@
 <img src="../cert_kubernetes_packaging-applications-with-helm-for-kubernetes_pluralsight_2024-03-30.png" alt="John's Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon" style="border:1px solid #000000" />
 
 ## AWS (1)
-### AWS CI/CD Pipeline from Great Learning Academy by 
+### AWS CI/CD Pipeline from Great Learning Academy
 * [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/ZGRSHOKG)
 
-<img src="../cert_aws_aws-ci-cd-pipeline_greatlearning_cert-ZGRSHOKG_2024-04-07.jpg" alt="John's AWS CI/CD Pipeline from Great Learning Academy by " style="border:1px solid #000000" />
+<img src="../cert_aws_aws-ci-cd-pipeline_greatlearning_cert-ZGRSHOKG_2024-04-07.jpg" alt="John's AWS CI/CD Pipeline from Great Learning Academy" style="border:1px solid #000000" />
 
 ## Azure (1)
 ### Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts
@@ -128,29 +128,29 @@
 <img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" />
 
 ## Datadog (3)
-### Introduction to Observability from Datadog by 
+### Introduction to Observability from Datadog
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/yv6tc8ptwl)
 
-<img src="../cert_datadog_observability_introduction-to-observability_datadog_cert-524379653_2024-06-24.jpg" alt="John's Introduction to Observability from Datadog by " style="border:1px solid #000000" />
+<img src="../cert_datadog_observability_introduction-to-observability_datadog_cert-524379653_2024-06-24.jpg" alt="John's Introduction to Observability from Datadog" style="border:1px solid #000000" />
 
-### Introduction to Service Level Objectives from Datadog by 
+### Introduction to Service Level Objectives from Datadog
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/k0hkjemqbk)
 
-<img src="../cert_datadog_introduction-to-service-level-objectives_datadog_cert-525403903_2024-06-26.jpg" alt="John's Introduction to Service Level Objectives from Datadog by " style="border:1px solid #000000" />
+<img src="../cert_datadog_introduction-to-service-level-objectives_datadog_cert-525403903_2024-06-26.jpg" alt="John's Introduction to Service Level Objectives from Datadog" style="border:1px solid #000000" />
 
-### Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog by 
+### Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/jq29dawso1)
 
-<img src="../cert_datadog_appsec_detect-prioritize-remediate-cloud-security-riskes-with-datadog-csm_datadog_cert-jq29dawso1_2024-07-10.jpg" alt="John's Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog by " style="border:1px solid #000000" />
+<img src="../cert_datadog_appsec_detect-prioritize-remediate-cloud-security-riskes-with-datadog-csm_datadog_cert-jq29dawso1_2024-07-10.jpg" alt="John's Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog" style="border:1px solid #000000" />
 
 ## Google Cloud (2)
-### Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud by 
+### Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud
 * [John's Google Cloud online credential](https://coursera.org/verify/2VT7MFUZYCPJ)
 
-![John's Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud by](cert_sre_site-reliability-engineering-measuring-and-managing-reliability_google_cert-2VT7MFUZYCPJ_2024-07-11.png)
+![John's Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud](cert_sre_site-reliability-engineering-measuring-and-managing-reliability_google_cert-2VT7MFUZYCPJ_2024-07-11.png)
 
-### Scaling with Google Cloud Operations from Google Cloud by 
+### Scaling with Google Cloud Operations from Google Cloud
 * [John's Google Cloud online credential](https://coursera.org/verify/UZNVFWLTKF6V)
 
-![John's Scaling with Google Cloud Operations from Google Cloud by](cert_googlecloud_scaling-with-google-cloud-operations_google_cert-UZNVFWLTKF6V_2024-07-10.png)
+![John's Scaling with Google Cloud Operations from Google Cloud](cert_googlecloud_scaling-with-google-cloud-operations_google_cert-UZNVFWLTKF6V_2024-07-10.png)
 
