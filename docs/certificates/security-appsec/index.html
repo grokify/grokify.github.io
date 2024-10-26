@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/security-appsec/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Security: AppSec (30) - John Wang's Site</title>
+    <title>Security: AppSec (36) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Security: AppSec (30)";
+        var mkdocs_page_name = "Security: AppSec (36)";
         var mkdocs_page_input_path = "certificates/security-appsec.md";
         var mkdocs_page_url = "/certificates/security-appsec/";
       </script>
@@ -74,9 +74,9 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (23)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (25)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../human-resources/">Human Resources (4)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../human-resources/">Human Resources (10)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../information-technology/">Information Technology (1)</a>
                   </li>
@@ -84,7 +84,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../machine-learning/">Machine Learning (13)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (18)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (19)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../management-consulting/">Management Consulting (7)</a>
                   </li>
@@ -96,7 +96,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../personal-development/">Personal Development (6)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (17)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (18)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (27)</a>
                   </li>
@@ -106,11 +106,29 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (6)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AppSec (30)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AppSec (36)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#strategy-1">Strategy (1)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#security-framework-nist-csf-from-pluralsight-by-mike-woolard">Security Framework: NIST CSF from Pluralsight by Mike Woolard</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#csslp-3">CSSLP (3)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#secure-software-concepts-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Concepts for CSSLP® from Pluralsight by Kevin Henry</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#security-champion-2">Security Champion (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-security-champion-for-developers-from-pluralsight-by-kat-delorean-seymour">Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#developer-security-champion-owasp-top-10-from-pluralsight-by-kat-delorean-seymour">Developer Security Champion: OWASP Top 10 from Pluralsight by Kat DeLorean Seymour</a>
     </li>
         </ul>
     </li>
@@ -144,11 +162,13 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#software-supply-chain-security-sscs-2">Software Supply Chain Security (SSCS) (2)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#software-supply-chain-security-sscs-3">Software Supply Chain Security (SSCS) (3)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#secure-coding-using-components-with-known-vulnerabilities-from-pluralsight-by-peter-mosmans">Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans</a>
     </li>
-    <li class="toctree-l3"><a class="reference internal" href="#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry</a>
+    <li class="toctree-l3"><a class="reference internal" href="#security-hot-takes-sboms-from-pluralsight-by-aaron-rosenmund-brandon-devault">Security Hot Takes: SBOMs from Pluralsight by Aaron Rosenmund, Brandon DeVault</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#saviynt-supply-chain-risk-management-training-from-knowbe4">Saviynt Supply Chain Risk Management Training from KnowBe4</a>
     </li>
         </ul>
     </li>
@@ -174,7 +194,7 @@
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#secops-4">SecOps (4)</a>
         <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry</a>
+    <li class="toctree-l3"><a class="reference internal" href="#red-team-operations-target-and-capability-development-from-pluralsight-by-aaron-rosenmund">Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund">Red Team Tools for Emulated Adversary Techniques with MITRE ATT&amp;CK from Pluralsight by Aaron Rosenmund</a>
     </li>
@@ -216,7 +236,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-idsec/">Security: IDSec (17)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (36)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (40)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../sports/">Sports (4)</a>
                   </li>
@@ -239,7 +259,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>Security: AppSec (30)</li>
+          <li>Certificates &raquo;</li><li>Security: AppSec (36)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -253,6 +273,17 @@
 <ol>
 <li><a href="#strategy-1">Strategy</a><ol>
 <li><a href="#security-framework-nist-csf-from-pluralsight-by-mike-woolard">Security Framework: NIST CSF from Pluralsight by Mike Woolard</a></li>
+</ol>
+</li>
+<li><a href="#csslp-3">CSSLP</a><ol>
+<li><a href="#secure-software-concepts-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Concepts for CSSLP® from Pluralsight by Kevin Henry</a></li>
+<li><a href="#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry</a></li>
+<li><a href="#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry</a></li>
+</ol>
+</li>
+<li><a href="#security-champion-2">Security Champion</a><ol>
+<li><a href="#introduction-to-security-champion-for-developers-from-pluralsight-by-kat-delorean-seymour">Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour</a></li>
+<li><a href="#developer-security-champion-owasp-top-10-from-pluralsight-by-kat-delorean-seymour">Developer Security Champion: OWASP Top 10 from Pluralsight by Kat DeLorean Seymour</a></li>
 </ol>
 </li>
 <li><a href="#programming-6">Programming</a><ol>
@@ -273,9 +304,10 @@
 <li><a href="#api-security-architect-from-api-academy">API Security Architect from API Academy</a></li>
 </ol>
 </li>
-<li><a href="#software-supply-chain-security-sscs-2">Software Supply Chain Security (SSCS)</a><ol>
+<li><a href="#software-supply-chain-security-sscs-3">Software Supply Chain Security (SSCS)</a><ol>
 <li><a href="#secure-coding-using-components-with-known-vulnerabilities-from-pluralsight-by-peter-mosmans">Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans</a></li>
-<li><a href="#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry</a></li>
+<li><a href="#security-hot-takes-sboms-from-pluralsight-by-aaron-rosenmund-brandon-devault">Security Hot Takes: SBOMs from Pluralsight by Aaron Rosenmund, Brandon DeVault</a></li>
+<li><a href="#saviynt-supply-chain-risk-management-training-from-knowbe4">Saviynt Supply Chain Risk Management Training from KnowBe4</a></li>
 </ol>
 </li>
 <li><a href="#kubernetes-4">Kubernetes</a><ol>
@@ -291,7 +323,7 @@
 </ol>
 </li>
 <li><a href="#secops-4">SecOps</a><ol>
-<li><a href="#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry</a></li>
+<li><a href="#red-team-operations-target-and-capability-development-from-pluralsight-by-aaron-rosenmund">Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund</a></li>
 <li><a href="#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund">Red Team Tools for Emulated Adversary Techniques with MITRE ATT&amp;CK from Pluralsight by Aaron Rosenmund</a></li>
 <li><a href="#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund">Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund</a></li>
 <li><a href="#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog">Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog</a></li>
@@ -318,6 +350,18 @@
 <h2 id="strategy-1">Strategy (1)</h2>
 <h3 id="security-framework-nist-csf-from-pluralsight-by-mike-woolard">Security Framework: NIST CSF from Pluralsight by Mike Woolard</h3>
 <p><img src="../cert_security_strategy_security-framework-nist-csf_pluralsight_mike-woolard_2024-06-19.png" alt="John's Security Framework: NIST CSF from Pluralsight by Mike Woolard" style="border:1px solid #000000" /></p>
+<h2 id="csslp-3">CSSLP (3)</h2>
+<h3 id="secure-software-concepts-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Concepts for CSSLP® from Pluralsight by Kevin Henry</h3>
+<p><img src="../cert_appsec_csslp_secure-software-concepts-csslp-cert_pluralsight_kevin-henry_2024-09-29.png" alt="John's Secure Software Concepts for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" /></p>
+<h3 id="secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry</h3>
+<p><img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry" style="border:1px solid #000000" /></p>
+<h3 id="secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry</h3>
+<p><img src="../cert_appsec_secops_secure-software-testing-for-csslp_pluralsight_kevin-henry_2024-06-18.png" alt="John's Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" /></p>
+<h2 id="security-champion-2">Security Champion (2)</h2>
+<h3 id="introduction-to-security-champion-for-developers-from-pluralsight-by-kat-delorean-seymour">Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour</h3>
+<p><img src="../cert_appsec_security-champion_security-champion-for-developers-intro_pluralsight_kat-delorean-seymour_2024-10-21.png" alt="John's Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour" style="border:1px solid #000000" /></p>
+<h3 id="developer-security-champion-owasp-top-10-from-pluralsight-by-kat-delorean-seymour">Developer Security Champion: OWASP Top 10 from Pluralsight by Kat DeLorean Seymour</h3>
+<p><img src="../cert_appsec_security-champion_owasp-top-10_pluralsight_kat-delorean-seymour_2024-10-21.png" alt="John's Developer Security Champion: OWASP Top 10 from Pluralsight by Kat DeLorean Seymour" style="border:1px solid #000000" /></p>
 <h2 id="programming-6">Programming (6)</h2>
 <h3 id="owasp-top-10-broken-access-control-from-codecademy">OWASP Top 10: Broken Access Control from Codecademy</h3>
 <p><img src="../cert_security_owasp-top-10-broken-access-control_codecademy_2024-03-27.png" alt="John's OWASP Top 10: Broken Access Control from Codecademy" style="border:1px solid #000000" /></p>
@@ -342,11 +386,13 @@
 <h2 id="api-1">API (1)</h2>
 <h3 id="api-security-architect-from-api-academy">API Security Architect from API Academy</h3>
 <p><img src="../cert_api_api-security-architect_apiacademy_2024-01-31.png" alt="John's API Security Architect from API Academy" style="border:1px solid #000000" /></p>
-<h2 id="software-supply-chain-security-sscs-2">Software Supply Chain Security (SSCS) (2)</h2>
+<h2 id="software-supply-chain-security-sscs-3">Software Supply Chain Security (SSCS) (3)</h2>
 <h3 id="secure-coding-using-components-with-known-vulnerabilities-from-pluralsight-by-peter-mosmans">Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans</h3>
 <p><img src="../cert_appsec_sscs_secure-coding-using-components-with-known-vulnerabilities_pluralsight_peter-mosmans_2024-06-05.png" alt="John's Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans" style="border:1px solid #000000" /></p>
-<h3 id="secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry</h3>
-<p><img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry" style="border:1px solid #000000" /></p>
+<h3 id="security-hot-takes-sboms-from-pluralsight-by-aaron-rosenmund-brandon-devault">Security Hot Takes: SBOMs from Pluralsight by Aaron Rosenmund, Brandon DeVault</h3>
+<p><img src="../cert_appsec_sbom_sboms-security-hot-take_pluralsight_aaron-rosenmund--brandon-devault_2024-09-29.png" alt="John's Security Hot Takes: SBOMs from Pluralsight by Aaron Rosenmund, Brandon DeVault" style="border:1px solid #000000" /></p>
+<h3 id="saviynt-supply-chain-risk-management-training-from-knowbe4">Saviynt Supply Chain Risk Management Training from KnowBe4</h3>
+<p><img src="../cert_infosec_supply-chain_saviynt-supply-chain-risk-management-training_knowbe4_saviynt_2024-07-29.png" alt="John's Saviynt Supply Chain Risk Management Training from KnowBe4" style="border:1px solid #000000" /></p>
 <h2 id="kubernetes-4">Kubernetes (4)</h2>
 <h3 id="kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</h3>
 <p><img src="../cert_security_kubernetes-security-cluster-setup_pluralsight_2024-05-12.png" alt="John's Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" /></p>
@@ -365,8 +411,8 @@
 <h3 id="container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</h3>
 <p><img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" /></p>
 <h2 id="secops-4">SecOps (4)</h2>
-<h3 id="secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry</h3>
-<p><img src="../cert_appsec_secops_secure-software-testing-for-csslp_pluralsight_kevin-henry_2024-06-18.png" alt="John's Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" /></p>
+<h3 id="red-team-operations-target-and-capability-development-from-pluralsight-by-aaron-rosenmund">Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund</h3>
+<p><img src="../cert_infosec_redteam_red-team-operations-target-and-capability-development_pluralsight_aaron-rosenmund_2024-09-29.png" alt="John's Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" /></p>
 <h3 id="red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund">Red Team Tools for Emulated Adversary Techniques with MITRE ATT&amp;CK from Pluralsight by Aaron Rosenmund</h3>
 <p><img src="../cert_appsec_secops_red-team-tools-for-emulated-adversary-techniques-with-mitre-attack_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" /></p>
 <h3 id="blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund">Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund</h3>

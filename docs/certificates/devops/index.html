@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/devops/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>DevOps (23) - John Wang's Site</title>
+    <title>DevOps (25) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "DevOps (23)";
+        var mkdocs_page_name = "DevOps (25)";
         var mkdocs_page_input_path = "certificates/devops.md";
         var mkdocs_page_url = "/certificates/devops/";
       </script>
@@ -74,7 +74,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">DevOps (23)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">DevOps (25)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#resources">Resources</a>
     </li>
@@ -142,14 +142,18 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#aws-1">AWS (1)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-2">AWS (2)</a>
         <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</a>
+    </li>
     <li class="toctree-l3"><a class="reference internal" href="#aws-cicd-pipeline-from-great-learning-academy">AWS CI/CD Pipeline from Great Learning Academy</a>
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#azure-1">Azure (1)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#azure-2">Azure (2)</a>
         <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako">Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako</a>
+    </li>
     <li class="toctree-l3"><a class="reference internal" href="#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</a>
     </li>
         </ul>
@@ -174,7 +178,7 @@
     </li>
     </ul>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../human-resources/">Human Resources (4)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../human-resources/">Human Resources (10)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../information-technology/">Information Technology (1)</a>
                   </li>
@@ -182,7 +186,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../machine-learning/">Machine Learning (13)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (18)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (19)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../management-consulting/">Management Consulting (7)</a>
                   </li>
@@ -194,7 +198,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../personal-development/">Personal Development (6)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (17)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (18)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (27)</a>
                   </li>
@@ -204,11 +208,11 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (6)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (30)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (36)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-idsec/">Security: IDSec (17)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (36)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (40)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../sports/">Sports (4)</a>
                   </li>
@@ -231,7 +235,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>DevOps (23)</li>
+          <li>Certificates &raquo;</li><li>DevOps (25)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -283,11 +287,13 @@
 <li><a href="#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon">Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon</a></li>
 </ol>
 </li>
-<li><a href="#aws-1">AWS</a><ol>
+<li><a href="#aws-2">AWS</a><ol>
+<li><a href="#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</a></li>
 <li><a href="#aws-ci-cd-pipeline-from-great-learning-academy">AWS CI/CD Pipeline from Great Learning Academy</a></li>
 </ol>
 </li>
-<li><a href="#azure-1">Azure</a><ol>
+<li><a href="#azure-2">Azure</a><ol>
+<li><a href="#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako">Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako</a></li>
 <li><a href="#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</a></li>
 </ol>
 </li>
@@ -368,13 +374,17 @@
 <p><img src="../cert_kubernetes_kubernetes-administrator-foundations_pluralsight_2024-03-27.png" alt="John's Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino" style="border:1px solid #000000" /></p>
 <h3 id="packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon">Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon</h3>
 <p><img src="../cert_kubernetes_packaging-applications-with-helm-for-kubernetes_pluralsight_2024-03-30.png" alt="John's Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon" style="border:1px solid #000000" /></p>
-<h2 id="aws-1">AWS (1)</h2>
+<h2 id="aws-2">AWS (2)</h2>
+<h3 id="create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</h3>
+<p><img src="../cert_devops_aws_create-aws-infrastructure-as-code-templates-using-generative-ai_pluralsight_shubham-sinha_2024-09-11.png" alt="John's Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha" style="border:1px solid #000000" /></p>
 <h3 id="aws-cicd-pipeline-from-great-learning-academy">AWS CI/CD Pipeline from Great Learning Academy</h3>
 <ul>
 <li><a href="https://verify.mygreatlearning.com/verify/ZGRSHOKG">John's Great Learning Academy online credential</a></li>
 </ul>
 <p><img src="../cert_aws_aws-ci-cd-pipeline_greatlearning_cert-ZGRSHOKG_2024-04-07.jpg" alt="John's AWS CI/CD Pipeline from Great Learning Academy" style="border:1px solid #000000" /></p>
-<h2 id="azure-1">Azure (1)</h2>
+<h2 id="azure-2">Azure (2)</h2>
+<h3 id="create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako">Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako</h3>
+<p><img src="../cert_devops_azure_create-azure-resource-templates-generative-ai_pluralsight_bismark-adomako_2024-09-28.png" alt="John's Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako" style="border:1px solid #000000" /></p>
 <h3 id="microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</h3>
 <p><img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" /></p>
 <h2 id="datadog-3">Datadog (3)</h2>
@@ -409,7 +419,7 @@
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
         <a href="../design-thinking/" class="btn btn-neutral float-left" title="Design Thinking (4)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../human-resources/" class="btn btn-neutral float-right" title="Human Resources (4)">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../human-resources/" class="btn btn-neutral float-right" title="Human Resources (10)">Next <span class="icon icon-circle-arrow-right"></span></a>
     </div>
 
   <hr/>
