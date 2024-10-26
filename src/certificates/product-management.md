@@ -24,6 +24,8 @@
     1. [Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute](#scrum-product-owner-accredited-certification-spoac-from-scrum-institute)
     1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devops-po-from-devops-academy)
     1. [Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell](#becoming-a-great-product-owner-from-pluralsight-by-jeremy-jarrell)
+1. [Documentation](#documentation-1)
+    1. [Create AI-assisted Product Documentation from Pluralsight by Xavier Morera](#create-ai-assisted-product-documentation-from-pluralsight-by-xavier-morera)
 ## Strategy (1)
 ### Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell
 
@@ -114,4 +116,9 @@
 ### Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell
 
 <img src="../cert_product_becoming-a-great-product-owner_pluralsight_jeremy-jarrell_2024-07-12.png" alt="John's Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell" style="border:1px solid #000000" />
+
+## Documentation (1)
+### Create AI-assisted Product Documentation from Pluralsight by Xavier Morera
+
+<img src="../cert_product_docs_create-ai-assisted-product-documentation_pluralsight_xavier-morera_2024-09-04.png" alt="John's Create AI-assisted Product Documentation from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
 

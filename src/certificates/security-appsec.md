@@ -1,6 +1,13 @@
 # John's Security: AppSec Certificates
 1. [Strategy](#strategy-1)
     1. [Security Framework: NIST CSF from Pluralsight by Mike Woolard](#security-framework-nist-csf-from-pluralsight-by-mike-woolard)
+1. [CSSLP](#csslp-3)
+    1. [Secure Software Concepts for CSSLP® from Pluralsight by Kevin Henry](#secure-software-concepts-for-csslp-from-pluralsight-by-kevin-henry)
+    1. [Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry](#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry)
+    1. [Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry](#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry)
+1. [Security Champion](#security-champion-2)
+    1. [Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour](#introduction-to-security-champion-for-developers-from-pluralsight-by-kat-delorean-seymour)
+    1. [Developer Security Champion: OWASP Top 10 from Pluralsight by Kat DeLorean Seymour](#developer-security-champion-owasp-top-10-from-pluralsight-by-kat-delorean-seymour)
 1. [Programming](#programming-6)
     1. [OWASP Top 10: Broken Access Control from Codecademy](#owasp-top-10-broken-access-control-from-codecademy)
     1. [OWASP Top 10: Identification and Authentication Failures from Codecademy](#owasp-top-10-identification-and-authentication-failures-from-codecademy)
@@ -13,9 +20,10 @@
     1. [OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt](#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt)
 1. [API](#api-1)
     1. [API Security Architect from API Academy](#api-security-architect-from-api-academy)
-1. [Software Supply Chain Security (SSCS)](#software-supply-chain-security-sscs-2)
+1. [Software Supply Chain Security (SSCS)](#software-supply-chain-security-sscs-3)
     1. [Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans](#secure-coding-using-components-with-known-vulnerabilities-from-pluralsight-by-peter-mosmans)
-    1. [Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry](#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry)
+    1. [Security Hot Takes: SBOMs from Pluralsight by Aaron Rosenmund, Brandon DeVault](#security-hot-takes-sboms-from-pluralsight-by-aaron-rosenmund-brandon-devault)
+    1. [Saviynt Supply Chain Risk Management Training from KnowBe4](#saviynt-supply-chain-risk-management-training-from-knowbe4)
 1. [Kubernetes](#kubernetes-4)
     1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
     1. [Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker](#kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker)
@@ -25,7 +33,7 @@
     1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
     1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
 1. [SecOps](#secops-4)
-    1. [Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry](#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry)
+    1. [Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund](#red-team-operations-target-and-capability-development-from-pluralsight-by-aaron-rosenmund)
     1. [Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund](#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund)
     1. [Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund](#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund)
     1. [Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog](#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog)
@@ -44,6 +52,28 @@
 ### Security Framework: NIST CSF from Pluralsight by Mike Woolard
 
 <img src="../cert_security_strategy_security-framework-nist-csf_pluralsight_mike-woolard_2024-06-19.png" alt="John's Security Framework: NIST CSF from Pluralsight by Mike Woolard" style="border:1px solid #000000" />
+
+## CSSLP (3)
+### Secure Software Concepts for CSSLP® from Pluralsight by Kevin Henry
+
+<img src="../cert_appsec_csslp_secure-software-concepts-csslp-cert_pluralsight_kevin-henry_2024-09-29.png" alt="John's Secure Software Concepts for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
+
+### Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry
+
+<img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
+
+### Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry
+
+<img src="../cert_appsec_secops_secure-software-testing-for-csslp_pluralsight_kevin-henry_2024-06-18.png" alt="John's Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
+
+## Security Champion (2)
+### Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour
+
+<img src="../cert_appsec_security-champion_security-champion-for-developers-intro_pluralsight_kat-delorean-seymour_2024-10-21.png" alt="John's Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour" style="border:1px solid #000000" />
+
+### Developer Security Champion: OWASP Top 10 from Pluralsight by Kat DeLorean Seymour
+
+<img src="../cert_appsec_security-champion_owasp-top-10_pluralsight_kat-delorean-seymour_2024-10-21.png" alt="John's Developer Security Champion: OWASP Top 10 from Pluralsight by Kat DeLorean Seymour" style="border:1px solid #000000" />
 
 ## Programming (6)
 ### OWASP Top 10: Broken Access Control from Codecademy
@@ -85,14 +115,18 @@
 
 <img src="../cert_api_api-security-architect_apiacademy_2024-01-31.png" alt="John's API Security Architect from API Academy" style="border:1px solid #000000" />
 
-## Software Supply Chain Security (SSCS) (2)
+## Software Supply Chain Security (SSCS) (3)
 ### Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans
 
 <img src="../cert_appsec_sscs_secure-coding-using-components-with-known-vulnerabilities_pluralsight_peter-mosmans_2024-06-05.png" alt="John's Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans" style="border:1px solid #000000" />
 
-### Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry
+### Security Hot Takes: SBOMs from Pluralsight by Aaron Rosenmund, Brandon DeVault
 
-<img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
+<img src="../cert_appsec_sbom_sboms-security-hot-take_pluralsight_aaron-rosenmund--brandon-devault_2024-09-29.png" alt="John's Security Hot Takes: SBOMs from Pluralsight by Aaron Rosenmund, Brandon DeVault" style="border:1px solid #000000" />
+
+### Saviynt Supply Chain Risk Management Training from KnowBe4
+
+<img src="../cert_infosec_supply-chain_saviynt-supply-chain-risk-management-training_knowbe4_saviynt_2024-07-29.png" alt="John's Saviynt Supply Chain Risk Management Training from KnowBe4" style="border:1px solid #000000" />
 
 ## Kubernetes (4)
 ### Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra
@@ -122,9 +156,9 @@
 <img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" />
 
 ## SecOps (4)
-### Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry
+### Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund
 
-<img src="../cert_appsec_secops_secure-software-testing-for-csslp_pluralsight_kevin-henry_2024-06-18.png" alt="John's Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
+<img src="../cert_infosec_redteam_red-team-operations-target-and-capability-development_pluralsight_aaron-rosenmund_2024-09-29.png" alt="John's Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" />
 
 ### Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund
 

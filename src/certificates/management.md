@@ -10,13 +10,14 @@
 1. [Objectives and Key Results](#objectives-and-key-results-2)
     1. [Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell](#certified-professional-in-okr-objectives-key-results-cpokr-from-scrum-institute-by-yeliz-obergfell)
     1. [Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson](#product-management-delivering-on-okrs-from-pluralsight-by-keisha-johnson)
-1. [Team Building](#team-building-6)
+1. [Team Building](#team-building-7)
     1. [Planning an Effective Performance Appraisal from SkillSoft](#planning-an-effective-performance-appraisal-from-skillsoft)
     1. [Lead Your Virtual Team from Eleventure](#lead-your-virtual-team-from-eleventure)
     1. [Develop High-Potential Employees from NonprofitReady](#develop-high-potential-employees-from-nonprofitready)
     1. [Find the Root Cause of Performance Problems from NonprofitReady](#find-the-root-cause-of-performance-problems-from-nonprofitready)
     1. [Know What Your Direct Reports Really Care About from NonprofitReady](#know-what-your-direct-reports-really-care-about-from-nonprofitready)
     1. [Recognize Leadership in Others from NonprofitReady](#recognize-leadership-in-others-from-nonprofitready)
+    1. [Strategies to Engage Your Team from Pluralsight by Ross Tartell](#strategies-to-engage-your-team-from-pluralsight-by-ross-tartell)
 1. [Hiring](#hiring-4)
     1. [Interview Compliance and Fair Hiring V2.1 from Traliant](#interview-compliance-and-fair-hiring-v21-from-traliant)
     1. [Break Down Job Competencies Into Behaviors from Grovo](#break-down-job-competencies-into-behaviors-from-grovo)
@@ -58,7 +59,7 @@
 
 <img src="../cert_product_okrs_product-management-delivering-on-okrs_pluralsight_keisha-johnson_2024-07-27.png" alt="John's Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson" style="border:1px solid #000000" />
 
-## Team Building (6)
+## Team Building (7)
 ### Planning an Effective Performance Appraisal from SkillSoft
 
 <img src="../cert_management_planning-an-effective-performance-appraisal_skillsoft_2024-03-14.png" alt="John's Planning an Effective Performance Appraisal from SkillSoft" style="border:1px solid #000000" />
@@ -83,8 +84,14 @@
 
 ![John's Recognize Leadership in Others from NonprofitReady](cert_leadership_recognize-leadership-in-others_nonprofitready_2024-03-06.png)
 
+### Strategies to Engage Your Team from Pluralsight by Ross Tartell
+
+<img src="../cert_management_team-building_strategies-to-engage-your-team_pluralsight_ross-tartell_2024-10-03.png" alt="John's Strategies to Engage Your Team from Pluralsight by Ross Tartell" style="border:1px solid #000000" />
+
 ## Hiring (4)
 ### Interview Compliance and Fair Hiring V2.1 from Traliant
+
+![John's Interview Compliance and Fair Hiring V2.1 from Traliant](cert_hr_hiring_interview-compliance-and-fair-hiring-v2.1_traliant_2024-07-05_dl-2024-10-26.png)
 
 <img src="../cert_hr_hiring_interview-compliance-and-fair-hiring-v2.1_traliant_2024-07-05.png" alt="John's Interview Compliance and Fair Hiring V2.1 from Traliant" style="border:1px solid #000000" />
 

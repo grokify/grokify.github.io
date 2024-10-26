@@ -50,12 +50,16 @@
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/354553bb6ea7)
 
+<img src="../cert_programming_problem-solving_hackerrank_problem-solving-basic_2023-07-08_dl-2024-10-26.png" alt="John's Problem Solving (Basic) from HackerRank" style="border:1px solid #000000" />
+
 ![John's Problem Solving (Basic) from HackerRank](cert_programming_problem-solving_hackerrank_problem-solving-basic_2023-07-08.png)
 
 ## API (1)
 ### Rest API (Intermediate) from HackerRank
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/4c5d7cc60c64)
+
+<img src="../cert_programming_rest-api_hackerrank_rest-api-intermediate_2023-07-08_dl-2024-10-26.png" alt="John's Rest API (Intermediate) from HackerRank" style="border:1px solid #000000" />
 
 ![John's Rest API (Intermediate) from HackerRank](cert_programming_rest-api_hackerrank_rest-api-intermediate_2023-07-08.png)
 
@@ -109,12 +113,16 @@
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/0b44cb39a3b8)
 
+<img src="../cert_programming_csharp_hackerrank_csharp-basic_2023-07-16_dl-2024-10-26.png" alt="John's C# (Basic) from HackerRank" style="border:1px solid #000000" />
+
 ![John's C# (Basic) from HackerRank](cert_programming_csharp_hackerrank_csharp-basic_2023-07-16.png)
 
 ## Go (3)
 ### Go (Basic) from HackerRank
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/7666f51dbcdf)
+
+<img src="../cert_programming_go_hackerrank_go-basic_2023-07-07_dl-2024-10-26.png" alt="John's Go (Basic) from HackerRank" style="border:1px solid #000000" />
 
 ![John's Go (Basic) from HackerRank](cert_programming_go_hackerrank_go-basic_2023-07-07.png)
 
@@ -141,6 +149,8 @@
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/b72ee71f1292)
 
+<img src="../cert_programming_python_hackerrank_python-basic_2023-07-08_dl-2024-10-26.png" alt="John's Python (Basic) from HackerRank" style="border:1px solid #000000" />
+
 ![John's Python (Basic) from HackerRank](cert_programming_python_hackerrank_python-basic_2023-07-08.png)
 
 ## SQL (3)
@@ -148,17 +158,23 @@
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/3398beadc245)
 
+<img src="../cert_programming_sql_hackerrank_sql-advanced_2023-07-09_dl-2024-10-26.png" alt="John's SQL (Advanced) from HackerRank" style="border:1px solid #000000" />
+
 ![John's SQL (Advanced) from HackerRank](cert_programming_sql_hackerrank_sql-advanced_2023-07-09.png)
 
 ### SQL (Intermediate) from HackerRank
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/7326755aba4a)
 
+<img src="../cert_programming_sql_hackerrank_sql-intermediate_2023-07-08_dl-2024-10-26.png" alt="John's SQL (Intermediate) from HackerRank" style="border:1px solid #000000" />
+
 ![John's SQL (Intermediate) from HackerRank](cert_programming_sql_hackerrank_sql-intermediate_2023-07-08.png)
 
 ### SQL (Basic) from HackerRank
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/85d3ebe85d24)
+
+<img src="../cert_programming_sql_hackerrank_sql-basic_2023-07-08_dl-2024-10-26.png" alt="John's SQL (Basic) from HackerRank" style="border:1px solid #000000" />
 
 ![John's SQL (Basic) from HackerRank](cert_programming_sql_hackerrank_sql-basic_2023-07-08.png)
 

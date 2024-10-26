@@ -48,5 +48,7 @@
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/4c5d7cc60c64)
 
+<img src="../cert_programming_rest-api_hackerrank_rest-api-intermediate_2023-07-08_dl-2024-10-26.png" alt="John's Rest API (Intermediate) from HackerRank" style="border:1px solid #000000" />
+
 ![John's Rest API (Intermediate) from HackerRank](cert_programming_rest-api_hackerrank_rest-api-intermediate_2023-07-08.png)
 

@@ -23,9 +23,11 @@
     1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jess-piedra)
     1. [Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino](#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino)
     1. [Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon](#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon)
-1. [AWS](#aws-1)
+1. [AWS](#aws-2)
+    1. [Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha](#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha)
     1. [AWS CI/CD Pipeline from Great Learning Academy](#aws-ci-cd-pipeline-from-great-learning-academy)
-1. [Azure](#azure-1)
+1. [Azure](#azure-2)
+    1. [Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako](#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako)
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
 1. [Datadog](#datadog-3)
     1. [Introduction to Observability from Datadog](#introduction-to-observability-from-datadog)
@@ -116,13 +118,21 @@
 
 <img src="../cert_kubernetes_packaging-applications-with-helm-for-kubernetes_pluralsight_2024-03-30.png" alt="John's Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon" style="border:1px solid #000000" />
 
-## AWS (1)
+## AWS (2)
+### Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha
+
+<img src="../cert_devops_aws_create-aws-infrastructure-as-code-templates-using-generative-ai_pluralsight_shubham-sinha_2024-09-11.png" alt="John's Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha" style="border:1px solid #000000" />
+
 ### AWS CI/CD Pipeline from Great Learning Academy
 * [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/ZGRSHOKG)
 
 <img src="../cert_aws_aws-ci-cd-pipeline_greatlearning_cert-ZGRSHOKG_2024-04-07.jpg" alt="John's AWS CI/CD Pipeline from Great Learning Academy" style="border:1px solid #000000" />
 
-## Azure (1)
+## Azure (2)
+### Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako
+
+<img src="../cert_devops_azure_create-azure-resource-templates-generative-ai_pluralsight_bismark-adomako_2024-09-28.png" alt="John's Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako" style="border:1px solid #000000" />
+
 ### Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts
 
 <img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" />

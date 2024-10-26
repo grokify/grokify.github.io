@@ -11,6 +11,8 @@
 ### Corporate Governance Certificate from Alison by Robert Klonoski
 * [John's Alison online credential](https://alison.com/certification/check/2y10z7CJmeCvq72QGFOnjkSWwupOsQsrMN7fAku6TAmzdzM4tFzIi0q2)
 
+![John's Corporate Governance Certificate from Alison by Robert Klonoski](cert_governance_corporate-governance_alison_cert-1364-37486854_2024-02-18_dl-2024-10-26.png)
+
 ![John's Corporate Governance Certificate from Alison by Robert Klonoski](cert_governance_corporate-governance_alison_cert-1364-37486854_2024-02-18.png)
 
 ### Corporate Governance from Great Learning Academy by Jeevan Sasidharan
