@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/security-infosec/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Security: InfoSec (40) - John Wang's Site</title>
+    <title>Security: InfoSec (45) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Security: InfoSec (40)";
+        var mkdocs_page_name = "Security: InfoSec (45)";
         var mkdocs_page_input_path = "certificates/security-infosec.md";
         var mkdocs_page_url = "/certificates/security-infosec/";
       </script>
@@ -58,7 +58,7 @@
               </ul>
               <p class="caption"><span class="caption-text">Certificates</span></p>
               <ul class="current">
-                  <li class="toctree-l1"><a class="reference internal" href="../api/">API (8)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../api/">API (9)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../algorithms/">Algorithms (3)</a>
                   </li>
@@ -106,11 +106,11 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (6)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (36)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (41)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-idsec/">Security: IDSec (17)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: InfoSec (40)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: InfoSec (45)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#fundamentals-7">Fundamentals (7)</a>
         <ul>
@@ -136,24 +136,6 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#two-factor-authentication-3">Two-Factor Authentication (3)</a>
-        <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#kevin-mitnick-two-factor-authentication-attack-from-knowbe4-by-kevin-mitnick">Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick</a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#social-engineering-two-factor-authentication-access-demonstration-from-knowbe4-by-kevin-mitnick">Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick</a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#dont-be-like-rick-two-factor-authentication-from-knowbe4">Don't Be Like Rick: Two-Factor Authentication from KnowBe4</a>
-    </li>
-        </ul>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#zero-trust-2">Zero Trust (2)</a>
-        <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#zero-trust-architecture-zta-getting-started-from-pluralsight-by-dr-lyron-h-andrews">Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews</a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#zero-trust-architecture-zta-strategize-and-establish-from-pluralsight-by-dr-lyron-h-andrews">Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews</a>
-    </li>
-        </ul>
-    </li>
     <li class="toctree-l2"><a class="reference internal" href="#general-data-protection-regulation-gdpr-2">General Data Protection Regulation (GDPR) (2)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#general-data-protection-regulation-gdpr-2024-from-traliant">General Data Protection Regulation (GDPR) 2024 from Traliant</a>
@@ -165,6 +147,36 @@
     <li class="toctree-l2"><a class="reference internal" href="#california-consumer-privacy-act-ccpa-1">California Consumer Privacy Act (CCPA) (1)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#california-consumer-privacy-act-ccpa-cpra-v2-from-traliant">California Consumer Privacy Act (CCPA &amp; CPRA) V2 from Traliant</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#phishing-3">Phishing (3)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#microsoft-teams-phishing-demo-from-knowbe4">Microsoft Teams Phishing Demo from KnowBe4</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#video-reality-bytes-vishing-from-knowbe4">Video: Reality Bytes: Vishing from KnowBe4</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#the-art-of-phishing-from-knowbe4">The Art of Phishing from KnowBe4</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#two-factor-authentication-4">Two-Factor Authentication (4)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#kevin-mitnick-two-factor-authentication-attack-from-knowbe4-by-kevin-mitnick">Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#social-engineering-two-factor-authentication-access-demonstration-from-knowbe4-by-kevin-mitnick">Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#dont-be-like-rick-two-factor-authentication-from-knowbe4">Don't Be Like Rick: Two-Factor Authentication from KnowBe4</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#dont-be-like-rick-two-factor-authentication-from-knowbe4_1">Don't Be Like Rick: Two-Factor Authentication from KnowBe4</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#zero-trust-2">Zero Trust (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#zero-trust-architecture-zta-getting-started-from-pluralsight-by-dr-lyron-h-andrews">Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#zero-trust-architecture-zta-strategize-and-establish-from-pluralsight-by-dr-lyron-h-andrews">Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews</a>
     </li>
         </ul>
     </li>
@@ -250,6 +262,12 @@
     </li>
         </ul>
     </li>
+    <li class="toctree-l2"><a class="reference internal" href="#personas-1">Personas (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#how-security-awareness-applies-to-me-educators-from-knowbe4">How Security Awareness Applies to Me: Educators from KnowBe4</a>
+    </li>
+        </ul>
+    </li>
     <li class="toctree-l2"><a class="reference internal" href="#microsoft-1">Microsoft (1)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#microsoft-defender-introduction-from-pluralsight-by-rishalin-pillay">Microsoft Defender: Introduction from Pluralsight by Rishalin Pillay</a>
@@ -291,7 +309,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>Security: InfoSec (40)</li>
+          <li>Certificates &raquo;</li><li>Security: InfoSec (45)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -317,17 +335,6 @@
 <li><a href="#voice-on-security-piggybacking-from-knowbe4">Voice on Security: Piggybacking from KnowBe4</a></li>
 </ol>
 </li>
-<li><a href="#two-factor-authentication-3">Two-Factor Authentication</a><ol>
-<li><a href="#kevin-mitnick-two-factor-authentication-attack-from-knowbe4-by-kevin-mitnick">Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick</a></li>
-<li><a href="#social-engineering-two-factor-authentication-access-demonstration-from-knowbe4-by-kevin-mitnick">Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick</a></li>
-<li><a href="#dont-be-like-rick-two-factor-authentication-from-knowbe4">Don't Be Like Rick: Two-Factor Authentication from KnowBe4</a></li>
-</ol>
-</li>
-<li><a href="#zero-trust-2">Zero Trust</a><ol>
-<li><a href="#zero-trust-architecture-zta-getting-started-from-pluralsight-by-dr-lyron-h-andrews">Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews</a></li>
-<li><a href="#zero-trust-architecture-zta-strategize-and-establish-from-pluralsight-by-dr-lyron-h-andrews">Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews</a></li>
-</ol>
-</li>
 <li><a href="#general-data-protection-regulation-gdpr-2">General Data Protection Regulation (GDPR)</a><ol>
 <li><a href="#general-data-protection-regulation-gdpr-2024-from-traliant">General Data Protection Regulation (GDPR) 2024 from Traliant</a></li>
 <li><a href="#general-data-protection-regulation-gdpr-2023-from-traliant">General Data Protection Regulation (GDPR) "2023" from Traliant</a></li>
@@ -335,6 +342,24 @@
 </li>
 <li><a href="#california-consumer-privacy-act-ccpa-1">California Consumer Privacy Act (CCPA)</a><ol>
 <li><a href="#california-consumer-privacy-act-ccpa-cpra-v2-from-traliant">California Consumer Privacy Act (CCPA &amp; CPRA) V2 from Traliant</a></li>
+</ol>
+</li>
+<li><a href="#phishing-3">Phishing</a><ol>
+<li><a href="#microsoft-teams-phishing-demo-from-knowbe4">Microsoft Teams Phishing Demo from KnowBe4</a></li>
+<li><a href="#video-reality-bytes-vishing-from-knowbe4">Video: Reality Bytes: Vishing from KnowBe4</a></li>
+<li><a href="#the-art-of-phishing-from-knowbe4">The Art of Phishing from KnowBe4</a></li>
+</ol>
+</li>
+<li><a href="#two-factor-authentication-4">Two-Factor Authentication</a><ol>
+<li><a href="#kevin-mitnick-two-factor-authentication-attack-from-knowbe4-by-kevin-mitnick">Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick</a></li>
+<li><a href="#social-engineering-two-factor-authentication-access-demonstration-from-knowbe4-by-kevin-mitnick">Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick</a></li>
+<li><a href="#dont-be-like-rick-two-factor-authentication-from-knowbe4">Don't Be Like Rick: Two-Factor Authentication from KnowBe4</a></li>
+<li><a href="#dont-be-like-rick-two-factor-authentication-from-knowbe4">Don't Be Like Rick: Two-Factor Authentication from KnowBe4</a></li>
+</ol>
+</li>
+<li><a href="#zero-trust-2">Zero Trust</a><ol>
+<li><a href="#zero-trust-architecture-zta-getting-started-from-pluralsight-by-dr-lyron-h-andrews">Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews</a></li>
+<li><a href="#zero-trust-architecture-zta-strategize-and-establish-from-pluralsight-by-dr-lyron-h-andrews">Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews</a></li>
 </ol>
 </li>
 <li><a href="#passwords-1">Passwords</a><ol>
@@ -388,6 +413,10 @@
 <li><a href="#security-and-disaster-preparedness-from-knowbe4">Security and Disaster Preparedness from KnowBe4</a></li>
 </ol>
 </li>
+<li><a href="#personas-1">Personas</a><ol>
+<li><a href="#how-security-awareness-applies-to-me-educators-from-knowbe4">How Security Awareness Applies to Me: Educators from KnowBe4</a></li>
+</ol>
+</li>
 <li><a href="#microsoft-1">Microsoft</a><ol>
 <li><a href="#microsoft-defender-introduction-from-pluralsight-by-rishalin-pillay">Microsoft Defender: Introduction from Pluralsight by Rishalin Pillay</a></li>
 </ol>
@@ -419,18 +448,6 @@
 <h2 id="concepts-1">Concepts (1)</h2>
 <h3 id="voice-on-security-piggybacking-from-knowbe4">Voice on Security: Piggybacking from KnowBe4</h3>
 <p><img src="../cert_infosec_concepts_voice-on-security-piggybacking_knowbe4_2024-06-04.png" alt="John's Voice on Security: Piggybacking from KnowBe4" style="border:1px solid #000000" /></p>
-<h2 id="two-factor-authentication-3">Two-Factor Authentication (3)</h2>
-<h3 id="kevin-mitnick-two-factor-authentication-attack-from-knowbe4-by-kevin-mitnick">Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick</h3>
-<p><img src="../cert_infosec_phishing_kevin-mitnick-two-factor-authentication-attack_knowbe4_2024-07-01_cert-787481781.png" alt="John's Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick" style="border:1px solid #000000" /></p>
-<h3 id="social-engineering-two-factor-authentication-access-demonstration-from-knowbe4-by-kevin-mitnick">Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick</h3>
-<p><img src="../cert_infosec_2fa_social-engineering-two-factor-authentication-access-demonstration_knowbe4_2024-10-20_889648912.png" alt="John's Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick" style="border:1px solid #000000" /></p>
-<h3 id="dont-be-like-rick-two-factor-authentication-from-knowbe4">Don't Be Like Rick: Two-Factor Authentication from KnowBe4</h3>
-<p><img src="../cert_infosec_2fa_dont-be-like-rick-two-factor-authentication_knowbe4_2024-10-20.png" alt="John's Don't Be Like Rick: Two-Factor Authentication from KnowBe4" style="border:1px solid #000000" /></p>
-<h2 id="zero-trust-2">Zero Trust (2)</h2>
-<h3 id="zero-trust-architecture-zta-getting-started-from-pluralsight-by-dr-lyron-h-andrews">Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews</h3>
-<p><img src="../cert_infosec_zero-trust_zero-trust-architecture-zta-getting-started_pluralsight_lyron-h-andrews_2024-08-01.png" alt="John's Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews" style="border:1px solid #000000" /></p>
-<h3 id="zero-trust-architecture-zta-strategize-and-establish-from-pluralsight-by-dr-lyron-h-andrews">Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews</h3>
-<p><img src="../cert_infosec_zero-trust_zero-trust-architecture-zta-strategize-and-establish_pluralsight_dr-lyron-h-andrews_2024-08-18.png" alt="John's Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews" style="border:1px solid #000000" /></p>
 <h2 id="general-data-protection-regulation-gdpr-2">General Data Protection Regulation (GDPR) (2)</h2>
 <h3 id="general-data-protection-regulation-gdpr-2024-from-traliant">General Data Protection Regulation (GDPR) 2024 from Traliant</h3>
 <p><img alt="John's General Data Protection Regulation (GDPR) 2024 from Traliant" src="../cert_infosec_gdpr_general-data-protection-regulation-gdpr-2024_traliant-saviynt_2024-04-21_dl-2024-10-26.png" /></p>
@@ -443,6 +460,27 @@
 <h3 id="california-consumer-privacy-act-ccpa-cpra-v2-from-traliant">California Consumer Privacy Act (CCPA &amp; CPRA) V2 from Traliant</h3>
 <p><img alt="John's California Consumer Privacy Act (CCPA &amp; CPRA) V2 from Traliant" src="../cert_infosec_ccpa_california-consumer-privacy-act-ccpa-cpra-v2_traliant-saviynt_2024-07-02_dl-2024-10-24.png" /></p>
 <p><img src="../cert_infosec_california-consumer-privacy-act-ccpa-cpra-v2_traliant-saviynt_2024-07-02.png" alt="John's California Consumer Privacy Act (CCPA & CPRA) V2 from Traliant" style="border:1px solid #000000" /></p>
+<h2 id="phishing-3">Phishing (3)</h2>
+<h3 id="microsoft-teams-phishing-demo-from-knowbe4">Microsoft Teams Phishing Demo from KnowBe4</h3>
+<p><img src="../cert_infosec_phishing_microsoft-teams-phishing-demo_knowbe4_2024-10-26.png" alt="John's Microsoft Teams Phishing Demo from KnowBe4" style="border:1px solid #000000" /></p>
+<h3 id="video-reality-bytes-vishing-from-knowbe4">Video: Reality Bytes: Vishing from KnowBe4</h3>
+<p><img src="../cert_infosec_phishing_video-reality-bytes-vishing_knowbe4_2024-10-26.png" alt="John's Video: Reality Bytes: Vishing from KnowBe4" style="border:1px solid #000000" /></p>
+<h3 id="the-art-of-phishing-from-knowbe4">The Art of Phishing from KnowBe4</h3>
+<p><img src="../cert_infosec_phishing_the-art-of-phishing_knowbe4_2024-10-26.png" alt="John's The Art of Phishing from KnowBe4" style="border:1px solid #000000" /></p>
+<h2 id="two-factor-authentication-4">Two-Factor Authentication (4)</h2>
+<h3 id="kevin-mitnick-two-factor-authentication-attack-from-knowbe4-by-kevin-mitnick">Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick</h3>
+<p><img src="../cert_infosec_phishing_kevin-mitnick-two-factor-authentication-attack_knowbe4_2024-07-01_cert-787481781.png" alt="John's Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick" style="border:1px solid #000000" /></p>
+<h3 id="social-engineering-two-factor-authentication-access-demonstration-from-knowbe4-by-kevin-mitnick">Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick</h3>
+<p><img src="../cert_infosec_2fa_social-engineering-two-factor-authentication-access-demonstration_knowbe4_2024-10-20_889648912.png" alt="John's Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick" style="border:1px solid #000000" /></p>
+<h3 id="dont-be-like-rick-two-factor-authentication-from-knowbe4">Don't Be Like Rick: Two-Factor Authentication from KnowBe4</h3>
+<p><img src="../cert_infosec_2fa_dont-be-like-rick-two-factor-authentication_knowbe4_2024-10-20.png" alt="John's Don't Be Like Rick: Two-Factor Authentication from KnowBe4" style="border:1px solid #000000" /></p>
+<h3 id="dont-be-like-rick-two-factor-authentication-from-knowbe4_1">Don't Be Like Rick: Two-Factor Authentication from KnowBe4</h3>
+<p><img src="../cert_infosec_2fa_dont-be-like-rick-two-factor-authentication_knowbe4_2024-10-20.png" alt="John's Don't Be Like Rick: Two-Factor Authentication from KnowBe4" style="border:1px solid #000000" /></p>
+<h2 id="zero-trust-2">Zero Trust (2)</h2>
+<h3 id="zero-trust-architecture-zta-getting-started-from-pluralsight-by-dr-lyron-h-andrews">Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews</h3>
+<p><img src="../cert_infosec_zero-trust_zero-trust-architecture-zta-getting-started_pluralsight_lyron-h-andrews_2024-08-01.png" alt="John's Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews" style="border:1px solid #000000" /></p>
+<h3 id="zero-trust-architecture-zta-strategize-and-establish-from-pluralsight-by-dr-lyron-h-andrews">Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews</h3>
+<p><img src="../cert_infosec_zero-trust_zero-trust-architecture-zta-strategize-and-establish_pluralsight_dr-lyron-h-andrews_2024-08-18.png" alt="John's Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews" style="border:1px solid #000000" /></p>
 <h2 id="passwords-1">Passwords (1)</h2>
 <h3 id="secure-passwords-with-quiz-from-knowbe4">Secure Passwords With Quiz from KnowBe4</h3>
 <p><img src="../cert_infosec_passwords_secure-passwords-with-quiz_knowbe4_2024-06-03.png" alt="John's Secure Passwords With Quiz from KnowBe4" style="border:1px solid #000000" /></p>
@@ -495,6 +533,9 @@
 <h2 id="disaster-recovery-1">Disaster Recovery (1)</h2>
 <h3 id="security-and-disaster-preparedness-from-knowbe4">Security and Disaster Preparedness from KnowBe4</h3>
 <p><img src="../cert_infosec_dr_security-and-disaster-preparedness_knowbe4_2024-07-23.png" alt="John's Security and Disaster Preparedness from KnowBe4" style="border:1px solid #000000" /></p>
+<h2 id="personas-1">Personas (1)</h2>
+<h3 id="how-security-awareness-applies-to-me-educators-from-knowbe4">How Security Awareness Applies to Me: Educators from KnowBe4</h3>
+<p><img src="../cert_infosec_personas_educators-how-security-awareness-applies-to-me_knowbe4_2024-10-26.png" alt="John's How Security Awareness Applies to Me: Educators from KnowBe4" style="border:1px solid #000000" /></p>
 <h2 id="microsoft-1">Microsoft (1)</h2>
 <h3 id="microsoft-defender-introduction-from-pluralsight-by-rishalin-pillay">Microsoft Defender: Introduction from Pluralsight by Rishalin Pillay</h3>
 <p><img src="../cert_infosec_microsoft_microsoft-defender-introduction_pluralsight_rishalin-pillay_2024-10-21.png" alt="John's Microsoft Defender: Introduction from Pluralsight by Rishalin Pillay" style="border:1px solid #000000" /></p>
