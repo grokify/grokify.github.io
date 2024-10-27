@@ -12,7 +12,7 @@ nav:
     - 'Awards':
         - 'API (7)': 'awards/index.md'
     - 'Certificates':
-        - 'API (8)': 'certificates/api.md'
+        - 'API (9)': 'certificates/api.md'
         - 'Algorithms (3)': 'certificates/algorithms.md'
         - 'Appreciation (1)': 'certificates/appreciation.md'
         - 'Artificial Intelligence (17)': 'certificates/artificial-intelligence.md'
@@ -36,9 +36,9 @@ nav:
         - 'Programming: QA (5)': 'certificates/programming-qa.md'
         - 'Scrum (19)': 'certificates/scrum.md'
         - 'Security: AI (6)': 'certificates/security-ai.md'
-        - 'Security: AppSec (36)': 'certificates/security-appsec.md'
+        - 'Security: AppSec (41)': 'certificates/security-appsec.md'
         - 'Security: IDSec (17)': 'certificates/security-idsec.md'
-        - 'Security: InfoSec (40)': 'certificates/security-infosec.md'
+        - 'Security: InfoSec (45)': 'certificates/security-infosec.md'
         - 'Sports (4)': 'certificates/sports.md'
         - 'Strategy (7)': 'certificates/strategy.md'
         - 'TED Talks (7)': 'certificates/ted-talks.md'

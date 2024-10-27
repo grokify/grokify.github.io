@@ -9,18 +9,23 @@
     1. [Non-Technical Security from KnowBe4](#non-technical-security-from-knowbe4)
 1. [Concepts](#concepts-1)
     1. [Voice on Security: Piggybacking from KnowBe4](#voice-on-security-piggybacking-from-knowbe4)
-1. [Two-Factor Authentication](#two-factor-authentication-3)
-    1. [Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick](#kevin-mitnick-two-factor-authentication-attack-from-knowbe4-by-kevin-mitnick)
-    1. [Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick](#social-engineering-two-factor-authentication-access-demonstration-from-knowbe4-by-kevin-mitnick)
-    1. [Don't Be Like Rick: Two-Factor Authentication from KnowBe4](#dont-be-like-rick-two-factor-authentication-from-knowbe4)
-1. [Zero Trust](#zero-trust-2)
-    1. [Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews](#zero-trust-architecture-zta-getting-started-from-pluralsight-by-dr-lyron-h-andrews)
-    1. [Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews](#zero-trust-architecture-zta-strategize-and-establish-from-pluralsight-by-dr-lyron-h-andrews)
 1. [General Data Protection Regulation (GDPR)](#general-data-protection-regulation-gdpr-2)
     1. [General Data Protection Regulation (GDPR) 2024 from Traliant](#general-data-protection-regulation-gdpr-2024-from-traliant)
     1. [General Data Protection Regulation (GDPR) "2023" from Traliant](#general-data-protection-regulation-gdpr-2023-from-traliant)
 1. [California Consumer Privacy Act (CCPA)](#california-consumer-privacy-act-ccpa-1)
     1. [California Consumer Privacy Act (CCPA & CPRA) V2 from Traliant](#california-consumer-privacy-act-ccpa-cpra-v2-from-traliant)
+1. [Phishing](#phishing-3)
+    1. [Microsoft Teams Phishing Demo from KnowBe4](#microsoft-teams-phishing-demo-from-knowbe4)
+    1. [Video: Reality Bytes: Vishing from KnowBe4](#video-reality-bytes-vishing-from-knowbe4)
+    1. [The Art of Phishing from KnowBe4](#the-art-of-phishing-from-knowbe4)
+1. [Two-Factor Authentication](#two-factor-authentication-4)
+    1. [Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick](#kevin-mitnick-two-factor-authentication-attack-from-knowbe4-by-kevin-mitnick)
+    1. [Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick](#social-engineering-two-factor-authentication-access-demonstration-from-knowbe4-by-kevin-mitnick)
+    1. [Don't Be Like Rick: Two-Factor Authentication from KnowBe4](#dont-be-like-rick-two-factor-authentication-from-knowbe4)
+    1. [Don't Be Like Rick: Two-Factor Authentication from KnowBe4](#dont-be-like-rick-two-factor-authentication-from-knowbe4)
+1. [Zero Trust](#zero-trust-2)
+    1. [Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews](#zero-trust-architecture-zta-getting-started-from-pluralsight-by-dr-lyron-h-andrews)
+    1. [Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews](#zero-trust-architecture-zta-strategize-and-establish-from-pluralsight-by-dr-lyron-h-andrews)
 1. [Passwords](#passwords-1)
     1. [Secure Passwords With Quiz from KnowBe4](#secure-passwords-with-quiz-from-knowbe4)
 1. [Email Protection](#email-protection-11)
@@ -52,6 +57,8 @@
     1. [Pretexting - "Tech Support" Social Engineering? from KnowBe4](#pretexting-tech-support-social-engineering-from-knowbe4)
 1. [Disaster Recovery](#disaster-recovery-1)
     1. [Security and Disaster Preparedness from KnowBe4](#security-and-disaster-preparedness-from-knowbe4)
+1. [Personas](#personas-1)
+    1. [How Security Awareness Applies to Me: Educators from KnowBe4](#how-security-awareness-applies-to-me-educators-from-knowbe4)
 1. [Microsoft](#microsoft-1)
     1. [Microsoft Defender: Introduction from Pluralsight by Rishalin Pillay](#microsoft-defender-introduction-from-pluralsight-by-rishalin-pillay)
 1. [Proofpoint](#proofpoint-1)
@@ -92,28 +99,6 @@
 
 <img src="../cert_infosec_concepts_voice-on-security-piggybacking_knowbe4_2024-06-04.png" alt="John's Voice on Security: Piggybacking from KnowBe4" style="border:1px solid #000000" />
 
-## Two-Factor Authentication (3)
-### Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick
-
-<img src="../cert_infosec_phishing_kevin-mitnick-two-factor-authentication-attack_knowbe4_2024-07-01_cert-787481781.png" alt="John's Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick" style="border:1px solid #000000" />
-
-### Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick
-
-<img src="../cert_infosec_2fa_social-engineering-two-factor-authentication-access-demonstration_knowbe4_2024-10-20_889648912.png" alt="John's Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick" style="border:1px solid #000000" />
-
-### Don't Be Like Rick: Two-Factor Authentication from KnowBe4
-
-<img src="../cert_infosec_2fa_dont-be-like-rick-two-factor-authentication_knowbe4_2024-10-20.png" alt="John's Don't Be Like Rick: Two-Factor Authentication from KnowBe4" style="border:1px solid #000000" />
-
-## Zero Trust (2)
-### Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews
-
-<img src="../cert_infosec_zero-trust_zero-trust-architecture-zta-getting-started_pluralsight_lyron-h-andrews_2024-08-01.png" alt="John's Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews" style="border:1px solid #000000" />
-
-### Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews
-
-<img src="../cert_infosec_zero-trust_zero-trust-architecture-zta-strategize-and-establish_pluralsight_dr-lyron-h-andrews_2024-08-18.png" alt="John's Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews" style="border:1px solid #000000" />
-
 ## General Data Protection Regulation (GDPR) (2)
 ### General Data Protection Regulation (GDPR) 2024 from Traliant
 
@@ -135,6 +120,45 @@
 ![John's California Consumer Privacy Act (CCPA & CPRA) V2 from Traliant](cert_infosec_ccpa_california-consumer-privacy-act-ccpa-cpra-v2_traliant-saviynt_2024-07-02_dl-2024-10-24.png)
 
 <img src="../cert_infosec_california-consumer-privacy-act-ccpa-cpra-v2_traliant-saviynt_2024-07-02.png" alt="John's California Consumer Privacy Act (CCPA & CPRA) V2 from Traliant" style="border:1px solid #000000" />
+
+## Phishing (3)
+### Microsoft Teams Phishing Demo from KnowBe4
+
+<img src="../cert_infosec_phishing_microsoft-teams-phishing-demo_knowbe4_2024-10-26.png" alt="John's Microsoft Teams Phishing Demo from KnowBe4" style="border:1px solid #000000" />
+
+### Video: Reality Bytes: Vishing from KnowBe4
+
+<img src="../cert_infosec_phishing_video-reality-bytes-vishing_knowbe4_2024-10-26.png" alt="John's Video: Reality Bytes: Vishing from KnowBe4" style="border:1px solid #000000" />
+
+### The Art of Phishing from KnowBe4
+
+<img src="../cert_infosec_phishing_the-art-of-phishing_knowbe4_2024-10-26.png" alt="John's The Art of Phishing from KnowBe4" style="border:1px solid #000000" />
+
+## Two-Factor Authentication (4)
+### Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick
+
+<img src="../cert_infosec_phishing_kevin-mitnick-two-factor-authentication-attack_knowbe4_2024-07-01_cert-787481781.png" alt="John's Kevin Mitnick - Two-Factor Authentication Attack from KnowBe4 by Kevin Mitnick" style="border:1px solid #000000" />
+
+### Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick
+
+<img src="../cert_infosec_2fa_social-engineering-two-factor-authentication-access-demonstration_knowbe4_2024-10-20_889648912.png" alt="John's Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick" style="border:1px solid #000000" />
+
+### Don't Be Like Rick: Two-Factor Authentication from KnowBe4
+
+<img src="../cert_infosec_2fa_dont-be-like-rick-two-factor-authentication_knowbe4_2024-10-20.png" alt="John's Don't Be Like Rick: Two-Factor Authentication from KnowBe4" style="border:1px solid #000000" />
+
+### Don't Be Like Rick: Two-Factor Authentication from KnowBe4
+
+<img src="../cert_infosec_2fa_dont-be-like-rick-two-factor-authentication_knowbe4_2024-10-20.png" alt="John's Don't Be Like Rick: Two-Factor Authentication from KnowBe4" style="border:1px solid #000000" />
+
+## Zero Trust (2)
+### Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews
+
+<img src="../cert_infosec_zero-trust_zero-trust-architecture-zta-getting-started_pluralsight_lyron-h-andrews_2024-08-01.png" alt="John's Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews" style="border:1px solid #000000" />
+
+### Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews
+
+<img src="../cert_infosec_zero-trust_zero-trust-architecture-zta-strategize-and-establish_pluralsight_dr-lyron-h-andrews_2024-08-18.png" alt="John's Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews" style="border:1px solid #000000" />
 
 ## Passwords (1)
 ### Secure Passwords With Quiz from KnowBe4
@@ -229,6 +253,11 @@
 ### Security and Disaster Preparedness from KnowBe4
 
 <img src="../cert_infosec_dr_security-and-disaster-preparedness_knowbe4_2024-07-23.png" alt="John's Security and Disaster Preparedness from KnowBe4" style="border:1px solid #000000" />
+
+## Personas (1)
+### How Security Awareness Applies to Me: Educators from KnowBe4
+
+<img src="../cert_infosec_personas_educators-how-security-awareness-applies-to-me_knowbe4_2024-10-26.png" alt="John's How Security Awareness Applies to Me: Educators from KnowBe4" style="border:1px solid #000000" />
 
 ## Microsoft (1)
 ### Microsoft Defender: Introduction from Pluralsight by Rishalin Pillay
