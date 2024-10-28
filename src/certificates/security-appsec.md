@@ -1,10 +1,11 @@
 # John's Security: AppSec Certificates
 1. [Strategy](#strategy-1)
     1. [Security Framework: NIST CSF from Pluralsight by Mike Woolard](#security-framework-nist-csf-from-pluralsight-by-mike-woolard)
-1. [CSSLP](#csslp-3)
+1. [CSSLP](#csslp-4)
     1. [Secure Software Concepts for CSSLP® from Pluralsight by Kevin Henry](#secure-software-concepts-for-csslp-from-pluralsight-by-kevin-henry)
-    1. [Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry](#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry)
+    1. [Secure Software Implementation for CSSLP® from Pluralsight by Kevin Henry](#secure-software-implementation-for-csslp-from-pluralsight-by-kevin-henry)
     1. [Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry](#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry)
+    1. [Secure Software Supply Chain for CSSLP® from Pluralsight by Kevin Henry](#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry)
 1. [Security Champion](#security-champion-7)
     1. [Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour](#introduction-to-security-champion-for-developers-from-pluralsight-by-kat-delorean-seymour)
     1. [Developer Security Champion: OWASP Top 10 from Pluralsight by Kat DeLorean Seymour](#developer-security-champion-owasp-top-10-from-pluralsight-by-kat-delorean-seymour)
@@ -58,18 +59,22 @@
 
 <img src="../cert_security_strategy_security-framework-nist-csf_pluralsight_mike-woolard_2024-06-19.png" alt="John's Security Framework: NIST CSF from Pluralsight by Mike Woolard" style="border:1px solid #000000" />
 
-## CSSLP (3)
+## CSSLP (4)
 ### Secure Software Concepts for CSSLP® from Pluralsight by Kevin Henry
 
 <img src="../cert_appsec_csslp_secure-software-concepts-csslp-cert_pluralsight_kevin-henry_2024-09-29.png" alt="John's Secure Software Concepts for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
 
-### Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry
+### Secure Software Implementation for CSSLP® from Pluralsight by Kevin Henry
 
-<img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
+<img src="../cert_appsec_csslp_secure-software-implementation-for-csslp_pluralsight_kevin-henry_2024-11-28.png" alt="John's Secure Software Implementation for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
 
 ### Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry
 
 <img src="../cert_appsec_secops_secure-software-testing-for-csslp_pluralsight_kevin-henry_2024-06-18.png" alt="John's Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
+
+### Secure Software Supply Chain for CSSLP® from Pluralsight by Kevin Henry
+
+<img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
 
 ## Security Champion (7)
 ### Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour
