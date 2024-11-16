@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/security-appsec/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Security: AppSec (42) - John Wang's Site</title>
+    <title>Security: AppSec (47) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Security: AppSec (42)";
+        var mkdocs_page_name = "Security: AppSec (47)";
         var mkdocs_page_input_path = "certificates/security-appsec.md";
         var mkdocs_page_url = "/certificates/security-appsec/";
       </script>
@@ -66,11 +66,13 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (17)</a>
                   </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence-ml/">Artificial Intelligence: ML (13)</a>
+                  </li>
                   <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (5)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../customer-service/">Customer Service (5)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../data-science/">Data Science (3)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../data-science/">Data Science (7)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
@@ -81,8 +83,6 @@
                   <li class="toctree-l1"><a class="reference internal" href="../information-technology/">Information Technology (1)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (10)</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../machine-learning/">Machine Learning (13)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../management/">Management (19)</a>
                   </li>
@@ -102,11 +102,11 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../programming-qa/">Programming: QA (5)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (19)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (20)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (6)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AppSec (42)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Security: AppSec (47)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#strategy-1">Strategy (1)</a>
         <ul>
@@ -126,7 +126,7 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#security-champion-7">Security Champion (7)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#developer-security-champion-7">Developer Security Champion (7)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#introduction-to-security-champion-for-developers-from-pluralsight-by-kat-delorean-seymour">Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour</a>
     </li>
@@ -184,6 +184,14 @@
     </li>
         </ul>
     </li>
+    <li class="toctree-l2"><a class="reference internal" href="#container-security-2">Container Security (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#painless-vulnerability-management-from-chainguard">Painless Vulnerability Management from Chainguard</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a>
+    </li>
+        </ul>
+    </li>
     <li class="toctree-l2"><a class="reference internal" href="#kubernetes-4">Kubernetes (4)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</a>
@@ -196,11 +204,9 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#devops-2">DevOps (2)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#devops-1">DevOps (1)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a>
     </li>
         </ul>
     </li>
@@ -238,8 +244,16 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#vulnerability-examples-1">Vulnerability Examples (1)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#vulnerability-examples-5">Vulnerability Examples (5)</a>
         <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#apache-commons-text-vulnerability-what-you-should-know-from-pluralsight-by-bri-frost-brandon-devault">Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#atlassian-rce-vulnerabilities-what-you-should-know-from-pluralsight-by-michael-teske-matthew-lloyd-davies">Atlassian RCE Vulnerabilities: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#log4j-vulnerability-what-you-should-know-from-pluralsight-by-bri-frost-brandon-devault">Log4j Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#regresshion-an-openssh-rce-vulnerability-what-you-should-know-from-pluralsight-by-michael-teske-matthew-lloyd-davies">regreSSHion - an OpenSSH RCE Vulnerability: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies</a>
+    </li>
     <li class="toctree-l3"><a class="reference internal" href="#xz-backdoor-supply-chain-vulnerability-what-you-should-know-from-pluralsight-by-aaron-rosenmund-matthew-lloyd-davies">XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies</a>
     </li>
         </ul>
@@ -271,7 +285,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>Security: AppSec (42)</li>
+          <li>Certificates &raquo;</li><li>Security: AppSec (47)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -294,7 +308,7 @@
 <li><a href="#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP® from Pluralsight by Kevin Henry</a></li>
 </ol>
 </li>
-<li><a href="#security-champion-7">Security Champion</a><ol>
+<li><a href="#developer-security-champion-7">Developer Security Champion</a><ol>
 <li><a href="#introduction-to-security-champion-for-developers-from-pluralsight-by-kat-delorean-seymour">Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour</a></li>
 <li><a href="#developer-security-champion-owasp-top-10-from-pluralsight-by-kat-delorean-seymour">Developer Security Champion: OWASP Top 10 from Pluralsight by Kat DeLorean Seymour</a></li>
 <li><a href="#developer-security-champion-api-security-from-pluralsight-by-gavin-johnson-lynn">Developer Security Champion: API Security from Pluralsight by Gavin Johnson-Lynn</a></li>
@@ -328,6 +342,11 @@
 <li><a href="#saviynt-supply-chain-risk-management-training-from-knowbe4">Saviynt Supply Chain Risk Management Training from KnowBe4</a></li>
 </ol>
 </li>
+<li><a href="#container-security-2">Container Security</a><ol>
+<li><a href="#painless-vulnerability-management-from-chainguard">Painless Vulnerability Management from Chainguard</a></li>
+<li><a href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a></li>
+</ol>
+</li>
 <li><a href="#kubernetes-4">Kubernetes</a><ol>
 <li><a href="#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</a></li>
 <li><a href="#kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker">Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker</a></li>
@@ -335,9 +354,8 @@
 <li><a href="#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jess-piedra">Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra</a></li>
 </ol>
 </li>
-<li><a href="#devops-2">DevOps</a><ol>
+<li><a href="#devops-1">DevOps</a><ol>
 <li><a href="#certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</a></li>
-<li><a href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a></li>
 </ol>
 </li>
 <li><a href="#secops-4">SecOps</a><ol>
@@ -360,7 +378,11 @@
 <li><a href="#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi">Application Analysis with Snyk from Pluralsight by Hiren Gadhvi</a></li>
 </ol>
 </li>
-<li><a href="#vulnerability-examples-1">Vulnerability Examples</a><ol>
+<li><a href="#vulnerability-examples-5">Vulnerability Examples</a><ol>
+<li><a href="#apache-commons-text-vulnerability-what-you-should-know-from-pluralsight-by-bri-frost-brandon-devault">Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault</a></li>
+<li><a href="#atlassian-rce-vulnerabilities-what-you-should-know-from-pluralsight-by-michael-teske-matthew-lloyd-davies">Atlassian RCE Vulnerabilities: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies</a></li>
+<li><a href="#log4j-vulnerability-what-you-should-know-from-pluralsight-by-bri-frost-brandon-devault">Log4j Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault</a></li>
+<li><a href="#regresshion-an-openssh-rce-vulnerability-what-you-should-know-from-pluralsight-by-michael-teske-matthew-lloyd-davies">regreSSHion - an OpenSSH RCE Vulnerability: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies</a></li>
 <li><a href="#xz-backdoor-supply-chain-vulnerability-what-you-should-know-from-pluralsight-by-aaron-rosenmund-matthew-lloyd-davies">XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies</a></li>
 </ol>
 </li>
@@ -377,7 +399,7 @@
 <p><img src="../cert_appsec_secops_secure-software-testing-for-csslp_pluralsight_kevin-henry_2024-06-18.png" alt="John's Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" /></p>
 <h3 id="secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry">Secure Software Supply Chain for CSSLP® from Pluralsight by Kevin Henry</h3>
 <p><img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" /></p>
-<h2 id="security-champion-7">Security Champion (7)</h2>
+<h2 id="developer-security-champion-7">Developer Security Champion (7)</h2>
 <h3 id="introduction-to-security-champion-for-developers-from-pluralsight-by-kat-delorean-seymour">Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour</h3>
 <p><img src="../cert_appsec_security-champion_security-champion-for-developers-intro_pluralsight_kat-delorean-seymour_2024-10-21.png" alt="John's Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour" style="border:1px solid #000000" /></p>
 <h3 id="developer-security-champion-owasp-top-10-from-pluralsight-by-kat-delorean-seymour">Developer Security Champion: OWASP Top 10 from Pluralsight by Kat DeLorean Seymour</h3>
@@ -423,6 +445,15 @@
 <p><img src="../cert_appsec_sbom_sboms-security-hot-take_pluralsight_aaron-rosenmund--brandon-devault_2024-09-29.png" alt="John's Security Hot Takes: SBOMs from Pluralsight by Aaron Rosenmund, Brandon DeVault" style="border:1px solid #000000" /></p>
 <h3 id="saviynt-supply-chain-risk-management-training-from-knowbe4">Saviynt Supply Chain Risk Management Training from KnowBe4</h3>
 <p><img src="../cert_infosec_supply-chain_saviynt-supply-chain-risk-management-training_knowbe4_saviynt_2024-07-29.png" alt="John's Saviynt Supply Chain Risk Management Training from KnowBe4" style="border:1px solid #000000" /></p>
+<h2 id="container-security-2">Container Security (2)</h2>
+<h3 id="painless-vulnerability-management-from-chainguard">Painless Vulnerability Management from Chainguard</h3>
+<ul>
+<li><a href="https://www.credly.com/users/grokify/">John's Credly online profile</a></li>
+<li><a href="https://verify.skilljar.com/c/mp47sq9gms8t">John's Chainguard online credential</a></li>
+</ul>
+<p><img alt="John's Painless Vulnerability Management from Chainguard" src="../cert_appsec_container_painless-vulnerabilities-management_chainguard_cert-mp47sq9gms8t-1731434214_2024-11-12.png" /></p>
+<h3 id="container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</h3>
+<p><img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" /></p>
 <h2 id="kubernetes-4">Kubernetes (4)</h2>
 <h3 id="kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</h3>
 <p><img src="../cert_security_kubernetes-security-cluster-setup_pluralsight_2024-05-12.png" alt="John's Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" /></p>
@@ -432,14 +463,12 @@
 <p><img src="../cert_security_appsec_kubernetes-security-minimizing-microservice-vulnerabilities_pluralsight_2024-06-12.png" alt="John's Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer" style="border:1px solid #000000" /></p>
 <h3 id="kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra</h3>
 <p><img src="../cert_appsec_container_kubernetes-security-implementing-supply-chain-security_pluralsight_antonio-jesus-piedra_cert-639e7a4d-50bf-445e-a1be-b38da0dcffd0_2024-07-09.png" alt="John's Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" /></p>
-<h2 id="devops-2">DevOps (2)</h2>
+<h2 id="devops-1">DevOps (1)</h2>
 <h3 id="certified-devops-information-security-engineer-devops-sec-from-devops-academy">Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy</h3>
 <ul>
 <li><a href="https://www.devops-certification.org/badges/22465533642098">John's DevOps Academy online credential</a></li>
 </ul>
 <p><img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" /></p>
-<h3 id="container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</h3>
-<p><img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" /></p>
 <h2 id="secops-4">SecOps (4)</h2>
 <h3 id="red-team-operations-target-and-capability-development-from-pluralsight-by-aaron-rosenmund">Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund</h3>
 <p><img src="../cert_infosec_redteam_red-team-operations-target-and-capability-development_pluralsight_aaron-rosenmund_2024-09-29.png" alt="John's Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" /></p>
@@ -471,7 +500,15 @@
 <h2 id="snyk-1">Snyk (1)</h2>
 <h3 id="application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi">Application Analysis with Snyk from Pluralsight by Hiren Gadhvi</h3>
 <p><img src="../cert_security_application-analysis-with-snyk_pluralsight_2024-04-10.png" alt="John's Application Analysis with Snyk from Pluralsight by Hiren Gadhvi" style="border:1px solid #000000" /></p>
-<h2 id="vulnerability-examples-1">Vulnerability Examples (1)</h2>
+<h2 id="vulnerability-examples-5">Vulnerability Examples (5)</h2>
+<h3 id="apache-commons-text-vulnerability-what-you-should-know-from-pluralsight-by-bri-frost-brandon-devault">Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault</h3>
+<p><img src="../cert_appsec_vulns_apache-commons-text-vulnerability_pluralslight_bri-frost--brandon-devault_2024-11-01.png" alt="John's Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault" style="border:1px solid #000000" /></p>
+<h3 id="atlassian-rce-vulnerabilities-what-you-should-know-from-pluralsight-by-michael-teske-matthew-lloyd-davies">Atlassian RCE Vulnerabilities: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies</h3>
+<p><img src="../cert_appsec_vulns_atlassian-rce-vulnerabilities_pluralsight_michael-teske--matthew-lloyd-davies_2024-11-01.png" alt="John's Atlassian RCE Vulnerabilities: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies" style="border:1px solid #000000" /></p>
+<h3 id="log4j-vulnerability-what-you-should-know-from-pluralsight-by-bri-frost-brandon-devault">Log4j Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault</h3>
+<p><img src="../cert_appsec_vulns_log4j-vulnerability_pluralsight_bri-frost--brandon-devault_2024-11-01.png" alt="John's Log4j Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault" style="border:1px solid #000000" /></p>
+<h3 id="regresshion-an-openssh-rce-vulnerability-what-you-should-know-from-pluralsight-by-michael-teske-matthew-lloyd-davies">regreSSHion - an OpenSSH RCE Vulnerability: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies</h3>
+<p><img src="../cert_appsec_vulns_regresshion-openssh-vulnerability_pluralsight_michael-teske--matthew-lloyd-davies_2024-11-01.png" alt="John's regreSSHion - an OpenSSH RCE Vulnerability: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies" style="border:1px solid #000000" /></p>
 <h3 id="xz-backdoor-supply-chain-vulnerability-what-you-should-know-from-pluralsight-by-aaron-rosenmund-matthew-lloyd-davies">XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies</h3>
 <p><img src="../cert_appsec_vuln-examples_xz-backdoor-supply-chain-what-you-should-know_pluralsight_aaron-rosenmund-and-matthew-lloyd-davies_2024-06-17.png" alt="John's XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies" style="border:1px solid #000000" /></p>
               
