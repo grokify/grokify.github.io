@@ -1,10 +1,11 @@
 # John's Scrum Certificates
-1. [Scrum Master](#scrum-master-6)
+1. [Scrum Master](#scrum-master-7)
     1. [Certified ScrumMaster (CSM) from Scrum Alliance](#certified-scrummaster-csm-from-scrum-alliance)
     1. [Professional Scrum Master III (PSM III) from Scrum.org](#professional-scrum-master-iii-psm-iii-from-scrumorg)
     1. [Professional Scrum Master II (PSM II) from Scrum.org](#professional-scrum-master-ii-psm-ii-from-scrumorg)
     1. [Professional Scrum Master I (PSM I) from Scrum.org](#professional-scrum-master-i-psm-i-from-scrumorg)
     1. [Scrum Master Accredited Certification (SMAC) from Scrum Institute](#scrum-master-accredited-certification-smac-from-scrum-institute)
+    1. [What a Scrum Master Must Know About People and Teams from Pluralsight by Derek Davidson](#what-a-scrum-master-must-know-about-people-and-teams-from-pluralsight-by-derek-davidson)
     1. [Implementing Scrum and Avoiding Scrum Anti-Patterns from Pluralsight by Derek Davidson](#implementing-scrum-and-avoiding-scrum-anti-patterns-from-pluralsight-by-derek-davidson)
 1. [Product Owner](#product-owner-4)
     1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
@@ -34,7 +35,7 @@
 1. [Design Thinking Resource Links](../design-thinking_resource-links)
 1. [OKR Reading List](../okr_resource-links)
 1. [Scrum Reading List](../scrum_resource-links)
-## Scrum Master (6)
+## Scrum Master (7)
 ### Certified ScrumMaster (CSM) from Scrum Alliance
 * [John's Scrum Alliance online profile](https://www.scrumalliance.org/community/profile/jwang96)
 
@@ -70,6 +71,10 @@
 * [John's Scrum Institute online credential](https://www.scrum-institute.org/badges/55264593947678)
 
 <img src="../cert_scrum_scrum-master_scrum-institute_scrum-master-accredited-certification--smac_2023-10-27.png" alt="John's Scrum Master Accredited Certification (SMAC) from Scrum Institute" style="border:1px solid #000000" />
+
+### What a Scrum Master Must Know About People and Teams from Pluralsight by Derek Davidson
+
+<img src="../cert_scrum_scrum-master_what-a-scrum-master-must-know-about-people-and-teams_pluralsight_derek-davidson_2024-11-15.png" alt="John's What a Scrum Master Must Know About People and Teams from Pluralsight by Derek Davidson" style="border:1px solid #000000" />
 
 ### Implementing Scrum and Avoiding Scrum Anti-Patterns from Pluralsight by Derek Davidson
 

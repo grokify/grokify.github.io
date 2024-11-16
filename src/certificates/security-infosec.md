@@ -72,6 +72,8 @@
 
 ### Saviynt Information Security Annual Training from Saviynt
 
+<img src="../cert_infosec_fundamentals_saviynt-information-security-annual-training_638669595152793121_2024-07-09_dl-2024-11-11.png" alt="John's Saviynt Information Security Annual Training from Saviynt" style="border:1px solid #000000" />
+
 <img src="../cert_infosec_saviynt-information-security-annual-training_saviynt_638561624537311652_2024-07-09.png" alt="John's Saviynt Information Security Annual Training from Saviynt" style="border:1px solid #000000" />
 
 ### 2024 Kevin Mitnick Security Awareness Training from KnowBe4 by Kevin Mitnick

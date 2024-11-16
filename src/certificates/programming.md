@@ -5,7 +5,7 @@
     1. [Problem Solving (Basic) from HackerRank](#problem-solving-basic-from-hackerrank)
 1. [API](#api-1)
     1. [Rest API (Intermediate) from HackerRank](#rest-api-intermediate-from-hackerrank)
-1. [Machine Learning](#machine-learning-1)
+1. [Artificial Intelligence: ML](#artificial-intelligence-ml-1)
     1. [Machine Learning from Stanford by Andrew Ng](#machine-learning-from-stanford-by-andrew-ng)
 1. [Refactoring](#refactoring-1)
     1. [ICAgile (ICP-PRG): Improving and Refactoring Code from Pluralsight by Jeremy Jarrell](#icagile-icp-prg-improving-and-refactoring-code-from-pluralsight-by-jeremy-jarrell)
@@ -63,7 +63,7 @@
 
 ![John's Rest API (Intermediate) from HackerRank](cert_programming_rest-api_hackerrank_rest-api-intermediate_2023-07-08.png)
 
-## Machine Learning (1)
+## Artificial Intelligence: ML (1)
 ### Machine Learning from Stanford by Andrew Ng
 
 <img src="../cert_machine-learning_stanford_machine-learning_2014-09-30_cert-972303~7600383.png" alt="John's Machine Learning from Stanford by Andrew Ng" style="border:1px solid #000000" />

@@ -2,7 +2,7 @@
 1. [Fundamentals](#fundamentals-2)
     1. [Backtracking Algorithm from Great Learning Academy by Faizan Parvez](#backtracking-algorithm-from-great-learning-academy-by-faizan-parvez)
     1. [Divide and Conquer Algorithms from Great Learning Academy by Faizan Parvez](#divide-and-conquer-algorithms-from-great-learning-academy-by-faizan-parvez)
-1. [Machine Learning](#machine-learning-1)
+1. [Artificial Intelligence: ML](#artificial-intelligence-ml-1)
     1. [KNN Algorithm from Great Learning Academy by Anirudh Rao, Bharani Akella](#knn-algorithm-from-great-learning-academy-by-anirudh-rao-bharani-akella)
 ## Fundamentals (2)
 ### Backtracking Algorithm from Great Learning Academy by Faizan Parvez
@@ -15,7 +15,7 @@
 
 <img src="../cert_algorithms_divide-and-conquer-algorithms_greatlearning_2024-03-12.jpg" alt="John's Divide and Conquer Algorithms from Great Learning Academy by Faizan Parvez" style="border:1px solid #000000" />
 
-## Machine Learning (1)
+## Artificial Intelligence: ML (1)
 ### KNN Algorithm from Great Learning Academy by Anirudh Rao, Bharani Akella
 * [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/QMGKZXYC)
 

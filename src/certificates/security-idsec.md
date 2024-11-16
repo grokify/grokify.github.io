@@ -78,9 +78,13 @@
 ## Saviynt (5)
 ### Saviynt IGA L100 Self-Paced Training from Saviynt
 
+<img src="../cert_idsec_saviynt_saviynt-iga-l100-self-paced-training_saviynt_cert-638669597333894696_2024-07-05_dl-2024-11-11.png" alt="John's Saviynt IGA L100 Self-Paced Training from Saviynt" style="border:1px solid #000000" />
+
 <img src="../cert_saviynt_saviynt-iga-l100-self-paced-training-older-version-2023_saviynt_cert-638557445150170966_2024-07-05.png" alt="John's Saviynt IGA L100 Self-Paced Training from Saviynt" style="border:1px solid #000000" />
 
 ### Saviynt IGA for MSPs from Saviynt
+
+<img src="../cert_idsec_saviynt_saviynt-iga-for-msps_saviynt_cert-638669595827591707_2024-07-04_dl-2024-11-11.png" alt="John's Saviynt IGA for MSPs from Saviynt" style="border:1px solid #000000" />
 
 <img src="../cert_saviynt_saviynt-iga-for-msps_saviynt_cert-638556617907981626_2024-07-04.png" alt="John's Saviynt IGA for MSPs from Saviynt" style="border:1px solid #000000" />
 
@@ -90,9 +94,13 @@
 
 ### Saviynt CPAM L100 - Self-Paced Training from Saviynt
 
+<img src="../cert_idsec_saviynt_saviynt-pam-l100-self-paced-training_saviynt_cert-638669601905368153_2024-07-08_dl-2024-11-11.png" alt="John's Saviynt CPAM L100 - Self-Paced Training from Saviynt" style="border:1px solid #000000" />
+
 <img src="../cert_saviynt_saviynt-cpam-l100-self-paced-training_saviynt_cert-638560233519926136_2024-07-08.png" alt="John's Saviynt CPAM L100 - Self-Paced Training from Saviynt" style="border:1px solid #000000" />
 
 ### Application Access Governance (AAG) Fundamentals from Saviynt
+
+<img src="../cert_idsec_saviynt_application-access-governance-aag-fundamentals_saviynt_cert-638669601923200423_2024-07-09_dl-2024-11-11.png" alt="John's Application Access Governance (AAG) Fundamentals from Saviynt" style="border:1px solid #000000" />
 
 <img src="../cert_saviynt_application-access-governance-aag-fundamentals_saviynt_cert-638561132094980409_2024-07-09.png" alt="John's Application Access Governance (AAG) Fundamentals from Saviynt" style="border:1px solid #000000" />
 

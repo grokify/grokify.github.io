@@ -13,7 +13,7 @@
     1. [Exploring Envisioning Outcomes from Pluralsight by Lauren Gray](#exploring-envisioning-outcomes-from-pluralsight-by-lauren-gray)
 1. [Product-Led Growth (PLG)](#product-led-growth-plg-1)
     1. [Product-Led Fundamentals from ProductLed](#product-led-fundamentals-from-productled)
-1. [Machine Learning](#machine-learning-2)
+1. [Artificial Intelligence: ML](#artificial-intelligence-ml-2)
     1. [Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](#machine-learning-foundations-for-product-managers-from-duke-university-by-jon-reifschneider)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
 1. [Product Craft](#product-craft-1)
@@ -70,7 +70,7 @@
 
 ![John's Product-Led Fundamentals from ProductLed](cert_product_plg_productled_product-led-growth-fundamentals_2022-10-08_date.png)
 
-## Machine Learning (2)
+## Artificial Intelligence: ML (2)
 ### Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider
 * [John's Duke University online credential](https://coursera.org/verify/NCRF8YSUYLSB)
 

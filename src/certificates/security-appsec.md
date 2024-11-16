@@ -6,7 +6,7 @@
     1. [Secure Software Implementation for CSSLP® from Pluralsight by Kevin Henry](#secure-software-implementation-for-csslp-from-pluralsight-by-kevin-henry)
     1. [Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry](#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry)
     1. [Secure Software Supply Chain for CSSLP® from Pluralsight by Kevin Henry](#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry)
-1. [Security Champion](#security-champion-7)
+1. [Developer Security Champion](#developer-security-champion-7)
     1. [Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour](#introduction-to-security-champion-for-developers-from-pluralsight-by-kat-delorean-seymour)
     1. [Developer Security Champion: OWASP Top 10 from Pluralsight by Kat DeLorean Seymour](#developer-security-champion-owasp-top-10-from-pluralsight-by-kat-delorean-seymour)
     1. [Developer Security Champion: API Security from Pluralsight by Gavin Johnson-Lynn](#developer-security-champion-api-security-from-pluralsight-by-gavin-johnson-lynn)
@@ -30,14 +30,16 @@
     1. [Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans](#secure-coding-using-components-with-known-vulnerabilities-from-pluralsight-by-peter-mosmans)
     1. [Security Hot Takes: SBOMs from Pluralsight by Aaron Rosenmund, Brandon DeVault](#security-hot-takes-sboms-from-pluralsight-by-aaron-rosenmund-brandon-devault)
     1. [Saviynt Supply Chain Risk Management Training from KnowBe4](#saviynt-supply-chain-risk-management-training-from-knowbe4)
+1. [Container Security](#container-security-2)
+    1. [Painless Vulnerability Management from Chainguard](#painless-vulnerability-management-from-chainguard)
+    1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
 1. [Kubernetes](#kubernetes-4)
     1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
     1. [Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker](#kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker)
     1. [Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer](#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer)
     1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jess-piedra)
-1. [DevOps](#devops-2)
+1. [DevOps](#devops-1)
     1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
-    1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
 1. [SecOps](#secops-4)
     1. [Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund](#red-team-operations-target-and-capability-development-from-pluralsight-by-aaron-rosenmund)
     1. [Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund](#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund)
@@ -52,7 +54,11 @@
     1. [Getting Started with AWS Control Tower from Simplilearn](#getting-started-with-aws-control-tower-from-simplilearn)
 1. [Snyk](#snyk-1)
     1. [Application Analysis with Snyk from Pluralsight by Hiren Gadhvi](#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi)
-1. [Vulnerability Examples](#vulnerability-examples-1)
+1. [Vulnerability Examples](#vulnerability-examples-5)
+    1. [Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault](#apache-commons-text-vulnerability-what-you-should-know-from-pluralsight-by-bri-frost-brandon-devault)
+    1. [Atlassian RCE Vulnerabilities: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies](#atlassian-rce-vulnerabilities-what-you-should-know-from-pluralsight-by-michael-teske-matthew-lloyd-davies)
+    1. [Log4j Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault](#log4j-vulnerability-what-you-should-know-from-pluralsight-by-bri-frost-brandon-devault)
+    1. [regreSSHion - an OpenSSH RCE Vulnerability: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies](#regresshion-an-openssh-rce-vulnerability-what-you-should-know-from-pluralsight-by-michael-teske-matthew-lloyd-davies)
     1. [XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies](#xz-backdoor-supply-chain-vulnerability-what-you-should-know-from-pluralsight-by-aaron-rosenmund-matthew-lloyd-davies)
 ## Strategy (1)
 ### Security Framework: NIST CSF from Pluralsight by Mike Woolard
@@ -76,7 +82,7 @@
 
 <img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
 
-## Security Champion (7)
+## Developer Security Champion (7)
 ### Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour
 
 <img src="../cert_appsec_security-champion_security-champion-for-developers-intro_pluralsight_kat-delorean-seymour_2024-10-21.png" alt="John's Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour" style="border:1px solid #000000" />
@@ -158,6 +164,17 @@
 
 <img src="../cert_infosec_supply-chain_saviynt-supply-chain-risk-management-training_knowbe4_saviynt_2024-07-29.png" alt="John's Saviynt Supply Chain Risk Management Training from KnowBe4" style="border:1px solid #000000" />
 
+## Container Security (2)
+### Painless Vulnerability Management from Chainguard
+* [John's Credly online profile](https://www.credly.com/users/grokify/)
+* [John's Chainguard online credential](https://verify.skilljar.com/c/mp47sq9gms8t)
+
+![John's Painless Vulnerability Management from Chainguard](cert_appsec_container_painless-vulnerabilities-management_chainguard_cert-mp47sq9gms8t-1731434214_2024-11-12.png)
+
+### Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof
+
+<img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" />
+
 ## Kubernetes (4)
 ### Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra
 
@@ -175,15 +192,11 @@
 
 <img src="../cert_appsec_container_kubernetes-security-implementing-supply-chain-security_pluralsight_antonio-jesus-piedra_cert-639e7a4d-50bf-445e-a1be-b38da0dcffd0_2024-07-09.png" alt="John's Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" />
 
-## DevOps (2)
+## DevOps (1)
 ### Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy
 * [John's DevOps Academy online credential](https://www.devops-certification.org/badges/22465533642098)
 
 <img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" />
-
-### Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof
-
-<img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" />
 
 ## SecOps (4)
 ### Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund
@@ -234,7 +247,23 @@
 
 <img src="../cert_security_application-analysis-with-snyk_pluralsight_2024-04-10.png" alt="John's Application Analysis with Snyk from Pluralsight by Hiren Gadhvi" style="border:1px solid #000000" />
 
-## Vulnerability Examples (1)
+## Vulnerability Examples (5)
+### Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault
+
+<img src="../cert_appsec_vulns_apache-commons-text-vulnerability_pluralslight_bri-frost--brandon-devault_2024-11-01.png" alt="John's Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault" style="border:1px solid #000000" />
+
+### Atlassian RCE Vulnerabilities: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies
+
+<img src="../cert_appsec_vulns_atlassian-rce-vulnerabilities_pluralsight_michael-teske--matthew-lloyd-davies_2024-11-01.png" alt="John's Atlassian RCE Vulnerabilities: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies" style="border:1px solid #000000" />
+
+### Log4j Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault
+
+<img src="../cert_appsec_vulns_log4j-vulnerability_pluralsight_bri-frost--brandon-devault_2024-11-01.png" alt="John's Log4j Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault" style="border:1px solid #000000" />
+
+### regreSSHion - an OpenSSH RCE Vulnerability: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies
+
+<img src="../cert_appsec_vulns_regresshion-openssh-vulnerability_pluralsight_michael-teske--matthew-lloyd-davies_2024-11-01.png" alt="John's regreSSHion - an OpenSSH RCE Vulnerability: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies" style="border:1px solid #000000" />
+
 ### XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies
 
 <img src="../cert_appsec_vuln-examples_xz-backdoor-supply-chain-what-you-should-know_pluralsight_aaron-rosenmund-and-matthew-lloyd-davies_2024-06-17.png" alt="John's XZ Backdoor Supply Chain Vulnerability: What You Should Know from Pluralsight by Aaron Rosenmund, Matthew Lloyd Davies" style="border:1px solid #000000" />
