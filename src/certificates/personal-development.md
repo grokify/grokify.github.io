@@ -1,6 +1,7 @@
 # John's Personal Development Certificates
-1. [Goals](#goals-1)
+1. [Goals](#goals-2)
     1. [Setting Goals - Your Guide to Focusing on What Is Important from Pluralsight by Tommy van Schaik](#setting-goals-your-guide-to-focusing-on-what-is-important-from-pluralsight-by-tommy-van-schaik)
+    1. [Top Tips for Setting Authentic Career Goals from Pluralsight by Dr. Sweta Chawla](#top-tips-for-setting-authentic-career-goals-from-pluralsight-by-dr-sweta-chawla)
 1. [Learning](#learning-2)
     1. [Start Your Lifelong Learning from Accenture](#start-your-lifelong-learning-from-accenture)
     1. [Keeping up with Technology from Pluralsight by Dan Appleman](#keeping-up-with-technology-from-pluralsight-by-dan-appleman)
@@ -9,10 +10,14 @@
     1. [How to Be a Great Mentee: Get More Out of Mentoring from Pluralsight by Jason Alba](#how-to-be-a-great-mentee-get-more-out-of-mentoring-from-pluralsight-by-jason-alba)
 1. [Resiliency](#resiliency-1)
     1. [Bounce Back From Failure from Eleventure](#bounce-back-from-failure-from-eleventure)
-## Goals (1)
+## Goals (2)
 ### Setting Goals - Your Guide to Focusing on What Is Important from Pluralsight by Tommy van Schaik
 
 <img src="../cert_personal-development_goals_setting-goals-your-guide-to-focusing-on-what-is-important_by-tommy-van-schaik_from-pluralsight_2024-04-14.png" alt="John's Setting Goals - Your Guide to Focusing on What Is Important from Pluralsight by Tommy van Schaik" style="border:1px solid #000000" />
+
+### Top Tips for Setting Authentic Career Goals from Pluralsight by Dr. Sweta Chawla
+
+<img src="../cert_personal-development_goals_top-tips-for-setting-authentic-career-goals_pluralsight_sweta-chawla_2024-11-19.png" alt="John's Top Tips for Setting Authentic Career Goals from Pluralsight by Dr. Sweta Chawla" style="border:1px solid #000000" />
 
 ## Learning (2)
 ### Start Your Lifelong Learning from Accenture
