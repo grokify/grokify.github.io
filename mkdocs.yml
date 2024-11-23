@@ -8,6 +8,7 @@ nav:
     - 'Home': 'index.md'
     - 'Innovation':
         - 'Patents (3)': 'patents/index.md'
+        - 'Presentations (2)': 'presentations/index.md'
         - 'Publications (1)': 'publications/index.md'
     - 'Awards':
         - 'API (7)': 'awards/index.md'
