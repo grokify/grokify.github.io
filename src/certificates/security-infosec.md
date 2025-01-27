@@ -1,4 +1,6 @@
 # John's Security: InfoSec Certificates
+1. [CISSP](#cissp-1)
+    1. [Asset Security for CISSP® from Pluralsight by Kevin Henry](#asset-security-for-cissp-from-pluralsight-by-kevin-henry)
 1. [Fundamentals](#fundamentals-7)
     1. [Corporate Information Security Awareness - Proofpoint 2014 from Proofpoint](#corporate-information-security-awareness-proofpoint-2014-from-proofpoint)
     1. [Saviynt Information Security Annual Training from Saviynt](#saviynt-information-security-annual-training-from-saviynt)
@@ -65,6 +67,11 @@
     1. [Enterprise Protection/Privacy Accredited Engineer from Proofpoint](#enterprise-protection-privacy-accredited-engineer-from-proofpoint)
 1. [Case Studies](#case-studies-1)
     1. [Security Hot Takes: CrowdStrike Outage Post-mortem from Pluralsight by Michael Teske, Aaron Rosenmund, Bri Frost](#security-hot-takes-crowdstrike-outage-post-mortem-from-pluralsight-by-michael-teske-aaron-rosenmund-bri-frost)
+## CISSP (1)
+### Asset Security for CISSP® from Pluralsight by Kevin Henry
+
+<img src="../cert_infosec_cissp_asset-security-for-cissp_pluralsight_kevin-henry_2025-01-14.png" alt="John's Asset Security for CISSP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
+
 ## Fundamentals (7)
 ### Corporate Information Security Awareness - Proofpoint 2014 from Proofpoint
 
