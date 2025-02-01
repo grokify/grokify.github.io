@@ -15,12 +15,13 @@
     1. [Getting Started with AWS Control Tower from Simplilearn](#getting-started-with-aws-control-tower-from-simplilearn)
 1. [Azure](#azure-1)
     1. [Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry](#microsoft-azure-identity-and-security-for-administrators-the-big-picture-from-pluralsight-by-jean-francois-landry)
-1. [Saviynt](#saviynt-5)
+1. [Saviynt](#saviynt-6)
     1. [Saviynt IGA L100 Self-Paced Training from Saviynt](#saviynt-iga-l100-self-paced-training-from-saviynt)
     1. [Saviynt IGA for MSPs from Saviynt](#saviynt-iga-for-msps-from-saviynt)
     1. [Application Onboarding (AOB) Fundamentals from Saviynt](#application-onboarding-aob-fundamentals-from-saviynt)
     1. [Saviynt CPAM L100 - Self-Paced Training from Saviynt](#saviynt-cpam-l100-self-paced-training-from-saviynt)
     1. [Application Access Governance (AAG) Fundamentals from Saviynt](#application-access-governance-aag-fundamentals-from-saviynt)
+    1. [Saviynt Ambassador Accreditation from Saviynt](#saviynt-ambassador-accreditation-from-saviynt)
 ## Programming (6)
 ### Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck
 * [John's Pragmatic Web Security online profile](https://courses.pragmaticwebsecurity.com/certificates/ismezbjb1w)
@@ -75,7 +76,7 @@
 
 <img src="../cert_azure_microsoft-azure-identity-and-security-for-administrators-the-big-picture_pluralsight_2024-03-27.png" alt="John's Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry" style="border:1px solid #000000" />
 
-## Saviynt (5)
+## Saviynt (6)
 ### Saviynt IGA L100 Self-Paced Training from Saviynt
 
 <img src="../cert_idsec_saviynt_saviynt-iga-l100-self-paced-training_saviynt_cert-638669597333894696_2024-07-05_dl-2024-11-11.png" alt="John's Saviynt IGA L100 Self-Paced Training from Saviynt" style="border:1px solid #000000" />
@@ -103,4 +104,8 @@
 <img src="../cert_idsec_saviynt_application-access-governance-aag-fundamentals_saviynt_cert-638669601923200423_2024-07-09_dl-2024-11-11.png" alt="John's Application Access Governance (AAG) Fundamentals from Saviynt" style="border:1px solid #000000" />
 
 <img src="../cert_saviynt_application-access-governance-aag-fundamentals_saviynt_cert-638561132094980409_2024-07-09.png" alt="John's Application Access Governance (AAG) Fundamentals from Saviynt" style="border:1px solid #000000" />
+
+### Saviynt Ambassador Accreditation from Saviynt
+
+<img src="../cert_idsec_saviynt_saviynt-ambassador-accreditation_saviynt_cert-638736652149697316_2024-12-09.png" alt="John's Saviynt Ambassador Accreditation from Saviynt" style="border:1px solid #000000" />
 

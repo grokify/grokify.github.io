@@ -6,10 +6,12 @@
     1. [Developing a Google SRE Culture from Google Cloud by Kiran Varma](#developing-a-google-sre-culture-from-google-cloud-by-kiran-varma)
     1. [Incorporating Site Reliability Engineering (SRE) in Your System Design from Pluralsight by Elton Stoneman](#incorporating-site-reliability-engineering-sre-in-your-system-design-from-pluralsight-by-elton-stoneman)
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
-1. [Datadog](#datadog-3)
+1. [Datadog](#datadog-5)
     1. [Introduction to Observability from Datadog](#introduction-to-observability-from-datadog)
     1. [Introduction to Service Level Objectives from Datadog](#introduction-to-service-level-objectives-from-datadog)
     1. [Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog](#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog)
+    1. [Getting Started with APM Metrics & Traces from Datadog](#getting-started-with-apm-metrics-traces-from-datadog)
+    1. [Diagnosing Application Bugs with Datadog APM from Datadog](#diagnosing-application-bugs-with-datadog-apm-from-datadog)
 ## Fundamentals (1)
 ### Building an Observable Infrastructure and Code from Pluralsight by Aravind Putrevu
 
@@ -34,7 +36,7 @@
 
 <img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" />
 
-## Datadog (3)
+## Datadog (5)
 ### Introduction to Observability from Datadog
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/yv6tc8ptwl)
 
@@ -49,4 +51,14 @@
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/jq29dawso1)
 
 <img src="../cert_datadog_appsec_detect-prioritize-remediate-cloud-security-riskes-with-datadog-csm_datadog_cert-jq29dawso1_2024-07-10.jpg" alt="John's Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog" style="border:1px solid #000000" />
+
+### Getting Started with APM Metrics & Traces from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/rcppjvns7a)
+
+<img src="../cert_datadog_apm_getting-started-with-apm-metrics-and-traces_datadog_cert-610680042_2025-01-29.jpg" alt="John's Getting Started with APM Metrics & Traces from Datadog" style="border:1px solid #000000" />
+
+### Diagnosing Application Bugs with Datadog APM from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/ni63pus04h)
+
+<img src="../cert_datadog_apm_diagnosing-application-bugs-with-datadog-apm_datadog_cert-610851966_2025-01-29.jpg" alt="John's Diagnosing Application Bugs with Datadog APM from Datadog" style="border:1px solid #000000" />
 

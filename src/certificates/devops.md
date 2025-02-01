@@ -13,9 +13,6 @@
     1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devops-po-from-devops-academy)
 1. [Project Management](#project-management-1)
     1. [Certified DevOps Project Manager (DevOps-PM) from DevOps Academy](#certified-devops-project-manager-devops-pm-from-devops-academy)
-1. [Security](#security-2)
-    1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
-    1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
 1. [Kubernetes](#kubernetes-6)
     1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
     1. [Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker](#kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker)
@@ -26,16 +23,23 @@
 1. [Rancher](#rancher-2)
     1. [Rancher Basics from Rancher Academy](#rancher-basics-from-rancher-academy)
     1. [Getting Started with Rancher from Pluralsight by Steve Buchanan](#getting-started-with-rancher-from-pluralsight-by-steve-buchanan)
+1. [Security](#security-4)
+    1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
+    1. [Painless Vulnerability Management from Chainguard](#painless-vulnerability-management-from-chainguard)
+    1. [NeuVector Basics from Rancher Academy](#neuvector-basics-from-rancher-academy)
+    1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
 1. [AWS](#aws-2)
     1. [Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha](#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha)
     1. [AWS CI/CD Pipeline from Great Learning Academy](#aws-ci-cd-pipeline-from-great-learning-academy)
 1. [Azure](#azure-2)
     1. [Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako](#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako)
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
-1. [Datadog](#datadog-3)
+1. [Datadog](#datadog-5)
     1. [Introduction to Observability from Datadog](#introduction-to-observability-from-datadog)
     1. [Introduction to Service Level Objectives from Datadog](#introduction-to-service-level-objectives-from-datadog)
     1. [Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog](#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog)
+    1. [Getting Started with APM Metrics & Traces from Datadog](#getting-started-with-apm-metrics-traces-from-datadog)
+    1. [Diagnosing Application Bugs with Datadog APM from Datadog](#diagnosing-application-bugs-with-datadog-apm-from-datadog)
 1. [Google Cloud](#google-cloud-2)
     1. [Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud](#site-reliability-engineering-measuring-and-managing-reliability-from-google-cloud)
     1. [Scaling with Google Cloud Operations from Google Cloud](#scaling-with-google-cloud-operations-from-google-cloud)
@@ -86,16 +90,6 @@
 
 <img src="../cert_devops_pm_devops-cert-org_devops-project-manager_2023-11-01_cert-82770791998598.png" alt="John's Certified DevOps Project Manager (DevOps-PM) from DevOps Academy" style="border:1px solid #000000" />
 
-## Security (2)
-### Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy
-* [John's DevOps Academy online credential](https://www.devops-certification.org/badges/22465533642098)
-
-<img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" />
-
-### Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof
-
-<img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" />
-
 ## Kubernetes (6)
 ### Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra
 
@@ -131,6 +125,27 @@
 
 <img src="../cert_kubernetes_rancher_getting-started-with-rancher_pluralsight_steve-buchanan_2025-01-27.png" alt="John's Getting Started with Rancher from Pluralsight by Steve Buchanan" style="border:1px solid #000000" />
 
+## Security (4)
+### Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy
+* [John's DevOps Academy online credential](https://www.devops-certification.org/badges/22465533642098)
+
+<img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" />
+
+### Painless Vulnerability Management from Chainguard
+* [John's Credly online profile](https://www.credly.com/users/grokify/)
+* [John's Chainguard online credential](https://verify.skilljar.com/c/mp47sq9gms8t)
+
+![John's Painless Vulnerability Management from Chainguard](cert_appsec_container_painless-vulnerabilities-management_chainguard_cert-mp47sq9gms8t-1731434214_2024-11-12.png)
+
+### NeuVector Basics from Rancher Academy
+* [John's Rancher Academy online credential](https://www.rancher.academy/certificates/pnr5lqx5uw)
+
+<img src="../cert_devops_neuvector_neuvector-basics_rancher-academy_2025-01-28.jpg" alt="John's NeuVector Basics from Rancher Academy" style="border:1px solid #000000" />
+
+### Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof
+
+<img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" />
+
 ## AWS (2)
 ### Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha
 
@@ -150,7 +165,7 @@
 
 <img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" />
 
-## Datadog (3)
+## Datadog (5)
 ### Introduction to Observability from Datadog
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/yv6tc8ptwl)
 
@@ -165,6 +180,16 @@
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/jq29dawso1)
 
 <img src="../cert_datadog_appsec_detect-prioritize-remediate-cloud-security-riskes-with-datadog-csm_datadog_cert-jq29dawso1_2024-07-10.jpg" alt="John's Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog" style="border:1px solid #000000" />
+
+### Getting Started with APM Metrics & Traces from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/rcppjvns7a)
+
+<img src="../cert_datadog_apm_getting-started-with-apm-metrics-and-traces_datadog_cert-610680042_2025-01-29.jpg" alt="John's Getting Started with APM Metrics & Traces from Datadog" style="border:1px solid #000000" />
+
+### Diagnosing Application Bugs with Datadog APM from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/ni63pus04h)
+
+<img src="../cert_datadog_apm_diagnosing-application-bugs-with-datadog-apm_datadog_cert-610851966_2025-01-29.jpg" alt="John's Diagnosing Application Bugs with Datadog APM from Datadog" style="border:1px solid #000000" />
 
 ## Google Cloud (2)
 ### Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud

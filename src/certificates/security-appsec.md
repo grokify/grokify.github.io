@@ -30,8 +30,9 @@
     1. [Secure Coding: Using Components with Known Vulnerabilities from Pluralsight by Peter Mosmans](#secure-coding-using-components-with-known-vulnerabilities-from-pluralsight-by-peter-mosmans)
     1. [Security Hot Takes: SBOMs from Pluralsight by Aaron Rosenmund, Brandon DeVault](#security-hot-takes-sboms-from-pluralsight-by-aaron-rosenmund-brandon-devault)
     1. [Saviynt Supply Chain Risk Management Training from KnowBe4](#saviynt-supply-chain-risk-management-training-from-knowbe4)
-1. [Container Security](#container-security-2)
+1. [Container Security](#container-security-3)
     1. [Painless Vulnerability Management from Chainguard](#painless-vulnerability-management-from-chainguard)
+    1. [NeuVector Basics from Rancher Academy](#neuvector-basics-from-rancher-academy)
     1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
 1. [Kubernetes](#kubernetes-4)
     1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
@@ -40,8 +41,9 @@
     1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jess-piedra)
 1. [DevOps](#devops-1)
     1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
-1. [SecOps](#secops-4)
+1. [SecOps](#secops-5)
     1. [Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog](#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog)
+    1. [Getting Started with APM Metrics & Traces from Datadog](#getting-started-with-apm-metrics-traces-from-datadog)
     1. [Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund](#red-team-operations-target-and-capability-development-from-pluralsight-by-aaron-rosenmund)
     1. [Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund](#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund)
     1. [Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund](#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund)
@@ -164,12 +166,17 @@
 
 <img src="../cert_infosec_supply-chain_saviynt-supply-chain-risk-management-training_knowbe4_saviynt_2024-07-29.png" alt="John's Saviynt Supply Chain Risk Management Training from KnowBe4" style="border:1px solid #000000" />
 
-## Container Security (2)
+## Container Security (3)
 ### Painless Vulnerability Management from Chainguard
 * [John's Credly online profile](https://www.credly.com/users/grokify/)
 * [John's Chainguard online credential](https://verify.skilljar.com/c/mp47sq9gms8t)
 
 ![John's Painless Vulnerability Management from Chainguard](cert_appsec_container_painless-vulnerabilities-management_chainguard_cert-mp47sq9gms8t-1731434214_2024-11-12.png)
+
+### NeuVector Basics from Rancher Academy
+* [John's Rancher Academy online credential](https://www.rancher.academy/certificates/pnr5lqx5uw)
+
+<img src="../cert_devops_neuvector_neuvector-basics_rancher-academy_2025-01-28.jpg" alt="John's NeuVector Basics from Rancher Academy" style="border:1px solid #000000" />
 
 ### Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof
 
@@ -198,11 +205,16 @@
 
 <img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" />
 
-## SecOps (4)
+## SecOps (5)
 ### Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/jq29dawso1)
 
 <img src="../cert_datadog_appsec_detect-prioritize-remediate-cloud-security-riskes-with-datadog-csm_datadog_cert-jq29dawso1_2024-07-10.jpg" alt="John's Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog" style="border:1px solid #000000" />
+
+### Getting Started with APM Metrics & Traces from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/rcppjvns7a)
+
+<img src="../cert_datadog_apm_getting-started-with-apm-metrics-and-traces_datadog_cert-610680042_2025-01-29.jpg" alt="John's Getting Started with APM Metrics & Traces from Datadog" style="border:1px solid #000000" />
 
 ### Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund
 
