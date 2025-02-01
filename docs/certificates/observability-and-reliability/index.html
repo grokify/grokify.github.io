@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/observability-and-reliability/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Observability and Reliability (8) - John Wang's Site</title>
+    <title>Observability and Reliability (10) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Observability and Reliability (8)";
+        var mkdocs_page_name = "Observability and Reliability (10)";
         var mkdocs_page_input_path = "certificates/observability-and-reliability.md";
         var mkdocs_page_url = "/certificates/observability-and-reliability/";
       </script>
@@ -78,7 +78,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (27)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (31)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../human-resources/">Human Resources (10)</a>
                   </li>
@@ -94,7 +94,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (9)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Observability and Reliability (8)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Observability and Reliability (10)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#fundamentals-1">Fundamentals (1)</a>
         <ul>
@@ -114,13 +114,17 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#datadog-3">Datadog (3)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#datadog-5">Datadog (5)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#introduction-to-observability-from-datadog">Introduction to Observability from Datadog</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#introduction-to-service-level-objectives-from-datadog">Introduction to Service Level Objectives from Datadog</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog">Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#getting-started-with-apm-metrics-traces-from-datadog">Getting Started with APM Metrics &amp; Traces from Datadog</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#diagnosing-application-bugs-with-datadog-apm-from-datadog">Diagnosing Application Bugs with Datadog APM from Datadog</a>
     </li>
         </ul>
     </li>
@@ -138,9 +142,9 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (6)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (47)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (49)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-idsec/">Security: IDSec (17)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-idsec/">Security: IDSec (18)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (46)</a>
                   </li>
@@ -165,7 +169,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>Observability and Reliability (8)</li>
+          <li>Certificates &raquo;</li><li>Observability and Reliability (10)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -188,10 +192,12 @@
 <li><a href="#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</a></li>
 </ol>
 </li>
-<li><a href="#datadog-3">Datadog</a><ol>
+<li><a href="#datadog-5">Datadog</a><ol>
 <li><a href="#introduction-to-observability-from-datadog">Introduction to Observability from Datadog</a></li>
 <li><a href="#introduction-to-service-level-objectives-from-datadog">Introduction to Service Level Objectives from Datadog</a></li>
 <li><a href="#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog">Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog</a></li>
+<li><a href="#getting-started-with-apm-metrics-traces-from-datadog">Getting Started with APM Metrics &amp; Traces from Datadog</a></li>
+<li><a href="#diagnosing-application-bugs-with-datadog-apm-from-datadog">Diagnosing Application Bugs with Datadog APM from Datadog</a></li>
 </ol>
 </li>
 </ol>
@@ -213,7 +219,7 @@
 <p><img src="../cert_observability_site-reliability-engineering-sre-system-design-incorporating_pluralsight_elton-stoneman_2024-06-28.png" alt="John's Incorporating Site Reliability Engineering (SRE) in Your System Design from Pluralsight by Elton Stoneman" style="border:1px solid #000000" /></p>
 <h3 id="microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</h3>
 <p><img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" /></p>
-<h2 id="datadog-3">Datadog (3)</h2>
+<h2 id="datadog-5">Datadog (5)</h2>
 <h3 id="introduction-to-observability-from-datadog">Introduction to Observability from Datadog</h3>
 <ul>
 <li><a href="https://learn.datadoghq.com/certificates/yv6tc8ptwl">John's Datadog online credential</a></li>
@@ -229,6 +235,16 @@
 <li><a href="https://learn.datadoghq.com/certificates/jq29dawso1">John's Datadog online credential</a></li>
 </ul>
 <p><img src="../cert_datadog_appsec_detect-prioritize-remediate-cloud-security-riskes-with-datadog-csm_datadog_cert-jq29dawso1_2024-07-10.jpg" alt="John's Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog" style="border:1px solid #000000" /></p>
+<h3 id="getting-started-with-apm-metrics-traces-from-datadog">Getting Started with APM Metrics &amp; Traces from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/rcppjvns7a">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_apm_getting-started-with-apm-metrics-and-traces_datadog_cert-610680042_2025-01-29.jpg" alt="John's Getting Started with APM Metrics & Traces from Datadog" style="border:1px solid #000000" /></p>
+<h3 id="diagnosing-application-bugs-with-datadog-apm-from-datadog">Diagnosing Application Bugs with Datadog APM from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/ni63pus04h">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_apm_diagnosing-application-bugs-with-datadog-apm_datadog_cert-610851966_2025-01-29.jpg" alt="John's Diagnosing Application Bugs with Datadog APM from Datadog" style="border:1px solid #000000" /></p>
               
             </div>
           </div><footer>
