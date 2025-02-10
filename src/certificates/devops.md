@@ -20,6 +20,8 @@
     1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jess-piedra)
     1. [Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino](#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino)
     1. [Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon](#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon)
+1. [Argo CD](#argo-cd-1)
+    1. [Getting Started with Argo CD from Pluralsight by Steve Buchanan](#getting-started-with-argo-cd-from-pluralsight-by-steve-buchanan)
 1. [Rancher](#rancher-2)
     1. [Rancher Basics from Rancher Academy](#rancher-basics-from-rancher-academy)
     1. [Getting Started with Rancher from Pluralsight by Steve Buchanan](#getting-started-with-rancher-from-pluralsight-by-steve-buchanan)
@@ -114,6 +116,11 @@
 ### Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon
 
 <img src="../cert_kubernetes_packaging-applications-with-helm-for-kubernetes_pluralsight_2024-03-30.png" alt="John's Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon" style="border:1px solid #000000" />
+
+## Argo CD (1)
+### Getting Started with Argo CD from Pluralsight by Steve Buchanan
+
+<img src="../cert_kubernetes_argocd_getting-started-with-argocd_pluralsight_steve-buchanan_2025-02-10.png" alt="John's Getting Started with Argo CD from Pluralsight by Steve Buchanan" style="border:1px solid #000000" />
 
 ## Rancher (2)
 ### Rancher Basics from Rancher Academy
