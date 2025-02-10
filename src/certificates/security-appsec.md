@@ -164,6 +164,8 @@
 
 ### Saviynt Supply Chain Risk Management Training from KnowBe4
 
+<img src="../cert_infosec_supply-chain_saviynt-supply-chain-risk-management-training_knowbe4_saviynt_2024-07-29_dl-2024-02-09.png" alt="John's Saviynt Supply Chain Risk Management Training from KnowBe4" style="border:1px solid #000000" />
+
 <img src="../cert_infosec_supply-chain_saviynt-supply-chain-risk-management-training_knowbe4_saviynt_2024-07-29.png" alt="John's Saviynt Supply Chain Risk Management Training from KnowBe4" style="border:1px solid #000000" />
 
 ## Container Security (3)

@@ -9,13 +9,9 @@
     1. [Top 5 Security Awareness Fundamentals from KnowBe4](#top-5-security-awareness-fundamentals-from-knowbe4)
     1. [Cybersecurity: Every second counts from KnowBe4](#cybersecurity-every-second-counts-from-knowbe4)
     1. [Non-Technical Security from KnowBe4](#non-technical-security-from-knowbe4)
-1. [Concepts](#concepts-1)
+1. [Concepts](#concepts-2)
+    1. [How to Become a Human Firewall from KnowBe4](#how-to-become-a-human-firewall-from-knowbe4)
     1. [Voice on Security: Piggybacking from KnowBe4](#voice-on-security-piggybacking-from-knowbe4)
-1. [General Data Protection Regulation (GDPR)](#general-data-protection-regulation-gdpr-2)
-    1. [General Data Protection Regulation (GDPR) 2024 from Traliant](#general-data-protection-regulation-gdpr-2024-from-traliant)
-    1. [General Data Protection Regulation (GDPR) "2023" from Traliant](#general-data-protection-regulation-gdpr-2023-from-traliant)
-1. [California Consumer Privacy Act (CCPA)](#california-consumer-privacy-act-ccpa-1)
-    1. [California Consumer Privacy Act (CCPA & CPRA) V2 from Traliant](#california-consumer-privacy-act-ccpa-cpra-v2-from-traliant)
 1. [Phishing](#phishing-3)
     1. [Microsoft Teams Phishing Demo from KnowBe4](#microsoft-teams-phishing-demo-from-knowbe4)
     1. [Video: Reality Bytes: Vishing from KnowBe4](#video-reality-bytes-vishing-from-knowbe4)
@@ -57,7 +53,8 @@
     1. [World Wild Web: Ransomware from KnowBe4](#world-wild-web-ransomware-from-knowbe4)
 1. [Social Engineering](#social-engineering-1)
     1. [Pretexting - "Tech Support" Social Engineering? from KnowBe4](#pretexting-tech-support-social-engineering-from-knowbe4)
-1. [Disaster Recovery](#disaster-recovery-1)
+1. [Business Continuity Planning (BCP)](#business-continuity-planning-bcp-2)
+    1. [Saviynt Contingency Planning and Incident Response Training from Saviynt](#saviynt-contingency-planning-and-incident-response-training-from-saviynt)
     1. [Security and Disaster Preparedness from KnowBe4](#security-and-disaster-preparedness-from-knowbe4)
 1. [Personas](#personas-1)
     1. [How Security Awareness Applies to Me: Educators from KnowBe4](#how-security-awareness-applies-to-me-educators-from-knowbe4)
@@ -65,8 +62,9 @@
     1. [Microsoft Defender: Introduction from Pluralsight by Rishalin Pillay](#microsoft-defender-introduction-from-pluralsight-by-rishalin-pillay)
 1. [Proofpoint](#proofpoint-1)
     1. [Enterprise Protection/Privacy Accredited Engineer from Proofpoint](#enterprise-protection-privacy-accredited-engineer-from-proofpoint)
-1. [Case Studies](#case-studies-1)
+1. [Case Studies](#case-studies-2)
     1. [Security Hot Takes: CrowdStrike Outage Post-mortem from Pluralsight by Michael Teske, Aaron Rosenmund, Bri Frost](#security-hot-takes-crowdstrike-outage-post-mortem-from-pluralsight-by-michael-teske-aaron-rosenmund-bri-frost)
+    1. [Security Hot Takes: Rackspace Breach from Pluralsight by Aaron Rosenmund, Bri Frost](#security-hot-takes-rackspace-breach-from-pluralsight-by-aaron-rosenmund-bri-frost)
 ## CISSP (1)
 ### Asset Security for CISSP® from Pluralsight by Kevin Henry
 
@@ -84,6 +82,8 @@
 <img src="../cert_infosec_saviynt-information-security-annual-training_saviynt_638561624537311652_2024-07-09.png" alt="John's Saviynt Information Security Annual Training from Saviynt" style="border:1px solid #000000" />
 
 ### 2024 Kevin Mitnick Security Awareness Training from KnowBe4 by Kevin Mitnick
+
+<img src="../cert_infosec_fundamentals_2024-kevin-mitnick-security-awareness-training_knowbe4_2024-06-03_dl-2025-02-09.png" alt="John's 2024 Kevin Mitnick Security Awareness Training from KnowBe4 by Kevin Mitnick" style="border:1px solid #000000" />
 
 <img src="../cert_infosec_fundamentals_2024-kevin-mitnick-security-awareness-training_knowbe4_2024-06-03.png" alt="John's 2024 Kevin Mitnick Security Awareness Training from KnowBe4 by Kevin Mitnick" style="border:1px solid #000000" />
 
@@ -103,32 +103,14 @@
 
 <img src="../cert_infosec_concepts_non-technical-security_knowbe4_2024-06-16.png" alt="John's Non-Technical Security from KnowBe4" style="border:1px solid #000000" />
 
-## Concepts (1)
+## Concepts (2)
+### How to Become a Human Firewall from KnowBe4
+
+<img src="../cert_infosec_concepts_how-to-become-a-human-firewall_knowbe4_2025-02-09.png" alt="John's How to Become a Human Firewall from KnowBe4" style="border:1px solid #000000" />
+
 ### Voice on Security: Piggybacking from KnowBe4
 
 <img src="../cert_infosec_concepts_voice-on-security-piggybacking_knowbe4_2024-06-04.png" alt="John's Voice on Security: Piggybacking from KnowBe4" style="border:1px solid #000000" />
-
-## General Data Protection Regulation (GDPR) (2)
-### General Data Protection Regulation (GDPR) 2024 from Traliant
-
-![John's General Data Protection Regulation (GDPR) 2024 from Traliant](cert_infosec_gdpr_general-data-protection-regulation-gdpr-2024_traliant-saviynt_2024-04-21_dl-2024-10-26.png)
-
-<img src="../cert_security_general-data-protection-regulation-gdpr_traliant-saviynt_2023-08-10_v2024b.png" alt="John's General Data Protection Regulation (GDPR) 2024 from Traliant" style="border:1px solid #000000" />
-
-<img src="../cert_security_general-data-protection-regulation-gdpr_traliant-saviynt_2024-04-21_v2024.png" alt="John's General Data Protection Regulation (GDPR) 2024 from Traliant" style="border:1px solid #000000" />
-
-### General Data Protection Regulation (GDPR) "2023" from Traliant
-
-<img src="../cert_security_general-data-protection-regulation-gdpr_traliant-saviynt_2023-08-10_v2024.png" alt="John's General Data Protection Regulation (GDPR) "2023" from Traliant" style="border:1px solid #000000" />
-
-<img src="../cert_security_general-data-protection-regulation-gdpr_traliant-saviynt_2023-08-10_v2023.png" alt="John's General Data Protection Regulation (GDPR) "2023" from Traliant" style="border:1px solid #000000" />
-
-## California Consumer Privacy Act (CCPA) (1)
-### California Consumer Privacy Act (CCPA & CPRA) V2 from Traliant
-
-![John's California Consumer Privacy Act (CCPA & CPRA) V2 from Traliant](cert_infosec_ccpa_california-consumer-privacy-act-ccpa-cpra-v2_traliant-saviynt_2024-07-02_dl-2024-10-24.png)
-
-<img src="../cert_infosec_california-consumer-privacy-act-ccpa-cpra-v2_traliant-saviynt_2024-07-02.png" alt="John's California Consumer Privacy Act (CCPA & CPRA) V2 from Traliant" style="border:1px solid #000000" />
 
 ## Phishing (3)
 ### Microsoft Teams Phishing Demo from KnowBe4
@@ -258,7 +240,11 @@
 
 <img src="../cert_infosec_social-engineering_knowbe4-pretexting-tech-support_social-engineering_knowbe4_2024-07-21.png" alt="John's Pretexting - "Tech Support" Social Engineering? from KnowBe4" style="border:1px solid #000000" />
 
-## Disaster Recovery (1)
+## Business Continuity Planning (BCP) (2)
+### Saviynt Contingency Planning and Incident Response Training from Saviynt
+
+<img src="../cert_infosec_bcp_saviynt-contingency-planning-and-incident-response-training_saviynt_2025-02-09.png" alt="John's Saviynt Contingency Planning and Incident Response Training from Saviynt" style="border:1px solid #000000" />
+
 ### Security and Disaster Preparedness from KnowBe4
 
 <img src="../cert_infosec_dr_security-and-disaster-preparedness_knowbe4_2024-07-23.png" alt="John's Security and Disaster Preparedness from KnowBe4" style="border:1px solid #000000" />
@@ -278,8 +264,12 @@
 
 ![John's Enterprise Protection/Privacy Accredited Engineer from Proofpoint](cert_infosec_proofpoint_enterprise-protection-privacy-accredited-engineer_2014-05-04.png)
 
-## Case Studies (1)
+## Case Studies (2)
 ### Security Hot Takes: CrowdStrike Outage Post-mortem from Pluralsight by Michael Teske, Aaron Rosenmund, Bri Frost
 
-<img src="../cert_infosec_case-studies_security-hot-takes-crowdstrike-outage-post-mortem_pluralsight_micahel-teske-aaron-rosenmund-bri-frist_2024-08-26.png" alt="John's Security Hot Takes: CrowdStrike Outage Post-mortem from Pluralsight by Michael Teske, Aaron Rosenmund, Bri Frost" style="border:1px solid #000000" />
+<img src="../cert_infosec_case-studies_security-hot-takes-crowdstrike-outage-post-mortem_pluralsight_micahel-teske-aaron-rosenmund-bri-frost_2024-08-26.png" alt="John's Security Hot Takes: CrowdStrike Outage Post-mortem from Pluralsight by Michael Teske, Aaron Rosenmund, Bri Frost" style="border:1px solid #000000" />
+
+### Security Hot Takes: Rackspace Breach from Pluralsight by Aaron Rosenmund, Bri Frost
+
+<img src="../cert_infosec_case-studies_security-hot-takes-rackspace-breach_pluralsight_aaron-rosenmund-bri-frost_2025-02-10.png" alt="John's Security Hot Takes: Rackspace Breach from Pluralsight by Aaron Rosenmund, Bri Frost" style="border:1px solid #000000" />
 
