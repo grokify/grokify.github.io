@@ -6,6 +6,8 @@
     1. [Developing a Google SRE Culture from Google Cloud by Kiran Varma](#developing-a-google-sre-culture-from-google-cloud-by-kiran-varma)
     1. [Incorporating Site Reliability Engineering (SRE) in Your System Design from Pluralsight by Elton Stoneman](#incorporating-site-reliability-engineering-sre-in-your-system-design-from-pluralsight-by-elton-stoneman)
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
+1. [OpenTelemetry (OTel)](#opentelemetry-otel-1)
+    1. [Introduction to OpenTelemetry from Datadog](#introduction-to-opentelemetry-from-datadog)
 1. [Datadog](#datadog-5)
     1. [Introduction to Observability from Datadog](#introduction-to-observability-from-datadog)
     1. [Introduction to Service Level Objectives from Datadog](#introduction-to-service-level-objectives-from-datadog)
@@ -35,6 +37,12 @@
 ### Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts
 
 <img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" />
+
+## OpenTelemetry (OTel) (1)
+### Introduction to OpenTelemetry from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/wahhhgg8ai)
+
+<img src="../cert_observability_opentelemetry_understanding-otel_datadog_2025-02-22.jpg" alt="John's Introduction to OpenTelemetry from Datadog" style="border:1px solid #000000" />
 
 ## Datadog (5)
 ### Introduction to Observability from Datadog
