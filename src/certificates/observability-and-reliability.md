@@ -8,12 +8,15 @@
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
 1. [OpenTelemetry (OTel)](#opentelemetry-otel-1)
     1. [Introduction to OpenTelemetry from Datadog](#introduction-to-opentelemetry-from-datadog)
-1. [Datadog](#datadog-5)
+1. [Datadog](#datadog-8)
     1. [Introduction to Observability from Datadog](#introduction-to-observability-from-datadog)
     1. [Introduction to Service Level Objectives from Datadog](#introduction-to-service-level-objectives-from-datadog)
     1. [Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog](#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog)
     1. [Getting Started with APM Metrics & Traces from Datadog](#getting-started-with-apm-metrics-traces-from-datadog)
     1. [Diagnosing Application Bugs with Datadog APM from Datadog](#diagnosing-application-bugs-with-datadog-apm-from-datadog)
+    1. [Monitoring a Kubernetes Cluster: Install the Agent from Datadog](#monitoring-a-kubernetes-cluster-install-the-agent-from-datadog)
+    1. [Monitoring a Kubernetes Cluster: The Control Plane from Datadog](#monitoring-a-kubernetes-cluster-the-control-plane-from-datadog)
+    1. [Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog](#monitoring-a-kubernetes-cluster-troubleshooting-workloads-from-datadog)
 ## Fundamentals (1)
 ### Building an Observable Infrastructure and Code from Pluralsight by Aravind Putrevu
 
@@ -44,7 +47,7 @@
 
 <img src="../cert_observability_opentelemetry_understanding-otel_datadog_2025-02-22.jpg" alt="John's Introduction to OpenTelemetry from Datadog" style="border:1px solid #000000" />
 
-## Datadog (5)
+## Datadog (8)
 ### Introduction to Observability from Datadog
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/yv6tc8ptwl)
 
@@ -69,4 +72,19 @@
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/ni63pus04h)
 
 <img src="../cert_datadog_apm_diagnosing-application-bugs-with-datadog-apm_datadog_cert-610851966_2025-01-29.jpg" alt="John's Diagnosing Application Bugs with Datadog APM from Datadog" style="border:1px solid #000000" />
+
+### Monitoring a Kubernetes Cluster: Install the Agent from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/jsko012qas)
+
+<img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-install-the-agent_datadog_cert-jsko012qas_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: Install the Agent from Datadog" style="border:1px solid #000000" />
+
+### Monitoring a Kubernetes Cluster: The Control Plane from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/ehnz89oual)
+
+<img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-the-control-plane_datadog_cert-ehnz89oual_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: The Control Plane from Datadog" style="border:1px solid #000000" />
+
+### Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/8v4xiyb3tt)
+
+<img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-troubleshooting-workloads_datadog_cert-8v4xiyb3tt_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog" style="border:1px solid #000000" />
 

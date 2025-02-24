@@ -13,10 +13,11 @@
     1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devops-po-from-devops-academy)
 1. [Project Management](#project-management-1)
     1. [Certified DevOps Project Manager (DevOps-PM) from DevOps Academy](#certified-devops-project-manager-devops-pm-from-devops-academy)
-1. [Kubernetes](#kubernetes-6)
+1. [Kubernetes](#kubernetes-7)
     1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
     1. [Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker](#kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker)
     1. [Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer](#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer)
+    1. [Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-monitoring-logging-and-runtime-security-from-pluralsight-by-antonio-jess-piedra)
     1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jess-piedra)
     1. [Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino](#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino)
     1. [Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon](#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon)
@@ -36,12 +37,15 @@
 1. [Azure](#azure-2)
     1. [Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako](#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako)
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
-1. [Datadog](#datadog-5)
+1. [Datadog](#datadog-8)
     1. [Introduction to Observability from Datadog](#introduction-to-observability-from-datadog)
     1. [Introduction to Service Level Objectives from Datadog](#introduction-to-service-level-objectives-from-datadog)
     1. [Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog](#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog)
     1. [Getting Started with APM Metrics & Traces from Datadog](#getting-started-with-apm-metrics-traces-from-datadog)
     1. [Diagnosing Application Bugs with Datadog APM from Datadog](#diagnosing-application-bugs-with-datadog-apm-from-datadog)
+    1. [Monitoring a Kubernetes Cluster: Install the Agent from Datadog](#monitoring-a-kubernetes-cluster-install-the-agent-from-datadog)
+    1. [Monitoring a Kubernetes Cluster: The Control Plane from Datadog](#monitoring-a-kubernetes-cluster-the-control-plane-from-datadog)
+    1. [Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog](#monitoring-a-kubernetes-cluster-troubleshooting-workloads-from-datadog)
 1. [Google Cloud](#google-cloud-2)
     1. [Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud](#site-reliability-engineering-measuring-and-managing-reliability-from-google-cloud)
     1. [Scaling with Google Cloud Operations from Google Cloud](#scaling-with-google-cloud-operations-from-google-cloud)
@@ -92,7 +96,7 @@
 
 <img src="../cert_devops_pm_devops-cert-org_devops-project-manager_2023-11-01_cert-82770791998598.png" alt="John's Certified DevOps Project Manager (DevOps-PM) from DevOps Academy" style="border:1px solid #000000" />
 
-## Kubernetes (6)
+## Kubernetes (7)
 ### Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra
 
 <img src="../cert_security_kubernetes-security-cluster-setup_pluralsight_2024-05-12.png" alt="John's Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" />
@@ -104,6 +108,10 @@
 ### Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer
 
 <img src="../cert_security_appsec_kubernetes-security-minimizing-microservice-vulnerabilities_pluralsight_2024-06-12.png" alt="John's Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer" style="border:1px solid #000000" />
+
+### Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra
+
+<img src="../cert_appsec_kubernetes_kubernetes-security-implementing-monitoring-logging-and-runtime-security_pluralsight_antoniojesus-piedra_cert-cdd5e071-9321-4ee5-93ff-9d737dd95ef2_2025-02-24.png" alt="John's Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" />
 
 ### Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra
 
@@ -172,7 +180,7 @@
 
 <img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" />
 
-## Datadog (5)
+## Datadog (8)
 ### Introduction to Observability from Datadog
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/yv6tc8ptwl)
 
@@ -197,6 +205,21 @@
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/ni63pus04h)
 
 <img src="../cert_datadog_apm_diagnosing-application-bugs-with-datadog-apm_datadog_cert-610851966_2025-01-29.jpg" alt="John's Diagnosing Application Bugs with Datadog APM from Datadog" style="border:1px solid #000000" />
+
+### Monitoring a Kubernetes Cluster: Install the Agent from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/jsko012qas)
+
+<img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-install-the-agent_datadog_cert-jsko012qas_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: Install the Agent from Datadog" style="border:1px solid #000000" />
+
+### Monitoring a Kubernetes Cluster: The Control Plane from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/ehnz89oual)
+
+<img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-the-control-plane_datadog_cert-ehnz89oual_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: The Control Plane from Datadog" style="border:1px solid #000000" />
+
+### Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog
+* [John's Datadog online credential](https://learn.datadoghq.com/certificates/8v4xiyb3tt)
+
+<img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-troubleshooting-workloads_datadog_cert-8v4xiyb3tt_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog" style="border:1px solid #000000" />
 
 ## Google Cloud (2)
 ### Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud
