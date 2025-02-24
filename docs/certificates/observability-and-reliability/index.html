@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/observability-and-reliability/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Observability and Reliability (11) - John Wang's Site</title>
+    <title>Observability and Reliability (14) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Observability and Reliability (11)";
+        var mkdocs_page_name = "Observability and Reliability (14)";
         var mkdocs_page_input_path = "certificates/observability-and-reliability.md";
         var mkdocs_page_url = "/certificates/observability-and-reliability/";
       </script>
@@ -78,7 +78,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (32)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (36)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../human-resources/">Human Resources (10)</a>
                   </li>
@@ -94,7 +94,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (9)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Observability and Reliability (11)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Observability and Reliability (14)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#fundamentals-1">Fundamentals (1)</a>
         <ul>
@@ -120,7 +120,7 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#datadog-5">Datadog (5)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#datadog-8">Datadog (8)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#introduction-to-observability-from-datadog">Introduction to Observability from Datadog</a>
     </li>
@@ -131,6 +131,12 @@
     <li class="toctree-l3"><a class="reference internal" href="#getting-started-with-apm-metrics-traces-from-datadog">Getting Started with APM Metrics &amp; Traces from Datadog</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#diagnosing-application-bugs-with-datadog-apm-from-datadog">Diagnosing Application Bugs with Datadog APM from Datadog</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#monitoring-a-kubernetes-cluster-install-the-agent-from-datadog">Monitoring a Kubernetes Cluster: Install the Agent from Datadog</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#monitoring-a-kubernetes-cluster-the-control-plane-from-datadog">Monitoring a Kubernetes Cluster: The Control Plane from Datadog</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#monitoring-a-kubernetes-cluster-troubleshooting-workloads-from-datadog">Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog</a>
     </li>
         </ul>
     </li>
@@ -148,7 +154,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (6)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (49)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (50)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-compliance/">Security: Compliance (6)</a>
                   </li>
@@ -177,7 +183,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>Observability and Reliability (11)</li>
+          <li>Certificates &raquo;</li><li>Observability and Reliability (14)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -204,12 +210,15 @@
 <li><a href="#introduction-to-opentelemetry-from-datadog">Introduction to OpenTelemetry from Datadog</a></li>
 </ol>
 </li>
-<li><a href="#datadog-5">Datadog</a><ol>
+<li><a href="#datadog-8">Datadog</a><ol>
 <li><a href="#introduction-to-observability-from-datadog">Introduction to Observability from Datadog</a></li>
 <li><a href="#introduction-to-service-level-objectives-from-datadog">Introduction to Service Level Objectives from Datadog</a></li>
 <li><a href="#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog">Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog</a></li>
 <li><a href="#getting-started-with-apm-metrics-traces-from-datadog">Getting Started with APM Metrics &amp; Traces from Datadog</a></li>
 <li><a href="#diagnosing-application-bugs-with-datadog-apm-from-datadog">Diagnosing Application Bugs with Datadog APM from Datadog</a></li>
+<li><a href="#monitoring-a-kubernetes-cluster-install-the-agent-from-datadog">Monitoring a Kubernetes Cluster: Install the Agent from Datadog</a></li>
+<li><a href="#monitoring-a-kubernetes-cluster-the-control-plane-from-datadog">Monitoring a Kubernetes Cluster: The Control Plane from Datadog</a></li>
+<li><a href="#monitoring-a-kubernetes-cluster-troubleshooting-workloads-from-datadog">Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog</a></li>
 </ol>
 </li>
 </ol>
@@ -237,7 +246,7 @@
 <li><a href="https://learn.datadoghq.com/certificates/wahhhgg8ai">John's Datadog online credential</a></li>
 </ul>
 <p><img src="../cert_observability_opentelemetry_understanding-otel_datadog_2025-02-22.jpg" alt="John's Introduction to OpenTelemetry from Datadog" style="border:1px solid #000000" /></p>
-<h2 id="datadog-5">Datadog (5)</h2>
+<h2 id="datadog-8">Datadog (8)</h2>
 <h3 id="introduction-to-observability-from-datadog">Introduction to Observability from Datadog</h3>
 <ul>
 <li><a href="https://learn.datadoghq.com/certificates/yv6tc8ptwl">John's Datadog online credential</a></li>
@@ -263,6 +272,21 @@
 <li><a href="https://learn.datadoghq.com/certificates/ni63pus04h">John's Datadog online credential</a></li>
 </ul>
 <p><img src="../cert_datadog_apm_diagnosing-application-bugs-with-datadog-apm_datadog_cert-610851966_2025-01-29.jpg" alt="John's Diagnosing Application Bugs with Datadog APM from Datadog" style="border:1px solid #000000" /></p>
+<h3 id="monitoring-a-kubernetes-cluster-install-the-agent-from-datadog">Monitoring a Kubernetes Cluster: Install the Agent from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/jsko012qas">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-install-the-agent_datadog_cert-jsko012qas_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: Install the Agent from Datadog" style="border:1px solid #000000" /></p>
+<h3 id="monitoring-a-kubernetes-cluster-the-control-plane-from-datadog">Monitoring a Kubernetes Cluster: The Control Plane from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/ehnz89oual">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-the-control-plane_datadog_cert-ehnz89oual_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: The Control Plane from Datadog" style="border:1px solid #000000" /></p>
+<h3 id="monitoring-a-kubernetes-cluster-troubleshooting-workloads-from-datadog">Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/8v4xiyb3tt">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-troubleshooting-workloads_datadog_cert-8v4xiyb3tt_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog" style="border:1px solid #000000" /></p>
               
             </div>
           </div><footer>

@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/devops/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>DevOps (32) - John Wang's Site</title>
+    <title>DevOps (36) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "DevOps (32)";
+        var mkdocs_page_name = "DevOps (36)";
         var mkdocs_page_input_path = "certificates/devops.md";
         var mkdocs_page_url = "/certificates/devops/";
       </script>
@@ -78,7 +78,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">DevOps (32)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">DevOps (36)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#resources">Resources</a>
     </li>
@@ -122,13 +122,15 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#kubernetes-6">Kubernetes (6)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#kubernetes-7">Kubernetes (7)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker">Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer">Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-implementing-monitoring-logging-and-runtime-security-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra</a>
     </li>
@@ -180,7 +182,7 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#datadog-5">Datadog (5)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#datadog-8">Datadog (8)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#introduction-to-observability-from-datadog">Introduction to Observability from Datadog</a>
     </li>
@@ -191,6 +193,12 @@
     <li class="toctree-l3"><a class="reference internal" href="#getting-started-with-apm-metrics-traces-from-datadog">Getting Started with APM Metrics &amp; Traces from Datadog</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#diagnosing-application-bugs-with-datadog-apm-from-datadog">Diagnosing Application Bugs with Datadog APM from Datadog</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#monitoring-a-kubernetes-cluster-install-the-agent-from-datadog">Monitoring a Kubernetes Cluster: Install the Agent from Datadog</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#monitoring-a-kubernetes-cluster-the-control-plane-from-datadog">Monitoring a Kubernetes Cluster: The Control Plane from Datadog</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#monitoring-a-kubernetes-cluster-troubleshooting-workloads-from-datadog">Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog</a>
     </li>
         </ul>
     </li>
@@ -218,7 +226,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (9)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../observability-and-reliability/">Observability and Reliability (11)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../observability-and-reliability/">Observability and Reliability (14)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../personal-development/">Personal Development (7)</a>
                   </li>
@@ -232,7 +240,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (6)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (49)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (50)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-compliance/">Security: Compliance (6)</a>
                   </li>
@@ -261,7 +269,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>DevOps (32)</li>
+          <li>Certificates &raquo;</li><li>DevOps (36)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -299,10 +307,11 @@
 <li><a href="#certified-devops-project-manager-devops-pm-from-devops-academy">Certified DevOps Project Manager (DevOps-PM) from DevOps Academy</a></li>
 </ol>
 </li>
-<li><a href="#kubernetes-6">Kubernetes</a><ol>
+<li><a href="#kubernetes-7">Kubernetes</a><ol>
 <li><a href="#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</a></li>
 <li><a href="#kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker">Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker</a></li>
 <li><a href="#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer">Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer</a></li>
+<li><a href="#kubernetes-security-implementing-monitoring-logging-and-runtime-security-from-pluralsight-by-antonio-jess-piedra">Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra</a></li>
 <li><a href="#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jess-piedra">Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra</a></li>
 <li><a href="#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino">Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino</a></li>
 <li><a href="#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon">Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon</a></li>
@@ -334,12 +343,15 @@
 <li><a href="#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</a></li>
 </ol>
 </li>
-<li><a href="#datadog-5">Datadog</a><ol>
+<li><a href="#datadog-8">Datadog</a><ol>
 <li><a href="#introduction-to-observability-from-datadog">Introduction to Observability from Datadog</a></li>
 <li><a href="#introduction-to-service-level-objectives-from-datadog">Introduction to Service Level Objectives from Datadog</a></li>
 <li><a href="#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog">Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog</a></li>
 <li><a href="#getting-started-with-apm-metrics-traces-from-datadog">Getting Started with APM Metrics &amp; Traces from Datadog</a></li>
 <li><a href="#diagnosing-application-bugs-with-datadog-apm-from-datadog">Diagnosing Application Bugs with Datadog APM from Datadog</a></li>
+<li><a href="#monitoring-a-kubernetes-cluster-install-the-agent-from-datadog">Monitoring a Kubernetes Cluster: Install the Agent from Datadog</a></li>
+<li><a href="#monitoring-a-kubernetes-cluster-the-control-plane-from-datadog">Monitoring a Kubernetes Cluster: The Control Plane from Datadog</a></li>
+<li><a href="#monitoring-a-kubernetes-cluster-troubleshooting-workloads-from-datadog">Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog</a></li>
 </ol>
 </li>
 <li><a href="#google-cloud-2">Google Cloud</a><ol>
@@ -392,13 +404,15 @@
 <li><a href="https://www.devops-certification.org/badges/82770791998598">John's DevOps Academy online credential</a></li>
 </ul>
 <p><img src="../cert_devops_pm_devops-cert-org_devops-project-manager_2023-11-01_cert-82770791998598.png" alt="John's Certified DevOps Project Manager (DevOps-PM) from DevOps Academy" style="border:1px solid #000000" /></p>
-<h2 id="kubernetes-6">Kubernetes (6)</h2>
+<h2 id="kubernetes-7">Kubernetes (7)</h2>
 <h3 id="kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</h3>
 <p><img src="../cert_security_kubernetes-security-cluster-setup_pluralsight_2024-05-12.png" alt="John's Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" /></p>
 <h3 id="kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker">Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker</h3>
 <p><img src="../cert_appsec_kubernetes-security-cluster-hardening_pluralsight_erik-whitaker_2024-07-11.png" alt="John's Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker" style="border:1px solid #000000" /></p>
 <h3 id="kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer">Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer</h3>
 <p><img src="../cert_security_appsec_kubernetes-security-minimizing-microservice-vulnerabilities_pluralsight_2024-06-12.png" alt="John's Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer" style="border:1px solid #000000" /></p>
+<h3 id="kubernetes-security-implementing-monitoring-logging-and-runtime-security-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra</h3>
+<p><img src="../cert_appsec_kubernetes_kubernetes-security-implementing-monitoring-logging-and-runtime-security_pluralsight_antoniojesus-piedra_cert-cdd5e071-9321-4ee5-93ff-9d737dd95ef2_2025-02-24.png" alt="John's Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" /></p>
 <h3 id="kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra</h3>
 <p><img src="../cert_appsec_container_kubernetes-security-implementing-supply-chain-security_pluralsight_antonio-jesus-piedra_cert-639e7a4d-50bf-445e-a1be-b38da0dcffd0_2024-07-09.png" alt="John's Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" /></p>
 <h3 id="certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino">Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino</h3>
@@ -448,7 +462,7 @@
 <p><img src="../cert_devops_azure_create-azure-resource-templates-generative-ai_pluralsight_bismark-adomako_2024-09-28.png" alt="John's Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako" style="border:1px solid #000000" /></p>
 <h3 id="microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</h3>
 <p><img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" /></p>
-<h2 id="datadog-5">Datadog (5)</h2>
+<h2 id="datadog-8">Datadog (8)</h2>
 <h3 id="introduction-to-observability-from-datadog">Introduction to Observability from Datadog</h3>
 <ul>
 <li><a href="https://learn.datadoghq.com/certificates/yv6tc8ptwl">John's Datadog online credential</a></li>
@@ -474,6 +488,21 @@
 <li><a href="https://learn.datadoghq.com/certificates/ni63pus04h">John's Datadog online credential</a></li>
 </ul>
 <p><img src="../cert_datadog_apm_diagnosing-application-bugs-with-datadog-apm_datadog_cert-610851966_2025-01-29.jpg" alt="John's Diagnosing Application Bugs with Datadog APM from Datadog" style="border:1px solid #000000" /></p>
+<h3 id="monitoring-a-kubernetes-cluster-install-the-agent-from-datadog">Monitoring a Kubernetes Cluster: Install the Agent from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/jsko012qas">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-install-the-agent_datadog_cert-jsko012qas_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: Install the Agent from Datadog" style="border:1px solid #000000" /></p>
+<h3 id="monitoring-a-kubernetes-cluster-the-control-plane-from-datadog">Monitoring a Kubernetes Cluster: The Control Plane from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/ehnz89oual">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-the-control-plane_datadog_cert-ehnz89oual_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: The Control Plane from Datadog" style="border:1px solid #000000" /></p>
+<h3 id="monitoring-a-kubernetes-cluster-troubleshooting-workloads-from-datadog">Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/8v4xiyb3tt">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-troubleshooting-workloads_datadog_cert-8v4xiyb3tt_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog" style="border:1px solid #000000" /></p>
 <h2 id="google-cloud-2">Google Cloud (2)</h2>
 <h3 id="site-reliability-engineering-measuring-and-managing-reliability-from-google-cloud">Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud</h3>
 <ul>
