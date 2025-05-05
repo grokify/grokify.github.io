@@ -1,18 +1,20 @@
 # John's Human Resources Certificates
-1. [Compliance](#compliance-3)
+1. [Compliance](#compliance-4)
     1. [Preventing Workplace Harassment - Advanced Office (CPE/CLE) ML from Traliant](#preventing-workplace-harassment-advanced-office-cpe-cle-ml-from-traliant)
     1. [Avoiding Conflicts of Interest from Traliant](#avoiding-conflicts-of-interest-from-traliant)
     1. [Handling Reasonable Accommodations in the Workplace from Traliant](#handling-reasonable-accommodations-in-the-workplace-from-traliant)
+    1. [Handling Reasonable Accommodations in the Workplace (2024) from Traliant](#handling-reasonable-accommodations-in-the-workplace-2024-from-traliant)
 1. [Diversity, Equity, and Inclusion (DEI)](#diversity-equity-and-inclusion-dei-3)
     1. [Creating Inclusive Workspaces from Traliant](#creating-inclusive-workspaces-from-traliant)
     1. [LGBTQ+ Inclusion from Traliant](#lgbtq-inclusion-from-traliant)
     1. [Unconscious Bias, Diversity, Equity, and Inclusion - Managers from Traliant](#unconscious-bias-diversity-equity-and-inclusion-managers-from-traliant)
-1. [Workplace Safety](#workplace-safety-4)
+1. [Workplace Safety](#workplace-safety-5)
     1. [Bystander Intervention from Traliant](#bystander-intervention-from-traliant)
     1. [Preventing Discrimination and Harassment - CA Managers from Traliant](#preventing-discrimination-and-harassment-ca-managers-from-traliant)
     1. [Responding to Complaints from Traliant](#responding-to-complaints-from-traliant)
+    1. [Responding to Complaints (2024) from Traliant](#responding-to-complaints-2024-from-traliant)
     1. [Workplace Violence Prevention (California) from Traliant](#workplace-violence-prevention-california-from-traliant)
-## Compliance (3)
+## Compliance (4)
 ### Preventing Workplace Harassment - Advanced Office (CPE/CLE) ML from Traliant
 
 ![John's Preventing Workplace Harassment - Advanced Office (CPE/CLE) ML from Traliant](cert_hr_compliance_preventing-workplace-harassment-advanced-office-cpe-cle-ml_traliant-saviynt_2024-10-24.png)
@@ -25,9 +27,13 @@
 
 ### Handling Reasonable Accommodations in the Workplace from Traliant
 
-![John's Handling Reasonable Accommodations in the Workplace from Traliant](cert_hr_compliance_handling-reasonable-accommodations-in-the-workplace-v1.1_traliant-saviynt_2024-07-05_dl-2024-10-26.png)
+![John's Handling Reasonable Accommodations in the Workplace from Traliant](cert_hr_compliance_handling-reasonable-accommodations-in-the-workplace-v1.1_traliant-saviynt_2025-05-05.png)
 
-<img src="../cert_hr_compliance_handling-reasonable-accommodations-in-the-workplace-v1.1_traliant-saviynt_2024-07-05.png" alt="John's Handling Reasonable Accommodations in the Workplace from Traliant" style="border:1px solid #000000" />
+### Handling Reasonable Accommodations in the Workplace (2024) from Traliant
+
+![John's Handling Reasonable Accommodations in the Workplace (2024) from Traliant](cert_hr_compliance_handling-reasonable-accommodations-in-the-workplace-v1.1_traliant-saviynt_2024-07-05_dl-2024-10-26.png)
+
+<img src="../cert_hr_compliance_handling-reasonable-accommodations-in-the-workplace-v1.1_traliant-saviynt_2024-07-05.png" alt="John's Handling Reasonable Accommodations in the Workplace (2024) from Traliant" style="border:1px solid #000000" />
 
 ## Diversity, Equity, and Inclusion (DEI) (3)
 ### Creating Inclusive Workspaces from Traliant
@@ -48,7 +54,7 @@
 
 <img src="../cert_hr_dei_unconscious-bias-diversity-equity-and-inclusion-managers-ml_traliant-saviynt_2024-10-15.png" alt="John's Unconscious Bias, Diversity, Equity, and Inclusion - Managers from Traliant" style="border:1px solid #000000" />
 
-## Workplace Safety (4)
+## Workplace Safety (5)
 ### Bystander Intervention from Traliant
 
 ![John's Bystander Intervention from Traliant](cert_hr_safety_bystander-intervention_traliant-saviynt_2024-10-16_dl-2024-10-26.png)
@@ -63,9 +69,13 @@
 
 ### Responding to Complaints from Traliant
 
-![John's Responding to Complaints from Traliant](cert_hr_safety_responding-to-complaints_traliant-saviynt_2024-07-05_dl-2024-10-26.png)
+![John's Responding to Complaints from Traliant](cert_hr_safety_responding-to-complaints_traliant-saviynt_2025-05-03.png)
 
-<img src="../cert_hr_safety_responding-to-complaints_traliant-saviynt_2024-07-05.png" alt="John's Responding to Complaints from Traliant" style="border:1px solid #000000" />
+### Responding to Complaints (2024) from Traliant
+
+![John's Responding to Complaints (2024) from Traliant](cert_hr_safety_responding-to-complaints_traliant-saviynt_2024-07-05_dl-2024-10-26.png)
+
+<img src="../cert_hr_safety_responding-to-complaints_traliant-saviynt_2024-07-05.png" alt="John's Responding to Complaints (2024) from Traliant" style="border:1px solid #000000" />
 
 ### Workplace Violence Prevention (California) from Traliant
 
