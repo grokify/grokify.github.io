@@ -14,9 +14,10 @@
     1. [Developer Security Champion: Encrypted Communications from Pluralsight by Henry Been](#developer-security-champion-encrypted-communications-from-pluralsight-by-henry-been)
     1. [Developer Security Champion: Secure Authentication Implementation from Pluralsight by Gavin Johnson-Lynn](#developer-security-champion-secure-authentication-implementation-from-pluralsight-by-gavin-johnson-lynn)
     1. [Developer Security Champion: Vulnerability Testing from Pluralsight by Christian Wenz](#developer-security-champion-vulnerability-testing-from-pluralsight-by-christian-wenz)
-1. [Programming](#programming-6)
+1. [Programming](#programming-7)
     1. [OWASP Top 10: Broken Access Control from Codecademy](#owasp-top-10-broken-access-control-from-codecademy)
     1. [OWASP Top 10: Identification and Authentication Failures from Codecademy](#owasp-top-10-identification-and-authentication-failures-from-codecademy)
+    1. [Learn to Prevent Cross-Site Scripting (XSS) with Node.js from Codecademy](#learn-to-prevent-cross-site-scripting-xss-with-nodejs-from-codecademy)
     1. [Learn about CSRF Attacks from Codecademy](#learn-about-csrf-attacks-from-codecademy)
     1. [OWASP Top 10 from Snyk](#owasp-top-10-from-snyk)
     1. [Snyk Top 10 from Snyk](#snyk-top-10-from-snyk)
@@ -114,7 +115,7 @@
 
 <img src="../cert_appsec_security-champion_vulnerability-testing_pluralsight_christian-wenz_2024-10-23.png" alt="John's Developer Security Champion: Vulnerability Testing from Pluralsight by Christian Wenz" style="border:1px solid #000000" />
 
-## Programming (6)
+## Programming (7)
 ### OWASP Top 10: Broken Access Control from Codecademy
 
 <img src="../cert_security_owasp-top-10-broken-access-control_codecademy_2024-03-27.png" alt="John's OWASP Top 10: Broken Access Control from Codecademy" style="border:1px solid #000000" />
@@ -122,6 +123,10 @@
 ### OWASP Top 10: Identification and Authentication Failures from Codecademy
 
 <img src="../cert_security_owasp-top-10-identification-and-authentication-failures_codecademy_2024-03-28.png" alt="John's OWASP Top 10: Identification and Authentication Failures from Codecademy" style="border:1px solid #000000" />
+
+### Learn to Prevent Cross-Site Scripting (XSS) with Node.js from Codecademy
+
+<img src="../cert_appsec_owasp_top10_learn-to-prevent-cross-site-scriptiing-xss-with-node-js_codecademy_2025-05-18.png" alt="John's Learn to Prevent Cross-Site Scripting (XSS) with Node.js from Codecademy" style="border:1px solid #000000" />
 
 ### Learn about CSRF Attacks from Codecademy
 

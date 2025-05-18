@@ -9,9 +9,10 @@
     1. [Machine Learning from Stanford by Andrew Ng](#machine-learning-from-stanford-by-andrew-ng)
 1. [Refactoring](#refactoring-1)
     1. [ICAgile (ICP-PRG): Improving and Refactoring Code from Pluralsight by Jeremy Jarrell](#icagile-icp-prg-improving-and-refactoring-code-from-pluralsight-by-jeremy-jarrell)
-1. [Security](#security-6)
+1. [Security](#security-7)
     1. [OWASP Top 10: Broken Access Control from Codecademy](#owasp-top-10-broken-access-control-from-codecademy)
     1. [OWASP Top 10: Identification and Authentication Failures from Codecademy](#owasp-top-10-identification-and-authentication-failures-from-codecademy)
+    1. [Learn to Prevent Cross-Site Scripting (XSS) with Node.js from Codecademy](#learn-to-prevent-cross-site-scripting-xss-with-nodejs-from-codecademy)
     1. [Learn about CSRF Attacks from Codecademy](#learn-about-csrf-attacks-from-codecademy)
     1. [OWASP Top 10 from Snyk](#owasp-top-10-from-snyk)
     1. [Snyk Top 10 from Snyk](#snyk-top-10-from-snyk)
@@ -73,7 +74,7 @@
 
 <img src="../cert_programming_icagile-icp-prg_refactoring-and-improving-code_pluralsight_jeremy-jarrell_2024-07-13.png" alt="John's ICAgile (ICP-PRG): Improving and Refactoring Code from Pluralsight by Jeremy Jarrell" style="border:1px solid #000000" />
 
-## Security (6)
+## Security (7)
 ### OWASP Top 10: Broken Access Control from Codecademy
 
 <img src="../cert_security_owasp-top-10-broken-access-control_codecademy_2024-03-27.png" alt="John's OWASP Top 10: Broken Access Control from Codecademy" style="border:1px solid #000000" />
@@ -81,6 +82,10 @@
 ### OWASP Top 10: Identification and Authentication Failures from Codecademy
 
 <img src="../cert_security_owasp-top-10-identification-and-authentication-failures_codecademy_2024-03-28.png" alt="John's OWASP Top 10: Identification and Authentication Failures from Codecademy" style="border:1px solid #000000" />
+
+### Learn to Prevent Cross-Site Scripting (XSS) with Node.js from Codecademy
+
+<img src="../cert_appsec_owasp_top10_learn-to-prevent-cross-site-scriptiing-xss-with-node-js_codecademy_2025-05-18.png" alt="John's Learn to Prevent Cross-Site Scripting (XSS) with Node.js from Codecademy" style="border:1px solid #000000" />
 
 ### Learn about CSRF Attacks from Codecademy
 

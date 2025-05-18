@@ -1,9 +1,10 @@
 # John's Security: IDSec Certificates
-1. [Programming](#programming-6)
+1. [Programming](#programming-7)
     1. [Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck](#introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck)
     1. [API Security Architect from API Academy](#api-security-architect-from-api-academy)
     1. [OWASP Top 10: Broken Access Control from Codecademy](#owasp-top-10-broken-access-control-from-codecademy)
     1. [OWASP Top 10: Identification and Authentication Failures from Codecademy](#owasp-top-10-identification-and-authentication-failures-from-codecademy)
+    1. [Learn to Prevent Cross-Site Scripting (XSS) with Node.js from Codecademy](#learn-to-prevent-cross-site-scripting-xss-with-nodejs-from-codecademy)
     1. [Learn about CSRF Attacks from Codecademy](#learn-about-csrf-attacks-from-codecademy)
     1. [OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt](#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt)
 1. [Third-Party](#third-party-2)
@@ -22,7 +23,7 @@
     1. [Saviynt CPAM L100 - Self-Paced Training from Saviynt](#saviynt-cpam-l100-self-paced-training-from-saviynt)
     1. [Application Access Governance (AAG) Fundamentals from Saviynt](#application-access-governance-aag-fundamentals-from-saviynt)
     1. [Saviynt Ambassador Accreditation from Saviynt](#saviynt-ambassador-accreditation-from-saviynt)
-## Programming (6)
+## Programming (7)
 ### Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck
 * [John's Pragmatic Web Security online profile](https://courses.pragmaticwebsecurity.com/certificates/ismezbjb1w)
 
@@ -39,6 +40,10 @@
 ### OWASP Top 10: Identification and Authentication Failures from Codecademy
 
 <img src="../cert_security_owasp-top-10-identification-and-authentication-failures_codecademy_2024-03-28.png" alt="John's OWASP Top 10: Identification and Authentication Failures from Codecademy" style="border:1px solid #000000" />
+
+### Learn to Prevent Cross-Site Scripting (XSS) with Node.js from Codecademy
+
+<img src="../cert_appsec_owasp_top10_learn-to-prevent-cross-site-scriptiing-xss-with-node-js_codecademy_2025-05-18.png" alt="John's Learn to Prevent Cross-Site Scripting (XSS) with Node.js from Codecademy" style="border:1px solid #000000" />
 
 ### Learn about CSRF Attacks from Codecademy
 
