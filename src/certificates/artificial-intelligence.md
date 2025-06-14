@@ -3,6 +3,11 @@
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
 1. [Product Management](#product-management-1)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
+1. [Agentic AI](#agentic-ai-1)
+    1. [Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid](#introduction-to-developing-ai-agents-from-pluralsight-by-muhammad-sajid)
+1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-2)
+    1. [Fundamentals of MCP (Model Context Protocol) from Hugging Face](#fundamentals-of-mcp-model-context-protocol-from-hugging-face)
+    1. [Fundamentals of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi](#fundamentals-of-model-context-protocol-from-analytics-vidhya-by-apoorv-vishnoi)
 1. [Generative AI](#generative-ai-7)
     1. [Introduction to Generative AI from Google Cloud](#introduction-to-generative-ai-from-google-cloud)
     1. [Introduction to Large Language Models from Google Cloud](#introduction-to-large-language-models-from-google-cloud)
@@ -11,8 +16,6 @@
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
     1. [ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy](#chatgpt-for-excel-from-great-learning-academy-by-e-balachandra-murthy)
     1. [Databricks Accredited Generative AI Fundamentals from Databricks](#databricks-accredited-generative-ai-fundamentals-from-databricks)
-1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-1)
-    1. [Fundamentals of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi](#fundamentals-of-model-context-protocol-from-analytics-vidhya-by-apoorv-vishnoi)
 1. [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag-3)
     1. [Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota](#vector-space-models-and-embeddings-in-rags-from-pluralsight-by-axel-sirota)
     1. [Multi-modal RAGs from Pluralsight by Dhiraj Kumar](#multi-modal-rags-from-pluralsight-by-dhiraj-kumar)
@@ -37,6 +40,22 @@
 * [John's Pendo online credential](https://www.credly.com/badges/64f1712e-652a-4f49-b392-209f420f5b38)
 
 <img src="../cert_product_ai_pendo_ai-product-management_2024-01-02_avatar.png" alt="John's AI for Product Management from Pendo" style="border:1px solid #000000" />
+
+## Agentic AI (1)
+### Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid
+
+<img src="../cert_ai_agentic-ai_introduction-to-developing-ai-agents_pluralsight_muhammad-sajid_2025-06-03.png" alt="John's Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" />
+
+## Model Context Protocol (MCP) (2)
+### Fundamentals of MCP (Model Context Protocol) from Hugging Face
+* [John's Hugging Face online credential](https://huggingface.co/datasets/mcp-course/certificates/resolve/main/certificates/grokify/2025-06-14.png)
+
+![John's Fundamentals of MCP (Model Context Protocol) from Hugging Face](cert_ai_mcp_the-mcp-course-unit-1_hugging-face_2025-06-13.png)
+
+### Fundamentals of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/xea7hrnfdb)
+
+<img src="../cert_ai_mcp_foundations-of-model-context-protocol_analytics-vidhya_cert-636446298_2025-04-02.jpg" alt="John's Fundamentals of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi" style="border:1px solid #000000" />
 
 ## Generative AI (7)
 ### Introduction to Generative AI from Google Cloud
@@ -73,12 +92,6 @@
 * [John's Databricks online credential](https://credentials.databricks.com/4ca910a4-6dd5-4e91-97a7-ccc7ed80424f)
 
 ![John's Databricks Accredited Generative AI Fundamentals from Databricks](cert_databricks_generative-ai-fundamentals_2024-01-19_cert-ca910a4-6dd5-4e91-97a7-ccc7ed80424f.png)
-
-## Model Context Protocol (MCP) (1)
-### Fundamentals of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi
-* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/xea7hrnfdb)
-
-<img src="../cert_ai_mcp_foundations-of-model-context-protocol_analytics-vidhya_cert-636446298_2025-04-02.jpg" alt="John's Fundamentals of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi" style="border:1px solid #000000" />
 
 ## Retrieval-Augmented Generation (RAG) (3)
 ### Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota

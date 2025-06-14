@@ -22,10 +22,11 @@
     1. [OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt](#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt)
 1. [C#](#c-1)
     1. [C# (Basic) from HackerRank](#c-basic-from-hackerrank)
-1. [Go](#go-3)
+1. [Go](#go-4)
     1. [Go (Basic) from HackerRank](#go-basic-from-hackerrank)
     1. [Concurrency in Go from University of California, Irvine by Ian Harris](#concurrency-in-go-from-university-of-california-irvine-by-ian-harris)
     1. [Concurrent Programming in Go from Pluralsight by Mike Van Sickle](#concurrent-programming-in-go-from-pluralsight-by-mike-van-sickle)
+    1. [Accessing Non-relational Databases in Go from Pluralsight by Pinal Dave](#accessing-non-relational-databases-in-go-from-pluralsight-by-pinal-dave)
 1. [Java](#java-2)
     1. [Java Performance Tuning from Pluralsight by Tim Ojo](#java-performance-tuning-from-pluralsight-by-tim-ojo)
     1. [Refactoring to SOLID Java from Pluralsight by Dan Geabunea](#refactoring-to-solid-java-from-pluralsight-by-dan-geabunea)
@@ -122,7 +123,7 @@
 
 ![John's C# (Basic) from HackerRank](cert_programming_csharp_hackerrank_csharp-basic_2023-07-16.png)
 
-## Go (3)
+## Go (4)
 ### Go (Basic) from HackerRank
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/7666f51dbcdf)
@@ -139,6 +140,10 @@
 ### Concurrent Programming in Go from Pluralsight by Mike Van Sickle
 
 <img src="../cert_programming_go_concurrent-programming-in-go_pluralsight_mike-van-sickle_2024-06-17.png" alt="John's Concurrent Programming in Go from Pluralsight by Mike Van Sickle" style="border:1px solid #000000" />
+
+### Accessing Non-relational Databases in Go from Pluralsight by Pinal Dave
+
+<img src="../cert_programming_go_accessing-non-relational-databases-in-go_pluralsight_pinal-dave_2025-05-09.png" alt="John's Accessing Non-relational Databases in Go from Pluralsight by Pinal Dave" style="border:1px solid #000000" />
 
 ## Java (2)
 ### Java Performance Tuning from Pluralsight by Tim Ojo

@@ -49,6 +49,8 @@
     1. [Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund](#red-team-operations-target-and-capability-development-from-pluralsight-by-aaron-rosenmund)
     1. [Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund](#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund)
     1. [Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund](#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund)
+1. [FedRAMP](#fedramp-1)
+    1. [Security Compliance: FedRAMP from Pluralsight by Richard Harpur](#security-compliance-fedramp-from-pluralsight-by-richard-harpur)
 1. [AWS](#aws-6)
     1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
     1. [Introduction to AWS Identity and Access Management (IAM) from Simplilearn](#introduction-to-aws-identity-and-access-management-iam-from-simplilearn)
@@ -239,6 +241,11 @@
 ### Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund
 
 <img src="../cert_appsec_secops_blue-team-tools-defense-against-adversary-activity-using-mitre-techniques_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" />
+
+## FedRAMP (1)
+### Security Compliance: FedRAMP from Pluralsight by Richard Harpur
+
+<img src="../cert_appsec_fedramp_security-compliance-federamp_pluralsight_richard-harpur_2025-05-22.png" alt="John's Security Compliance: FedRAMP from Pluralsight by Richard Harpur" style="border:1px solid #000000" />
 
 ## AWS (6)
 ### AWS: Identity and Access Management from Whizlabs

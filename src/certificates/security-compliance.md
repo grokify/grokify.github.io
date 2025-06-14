@@ -1,14 +1,15 @@
 # John's Security: Compliance Certificates
-1. [Federal](#federal-3)
+1. [Federal](#federal-4)
     1. [Saviynt Security Awareness and Federal Data Protection Training from Saviynt](#saviynt-security-awareness-and-federal-data-protection-training-from-saviynt)
     1. [[FedRAMP] Saviynt Anti-Counterfeit Procedures from Saviynt](#fedramp-saviynt-anti-counterfeit-procedures-from-saviynt)
     1. [[FedRAMP] Saviynt Social Mining Training from Saviynt](#fedramp-saviynt-social-mining-training-from-saviynt)
+    1. [Security Compliance: FedRAMP from Pluralsight by Richard Harpur](#security-compliance-fedramp-from-pluralsight-by-richard-harpur)
 1. [General Data Protection Regulation (GDPR)](#general-data-protection-regulation-gdpr-2)
     1. [General Data Protection Regulation (GDPR) 2024 from Traliant](#general-data-protection-regulation-gdpr-2024-from-traliant)
     1. [General Data Protection Regulation (GDPR) "2023" from Traliant](#general-data-protection-regulation-gdpr-2023-from-traliant)
 1. [California Consumer Privacy Act (CCPA)](#california-consumer-privacy-act-ccpa-1)
     1. [California Consumer Privacy Act (CCPA & CPRA) V2 from Traliant](#california-consumer-privacy-act-ccpa-cpra-v2-from-traliant)
-## Federal (3)
+## Federal (4)
 ### Saviynt Security Awareness and Federal Data Protection Training from Saviynt
 
 <img src="../cert_infosec_federal_saviynt-security-awareness-and-federal-data-protection-training_saviynt_2025-02-09.png" alt="John's Saviynt Security Awareness and Federal Data Protection Training from Saviynt" style="border:1px solid #000000" />
@@ -20,6 +21,10 @@
 ### [FedRAMP] Saviynt Social Mining Training from Saviynt
 
 <img src="../cert_infosec_fedramp_fedramp-saviynt-social-mining-training_saviynt_2025-02-09.png" alt="John's [FedRAMP] Saviynt Social Mining Training from Saviynt" style="border:1px solid #000000" />
+
+### Security Compliance: FedRAMP from Pluralsight by Richard Harpur
+
+<img src="../cert_appsec_fedramp_security-compliance-federamp_pluralsight_richard-harpur_2025-05-22.png" alt="John's Security Compliance: FedRAMP from Pluralsight by Richard Harpur" style="border:1px solid #000000" />
 
 ## General Data Protection Regulation (GDPR) (2)
 ### General Data Protection Regulation (GDPR) 2024 from Traliant
