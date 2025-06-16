@@ -3,7 +3,8 @@
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
 1. [Product Management](#product-management-1)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
-1. [Agentic AI](#agentic-ai-1)
+1. [Agentic AI](#agentic-ai-2)
+    1. [Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](#elevate-team-productivity-with-crew-ai-from-coursera-by-yash-thakker)
     1. [Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid](#introduction-to-developing-ai-agents-from-pluralsight-by-muhammad-sajid)
 1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-2)
     1. [Fundamentals of MCP (Model Context Protocol) from Hugging Face](#fundamentals-of-mcp-model-context-protocol-from-hugging-face)
@@ -28,6 +29,8 @@
     1. [Introduction to Responsible AI from Google Cloud](#introduction-to-responsible-ai-from-google-cloud)
 1. [Applications](#applications-1)
     1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
+1. [AWS](#aws-1)
+    1. [Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid](#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid)
 ## Strategy (1)
 ### AI Strategy and Governance from University of Pennsylvania, Wharton School
 * [John's University of Pennsylvania, Wharton School online credential](https://coursera.org/verify/DGB6XB4C7VKD)
@@ -41,7 +44,12 @@
 
 <img src="../cert_product_ai_pendo_ai-product-management_2024-01-02_avatar.png" alt="John's AI for Product Management from Pendo" style="border:1px solid #000000" />
 
-## Agentic AI (1)
+## Agentic AI (2)
+### Elevate Team Productivity with Crew AI from Coursera by Yash Thakker
+* [John's Coursera online credential](https://coursera.org/verify/PL8QUEVA2NYB)
+
+![John's Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](cert_ai_agentic-ai_elevate-team-productivity-with-crew-ai_coursera_yash-thakker_cert-PL8QUEVA2NYB_2025-06-16.png)
+
 ### Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid
 
 <img src="../cert_ai_agentic-ai_introduction-to-developing-ai-agents_pluralsight_muhammad-sajid_2025-06-03.png" alt="John's Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" />
@@ -130,4 +138,9 @@
 ### Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas
 
 <img src="../cert_leadership_communications_using-generative-ai-to-refine-communications-to-executives_pluralsight_ed-freitas_2024-07-28.png" alt="John's Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas" style="border:1px solid #000000" />
+
+## AWS (1)
+### Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid
+
+<img src="../cert_ai_aws_introduction-to-bedrock_pluralsight_muhammad-sajid_2025-06-15.png" alt="John's Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" />
 
