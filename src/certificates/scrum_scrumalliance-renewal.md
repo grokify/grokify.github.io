@@ -8,13 +8,13 @@ Renewing my Scrum Alliance Certified ScrumMaster (CSM) and Certified Scrum Produ
 
 Renewing my Scrum Alliance certifications for Certified ScrumMaster (CSM) and Certified Scrum Product Owner (CSPO) turned out to be a more rewarding experience than I had anticipated. In this article, I will share the valuable insights and learnings I acquired during the renewal process, emphasizing the importance of staying connected with Scrum Alliance and its resources.
 
-This is what my certificate looked like when I received it in 2012:
+This is what my certificate looked like when I received it in 2012, with a 2 year lifespan and expiration in 2014.
 
-![](cert_scrum_scrum-master_scrumalliance_certified-scrum-master--csm_2012-12-14_trim.png)
+![](cert_scrum_scrum-master_scrumalliance_certified-scrum-master--csm_2012-12-12_trim.png)
 
 And this is what it looked like in 2023 with the inactive notice. Of note, the design changed, but so much time had passed that an intermediate design had come and gone as well.
 
-<img src="../cert_scrum_scrum-master_scrumalliance_certified-scrum-master--csm_2012-12-14_inactive.png" style="border:1px solid #000000" />
+<img src="../cert_scrum_scrum-master_scrumalliance_certified-scrum-master--csm_2012-12-14_dl-2023-09-03_inactive.png" style="border:1px solid #000000" />
 
 ## The Decision
 
@@ -66,7 +66,7 @@ By the time I renewed, my dashboard looked like the following:
 
 And I was able to update my cert, which showed it was active again.
 
-<img src="../cert_scrum_scrum-master_scrumalliance_certified-scrum-master--csm_2025-09-04.png" style="border:1px solid #000000" />
+<img src="../cert_scrum_scrum-master_scrumalliance_certified-scrum-master--csm_2012-12-14_dl-2023-09-04.png" style="border:1px solid #000000" />
 
 ## The Community
 

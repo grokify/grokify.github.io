@@ -4,9 +4,11 @@
     1. [Vector Search and Embeddings from Google Cloud](#vector-search-and-embeddings-from-google-cloud)
     1. [Intro to Hugging Face from Codecademy](#intro-to-hugging-face-from-codecademy)
     1. [Jupyter Notebook from Great Learning Academy by Anirudh Rao](#jupyter-notebook-from-great-learning-academy-by-anirudh-rao)
-1. [Generative AI](#generative-ai-2)
+1. [Large Language Models (LLMs)](#large-language-models-llms-4)
+    1. [Fundamentals of LLMs from Hugging Face](#fundamentals-of-llms-from-hugging-face)
+    1. [Introduction to Large Language Models from Google Cloud](#introduction-to-large-language-models-from-google-cloud)
     1. [Attention Mechanism from Google Cloud](#attention-mechanism-from-google-cloud)
-    1. [Databricks Accredited Generative AI Fundamentals from Databricks](#databricks-accredited-generative-ai-fundamentals-from-databricks)
+    1. [Domain-specific LLM Agents from Pluralsight by Brian Letort](#domain-specific-llm-agents-from-pluralsight-by-brian-letort)
 1. [Algorithms](#algorithms-1)
     1. [KNN Algorithm from Great Learning Academy by Anirudh Rao, Bharani Akella](#knn-algorithm-from-great-learning-academy-by-anirudh-rao-bharani-akella)
 1. [Data Engineering](#data-engineering-1)
@@ -39,17 +41,24 @@
 
 <img src="../cert_machine-learning_jupyter-notebook_greatlearning_cert-PPFKNCCJ_2024-02-28.jpg" alt="John's Jupyter Notebook from Great Learning Academy by Anirudh Rao" style="border:1px solid #000000" />
 
-## Generative AI (2)
+## Large Language Models (LLMs) (4)
+### Fundamentals of LLMs from Hugging Face
+
+![John's Fundamentals of LLMs from Hugging Face](cert_machine-learning_llm_fundamentals-of-llms_hugging-face_2025-06-21.webp)
+
+### Introduction to Large Language Models from Google Cloud
+* [John's Google Cloud online credential](https://coursera.org/verify/QEDZTHK9UC3W)
+
+![John's Introduction to Large Language Models from Google Cloud](cert_ai_introduction-to-large-language-models_google-cloud_cert-QEDZTHK9UC3W_2024-02-21.png)
+
 ### Attention Mechanism from Google Cloud
 * [John's Google Cloud online credential](https://coursera.org/verify/DFS67KJRE8T5)
 
 ![John's Attention Mechanism from Google Cloud](cert_machine-learning_attention-mechanism_google-cloud_cert-DFS67KJRE8T5_2024-02-22.png)
 
-### Databricks Accredited Generative AI Fundamentals from Databricks
-* [John's Databricks online profile](https://credentials.databricks.com/profile/grokify)
-* [John's Databricks online credential](https://credentials.databricks.com/4ca910a4-6dd5-4e91-97a7-ccc7ed80424f)
+### Domain-specific LLM Agents from Pluralsight by Brian Letort
 
-![John's Databricks Accredited Generative AI Fundamentals from Databricks](cert_databricks_generative-ai-fundamentals_2024-01-19_cert-ca910a4-6dd5-4e91-97a7-ccc7ed80424f.png)
+<img src="../cert_machine-learning_llm_domain-specific-llm-agents_pluralsight_brian-letort_2025-06-28.png" alt="John's Domain-specific LLM Agents from Pluralsight by Brian Letort" style="border:1px solid #000000" />
 
 ## Algorithms (1)
 ### KNN Algorithm from Great Learning Academy by Anirudh Rao, Bharani Akella

@@ -18,9 +18,10 @@
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
 1. [Product Craft](#product-craft-1)
     1. [The Emotional Side of Product Management from Pluralsight by Nicole Castillo](#the-emotional-side-of-product-management-from-pluralsight-by-nicole-castillo)
-1. [Product Owner](#product-owner-5)
+1. [Product Owner](#product-owner-6)
     1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
     1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
+    1. [Professional Product Discovery and Validation™ (PPDV) from Scrum.org](#professional-product-discovery-and-validation-ppdv-from-scrumorg)
     1. [Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute](#scrum-product-owner-accredited-certification-spoac-from-scrum-institute)
     1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devops-po-from-devops-academy)
     1. [Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell](#becoming-a-great-product-owner-from-pluralsight-by-jeremy-jarrell)
@@ -87,7 +88,7 @@
 
 <img src="../cert_product_the-emotional-side-of-product-management_plurasight_nicole-castillo_2024-07-12.png" alt="John's The Emotional Side of Product Management from Pluralsight by Nicole Castillo" style="border:1px solid #000000" />
 
-## Product Owner (5)
+## Product Owner (6)
 ### Certified Scrum Product Owner (CSPO) from Scrum Alliance
 * [John's Scrum Alliance online profile](https://www.scrumalliance.org/community/profile/jwang96)
 
@@ -100,8 +101,15 @@
 ### Professional Scrum Product Owner I (PSPO I) from Scrum.org
 * [John's Scrum.org online profile](https://www.scrum.org/user/16066/)
 * [John's Credly online profile](https://www.credly.com/users/grokify/)
+* [John's Scrum.org online credential](https://www.credly.com/badges/74df9221-8ef3-4dcb-98a5-88525ca6012d)
 
 ![John's Professional Scrum Product Owner I (PSPO I) from Scrum.org](cert_scrum_product-owner_scrum-org_professional-scrum-product-owner-i--pspo-i_2023-09-14.png)
+
+### Professional Product Discovery and Validation™ (PPDV) from Scrum.org
+* [John's Scrum.org online profile](https://www.scrum.org/user/16066/)
+* [John's Credly online profile](https://www.credly.com/users/grokify/)
+
+![John's Professional Product Discovery and Validation™ (PPDV) from Scrum.org](cert_scrum_discovery_professional-product-discovery-and-validation_scrum-org_2025-06-25.png)
 
 ### Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute
 * [John's Scrum Institute online credential](https://www.scrum-institute.org/badges/79982314947061)

@@ -10,6 +10,11 @@
 1. [Objectives and Key Results](#objectives-and-key-results-2)
     1. [Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell](#certified-professional-in-okr-objectives-key-results-cpokr-from-scrum-institute-by-yeliz-obergfell)
     1. [Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson](#product-management-delivering-on-okrs-from-pluralsight-by-keisha-johnson)
+1. [Problem Solving](#problem-solving-2)
+    1. [5W2H Problem-Solving Method from Management and Strategy Institute](#5w2h-problem-solving-method-from-management-and-strategy-institute)
+    1. [Eight Disciplines (8D) Problem Solving Method from Management and Strategy Institute](#eight-disciplines-8d-problem-solving-method-from-management-and-strategy-institute)
+1. [Quality Control](#quality-control-1)
+    1. [Lean Six Sigma White Belt from Management and Strategy Institute](#lean-six-sigma-white-belt-from-management-and-strategy-institute)
 1. [Team Building](#team-building-7)
     1. [Planning an Effective Performance Appraisal from SkillSoft](#planning-an-effective-performance-appraisal-from-skillsoft)
     1. [Lead Your Virtual Team from Eleventure](#lead-your-virtual-team-from-eleventure)
@@ -58,6 +63,23 @@
 ### Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson
 
 <img src="../cert_product_okrs_product-management-delivering-on-okrs_pluralsight_keisha-johnson_2024-07-27.png" alt="John's Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson" style="border:1px solid #000000" />
+
+## Problem Solving (2)
+### 5W2H Problem-Solving Method from Management and Strategy Institute
+* [John's Management and Strategy Institute online credential](https://www.proprofs.com/quiz-school/user_certificate.php?id=347250403&qid=3927051)
+
+<img src="../cert_management_problem-solving-framework_5w2h-problem-solving-method_management-and-strategy-institute_cert-347250403_2025-06-21.png" alt="John's 5W2H Problem-Solving Method from Management and Strategy Institute" style="border:1px solid #000000" />
+
+### Eight Disciplines (8D) Problem Solving Method from Management and Strategy Institute
+* [John's Management and Strategy Institute online credential](https://www.proprofs.com/quiz-school/user_certificate.php?id=347364167&qid=3930884)
+
+<img src="../cert_management_problem-solving-framework_eight-disciplines-8d-problem-solving-method_msicertified_cert-347364167_2025-06-26.png" alt="John's Eight Disciplines (8D) Problem Solving Method from Management and Strategy Institute" style="border:1px solid #000000" />
+
+## Quality Control (1)
+### Lean Six Sigma White Belt from Management and Strategy Institute
+* [John's Management and Strategy Institute online credential](https://www.proprofs.com/quiz-school/user_certificate.php?id=347254040&qid=3592982)
+
+<img src="../cert_management_quality-control_lean-six-sigma-white-belt-certified_msi_cert-347254040_2025-06-21.png" alt="John's Lean Six Sigma White Belt from Management and Strategy Institute" style="border:1px solid #000000" />
 
 ## Team Building (7)
 ### Planning an Effective Performance Appraisal from SkillSoft

@@ -7,9 +7,10 @@
     1. [Scrum Master Accredited Certification (SMAC) from Scrum Institute](#scrum-master-accredited-certification-smac-from-scrum-institute)
     1. [What a Scrum Master Must Know About People and Teams from Pluralsight by Derek Davidson](#what-a-scrum-master-must-know-about-people-and-teams-from-pluralsight-by-derek-davidson)
     1. [Implementing Scrum and Avoiding Scrum Anti-Patterns from Pluralsight by Derek Davidson](#implementing-scrum-and-avoiding-scrum-anti-patterns-from-pluralsight-by-derek-davidson)
-1. [Product Owner](#product-owner-4)
+1. [Product Owner](#product-owner-5)
     1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
     1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
+    1. [Professional Product Discovery and Validation™ (PPDV) from Scrum.org](#professional-product-discovery-and-validation-ppdv-from-scrumorg)
     1. [Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute](#scrum-product-owner-accredited-certification-spoac-from-scrum-institute)
     1. [Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell](#becoming-a-great-product-owner-from-pluralsight-by-jeremy-jarrell)
 1. [Developer](#developer-2)
@@ -33,6 +34,7 @@
 ## Resources
 
 1. [Design Thinking Resource Links](../design-thinking_resource-links)
+1. [Product Owner Reading List](../resource-links_product)
 1. [OKR Reading List](../okr_resource-links)
 1. [Scrum Reading List](../scrum_resource-links)
 ## Scrum Master (7)
@@ -80,7 +82,7 @@
 
 <img src="../cert_scrum_scrum-master_implementing-scrum-and-avoiding-scrum-anti-pattern_derek-davidson_pluralsight_2024-06-24.png" alt="John's Implementing Scrum and Avoiding Scrum Anti-Patterns from Pluralsight by Derek Davidson" style="border:1px solid #000000" />
 
-## Product Owner (4)
+## Product Owner (5)
 ### Certified Scrum Product Owner (CSPO) from Scrum Alliance
 * [John's Scrum Alliance online profile](https://www.scrumalliance.org/community/profile/jwang96)
 
@@ -93,8 +95,15 @@
 ### Professional Scrum Product Owner I (PSPO I) from Scrum.org
 * [John's Scrum.org online profile](https://www.scrum.org/user/16066/)
 * [John's Credly online profile](https://www.credly.com/users/grokify/)
+* [John's Scrum.org online credential](https://www.credly.com/badges/74df9221-8ef3-4dcb-98a5-88525ca6012d)
 
 ![John's Professional Scrum Product Owner I (PSPO I) from Scrum.org](cert_scrum_product-owner_scrum-org_professional-scrum-product-owner-i--pspo-i_2023-09-14.png)
+
+### Professional Product Discovery and Validation™ (PPDV) from Scrum.org
+* [John's Scrum.org online profile](https://www.scrum.org/user/16066/)
+* [John's Credly online profile](https://www.credly.com/users/grokify/)
+
+![John's Professional Product Discovery and Validation™ (PPDV) from Scrum.org](cert_scrum_discovery_professional-product-discovery-and-validation_scrum-org_2025-06-25.png)
 
 ### Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute
 * [John's Scrum Institute online credential](https://www.scrum-institute.org/badges/79982314947061)
