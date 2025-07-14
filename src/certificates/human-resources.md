@@ -1,6 +1,6 @@
 # John's Human Resources Certificates
 1. [Compliance](#compliance-4)
-    1. [Preventing Workplace Harassment - Advanced Office (CPE/CLE) ML from Traliant](#preventing-workplace-harassment-advanced-office-cpe-cle-ml-from-traliant)
+    1. [Preventing Workplace Harassment - Advanced Office (CPE/CLE) ML from Traliant](#preventing-workplace-harassment-advanced-office-cpecle-ml-from-traliant)
     1. [Avoiding Conflicts of Interest from Traliant](#avoiding-conflicts-of-interest-from-traliant)
     1. [Handling Reasonable Accommodations in the Workplace from Traliant](#handling-reasonable-accommodations-in-the-workplace-from-traliant)
     1. [Handling Reasonable Accommodations in the Workplace (2024) from Traliant](#handling-reasonable-accommodations-in-the-workplace-2024-from-traliant)

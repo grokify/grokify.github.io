@@ -61,7 +61,7 @@
 1. [Microsoft](#microsoft-1)
     1. [Microsoft Defender: Introduction from Pluralsight by Rishalin Pillay](#microsoft-defender-introduction-from-pluralsight-by-rishalin-pillay)
 1. [Proofpoint](#proofpoint-1)
-    1. [Enterprise Protection/Privacy Accredited Engineer from Proofpoint](#enterprise-protection-privacy-accredited-engineer-from-proofpoint)
+    1. [Enterprise Protection/Privacy Accredited Engineer from Proofpoint](#enterprise-protectionprivacy-accredited-engineer-from-proofpoint)
 1. [Case Studies](#case-studies-2)
     1. [Security Hot Takes: CrowdStrike Outage Post-mortem from Pluralsight by Michael Teske, Aaron Rosenmund, Bri Frost](#security-hot-takes-crowdstrike-outage-post-mortem-from-pluralsight-by-michael-teske-aaron-rosenmund-bri-frost)
     1. [Security Hot Takes: Rackspace Breach from Pluralsight by Aaron Rosenmund, Bri Frost](#security-hot-takes-rackspace-breach-from-pluralsight-by-aaron-rosenmund-bri-frost)

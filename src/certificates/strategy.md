@@ -13,7 +13,7 @@
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
 ## Resources
 
-1. [Strategy Reading List](../strategy_resource-links)
+1. [Strategy Reading List](../../links/strategy/)
 ## Fundamentals (1)
 ### Managing Strategy and Vision from Pluralsight by Curtis Webb
 

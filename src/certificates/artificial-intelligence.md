@@ -3,29 +3,41 @@
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
 1. [Product Management](#product-management-1)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
-1. [Agentic AI](#agentic-ai-4)
+1. [Agentic AI](#agentic-ai-5)
     1. [Fundamentals of Agents from Hugging Face](#fundamentals-of-agents-from-hugging-face)
     1. [Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid](#introduction-to-developing-ai-agents-from-pluralsight-by-muhammad-sajid)
-    1. [OpenAI Assistant API from Pluralsight by Xavier Morera](#openai-assistant-api-from-pluralsight-by-xavier-morera)
+    1. [Agentic AI Lifecycle Management from Pluralsight by Eman Hassan](#agentic-ai-lifecycle-management-from-pluralsight-by-eman-hassan)
     1. [Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman](#deploying-ai-agents-in-production-environments-from-pluralsight-by-pratheerth-padman)
+    1. [OpenAI Assistant API from Pluralsight by Xavier Morera](#openai-assistant-api-from-pluralsight-by-xavier-morera)
 1. [Multi-Agent Systems](#multi-agent-systems-7)
-    1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joo-moura)
+    1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joao-moura)
     1. [Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](#mastering-multi-agent-development-with-autogen-from-packt-by-paulo-dichone)
     1. [Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](#elevate-team-productivity-with-crew-ai-from-coursera-by-yash-thakker)
     1. [Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu](#applying-multi-agent-systems-to-daily-tasks-from-pluralsight-by-bogdan-sucaciu)
     1. [Developing Task-specific Agents with CrewAI from Pluralsight by Jon Friskics](#developing-task-specific-agents-with-crewai-from-pluralsight-by-jon-friskics)
     1. [Introduction to LangGraph from Pluralsight by Craig Golightly](#introduction-to-langgraph-from-pluralsight-by-craig-golightly)
     1. [Basics of LangGraph Workflows from Pluralsight by Craig Golightly](#basics-of-langgraph-workflows-from-pluralsight-by-craig-golightly)
+1. [Workflow Automation](#workflow-automation-1)
+    1. [n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi](#n8n-a-complete-guide-to-the-automation-tool-from-analytics-vidhya-by-gyan-prakash-tripathi)
 1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-2)
     1. [Fundamentals of MCP (Model Context Protocol) from Hugging Face](#fundamentals-of-mcp-model-context-protocol-from-hugging-face)
     1. [Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi](#foundations-of-model-context-protocol-from-analytics-vidhya-by-apoorv-vishnoi)
-1. [Generative AI](#generative-ai-5)
+1. [Generative AI](#generative-ai-8)
+    1. [Generative AI for Web Development Specialization (3 Courses) from Scrimba](#generative-ai-for-web-development-specialization-3-courses-from-scrimba)
+    1. [Intro to Claude AI from Scrimba by Shant Dashjian](#intro-to-claude-ai-from-scrimba-by-shant-dashjian)
+    1. [MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh](#midjourney-from-inspiration-to-implementation-from-analytics-vidhya-by-sandeep-singh)
     1. [Introduction to Generative AI from Google Cloud](#introduction-to-generative-ai-from-google-cloud)
     1. [Introduction to Image Generation from Google Cloud](#introduction-to-image-generation-from-google-cloud)
     1. [Duet AI in Gmail from Google Cloud](#duet-ai-in-gmail-from-google-cloud)
     1. [ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy](#chatgpt-for-excel-from-great-learning-academy-by-e-balachandra-murthy)
     1. [Databricks Accredited Generative AI Fundamentals from Databricks](#databricks-accredited-generative-ai-fundamentals-from-databricks)
-1. [Prompt Engineering](#prompt-engineering-1)
+1. [Vibe Coding](#vibe-coding-4)
+    1. [Vibe Coding with Cursor AI from Scrimba by Maham Codes](#vibe-coding-with-cursor-ai-from-scrimba-by-maham-codes)
+    1. [Build AI Apps with Lovable: Vibe Coding for Web Dev from Udemy by Pavan Kumar, Manish Patel](#build-ai-apps-with-lovable-vibe-coding-for-web-dev-from-udemy-by-pavan-kumar-manish-patel)
+    1. [Vibe Coding with Replit from Analytics Vidhya by Kunal Jain](#vibe-coding-with-replit-from-analytics-vidhya-by-kunal-jain)
+    1. [Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi](#guide-to-vibe-coding-in-windsurf-from-analytics-vidhya-by-apoorv-vishnoi)
+1. [Prompt Engineering](#prompt-engineering-2)
+    1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
 1. [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag-3)
     1. [Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota](#vector-space-models-and-embeddings-in-rags-from-pluralsight-by-axel-sirota)
@@ -41,6 +53,9 @@
     1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
 1. [AWS](#aws-1)
     1. [Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid](#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid)
+## Resources
+
+1. [Artificial Intelligence Resource Links](../../links/artificial-intelligence/)
 ## Strategy (1)
 ### AI Strategy and Governance from University of Pennsylvania, Wharton School
 * [John's University of Pennsylvania, Wharton School online credential](https://coursera.org/verify/DGB6XB4C7VKD)
@@ -54,7 +69,7 @@
 
 <img src="../cert_product_ai_pendo_ai-product-management_2024-01-02_avatar.png" alt="John's AI for Product Management from Pendo" style="border:1px solid #000000" />
 
-## Agentic AI (4)
+## Agentic AI (5)
 ### Fundamentals of Agents from Hugging Face
 * [John's Hugging Face online credential](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/grokify/2025-06-20.png)
 
@@ -64,13 +79,17 @@
 
 <img src="../cert_ai_agentic-ai_introduction-to-developing-ai-agents_pluralsight_muhammad-sajid_2025-06-03.png" alt="John's Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" />
 
-### OpenAI Assistant API from Pluralsight by Xavier Morera
+### Agentic AI Lifecycle Management from Pluralsight by Eman Hassan
 
-<img src="../cert_ai_agentic-ai_openai-assistant-api_pluralsight_xavier-morera_2025-06-23.png" alt="John's OpenAI Assistant API from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
+<img src="../cert_ai_agentic-ai_agentic-ai-lifecycle-management_pluralsight_eman-hassan_2025-07-09.png" alt="John's Agentic AI Lifecycle Management from Pluralsight by Eman Hassan" style="border:1px solid #000000" />
 
 ### Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman
 
 <img src="../cert_ai_agentic-ai_deploying-ai-agents-in-produciton-environments_pluralsight_pratheerth-padman_2025-06-23.png" alt="John's Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman" style="border:1px solid #000000" />
+
+### OpenAI Assistant API from Pluralsight by Xavier Morera
+
+<img src="../cert_ai_agentic-ai_openai-assistant-api_pluralsight_xavier-morera_2025-06-23.png" alt="John's OpenAI Assistant API from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
 
 ## Multi-Agent Systems (7)
 ### Multi AI Agent Systems with CrewAI from CrewAI by João Moura
@@ -103,6 +122,12 @@
 
 <img src="../cert_ai_agentic-ai_basics-of-langgraph-workflows_pluralsight_craig-golightly_2025-06-18.png" alt="John's Basics of LangGraph Workflows from Pluralsight by Craig Golightly" style="border:1px solid #000000" />
 
+## Workflow Automation (1)
+### n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/8lnnxuybwr)
+
+<img src="../cert_ai_workflow-automation_n8n-a-complete-guide-to-the-automation-tool_analyticsvidhya_gyan-prakash-tripathi_2025-07-11.jpg" alt="John's n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi" style="border:1px solid #000000" />
+
 ## Model Context Protocol (MCP) (2)
 ### Fundamentals of MCP (Model Context Protocol) from Hugging Face
 * [John's Hugging Face online credential](https://huggingface.co/datasets/mcp-course/certificates/resolve/main/certificates/grokify/2025-06-14.png)
@@ -114,7 +139,22 @@
 
 <img src="../cert_ai_mcp_foundations-of-model-context-protocol_analytics-vidhya_cert-636446298_2025-04-02.jpg" alt="John's Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi" style="border:1px solid #000000" />
 
-## Generative AI (5)
+## Generative AI (8)
+### Generative AI for Web Development Specialization (3 Courses) from Scrimba
+* [John's Scrimba online credential](https://www.coursera.org/verify/specialization/VY1BKDGDO76G)
+
+<img src="../cert_ai_gen-ai_generative-ai-for-web-development_coursera_cert-VY1BKDGDO76G_2025-07-11.png" alt="John's Generative AI for Web Development Specialization (3 Courses) from Scrimba" style="border:1px solid #000000" />
+
+### Intro to Claude AI from Scrimba by Shant Dashjian
+* [John's Scrimba online credential](https://www.coursera.org/verify/BJ2AJF89N18M)
+
+![John's Intro to Claude AI from Scrimba by Shant Dashjian](cert_programming_gen-ai_intro-to-claud-ai_coursera_shant-dashjian_cert-BJ2AJF89N18M_2025-07-10.png)
+
+### MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/edmxgsnnvy)
+
+<img src="../cert_ai_gen-ai_midjourney-from-inspiration-to-implementation_analyticsvidhya_cert-680610945_sandeep-singh_2025-07-11.jpg" alt="John's MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh" style="border:1px solid #000000" />
+
 ### Introduction to Generative AI from Google Cloud
 * [John's Google Cloud online credential](https://coursera.org/verify/3VBHJ76MBTU9)
 
@@ -141,7 +181,33 @@
 
 ![John's Databricks Accredited Generative AI Fundamentals from Databricks](cert_databricks_generative-ai-fundamentals_2024-01-19_cert-ca910a4-6dd5-4e91-97a7-ccc7ed80424f.png)
 
-## Prompt Engineering (1)
+## Vibe Coding (4)
+### Vibe Coding with Cursor AI from Scrimba by Maham Codes
+* [John's Scrimba online credential](https://www.coursera.org/verify/YYQ26P22WQQF)
+
+![John's Vibe Coding with Cursor AI from Scrimba by Maham Codes](cert_programming_gen-ai_vibe-coding-with-cursor-ai_coursera_maham-codes_cert-YYQ26P22WQQF_2025-07-10.png)
+
+### Build AI Apps with Lovable: Vibe Coding for Web Dev from Udemy by Pavan Kumar, Manish Patel
+* [John's Udemy online credential](https://www.udemy.com/certificate/UC-054ec269-a6c0-4c85-90ff-5539102c80a7/)
+
+<img src="../cert_ai_vibe-coding_build-ai-apps-with-lovable-vibe-coding-for-web-dev_udemy_pavan-kumar-manish-patel_cert-UC-054ec269-a6c0-4c85-90ff-5539102c80a7_2025-06-13.jpg" alt="John's Build AI Apps with Lovable: Vibe Coding for Web Dev from Udemy by Pavan Kumar, Manish Patel" style="border:1px solid #000000" />
+
+### Vibe Coding with Replit from Analytics Vidhya by Kunal Jain
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/jf8ns9xz2w)
+
+<img src="../cert_ai_vibe-coding_vibe-coding-with-replit_analyticsvidhya_kunal-jain_cert-680574767_2025-07-11.jpg" alt="John's Vibe Coding with Replit from Analytics Vidhya by Kunal Jain" style="border:1px solid #000000" />
+
+### Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/edmxgsnnvy)
+
+<img src="../cert_ai_vibe-coding_guide-to-vibe-coding-in-windsurf_analyticsvidhya_apporv-vishnoi_cert-680590660_2025-07-11.jpg" alt="John's Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi" style="border:1px solid #000000" />
+
+## Prompt Engineering (2)
+### Prompt Engineering for Web Developers from Scrimba by Treasure Porth
+* [John's Scrimba online credential](https://www.coursera.org/verify/EDM1OJ4B87Q4)
+
+![John's Prompt Engineering for Web Developers from Scrimba by Treasure Porth](cert_ai_prompt-engineering_prompt-engineering-for-web-developers_coursera_treasure-porth_cert-EDM1OJ4B87Q4_2025-07-11.png)
+
 ### AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute
 * [John's Management and Strategy Institute online credential](https://www.proprofs.com/quiz-school/user_certificate.php?id=347250771&qid=3809416)
 

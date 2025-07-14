@@ -15,13 +15,13 @@
     1. [Developer Security Champion: Secure Authentication Implementation from Pluralsight by Gavin Johnson-Lynn](#developer-security-champion-secure-authentication-implementation-from-pluralsight-by-gavin-johnson-lynn)
     1. [Developer Security Champion: Vulnerability Testing from Pluralsight by Christian Wenz](#developer-security-champion-vulnerability-testing-from-pluralsight-by-christian-wenz)
 1. [Programming](#programming-7)
+    1. [OWASP Top 10 from Snyk](#owasp-top-10-from-snyk)
+    1. [Snyk Top 10 from Snyk](#snyk-top-10-from-snyk)
+    1. [Security for Developers from Snyk](#security-for-developers-from-snyk)
     1. [OWASP Top 10: Broken Access Control from Codecademy](#owasp-top-10-broken-access-control-from-codecademy)
     1. [OWASP Top 10: Identification and Authentication Failures from Codecademy](#owasp-top-10-identification-and-authentication-failures-from-codecademy)
     1. [Learn to Prevent Cross-Site Scripting (XSS) with Node.js from Codecademy](#learn-to-prevent-cross-site-scripting-xss-with-nodejs-from-codecademy)
     1. [Learn about CSRF Attacks from Codecademy](#learn-about-csrf-attacks-from-codecademy)
-    1. [OWASP Top 10 from Snyk](#owasp-top-10-from-snyk)
-    1. [Snyk Top 10 from Snyk](#snyk-top-10-from-snyk)
-    1. [Security for Developers from Snyk](#security-for-developers-from-snyk)
 1. [Access](#access-2)
     1. [Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck](#introduction-to-oauth-20-and-openid-connect-from-pragmatic-web-security-by-dr-philippe-de-ryck)
     1. [OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt](#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt)
@@ -36,11 +36,11 @@
     1. [NeuVector Basics from Rancher Academy](#neuvector-basics-from-rancher-academy)
     1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
 1. [Kubernetes](#kubernetes-5)
-    1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
+    1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra)
     1. [Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker](#kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker)
     1. [Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer](#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer)
-    1. [Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-monitoring-logging-and-runtime-security-from-pluralsight-by-antonio-jess-piedra)
-    1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jess-piedra)
+    1. [Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-monitoring-logging-and-runtime-security-from-pluralsight-by-antonio-jesus-piedra)
+    1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jesus-piedra)
 1. [DevOps](#devops-1)
     1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
 1. [SecOps](#secops-5)
@@ -118,6 +118,18 @@
 <img src="../cert_appsec_security-champion_vulnerability-testing_pluralsight_christian-wenz_2024-10-23.png" alt="John's Developer Security Champion: Vulnerability Testing from Pluralsight by Christian Wenz" style="border:1px solid #000000" />
 
 ## Programming (7)
+### OWASP Top 10 from Snyk
+
+![John's OWASP Top 10 from Snyk](cert_security_owaasp-top-10_snyk_2024-03-09.png)
+
+### Snyk Top 10 from Snyk
+
+![John's Snyk Top 10 from Snyk](cert_security_snyk-top-10_snyk_2024-03-09.png)
+
+### Security for Developers from Snyk
+
+![John's Security for Developers from Snyk](cert_security_security-for-developers_snyk_2024-03-09.png)
+
 ### OWASP Top 10: Broken Access Control from Codecademy
 
 <img src="../cert_security_owasp-top-10-broken-access-control_codecademy_2024-03-27.png" alt="John's OWASP Top 10: Broken Access Control from Codecademy" style="border:1px solid #000000" />
@@ -133,18 +145,6 @@
 ### Learn about CSRF Attacks from Codecademy
 
 <img src="../cert_security_learn-about-csrf-attacks_codecademy_2024-03-27.png" alt="John's Learn about CSRF Attacks from Codecademy" style="border:1px solid #000000" />
-
-### OWASP Top 10 from Snyk
-
-![John's OWASP Top 10 from Snyk](cert_security_owaasp-top-10_snyk_2024-03-09.png)
-
-### Snyk Top 10 from Snyk
-
-![John's Snyk Top 10 from Snyk](cert_security_snyk-top-10_snyk_2024-03-09.png)
-
-### Security for Developers from Snyk
-
-![John's Security for Developers from Snyk](cert_security_security-for-developers_snyk_2024-03-09.png)
 
 ## Access (2)
 ### Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck

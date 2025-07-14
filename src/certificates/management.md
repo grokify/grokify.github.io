@@ -10,7 +10,8 @@
 1. [Objectives and Key Results](#objectives-and-key-results-2)
     1. [Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell](#certified-professional-in-okr-objectives-key-results-cpokr-from-scrum-institute-by-yeliz-obergfell)
     1. [Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson](#product-management-delivering-on-okrs-from-pluralsight-by-keisha-johnson)
-1. [Problem Solving](#problem-solving-2)
+1. [Problem Solving](#problem-solving-3)
+    1. [Get to the Root of Any Problem from Grovo by Alex Khurgin](#get-to-the-root-of-any-problem-from-grovo-by-alex-khurgin)
     1. [5W2H Problem-Solving Method from Management and Strategy Institute](#5w2h-problem-solving-method-from-management-and-strategy-institute)
     1. [Eight Disciplines (8D) Problem Solving Method from Management and Strategy Institute](#eight-disciplines-8d-problem-solving-method-from-management-and-strategy-institute)
 1. [Quality Control](#quality-control-1)
@@ -64,7 +65,11 @@
 
 <img src="../cert_product_okrs_product-management-delivering-on-okrs_pluralsight_keisha-johnson_2024-07-27.png" alt="John's Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson" style="border:1px solid #000000" />
 
-## Problem Solving (2)
+## Problem Solving (3)
+### Get to the Root of Any Problem from Grovo by Alex Khurgin
+
+![John's Get to the Root of Any Problem from Grovo by Alex Khurgin](cert_management_problem-solving_get-to-the-root-of-any-problem_grovo_alex-khurgin_2025-07-02.png)
+
 ### 5W2H Problem-Solving Method from Management and Strategy Institute
 * [John's Management and Strategy Institute online credential](https://www.proprofs.com/quiz-school/user_certificate.php?id=347250403&qid=3927051)
 

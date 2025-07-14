@@ -14,11 +14,11 @@
 1. [Project Management](#project-management-1)
     1. [Certified DevOps Project Manager (DevOps-PM) from DevOps Academy](#certified-devops-project-manager-devops-pm-from-devops-academy)
 1. [Kubernetes](#kubernetes-7)
-    1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jess-piedra)
+    1. [Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra)
     1. [Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker](#kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker)
     1. [Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer](#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer)
-    1. [Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-monitoring-logging-and-runtime-security-from-pluralsight-by-antonio-jess-piedra)
-    1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jess-piedra)
+    1. [Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-monitoring-logging-and-runtime-security-from-pluralsight-by-antonio-jesus-piedra)
+    1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jesus-piedra)
     1. [Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino](#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino)
     1. [Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon](#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon)
 1. [Argo CD](#argo-cd-1)
@@ -33,7 +33,7 @@
     1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
 1. [AWS](#aws-2)
     1. [Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha](#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha)
-    1. [AWS CI/CD Pipeline from Great Learning Academy](#aws-ci-cd-pipeline-from-great-learning-academy)
+    1. [AWS CI/CD Pipeline from Great Learning Academy](#aws-cicd-pipeline-from-great-learning-academy)
 1. [Azure](#azure-2)
     1. [Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako](#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako)
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
@@ -51,7 +51,7 @@
     1. [Scaling with Google Cloud Operations from Google Cloud](#scaling-with-google-cloud-operations-from-google-cloud)
 ## Resources
 
-1. [DevOps Reading List](../devops_resource-links)
+1. [DevOps Reading List](../../links/devops/)
 ## Fundamentals (2)
 ### Certified DevOps Generalist (DevOps-GEN) from DevOps Academy
 * [John's DevOps Academy online credential](https://www.devops-certification.org/badges/64340326384175)

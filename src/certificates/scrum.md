@@ -10,7 +10,7 @@
 1. [Product Owner](#product-owner-5)
     1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
     1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
-    1. [Professional Product Discovery and Validation™ (PPDV) from Scrum.org](#professional-product-discovery-and-validation-ppdv-from-scrumorg)
+    1. [Professional Product Discovery and Validation™ (PPDV) from Scrum.org](#professional-product-discovery-and-validationtm-ppdv-from-scrumorg)
     1. [Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute](#scrum-product-owner-accredited-certification-spoac-from-scrum-institute)
     1. [Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell](#becoming-a-great-product-owner-from-pluralsight-by-jeremy-jarrell)
 1. [Developer](#developer-2)
@@ -33,10 +33,10 @@
 1. [How to Pass Scrum.org Assessments](../scrum_how-to-pass-scrum-org-assessments)
 ## Resources
 
-1. [Design Thinking Resource Links](../design-thinking_resource-links)
-1. [Product Owner Reading List](../resource-links_product)
-1. [OKR Reading List](../okr_resource-links)
-1. [Scrum Reading List](../scrum_resource-links)
+1. [Design Thinking Resource Links](../../links/design-thinking/)
+1. [Product Owner Reading List](../../links/product-management/)
+1. [OKR Reading List](../../links/okr/)
+1. [Scrum Reading List](../../links/scrum/)
 ## Scrum Master (7)
 ### Certified ScrumMaster (CSM) from Scrum Alliance
 * [John's Scrum Alliance online profile](https://www.scrumalliance.org/community/profile/jwang96)

@@ -8,7 +8,7 @@
     1. [Certified Professional In Design Thinking (CPDT) from Scrum Institute by Yeliz Obergfell](#certified-professional-in-design-thinking-cpdt-from-scrum-institute-by-yeliz-obergfell)
 ## Resources
 
-1. [Design Thinking Resource Links](../design-thinking_resource-links)
+1. [Design Thinking Resource Links](../../links/design-thinking/)
 ## Innovation (1)
 ### Introduction to Design Thinking from Great Learning Academy by Milind Kopikare
 * [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/IQVEANNH)

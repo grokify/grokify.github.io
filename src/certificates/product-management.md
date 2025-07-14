@@ -21,7 +21,7 @@
 1. [Product Owner](#product-owner-6)
     1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
     1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
-    1. [Professional Product Discovery and Validation™ (PPDV) from Scrum.org](#professional-product-discovery-and-validation-ppdv-from-scrumorg)
+    1. [Professional Product Discovery and Validation™ (PPDV) from Scrum.org](#professional-product-discovery-and-validationtm-ppdv-from-scrumorg)
     1. [Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute](#scrum-product-owner-accredited-certification-spoac-from-scrum-institute)
     1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devops-po-from-devops-academy)
     1. [Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell](#becoming-a-great-product-owner-from-pluralsight-by-jeremy-jarrell)
