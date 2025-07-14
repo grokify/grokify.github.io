@@ -56,4 +56,7 @@
     1. [Volkerdon](https://www.volkerdon.com/)
     1. [Agile Academy](https://www.agile-academy.com/en/)
 1. Certification Info
+    1. [Scrum.org vs Scrum Alliance Certification](https://www.reddit.com/r/agile/comments/yis18y/scrumorg_vs_scrum_alliance_certification/)
     1. [Scrum.org Certification Counts](https://www.scrum.org/professional-scrum-certifications/count)
+    1. [Are scrum.org certs valued in the industry?](https://www.reddit.com/r/scrum/comments/n4ofox/are_scrumorg_certs_valued_in_the_industry/)
+    1. [Worth doing a Scrum.org certification?](https://www.reddit.com/r/scrum/comments/1f22cs3/worth_doing_a_scrumorg_certification/)
