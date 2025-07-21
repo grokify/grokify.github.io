@@ -52,12 +52,12 @@
 1. [FedRAMP](#fedramp-1)
     1. [Security Compliance: FedRAMP from Pluralsight by Richard Harpur](#security-compliance-fedramp-from-pluralsight-by-richard-harpur)
 1. [AWS](#aws-6)
-    1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
     1. [Introduction to AWS Identity and Access Management (IAM) from Simplilearn](#introduction-to-aws-identity-and-access-management-iam-from-simplilearn)
     1. [Introduction to AWS Trusted Advisor from Simplilearn](#introduction-to-aws-trusted-advisor-from-simplilearn)
     1. [Getting Started with AWS Security Hub from Simplilearn](#getting-started-with-aws-security-hub-from-simplilearn)
     1. [Introduction to AWS Security Token Services (STS) from Simplilearn](#introduction-to-aws-security-token-services-sts-from-simplilearn)
     1. [Getting Started with AWS Control Tower from Simplilearn](#getting-started-with-aws-control-tower-from-simplilearn)
+    1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
 1. [Snyk](#snyk-1)
     1. [Application Analysis with Snyk from Pluralsight by Hiren Gadhvi](#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi)
 1. [Vulnerability Examples](#vulnerability-examples-5)
@@ -248,11 +248,6 @@
 <img src="../cert_appsec_fedramp_security-compliance-federamp_pluralsight_richard-harpur_2025-05-22.png" alt="John's Security Compliance: FedRAMP from Pluralsight by Richard Harpur" style="border:1px solid #000000" />
 
 ## AWS (6)
-### AWS: Identity and Access Management from Whizlabs
-* [John's Whizlabs online credential](https://coursera.org/verify/QRD93E7CVUMP)
-
-![John's AWS: Identity and Access Management from Whizlabs](cert_aws_aws-identity-and-access-management_whizlabs_cert-QRD93E7CVUMP_2024-03-20.png)
-
 ### Introduction to AWS Identity and Access Management (IAM) from Simplilearn
 
 ![John's Introduction to AWS Identity and Access Management (IAM) from Simplilearn](cert_aws_intro-to-aws-identity-and-access-management-iam_simplilearn_cert-4970506_1710929859_2024-03-20.png)
@@ -272,6 +267,11 @@
 ### Getting Started with AWS Control Tower from Simplilearn
 
 ![John's Getting Started with AWS Control Tower from Simplilearn](cert_aws_getting-started-with-aws-control-tower_simplilearn_cert-6735033_1718548596_2024-06-16.png)
+
+### AWS: Identity and Access Management from Whizlabs
+* [John's Whizlabs online credential](https://coursera.org/verify/QRD93E7CVUMP)
+
+![John's AWS: Identity and Access Management from Whizlabs](cert_aws_aws-identity-and-access-management_whizlabs_cert-QRD93E7CVUMP_2024-03-20.png)
 
 ## Snyk (1)
 ### Application Analysis with Snyk from Pluralsight by Hiren Gadhvi

@@ -3,9 +3,12 @@
     1. [Software Design Principles from Codecademy](#software-design-principles-from-codecademy)
 1. [Generative AI](#generative-ai-1)
     1. [Intro to Claude AI from Scrimba by Shant Dashjian](#intro-to-claude-ai-from-scrimba-by-shant-dashjian)
-1. [Vibe Coding](#vibe-coding-4)
+1. [Vibe Coding](#vibe-coding-7)
+    1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
     1. [Vibe Coding with Cursor AI from Scrimba by Maham Codes](#vibe-coding-with-cursor-ai-from-scrimba-by-maham-codes)
     1. [Build AI Apps with Lovable: Vibe Coding for Web Dev from Udemy by Pavan Kumar, Manish Patel](#build-ai-apps-with-lovable-vibe-coding-for-web-dev-from-udemy-by-pavan-kumar-manish-patel)
+    1. [AI Development with Lovable AI 2.0 - A Deeper Dive from Udemy by Randy Minder](#ai-development-with-lovable-ai-20-a-deeper-dive-from-udemy-by-randy-minder)
+    1. [Dashboards in Minutes with Claude AI: Stunning and NOW! from Udemy by Federico Garay](#dashboards-in-minutes-with-claude-ai-stunning-and-now-from-udemy-by-federico-garay)
     1. [Vibe Coding with Replit from Analytics Vidhya by Kunal Jain](#vibe-coding-with-replit-from-analytics-vidhya-by-kunal-jain)
     1. [Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi](#guide-to-vibe-coding-in-windsurf-from-analytics-vidhya-by-apoorv-vishnoi)
 1. [Algorithms](#algorithms-1)
@@ -60,7 +63,12 @@
 
 ![John's Intro to Claude AI from Scrimba by Shant Dashjian](cert_programming_gen-ai_intro-to-claud-ai_coursera_shant-dashjian_cert-BJ2AJF89N18M_2025-07-10.png)
 
-## Vibe Coding (4)
+## Vibe Coding (7)
+### Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/1LRTE17NTNXQ)
+
+![John's Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](cert_ai_vibe-coding_claude-code-software-engineering-with-generative-ai-agents_coursera_jules-white_cert-1LRTE17NTNXQ_2025-07-20.png)
+
 ### Vibe Coding with Cursor AI from Scrimba by Maham Codes
 * [John's Scrimba online credential](https://www.coursera.org/verify/YYQ26P22WQQF)
 
@@ -70,6 +78,16 @@
 * [John's Udemy online credential](https://www.udemy.com/certificate/UC-054ec269-a6c0-4c85-90ff-5539102c80a7/)
 
 <img src="../cert_ai_vibe-coding_build-ai-apps-with-lovable-vibe-coding-for-web-dev_udemy_pavan-kumar-manish-patel_cert-UC-054ec269-a6c0-4c85-90ff-5539102c80a7_2025-06-13.jpg" alt="John's Build AI Apps with Lovable: Vibe Coding for Web Dev from Udemy by Pavan Kumar, Manish Patel" style="border:1px solid #000000" />
+
+### AI Development with Lovable AI 2.0 - A Deeper Dive from Udemy by Randy Minder
+* [John's Udemy online credential](https://www.udemy.com/certificate/UC-27c83ee7-731e-4879-a2aa-5042b98d267f/)
+
+<img src="../cert_ai_vibe-coding_ai-development-with-lovable-ai-2.0-a-deeper-dive_udemy_randy-minder_cert-UC-27c83ee7-731e-4879-a2aa-5042b98d267f_2025-07-17.jpg" alt="John's AI Development with Lovable AI 2.0 - A Deeper Dive from Udemy by Randy Minder" style="border:1px solid #000000" />
+
+### Dashboards in Minutes with Claude AI: Stunning and NOW! from Udemy by Federico Garay
+* [John's Udemy online credential](https://www.udemy.com/certificate/UC-08a2f155-d9e0-4a66-a4aa-113051caa9ca/)
+
+<img src="../cert_ai_vibe-coding_dashboards-in-minutes-with-claude-ai_udemy_federico-garay_cert-UC-08a2f155-d9e0-4a66-a4aa-113051caa9ca_2025-07-19.jpg" alt="John's Dashboards in Minutes with Claude AI: Stunning and NOW! from Udemy by Federico Garay" style="border:1px solid #000000" />
 
 ### Vibe Coding with Replit from Analytics Vidhya by Kunal Jain
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/jf8ns9xz2w)

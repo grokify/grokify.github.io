@@ -11,9 +11,9 @@
     1. [Working With Third Parties Securely from KnowBe4](#working-with-third-parties-securely-from-knowbe4)
     1. [Minimising Third-Party Risk from KnowBe4](#minimising-third-party-risk-from-knowbe4)
 1. [AWS](#aws-3)
-    1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
     1. [Introduction to AWS Identity and Access Management (IAM) from Simplilearn](#introduction-to-aws-identity-and-access-management-iam-from-simplilearn)
     1. [Getting Started with AWS Control Tower from Simplilearn](#getting-started-with-aws-control-tower-from-simplilearn)
+    1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
 1. [Azure](#azure-1)
     1. [Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry](#microsoft-azure-identity-and-security-for-administrators-the-big-picture-from-pluralsight-by-jean-francois-landry)
 1. [Saviynt](#saviynt-6)
@@ -63,11 +63,6 @@
 <img src="../cert_third-party_minimising-third-party-risk_knowbe4_cert-803986043_2024-07-26.png" alt="John's Minimising Third-Party Risk from KnowBe4" style="border:1px solid #000000" />
 
 ## AWS (3)
-### AWS: Identity and Access Management from Whizlabs
-* [John's Whizlabs online credential](https://coursera.org/verify/QRD93E7CVUMP)
-
-![John's AWS: Identity and Access Management from Whizlabs](cert_aws_aws-identity-and-access-management_whizlabs_cert-QRD93E7CVUMP_2024-03-20.png)
-
 ### Introduction to AWS Identity and Access Management (IAM) from Simplilearn
 
 ![John's Introduction to AWS Identity and Access Management (IAM) from Simplilearn](cert_aws_intro-to-aws-identity-and-access-management-iam_simplilearn_cert-4970506_1710929859_2024-03-20.png)
@@ -75,6 +70,11 @@
 ### Getting Started with AWS Control Tower from Simplilearn
 
 ![John's Getting Started with AWS Control Tower from Simplilearn](cert_aws_getting-started-with-aws-control-tower_simplilearn_cert-6735033_1718548596_2024-06-16.png)
+
+### AWS: Identity and Access Management from Whizlabs
+* [John's Whizlabs online credential](https://coursera.org/verify/QRD93E7CVUMP)
+
+![John's AWS: Identity and Access Management from Whizlabs](cert_aws_aws-identity-and-access-management_whizlabs_cert-QRD93E7CVUMP_2024-03-20.png)
 
 ## Azure (1)
 ### Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry

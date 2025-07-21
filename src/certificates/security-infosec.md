@@ -53,6 +53,8 @@
     1. [World Wild Web: Ransomware from KnowBe4](#world-wild-web-ransomware-from-knowbe4)
 1. [Social Engineering](#social-engineering-1)
     1. [Pretexting - "Tech Support" Social Engineering? from KnowBe4](#pretexting-tech-support-social-engineering-from-knowbe4)
+1. [Privileged Access Management (PAM)](#privileged-access-management-pam-1)
+    1. [Benefits of the CyberArk PAM Solution from CyberArk](#benefits-of-the-cyberark-pam-solution-from-cyberark)
 1. [Business Continuity Planning (BCP)](#business-continuity-planning-bcp-2)
     1. [Saviynt Contingency Planning and Incident Response Training from Saviynt](#saviynt-contingency-planning-and-incident-response-training-from-saviynt)
     1. [Security and Disaster Preparedness from KnowBe4](#security-and-disaster-preparedness-from-knowbe4)
@@ -239,6 +241,11 @@
 ### Pretexting - "Tech Support" Social Engineering? from KnowBe4
 
 <img src="../cert_infosec_social-engineering_knowbe4-pretexting-tech-support_social-engineering_knowbe4_2024-07-21.png" alt="John's Pretexting - "Tech Support" Social Engineering? from KnowBe4" style="border:1px solid #000000" />
+
+## Privileged Access Management (PAM) (1)
+### Benefits of the CyberArk PAM Solution from CyberArk
+
+![John's Benefits of the CyberArk PAM Solution from CyberArk](cert_infosec_pam_benefits-of-the-cyberark-pam-solution_cyberark_cert-366_3_311133_1752545024_2025-07-14.png)
 
 ## Business Continuity Planning (BCP) (2)
 ### Saviynt Contingency Planning and Incident Response Training from Saviynt
