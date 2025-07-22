@@ -2,6 +2,8 @@
 1. [Goals](#goals-2)
     1. [Setting Goals - Your Guide to Focusing on What Is Important from Pluralsight by Tommy van Schaik](#setting-goals-your-guide-to-focusing-on-what-is-important-from-pluralsight-by-tommy-van-schaik)
     1. [Top Tips for Setting Authentic Career Goals from Pluralsight by Dr. Sweta Chawla](#top-tips-for-setting-authentic-career-goals-from-pluralsight-by-dr-sweta-chawla)
+1. [Personal Branding](#personal-branding-1)
+    1. [Developing Your Personal Brand from Pluralsight by Jason Alba](#developing-your-personal-brand-from-pluralsight-by-jason-alba)
 1. [Learning](#learning-2)
     1. [Start Your Lifelong Learning from Accenture](#start-your-lifelong-learning-from-accenture)
     1. [Keeping up with Technology from Pluralsight by Dan Appleman](#keeping-up-with-technology-from-pluralsight-by-dan-appleman)
@@ -18,6 +20,11 @@
 ### Top Tips for Setting Authentic Career Goals from Pluralsight by Dr. Sweta Chawla
 
 <img src="../cert_personal-development_goals_top-tips-for-setting-authentic-career-goals_pluralsight_sweta-chawla_2024-11-19.png" alt="John's Top Tips for Setting Authentic Career Goals from Pluralsight by Dr. Sweta Chawla" style="border:1px solid #000000" />
+
+## Personal Branding (1)
+### Developing Your Personal Brand from Pluralsight by Jason Alba
+
+<img src="../cert_marketing_personal-branding_developing-your-personal-brand_pluralsight_jason-alba_2025-07-21.png" alt="John's Developing Your Personal Brand from Pluralsight by Jason Alba" style="border:1px solid #000000" />
 
 ## Learning (2)
 ### Start Your Lifelong Learning from Accenture

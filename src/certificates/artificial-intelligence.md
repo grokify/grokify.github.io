@@ -24,7 +24,9 @@
     1. [Basics of LangGraph Workflows from Pluralsight by Craig Golightly](#basics-of-langgraph-workflows-from-pluralsight-by-craig-golightly)
 1. [Workflow Automation](#workflow-automation-1)
     1. [n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi](#n8n-a-complete-guide-to-the-automation-tool-from-analytics-vidhya-by-gyan-prakash-tripathi)
-1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-3)
+1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-5)
+    1. [Model Context Protocol: Advanced Topics from Anthropic](#model-context-protocol-advanced-topics-from-anthropic)
+    1. [Introduction to Model Context Protocol from Anthropic](#introduction-to-model-context-protocol-from-anthropic)
     1. [MCP for Production Automation from Hugging Face](#mcp-for-production-automation-from-hugging-face)
     1. [Fundamentals of MCP (Model Context Protocol) from Hugging Face](#fundamentals-of-mcp-model-context-protocol-from-hugging-face)
     1. [Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi](#foundations-of-model-context-protocol-from-analytics-vidhya-by-apoorv-vishnoi)
@@ -160,7 +162,17 @@
 
 <img src="../cert_ai_workflow-automation_n8n-a-complete-guide-to-the-automation-tool_analyticsvidhya_gyan-prakash-tripathi_2025-07-11.jpg" alt="John's n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi" style="border:1px solid #000000" />
 
-## Model Context Protocol (MCP) (3)
+## Model Context Protocol (MCP) (5)
+### Model Context Protocol: Advanced Topics from Anthropic
+* [John's Anthropic online credential](https://verify.skilljar.com/c/mu9br5w7hgpu)
+
+<img src="../cert_ai_mcp_model-context-protocol-advanced-topics_anthropic_cert-mu9br5w7hgpu_2025-07-21.jpg" alt="John's Model Context Protocol: Advanced Topics from Anthropic" style="border:1px solid #000000" />
+
+### Introduction to Model Context Protocol from Anthropic
+* [John's Anthropic online credential](https://verify.skilljar.com/c/z63bcx5kdca8)
+
+<img src="../cert_ai_mcp_introduction-to-model-context-protocol_anthropic_cert-z63bcx5kdca8-1753168193_2025-07-22.jpg" alt="John's Introduction to Model Context Protocol from Anthropic" style="border:1px solid #000000" />
+
 ### MCP for Production Automation from Hugging Face
 * [John's Hugging Face online credential](https://cdn-uploads.huggingface.co/production/uploads/noauth/tzZ2UDkYY3vwymJ368oB-.webp)
 
