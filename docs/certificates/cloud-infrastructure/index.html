@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/cloud-infrastructure/" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>Cloud Infrastructure (17) - John Wang's Site</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Cloud Infrastructure (17)";
+        var mkdocs_page_input_path = "certificates/cloud-infrastructure.md";
+        var mkdocs_page_url = "/certificates/cloud-infrastructure/";
+      </script>
+    
+    <script src="../../js/jquery-3.6.0.min.js" defer></script>
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+      <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../.." class="icon icon-home"> John Wang's Site
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../..">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Innovation</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../patents/">Patents (3)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../presentations/">Presentations (2)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../publications/">Publications (1)</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Awards</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../awards/">API (7)</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Certificates</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../api/">API (11)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../algorithms/">Algorithms (3)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../appreciation/">Appreciation (1)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (64)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence-ml/">Artificial Intelligence: ML (15)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (5)</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Cloud Infrastructure (17)</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#aws-9">AWS (9)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#designing-landing-zone-architectures-with-aws-control-tower-from-aws">Designing Landing Zone Architectures with AWS Control Tower from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#getting-started-with-aws-security-hub-from-simplilearn">Getting Started with AWS Security Hub from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-security-token-services-sts-from-simplilearn">Introduction to AWS Security Token Services (STS) from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#getting-started-with-aws-control-tower-from-simplilearn">Getting Started with AWS Control Tower from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#aws-cicd-pipeline-from-great-learning-academy">AWS CI/CD Pipeline from Great Learning Academy</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-bedrock-5">AWS Bedrock (5)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws">Automate Generative AI workflows using Amazon Bedrock Flows from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws">Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws">AWS SimuLearn: Secure Conversational AI with Guardrails from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#azure-2">Azure (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako">Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#google-cloud-platform-gcp-1">Google Cloud Platform (GCP) (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#scaling-with-google-cloud-operations-from-google-cloud">Scaling with Google Cloud Operations from Google Cloud</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../customer-service/">Customer Service (5)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../data-science/">Data Science (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (35)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../human-resources/">Human Resources (12)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../information-technology/">Information Technology (1)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (10)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (23)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../management-consulting/">Management Consulting (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../marketing/">Marketing (2)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (9)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../observability-and-reliability/">Observability and Reliability (14)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../personal-development/">Personal Development (9)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-design/">Product Design (2)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (21)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (39)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming-qa/">Programming: QA (5)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (21)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (6)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (52)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-compliance/">Security: Compliance (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-idsec/">Security: IDSec (19)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (47)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../sports/">Sports (4)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../ted-talks/">TED Talks (7)</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../..">John Wang's Site</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
+          <li>Certificates &raquo;</li><li>Cloud Infrastructure (17)</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="johns-cloud-infrastructure-certificates">John's Cloud Infrastructure Certificates</h1>
+<ol>
+<li><a href="#aws-9">AWS</a><ol>
+<li><a href="#designing-landing-zone-architectures-with-aws-control-tower-from-aws">Designing Landing Zone Architectures with AWS Control Tower from AWS</a></li>
+<li><a href="#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</a></li>
+<li><a href="#introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</a></li>
+<li><a href="#introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</a></li>
+<li><a href="#getting-started-with-aws-security-hub-from-simplilearn">Getting Started with AWS Security Hub from Simplilearn</a></li>
+<li><a href="#introduction-to-aws-security-token-services-sts-from-simplilearn">Introduction to AWS Security Token Services (STS) from Simplilearn</a></li>
+<li><a href="#getting-started-with-aws-control-tower-from-simplilearn">Getting Started with AWS Control Tower from Simplilearn</a></li>
+<li><a href="#aws-cicd-pipeline-from-great-learning-academy">AWS CI/CD Pipeline from Great Learning Academy</a></li>
+<li><a href="#aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</a></li>
+</ol>
+</li>
+<li><a href="#aws-bedrock-5">AWS Bedrock</a><ol>
+<li><a href="#amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</a></li>
+<li><a href="#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws">Automate Generative AI workflows using Amazon Bedrock Flows from AWS</a></li>
+<li><a href="#building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws">Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS</a></li>
+<li><a href="#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws">AWS SimuLearn: Secure Conversational AI with Guardrails from AWS</a></li>
+<li><a href="#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</a></li>
+</ol>
+</li>
+<li><a href="#azure-2">Azure</a><ol>
+<li><a href="#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako">Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako</a></li>
+<li><a href="#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</a></li>
+</ol>
+</li>
+<li><a href="#google-cloud-platform-gcp-1">Google Cloud Platform (GCP)</a><ol>
+<li><a href="#scaling-with-google-cloud-operations-from-google-cloud">Scaling with Google Cloud Operations from Google Cloud</a></li>
+</ol>
+</li>
+</ol>
+<h2 id="aws-9">AWS (9)</h2>
+<h3 id="designing-landing-zone-architectures-with-aws-control-tower-from-aws">Designing Landing Zone Architectures with AWS Control Tower from AWS</h3>
+<p><img src="../cert_cloud_aws_desiging-landing-zone-architectures-with-aws-control-tower_cert-67722468-123b-4efc-af0f-b3c596317b5c_2025-07-26.png" alt="John's Designing Landing Zone Architectures with AWS Control Tower from AWS" style="border:1px solid #000000" /></p>
+<h3 id="create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</h3>
+<p><img src="../cert_devops_aws_create-aws-infrastructure-as-code-templates-using-generative-ai_pluralsight_shubham-sinha_2024-09-11.png" alt="John's Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha" style="border:1px solid #000000" /></p>
+<h3 id="introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</h3>
+<p><img alt="John's Introduction to AWS Identity and Access Management (IAM) from Simplilearn" src="../cert_aws_intro-to-aws-identity-and-access-management-iam_simplilearn_cert-4970506_1710929859_2024-03-20.png" /></p>
+<h3 id="introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</h3>
+<p><img alt="John's Introduction to AWS Trusted Advisor from Simplilearn" src="../cert_aws_intro-to-aws-trusted-advisor_simplilearn_cert-4971787_1710945844_2024-03-20.png" /></p>
+<h3 id="getting-started-with-aws-security-hub-from-simplilearn">Getting Started with AWS Security Hub from Simplilearn</h3>
+<p><img alt="John's Getting Started with AWS Security Hub from Simplilearn" src="../cert_aws_getting-started-with-aws-security-hub_simplilearn_cert-4973168_1711030705_2024-03-21.png" /></p>
+<h3 id="introduction-to-aws-security-token-services-sts-from-simplilearn">Introduction to AWS Security Token Services (STS) from Simplilearn</h3>
+<p><img alt="John's Introduction to AWS Security Token Services (STS) from Simplilearn" src="../cert_aws_introduction-to-aws-security-token-services-sts_6733873_2024-06-15.png" /></p>
+<h3 id="getting-started-with-aws-control-tower-from-simplilearn">Getting Started with AWS Control Tower from Simplilearn</h3>
+<p><img alt="John's Getting Started with AWS Control Tower from Simplilearn" src="../cert_aws_getting-started-with-aws-control-tower_simplilearn_cert-6735033_1718548596_2024-06-16.png" /></p>
+<h3 id="aws-cicd-pipeline-from-great-learning-academy">AWS CI/CD Pipeline from Great Learning Academy</h3>
+<ul>
+<li><a href="https://verify.mygreatlearning.com/verify/ZGRSHOKG">John's Great Learning Academy online credential</a></li>
+</ul>
+<p><img src="../cert_aws_aws-ci-cd-pipeline_greatlearning_cert-ZGRSHOKG_2024-04-07.jpg" alt="John's AWS CI/CD Pipeline from Great Learning Academy" style="border:1px solid #000000" /></p>
+<h3 id="aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</h3>
+<ul>
+<li><a href="https://coursera.org/verify/QRD93E7CVUMP">John's Whizlabs online credential</a></li>
+</ul>
+<p><img alt="John's AWS: Identity and Access Management from Whizlabs" src="../cert_aws_aws-identity-and-access-management_whizlabs_cert-QRD93E7CVUMP_2024-03-20.png" /></p>
+<h2 id="aws-bedrock-5">AWS Bedrock (5)</h2>
+<h3 id="amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_amazon-bedrock-getting-started_aws_cert-ce0a575a-2277-48f0-9a70-e2acb21e0190_2025-07-26.png" alt="John's Amazon Bedrock Getting Started from AWS" style="border:1px solid #000000" /></p>
+<h3 id="automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws">Automate Generative AI workflows using Amazon Bedrock Flows from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_automate-generative-ai-workflows-using-amazon-bedrock-flows_aws_cert_ba475a2c-5e70-42c4-b25e-524397b4e3fb_2025-07-26.png" alt="John's Automate Generative AI workflows using Amazon Bedrock Flows from AWS" style="border:1px solid #000000" /></p>
+<h3 id="building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws">Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_building-rag-workflows-with-amazon-opensesarch-service_aws_cert-f12227e6-bf4b-451c-9679-00f2d277e05e_2025-07-26.png" alt="John's Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS" style="border:1px solid #000000" /></p>
+<h3 id="aws-simulearn-secure-conversational-ai-with-guardrails-from-aws">AWS SimuLearn: Secure Conversational AI with Guardrails from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_secure-conversational-ai-with-guardrails_aws_cert-cec75b62-666c-482d-8668-3b68fa2453b8_2025-07-26.png" alt="John's AWS SimuLearn: Secure Conversational AI with Guardrails from AWS" style="border:1px solid #000000" /></p>
+<h3 id="introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</h3>
+<p><img src="../cert_ai_aws_introduction-to-bedrock_pluralsight_muhammad-sajid_2025-06-15.png" alt="John's Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" /></p>
+<h2 id="azure-2">Azure (2)</h2>
+<h3 id="create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako">Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako</h3>
+<p><img src="../cert_devops_azure_create-azure-resource-templates-generative-ai_pluralsight_bismark-adomako_2024-09-28.png" alt="John's Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako" style="border:1px solid #000000" /></p>
+<h3 id="microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</h3>
+<p><img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" /></p>
+<h2 id="google-cloud-platform-gcp-1">Google Cloud Platform (GCP) (1)</h2>
+<h3 id="scaling-with-google-cloud-operations-from-google-cloud">Scaling with Google Cloud Operations from Google Cloud</h3>
+<ul>
+<li><a href="https://coursera.org/verify/UZNVFWLTKF6V">John's Google Cloud online credential</a></li>
+</ul>
+<p><img alt="John's Scaling with Google Cloud Operations from Google Cloud" src="../cert_googlecloud_scaling-with-google-cloud-operations_google_cert-UZNVFWLTKF6V_2024-07-10.png" /></p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../board-of-directors/" class="btn btn-neutral float-left" title="Board of Directors (5)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../customer-service/" class="btn btn-neutral float-right" title="Customer Service (5)">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../board-of-directors/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../customer-service/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
