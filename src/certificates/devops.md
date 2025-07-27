@@ -31,8 +31,7 @@
     1. [Painless Vulnerability Management from Chainguard](#painless-vulnerability-management-from-chainguard)
     1. [NeuVector Basics from Rancher Academy](#neuvector-basics-from-rancher-academy)
     1. [Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof](#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof)
-1. [AWS](#aws-2)
-    1. [Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha](#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha)
+1. [AWS](#aws-1)
     1. [AWS CI/CD Pipeline from Great Learning Academy](#aws-cicd-pipeline-from-great-learning-academy)
 1. [Azure](#azure-2)
     1. [Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako](#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako)
@@ -46,7 +45,7 @@
     1. [Monitoring a Kubernetes Cluster: Install the Agent from Datadog](#monitoring-a-kubernetes-cluster-install-the-agent-from-datadog)
     1. [Monitoring a Kubernetes Cluster: The Control Plane from Datadog](#monitoring-a-kubernetes-cluster-the-control-plane-from-datadog)
     1. [Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog](#monitoring-a-kubernetes-cluster-troubleshooting-workloads-from-datadog)
-1. [Google Cloud](#google-cloud-2)
+1. [Google Cloud Platform (GCP)](#google-cloud-platform-gcp-2)
     1. [Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud](#site-reliability-engineering-measuring-and-managing-reliability-from-google-cloud)
     1. [Scaling with Google Cloud Operations from Google Cloud](#scaling-with-google-cloud-operations-from-google-cloud)
 ## Resources
@@ -161,11 +160,7 @@
 
 <img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" />
 
-## AWS (2)
-### Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha
-
-<img src="../cert_devops_aws_create-aws-infrastructure-as-code-templates-using-generative-ai_pluralsight_shubham-sinha_2024-09-11.png" alt="John's Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha" style="border:1px solid #000000" />
-
+## AWS (1)
 ### AWS CI/CD Pipeline from Great Learning Academy
 * [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/ZGRSHOKG)
 
@@ -221,7 +216,7 @@
 
 <img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-troubleshooting-workloads_datadog_cert-8v4xiyb3tt_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog" style="border:1px solid #000000" />
 
-## Google Cloud (2)
+## Google Cloud Platform (GCP) (2)
 ### Site Reliability Engineering: Measuring and Managing Reliability from Google Cloud
 * [John's Google Cloud online credential](https://coursera.org/verify/2VT7MFUZYCPJ)
 

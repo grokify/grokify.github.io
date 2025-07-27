@@ -1,6 +1,9 @@
 # John's API Certificates
 1. [Design](#design-1)
     1. [Fundamentals of RESTful API Design from Apigee](#fundamentals-of-restful-api-design-from-apigee)
+1. [Generative AI](#generative-ai-2)
+    1. [OpenAI Chat Completions API from Pluralsight by Xavier Morera](#openai-chat-completions-api-from-pluralsight-by-xavier-morera)
+    1. [OpenAI Assistant API from Pluralsight by Xavier Morera](#openai-assistant-api-from-pluralsight-by-xavier-morera)
 1. [Security](#security-5)
     1. [OWASP Top 10 from Snyk](#owasp-top-10-from-snyk)
     1. [Snyk Top 10 from Snyk](#snyk-top-10-from-snyk)
@@ -16,6 +19,15 @@
 ### Fundamentals of RESTful API Design from Apigee
 
 <img src="../cert_rest_apigee_fundamentals-of-restful-api-design_2015-03-08.png" alt="John's Fundamentals of RESTful API Design from Apigee" style="border:1px solid #000000" />
+
+## Generative AI (2)
+### OpenAI Chat Completions API from Pluralsight by Xavier Morera
+
+<img src="../cert_ai_gen-ai-api_openai-chat-completions-api_pluralsight_xavier-morea_2025-07-27.png" alt="John's OpenAI Chat Completions API from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
+
+### OpenAI Assistant API from Pluralsight by Xavier Morera
+
+<img src="../cert_ai_agentic-ai_openai-assistant-api_pluralsight_xavier-morera_2025-06-23.png" alt="John's OpenAI Assistant API from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
 
 ## Security (5)
 ### OWASP Top 10 from Snyk

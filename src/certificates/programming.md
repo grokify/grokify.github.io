@@ -1,8 +1,10 @@
 # John's Programming Certificates
 1. [Fundamentals](#fundamentals-1)
     1. [Software Design Principles from Codecademy](#software-design-principles-from-codecademy)
-1. [Generative AI](#generative-ai-1)
+1. [Generative AI](#generative-ai-3)
     1. [Intro to Claude AI from Scrimba by Shant Dashjian](#intro-to-claude-ai-from-scrimba-by-shant-dashjian)
+    1. [OpenAI Chat Completions API from Pluralsight by Xavier Morera](#openai-chat-completions-api-from-pluralsight-by-xavier-morera)
+    1. [OpenAI Assistant API from Pluralsight by Xavier Morera](#openai-assistant-api-from-pluralsight-by-xavier-morera)
 1. [Vibe Coding](#vibe-coding-7)
     1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
     1. [Vibe Coding with Cursor AI from Scrimba by Maham Codes](#vibe-coding-with-cursor-ai-from-scrimba-by-maham-codes)
@@ -57,11 +59,19 @@
 
 <img src="../cert_programming_principles_software-design-rinciples-source_codecademy_cert-920e83367c1e1b29ef2ce88c8086a0b6_2024-08-03.png" alt="John's Software Design Principles from Codecademy" style="border:1px solid #000000" />
 
-## Generative AI (1)
+## Generative AI (3)
 ### Intro to Claude AI from Scrimba by Shant Dashjian
 * [John's Scrimba online credential](https://www.coursera.org/verify/BJ2AJF89N18M)
 
 ![John's Intro to Claude AI from Scrimba by Shant Dashjian](cert_programming_gen-ai_intro-to-claud-ai_coursera_shant-dashjian_cert-BJ2AJF89N18M_2025-07-10.png)
+
+### OpenAI Chat Completions API from Pluralsight by Xavier Morera
+
+<img src="../cert_ai_gen-ai-api_openai-chat-completions-api_pluralsight_xavier-morea_2025-07-27.png" alt="John's OpenAI Chat Completions API from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
+
+### OpenAI Assistant API from Pluralsight by Xavier Morera
+
+<img src="../cert_ai_agentic-ai_openai-assistant-api_pluralsight_xavier-morera_2025-06-23.png" alt="John's OpenAI Assistant API from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
 
 ## Vibe Coding (7)
 ### Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White

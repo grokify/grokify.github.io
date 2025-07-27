@@ -1,18 +1,39 @@
 # John's Artificial Intelligence Certificates
 1. [Strategy](#strategy-1)
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
-1. [Product Management](#product-management-3)
+1. [Product Management](#product-management-4)
+    1. [Generative AI for Innovators from Pluralsight by Esteban Herrera](#generative-ai-for-innovators-from-pluralsight-by-esteban-herrera)
     1. [Artificial Intelligence Micro-Certification (AIC) from Product School by Sam Stevens](#artificial-intelligence-micro-certification-aic-from-product-school-by-sam-stevens)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
     1. [AI Product from Great Learning Academy by Abhinanda Sarkar](#ai-product-from-great-learning-academy-by-abhinanda-sarkar)
-1. [Agentic AI](#agentic-ai-7)
+1. [AI Assistants](#ai-assistants-7)
+    1. [Amazon Q Business Getting Started from AWS](#amazon-q-business-getting-started-from-aws)
+    1. [A Hands-On Look at Amazon Q Business Expert from AWS by Paul Colmer](#a-hands-on-look-at-amazon-q-business-expert-from-aws-by-paul-colmer)
+    1. [MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh](#midjourney-from-inspiration-to-implementation-from-analytics-vidhya-by-sandeep-singh)
+    1. [Duet AI in Gmail from Google Cloud](#duet-ai-in-gmail-from-google-cloud)
+    1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
+    1. [SEO with AI from Sololearn](#seo-with-ai-from-sololearn)
+    1. [ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy](#chatgpt-for-excel-from-great-learning-academy-by-e-balachandra-murthy)
+1. [AI Code Assistants](#ai-code-assistants-4)
+    1. [Claude Code in Action from Anthropic](#claude-code-in-action-from-anthropic)
+    1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
+    1. [Introduction to Amazon Q Developer (Technical) from AWS](#introduction-to-amazon-q-developer-technical-from-aws)
+    1. [Intro to Claude AI from Scrimba by Shant Dashjian](#intro-to-claude-ai-from-scrimba-by-shant-dashjian)
+1. [Vibe Coding](#vibe-coding-7)
+    1. [Vibe Coding with Cursor AI from Scrimba by Maham Codes](#vibe-coding-with-cursor-ai-from-scrimba-by-maham-codes)
+    1. [Build AI Apps with Lovable: Vibe Coding for Web Dev from Udemy by Pavan Kumar, Manish Patel](#build-ai-apps-with-lovable-vibe-coding-for-web-dev-from-udemy-by-pavan-kumar-manish-patel)
+    1. [AI Development with Lovable AI 2.0 - A Deeper Dive from Udemy by Randy Minder](#ai-development-with-lovable-ai-20-a-deeper-dive-from-udemy-by-randy-minder)
+    1. [Dashboards in Minutes with Claude AI: Stunning and NOW! from Udemy by Federico Garay](#dashboards-in-minutes-with-claude-ai-stunning-and-now-from-udemy-by-federico-garay)
+    1. [Vibe Coding with Replit from Analytics Vidhya by Kunal Jain](#vibe-coding-with-replit-from-analytics-vidhya-by-kunal-jain)
+    1. [Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi](#guide-to-vibe-coding-in-windsurf-from-analytics-vidhya-by-apoorv-vishnoi)
+    1. [Vibe Coding from Sololearn](#vibe-coding-from-sololearn)
+1. [AI Agents](#ai-agents-6)
     1. [Fundamentals of Agents from Hugging Face](#fundamentals-of-agents-from-hugging-face)
     1. [Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid](#introduction-to-developing-ai-agents-from-pluralsight-by-muhammad-sajid)
     1. [Creating Personal AI Agents from Pluralsight by Kamran Ayub](#creating-personal-ai-agents-from-pluralsight-by-kamran-ayub)
     1. [Using AI Agents for Productivity from Pluralsight by Vlad Catrinescu](#using-ai-agents-for-productivity-from-pluralsight-by-vlad-catrinescu)
     1. [Agentic AI Lifecycle Management from Pluralsight by Eman Hassan](#agentic-ai-lifecycle-management-from-pluralsight-by-eman-hassan)
     1. [Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman](#deploying-ai-agents-in-production-environments-from-pluralsight-by-pratheerth-padman)
-    1. [OpenAI Assistant API from Pluralsight by Xavier Morera](#openai-assistant-api-from-pluralsight-by-xavier-morera)
 1. [Multi-Agent Systems](#multi-agent-systems-8)
     1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joao-moura)
     1. [Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](#mastering-multi-agent-development-with-autogen-from-packt-by-paulo-dichone)
@@ -30,28 +51,17 @@
     1. [MCP for Production Automation from Hugging Face](#mcp-for-production-automation-from-hugging-face)
     1. [Fundamentals of MCP (Model Context Protocol) from Hugging Face](#fundamentals-of-mcp-model-context-protocol-from-hugging-face)
     1. [Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi](#foundations-of-model-context-protocol-from-analytics-vidhya-by-apoorv-vishnoi)
-1. [Generative AI](#generative-ai-9)
-    1. [Generative AI for Web Development Specialization (3 Courses) from Scrimba](#generative-ai-for-web-development-specialization-3-courses-from-scrimba)
-    1. [Intro to Claude AI from Scrimba by Shant Dashjian](#intro-to-claude-ai-from-scrimba-by-shant-dashjian)
-    1. [MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh](#midjourney-from-inspiration-to-implementation-from-analytics-vidhya-by-sandeep-singh)
-    1. [Introduction to Generative AI from Google Cloud](#introduction-to-generative-ai-from-google-cloud)
-    1. [Introduction to Image Generation from Google Cloud](#introduction-to-image-generation-from-google-cloud)
-    1. [Duet AI in Gmail from Google Cloud](#duet-ai-in-gmail-from-google-cloud)
-    1. [Databricks Accredited Generative AI Fundamentals from Databricks](#databricks-accredited-generative-ai-fundamentals-from-databricks)
-    1. [SEO with AI from Sololearn](#seo-with-ai-from-sololearn)
-    1. [ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy](#chatgpt-for-excel-from-great-learning-academy-by-e-balachandra-murthy)
-1. [Vibe Coding](#vibe-coding-8)
-    1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
-    1. [Vibe Coding with Cursor AI from Scrimba by Maham Codes](#vibe-coding-with-cursor-ai-from-scrimba-by-maham-codes)
-    1. [Build AI Apps with Lovable: Vibe Coding for Web Dev from Udemy by Pavan Kumar, Manish Patel](#build-ai-apps-with-lovable-vibe-coding-for-web-dev-from-udemy-by-pavan-kumar-manish-patel)
-    1. [AI Development with Lovable AI 2.0 - A Deeper Dive from Udemy by Randy Minder](#ai-development-with-lovable-ai-20-a-deeper-dive-from-udemy-by-randy-minder)
-    1. [Dashboards in Minutes with Claude AI: Stunning and NOW! from Udemy by Federico Garay](#dashboards-in-minutes-with-claude-ai-stunning-and-now-from-udemy-by-federico-garay)
-    1. [Vibe Coding with Replit from Analytics Vidhya by Kunal Jain](#vibe-coding-with-replit-from-analytics-vidhya-by-kunal-jain)
-    1. [Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi](#guide-to-vibe-coding-in-windsurf-from-analytics-vidhya-by-apoorv-vishnoi)
-    1. [Vibe Coding from Sololearn](#vibe-coding-from-sololearn)
 1. [Prompt Engineering](#prompt-engineering-2)
     1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
+1. [Generative AI](#generative-ai-4)
+    1. [Generative AI for Web Development Specialization (3 Courses) from Scrimba](#generative-ai-for-web-development-specialization-3-courses-from-scrimba)
+    1. [Introduction to Generative AI from Google Cloud](#introduction-to-generative-ai-from-google-cloud)
+    1. [Introduction to Image Generation from Google Cloud](#introduction-to-image-generation-from-google-cloud)
+    1. [Databricks Accredited Generative AI Fundamentals from Databricks](#databricks-accredited-generative-ai-fundamentals-from-databricks)
+1. [Generative AI API](#generative-ai-api-2)
+    1. [OpenAI Chat Completions API from Pluralsight by Xavier Morera](#openai-chat-completions-api-from-pluralsight-by-xavier-morera)
+    1. [OpenAI Assistant API from Pluralsight by Xavier Morera](#openai-assistant-api-from-pluralsight-by-xavier-morera)
 1. [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag-3)
     1. [Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota](#vector-space-models-and-embeddings-in-rags-from-pluralsight-by-axel-sirota)
     1. [Multi-modal RAGs from Pluralsight by Dhiraj Kumar](#multi-modal-rags-from-pluralsight-by-dhiraj-kumar)
@@ -62,10 +72,13 @@
     1. [AI Security from Lakera](#ai-security-from-lakera)
 1. [Governance](#governance-1)
     1. [Introduction to Responsible AI from Google Cloud](#introduction-to-responsible-ai-from-google-cloud)
-1. [Applications](#applications-1)
-    1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
-1. [AWS](#aws-1)
+1. [AWS](#aws-6)
+    1. [Amazon Bedrock Getting Started from AWS](#amazon-bedrock-getting-started-from-aws)
+    1. [Automate Generative AI workflows using Amazon Bedrock Flows from AWS](#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws)
+    1. [Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS](#building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws)
+    1. [AWS SimuLearn: Secure Conversational AI with Guardrails from AWS](#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws)
     1. [Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid](#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid)
+    1. [Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha](#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha)
 ## Resources
 
 1. [Artificial Intelligence Resource Links](../../links/artificial-intelligence/)
@@ -75,7 +88,11 @@
 
 ![John's AI Strategy and Governance from University of Pennsylvania, Wharton School](cert_ai_ai-strategy-and-governance_wharton_cert-DGB6XB4C7VKD_2024-03-03.png)
 
-## Product Management (3)
+## Product Management (4)
+### Generative AI for Innovators from Pluralsight by Esteban Herrera
+
+<img src="../cert_ai_pm_generative-ai-for-innovators_pluralsight_esteban-herrera_2025-07-27.png" alt="John's Generative AI for Innovators from Pluralsight by Esteban Herrera" style="border:1px solid #000000" />
+
 ### Artificial Intelligence Micro-Certification (AIC) from Product School by Sam Stevens
 
 <img src="../cert_ai_product-management_artificial-intelligence-micro-certification-aic_product-school_sam-stevens_2025-07-20.png" alt="John's Artificial Intelligence Micro-Certification (AIC) from Product School by Sam Stevens" style="border:1px solid #000000" />
@@ -90,7 +107,96 @@
 
 <img src="../cert_ai_product-management_ai-product_great-learning_abhinanda-sarkar_cert-20250720-4683-1t0yf13_2025-07-20.jpg" alt="John's AI Product from Great Learning Academy by Abhinanda Sarkar" style="border:1px solid #000000" />
 
-## Agentic AI (7)
+## AI Assistants (7)
+### Amazon Q Business Getting Started from AWS
+
+<img src="../cert_ai_assistants_amazon-q-business-getting-started_cert-386e5f5a-f6a9-418e-82bc-1bc5bf7b31d1_2025-07-26.png" alt="John's Amazon Q Business Getting Started from AWS" style="border:1px solid #000000" />
+
+### A Hands-On Look at Amazon Q Business Expert from AWS by Paul Colmer
+
+<img src="../cert_ai_assistants_hands-on-look-at-amazon-q-business-expert_aws_cert-744372d0-cefe-4ef0-b0af-7463dc254dca_2025-07-26.png" alt="John's A Hands-On Look at Amazon Q Business Expert from AWS by Paul Colmer" style="border:1px solid #000000" />
+
+### MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/edmxgsnnvy)
+
+<img src="../cert_ai_gen-ai_midjourney-from-inspiration-to-implementation_analyticsvidhya_cert-680610945_sandeep-singh_2025-07-11.jpg" alt="John's MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh" style="border:1px solid #000000" />
+
+### Duet AI in Gmail from Google Cloud
+* [John's Google Cloud online credential](https://coursera.org/verify/DHKM6DF4MQ67)
+
+![John's Duet AI in Gmail from Google Cloud](cert_ai_duet-ai-in-gmail_google-cloud_cert-DHKM6DF4MQ67_2024-02-22.png)
+
+### Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas
+
+<img src="../cert_leadership_communications_using-generative-ai-to-refine-communications-to-executives_pluralsight_ed-freitas_2024-07-28.png" alt="John's Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas" style="border:1px solid #000000" />
+
+### SEO with AI from Sololearn
+* [John's Sololearn online credential](https://www.sololearn.com/certificates/CC-8PJDAA6M)
+
+<img src="../cert_ai_seo_seo-with-ai_sololearn_cert-CC-8PJDAA6M_2025-07-15.jpg" alt="John's SEO with AI from Sololearn" style="border:1px solid #000000" />
+
+### ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy
+* [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/WFDRKONI)
+
+<img src="../cert_ai_chatgpt-for-excel_greatlearning-by-e-balachandra-murthy_cert-WFDRKONI_2024-03-03.jpg" alt="John's ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy" style="border:1px solid #000000" />
+
+## AI Code Assistants (4)
+### Claude Code in Action from Anthropic
+* [John's Anthropic online credential](https://verify.skilljar.com/c/j3k4jnhhakvj)
+
+<img src="../cert_ai_vibe-coding_claude-code-in-action_anthropic_cert-j3k4jnhhakvj-1753183000_2025-07-22.jpg" alt="John's Claude Code in Action from Anthropic" style="border:1px solid #000000" />
+
+### Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/1LRTE17NTNXQ)
+
+![John's Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](cert_ai_vibe-coding_claude-code-software-engineering-with-generative-ai-agents_coursera_jules-white_cert-1LRTE17NTNXQ_2025-07-20.png)
+
+### Introduction to Amazon Q Developer (Technical) from AWS
+
+<img src="../cert_ai_assistants_introduction-to-q-developer-technical_aws_cert-8ba8059b-1d2a-4719-a7b3-3cee051e1c28.png" alt="John's Introduction to Amazon Q Developer (Technical) from AWS" style="border:1px solid #000000" />
+
+### Intro to Claude AI from Scrimba by Shant Dashjian
+* [John's Scrimba online credential](https://www.coursera.org/verify/BJ2AJF89N18M)
+
+![John's Intro to Claude AI from Scrimba by Shant Dashjian](cert_programming_gen-ai_intro-to-claud-ai_coursera_shant-dashjian_cert-BJ2AJF89N18M_2025-07-10.png)
+
+## Vibe Coding (7)
+### Vibe Coding with Cursor AI from Scrimba by Maham Codes
+* [John's Scrimba online credential](https://www.coursera.org/verify/YYQ26P22WQQF)
+
+![John's Vibe Coding with Cursor AI from Scrimba by Maham Codes](cert_programming_gen-ai_vibe-coding-with-cursor-ai_coursera_maham-codes_cert-YYQ26P22WQQF_2025-07-10.png)
+
+### Build AI Apps with Lovable: Vibe Coding for Web Dev from Udemy by Pavan Kumar, Manish Patel
+* [John's Udemy online credential](https://www.udemy.com/certificate/UC-054ec269-a6c0-4c85-90ff-5539102c80a7/)
+
+<img src="../cert_ai_vibe-coding_build-ai-apps-with-lovable-vibe-coding-for-web-dev_udemy_pavan-kumar-manish-patel_cert-UC-054ec269-a6c0-4c85-90ff-5539102c80a7_2025-06-13.jpg" alt="John's Build AI Apps with Lovable: Vibe Coding for Web Dev from Udemy by Pavan Kumar, Manish Patel" style="border:1px solid #000000" />
+
+### AI Development with Lovable AI 2.0 - A Deeper Dive from Udemy by Randy Minder
+* [John's Udemy online credential](https://www.udemy.com/certificate/UC-27c83ee7-731e-4879-a2aa-5042b98d267f/)
+
+<img src="../cert_ai_vibe-coding_ai-development-with-lovable-ai-2.0-a-deeper-dive_udemy_randy-minder_cert-UC-27c83ee7-731e-4879-a2aa-5042b98d267f_2025-07-17.jpg" alt="John's AI Development with Lovable AI 2.0 - A Deeper Dive from Udemy by Randy Minder" style="border:1px solid #000000" />
+
+### Dashboards in Minutes with Claude AI: Stunning and NOW! from Udemy by Federico Garay
+* [John's Udemy online credential](https://www.udemy.com/certificate/UC-08a2f155-d9e0-4a66-a4aa-113051caa9ca/)
+
+<img src="../cert_ai_vibe-coding_dashboards-in-minutes-with-claude-ai_udemy_federico-garay_cert-UC-08a2f155-d9e0-4a66-a4aa-113051caa9ca_2025-07-19.jpg" alt="John's Dashboards in Minutes with Claude AI: Stunning and NOW! from Udemy by Federico Garay" style="border:1px solid #000000" />
+
+### Vibe Coding with Replit from Analytics Vidhya by Kunal Jain
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/jf8ns9xz2w)
+
+<img src="../cert_ai_vibe-coding_vibe-coding-with-replit_analyticsvidhya_kunal-jain_cert-680574767_2025-07-11.jpg" alt="John's Vibe Coding with Replit from Analytics Vidhya by Kunal Jain" style="border:1px solid #000000" />
+
+### Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/edmxgsnnvy)
+
+<img src="../cert_ai_vibe-coding_guide-to-vibe-coding-in-windsurf_analyticsvidhya_apporv-vishnoi_cert-680590660_2025-07-11.jpg" alt="John's Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi" style="border:1px solid #000000" />
+
+### Vibe Coding from Sololearn
+* [John's Sololearn online credential](https://www.sololearn.com/certificates/CC-H5DTUCSU)
+
+<img src="../cert_ai_vibe-coding_vibe-coding_sololearn_cert-CC-H5DTUCSU_2025-07-15.jpg" alt="John's Vibe Coding from Sololearn" style="border:1px solid #000000" />
+
+## AI Agents (6)
 ### Fundamentals of Agents from Hugging Face
 * [John's Hugging Face online credential](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/grokify/2025-06-20.png)
 
@@ -115,10 +221,6 @@
 ### Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman
 
 <img src="../cert_ai_agentic-ai_deploying-ai-agents-in-produciton-environments_pluralsight_pratheerth-padman_2025-06-23.png" alt="John's Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman" style="border:1px solid #000000" />
-
-### OpenAI Assistant API from Pluralsight by Xavier Morera
-
-<img src="../cert_ai_agentic-ai_openai-assistant-api_pluralsight_xavier-morera_2025-06-23.png" alt="John's OpenAI Assistant API from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
 
 ## Multi-Agent Systems (8)
 ### Multi AI Agent Systems with CrewAI from CrewAI by João Moura
@@ -188,94 +290,6 @@
 
 <img src="../cert_ai_mcp_foundations-of-model-context-protocol_analytics-vidhya_cert-636446298_2025-04-02.jpg" alt="John's Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi" style="border:1px solid #000000" />
 
-## Generative AI (9)
-### Generative AI for Web Development Specialization (3 Courses) from Scrimba
-* [John's Scrimba online credential](https://www.coursera.org/verify/specialization/VY1BKDGDO76G)
-
-<img src="../cert_ai_gen-ai_generative-ai-for-web-development_coursera_cert-VY1BKDGDO76G_2025-07-11.png" alt="John's Generative AI for Web Development Specialization (3 Courses) from Scrimba" style="border:1px solid #000000" />
-
-### Intro to Claude AI from Scrimba by Shant Dashjian
-* [John's Scrimba online credential](https://www.coursera.org/verify/BJ2AJF89N18M)
-
-![John's Intro to Claude AI from Scrimba by Shant Dashjian](cert_programming_gen-ai_intro-to-claud-ai_coursera_shant-dashjian_cert-BJ2AJF89N18M_2025-07-10.png)
-
-### MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh
-* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/edmxgsnnvy)
-
-<img src="../cert_ai_gen-ai_midjourney-from-inspiration-to-implementation_analyticsvidhya_cert-680610945_sandeep-singh_2025-07-11.jpg" alt="John's MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh" style="border:1px solid #000000" />
-
-### Introduction to Generative AI from Google Cloud
-* [John's Google Cloud online credential](https://coursera.org/verify/3VBHJ76MBTU9)
-
-![John's Introduction to Generative AI from Google Cloud](cert_ai_introduction-to-generative-ai_google-cloud_cert-3VBHJ76MBTU9_2024-02-21.png)
-
-### Introduction to Image Generation from Google Cloud
-* [John's Google Cloud online credential](https://coursera.org/verify/8QPV3NJLRBUK)
-
-![John's Introduction to Image Generation from Google Cloud](cert_ai_introduction-to-image-generation_google-cloud_cert-8QPV3NJLRBUK_2024-02-21.png)
-
-### Duet AI in Gmail from Google Cloud
-* [John's Google Cloud online credential](https://coursera.org/verify/DHKM6DF4MQ67)
-
-![John's Duet AI in Gmail from Google Cloud](cert_ai_duet-ai-in-gmail_google-cloud_cert-DHKM6DF4MQ67_2024-02-22.png)
-
-### Databricks Accredited Generative AI Fundamentals from Databricks
-* [John's Databricks online profile](https://credentials.databricks.com/profile/grokify)
-* [John's Databricks online credential](https://credentials.databricks.com/4ca910a4-6dd5-4e91-97a7-ccc7ed80424f)
-
-![John's Databricks Accredited Generative AI Fundamentals from Databricks](cert_databricks_generative-ai-fundamentals_2024-01-19_cert-ca910a4-6dd5-4e91-97a7-ccc7ed80424f.png)
-
-### SEO with AI from Sololearn
-* [John's Sololearn online credential](https://www.sololearn.com/certificates/CC-8PJDAA6M)
-
-<img src="../cert_ai_seo_seo-with-ai_sololearn_cert-CC-8PJDAA6M_2025-07-15.jpg" alt="John's SEO with AI from Sololearn" style="border:1px solid #000000" />
-
-### ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy
-* [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/WFDRKONI)
-
-<img src="../cert_ai_chatgpt-for-excel_greatlearning-by-e-balachandra-murthy_cert-WFDRKONI_2024-03-03.jpg" alt="John's ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy" style="border:1px solid #000000" />
-
-## Vibe Coding (8)
-### Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White
-* [John's Vanderbilt University online credential](https://coursera.org/verify/1LRTE17NTNXQ)
-
-![John's Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](cert_ai_vibe-coding_claude-code-software-engineering-with-generative-ai-agents_coursera_jules-white_cert-1LRTE17NTNXQ_2025-07-20.png)
-
-### Vibe Coding with Cursor AI from Scrimba by Maham Codes
-* [John's Scrimba online credential](https://www.coursera.org/verify/YYQ26P22WQQF)
-
-![John's Vibe Coding with Cursor AI from Scrimba by Maham Codes](cert_programming_gen-ai_vibe-coding-with-cursor-ai_coursera_maham-codes_cert-YYQ26P22WQQF_2025-07-10.png)
-
-### Build AI Apps with Lovable: Vibe Coding for Web Dev from Udemy by Pavan Kumar, Manish Patel
-* [John's Udemy online credential](https://www.udemy.com/certificate/UC-054ec269-a6c0-4c85-90ff-5539102c80a7/)
-
-<img src="../cert_ai_vibe-coding_build-ai-apps-with-lovable-vibe-coding-for-web-dev_udemy_pavan-kumar-manish-patel_cert-UC-054ec269-a6c0-4c85-90ff-5539102c80a7_2025-06-13.jpg" alt="John's Build AI Apps with Lovable: Vibe Coding for Web Dev from Udemy by Pavan Kumar, Manish Patel" style="border:1px solid #000000" />
-
-### AI Development with Lovable AI 2.0 - A Deeper Dive from Udemy by Randy Minder
-* [John's Udemy online credential](https://www.udemy.com/certificate/UC-27c83ee7-731e-4879-a2aa-5042b98d267f/)
-
-<img src="../cert_ai_vibe-coding_ai-development-with-lovable-ai-2.0-a-deeper-dive_udemy_randy-minder_cert-UC-27c83ee7-731e-4879-a2aa-5042b98d267f_2025-07-17.jpg" alt="John's AI Development with Lovable AI 2.0 - A Deeper Dive from Udemy by Randy Minder" style="border:1px solid #000000" />
-
-### Dashboards in Minutes with Claude AI: Stunning and NOW! from Udemy by Federico Garay
-* [John's Udemy online credential](https://www.udemy.com/certificate/UC-08a2f155-d9e0-4a66-a4aa-113051caa9ca/)
-
-<img src="../cert_ai_vibe-coding_dashboards-in-minutes-with-claude-ai_udemy_federico-garay_cert-UC-08a2f155-d9e0-4a66-a4aa-113051caa9ca_2025-07-19.jpg" alt="John's Dashboards in Minutes with Claude AI: Stunning and NOW! from Udemy by Federico Garay" style="border:1px solid #000000" />
-
-### Vibe Coding with Replit from Analytics Vidhya by Kunal Jain
-* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/jf8ns9xz2w)
-
-<img src="../cert_ai_vibe-coding_vibe-coding-with-replit_analyticsvidhya_kunal-jain_cert-680574767_2025-07-11.jpg" alt="John's Vibe Coding with Replit from Analytics Vidhya by Kunal Jain" style="border:1px solid #000000" />
-
-### Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi
-* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/edmxgsnnvy)
-
-<img src="../cert_ai_vibe-coding_guide-to-vibe-coding-in-windsurf_analyticsvidhya_apporv-vishnoi_cert-680590660_2025-07-11.jpg" alt="John's Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi" style="border:1px solid #000000" />
-
-### Vibe Coding from Sololearn
-* [John's Sololearn online credential](https://www.sololearn.com/certificates/CC-H5DTUCSU)
-
-<img src="../cert_ai_vibe-coding_vibe-coding_sololearn_cert-CC-H5DTUCSU_2025-07-15.jpg" alt="John's Vibe Coding from Sololearn" style="border:1px solid #000000" />
-
 ## Prompt Engineering (2)
 ### Prompt Engineering for Web Developers from Scrimba by Treasure Porth
 * [John's Scrimba online credential](https://www.coursera.org/verify/EDM1OJ4B87Q4)
@@ -288,6 +302,37 @@
 <img src="../cert_ai_prompt-engineering_ai-prompting-essentials-certified_aipec_msi_cert-347250771_2025-06-21.png" alt="John's AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute" style="border:1px solid #000000" />
 
 <img src="../cert_ai_prompt-engineering_ai-prompting-essentials-certified_aipec_msi_cert-335389458_2024-03-14.png" alt="John's AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute" style="border:1px solid #000000" />
+
+## Generative AI (4)
+### Generative AI for Web Development Specialization (3 Courses) from Scrimba
+* [John's Scrimba online credential](https://www.coursera.org/verify/specialization/VY1BKDGDO76G)
+
+<img src="../cert_ai_gen-ai_generative-ai-for-web-development_coursera_cert-VY1BKDGDO76G_2025-07-11.png" alt="John's Generative AI for Web Development Specialization (3 Courses) from Scrimba" style="border:1px solid #000000" />
+
+### Introduction to Generative AI from Google Cloud
+* [John's Google Cloud online credential](https://coursera.org/verify/3VBHJ76MBTU9)
+
+![John's Introduction to Generative AI from Google Cloud](cert_ai_introduction-to-generative-ai_google-cloud_cert-3VBHJ76MBTU9_2024-02-21.png)
+
+### Introduction to Image Generation from Google Cloud
+* [John's Google Cloud online credential](https://coursera.org/verify/8QPV3NJLRBUK)
+
+![John's Introduction to Image Generation from Google Cloud](cert_ai_introduction-to-image-generation_google-cloud_cert-8QPV3NJLRBUK_2024-02-21.png)
+
+### Databricks Accredited Generative AI Fundamentals from Databricks
+* [John's Databricks online profile](https://credentials.databricks.com/profile/grokify)
+* [John's Databricks online credential](https://credentials.databricks.com/4ca910a4-6dd5-4e91-97a7-ccc7ed80424f)
+
+![John's Databricks Accredited Generative AI Fundamentals from Databricks](cert_databricks_generative-ai-fundamentals_2024-01-19_cert-ca910a4-6dd5-4e91-97a7-ccc7ed80424f.png)
+
+## Generative AI API (2)
+### OpenAI Chat Completions API from Pluralsight by Xavier Morera
+
+<img src="../cert_ai_gen-ai-api_openai-chat-completions-api_pluralsight_xavier-morea_2025-07-27.png" alt="John's OpenAI Chat Completions API from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
+
+### OpenAI Assistant API from Pluralsight by Xavier Morera
+
+<img src="../cert_ai_agentic-ai_openai-assistant-api_pluralsight_xavier-morera_2025-06-23.png" alt="John's OpenAI Assistant API from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
 
 ## Retrieval-Augmented Generation (RAG) (3)
 ### Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota
@@ -322,13 +367,28 @@
 
 ![John's Introduction to Responsible AI from Google Cloud](cert_ai_introduction-to-responsible-ai_google-cloud_cert-ZWGW9HZZC2ET_2024-02-21.png)
 
-## Applications (1)
-### Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas
+## AWS (6)
+### Amazon Bedrock Getting Started from AWS
 
-<img src="../cert_leadership_communications_using-generative-ai-to-refine-communications-to-executives_pluralsight_ed-freitas_2024-07-28.png" alt="John's Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas" style="border:1px solid #000000" />
+<img src="../cert_ai_aws-bedrock_amazon-bedrock-getting-started_aws_cert-ce0a575a-2277-48f0-9a70-e2acb21e0190_2025-07-26.png" alt="John's Amazon Bedrock Getting Started from AWS" style="border:1px solid #000000" />
 
-## AWS (1)
+### Automate Generative AI workflows using Amazon Bedrock Flows from AWS
+
+<img src="../cert_ai_aws-bedrock_automate-generative-ai-workflows-using-amazon-bedrock-flows_aws_cert_ba475a2c-5e70-42c4-b25e-524397b4e3fb_2025-07-26.png" alt="John's Automate Generative AI workflows using Amazon Bedrock Flows from AWS" style="border:1px solid #000000" />
+
+### Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS
+
+<img src="../cert_ai_aws-bedrock_building-rag-workflows-with-amazon-opensesarch-service_aws_cert-f12227e6-bf4b-451c-9679-00f2d277e05e_2025-07-26.png" alt="John's Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS" style="border:1px solid #000000" />
+
+### AWS SimuLearn: Secure Conversational AI with Guardrails from AWS
+
+<img src="../cert_ai_aws-bedrock_secure-conversational-ai-with-guardrails_aws_cert-cec75b62-666c-482d-8668-3b68fa2453b8_2025-07-26.png" alt="John's AWS SimuLearn: Secure Conversational AI with Guardrails from AWS" style="border:1px solid #000000" />
+
 ### Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid
 
 <img src="../cert_ai_aws_introduction-to-bedrock_pluralsight_muhammad-sajid_2025-06-15.png" alt="John's Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" />
+
+### Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha
+
+<img src="../cert_devops_aws_create-aws-infrastructure-as-code-templates-using-generative-ai_pluralsight_shubham-sinha_2024-09-11.png" alt="John's Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha" style="border:1px solid #000000" />
 

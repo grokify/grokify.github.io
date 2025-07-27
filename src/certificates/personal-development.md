@@ -4,12 +4,13 @@
     1. [Top Tips for Setting Authentic Career Goals from Pluralsight by Dr. Sweta Chawla](#top-tips-for-setting-authentic-career-goals-from-pluralsight-by-dr-sweta-chawla)
 1. [Personal Branding](#personal-branding-1)
     1. [Developing Your Personal Brand from Pluralsight by Jason Alba](#developing-your-personal-brand-from-pluralsight-by-jason-alba)
+1. [Mentorship](#mentorship-3)
+    1. [Be a Great Mentor from Eleventure](#be-a-great-mentor-from-eleventure)
+    1. [How to Be a Great Mentee: Get More Out of Mentoring from Pluralsight by Jason Alba](#how-to-be-a-great-mentee-get-more-out-of-mentoring-from-pluralsight-by-jason-alba)
+    1. [Generative AI for Mentors and Coaches from Pluralsight by David Harris](#generative-ai-for-mentors-and-coaches-from-pluralsight-by-david-harris)
 1. [Learning](#learning-2)
     1. [Start Your Lifelong Learning from Accenture](#start-your-lifelong-learning-from-accenture)
     1. [Keeping up with Technology from Pluralsight by Dan Appleman](#keeping-up-with-technology-from-pluralsight-by-dan-appleman)
-1. [Mentorship](#mentorship-2)
-    1. [Be a Great Mentor from Eleventure](#be-a-great-mentor-from-eleventure)
-    1. [How to Be a Great Mentee: Get More Out of Mentoring from Pluralsight by Jason Alba](#how-to-be-a-great-mentee-get-more-out-of-mentoring-from-pluralsight-by-jason-alba)
 1. [Resiliency](#resiliency-1)
     1. [Bounce Back From Failure from Eleventure](#bounce-back-from-failure-from-eleventure)
 ## Goals (2)
@@ -26,6 +27,19 @@
 
 <img src="../cert_marketing_personal-branding_developing-your-personal-brand_pluralsight_jason-alba_2025-07-21.png" alt="John's Developing Your Personal Brand from Pluralsight by Jason Alba" style="border:1px solid #000000" />
 
+## Mentorship (3)
+### Be a Great Mentor from Eleventure
+
+<img src="../cert_learning_mentorship_be-a-great-mentor_nonprofitready_eleventure_2024-07-28.png" alt="John's Be a Great Mentor from Eleventure" style="border:1px solid #000000" />
+
+### How to Be a Great Mentee: Get More Out of Mentoring from Pluralsight by Jason Alba
+
+<img src="../cert_learning_mentorship_how-to-be-a-great-mentee-get-more-out-of-mentorship_pluralsight_jason-alba_2024-07-27.png" alt="John's How to Be a Great Mentee: Get More Out of Mentoring from Pluralsight by Jason Alba" style="border:1px solid #000000" />
+
+### Generative AI for Mentors and Coaches from Pluralsight by David Harris
+
+<img src="../cert_personal-development_mentorship_generative-ai-for-mentors-and-coaches_pluralsight_david-harris_2025-07-27.png" alt="John's Generative AI for Mentors and Coaches from Pluralsight by David Harris" style="border:1px solid #000000" />
+
 ## Learning (2)
 ### Start Your Lifelong Learning from Accenture
 * [John's Accenture online credential](https://coursera.org/verify/WVYWXG2LT3UX)
@@ -35,15 +49,6 @@
 ### Keeping up with Technology from Pluralsight by Dan Appleman
 
 <img src="../cert_learning_keeping-up-with-technology_pluralsight_dan-appleman_2024-07-27.png" alt="John's Keeping up with Technology from Pluralsight by Dan Appleman" style="border:1px solid #000000" />
-
-## Mentorship (2)
-### Be a Great Mentor from Eleventure
-
-<img src="../cert_learning_mentorship_be-a-great-mentor_nonprofitready_eleventure_2024-07-28.png" alt="John's Be a Great Mentor from Eleventure" style="border:1px solid #000000" />
-
-### How to Be a Great Mentee: Get More Out of Mentoring from Pluralsight by Jason Alba
-
-<img src="../cert_learning_mentorship_how-to-be-a-great-mentee-get-more-out-of-mentorship_pluralsight_jason-alba_2024-07-27.png" alt="John's How to Be a Great Mentee: Get More Out of Mentoring from Pluralsight by Jason Alba" style="border:1px solid #000000" />
 
 ## Resiliency (1)
 ### Bounce Back From Failure from Eleventure
