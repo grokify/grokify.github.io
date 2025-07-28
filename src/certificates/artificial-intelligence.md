@@ -27,11 +27,12 @@
     1. [Vibe Coding with Replit from Analytics Vidhya by Kunal Jain](#vibe-coding-with-replit-from-analytics-vidhya-by-kunal-jain)
     1. [Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi](#guide-to-vibe-coding-in-windsurf-from-analytics-vidhya-by-apoorv-vishnoi)
     1. [Vibe Coding from Sololearn](#vibe-coding-from-sololearn)
-1. [AI Agents](#ai-agents-6)
+1. [AI Agents](#ai-agents-7)
     1. [Fundamentals of Agents from Hugging Face](#fundamentals-of-agents-from-hugging-face)
     1. [Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid](#introduction-to-developing-ai-agents-from-pluralsight-by-muhammad-sajid)
     1. [Creating Personal AI Agents from Pluralsight by Kamran Ayub](#creating-personal-ai-agents-from-pluralsight-by-kamran-ayub)
     1. [Using AI Agents for Productivity from Pluralsight by Vlad Catrinescu](#using-ai-agents-for-productivity-from-pluralsight-by-vlad-catrinescu)
+    1. [Human–AI Agent Collaboration from Pluralsight by Bogdan Sucaciu](#humanai-agent-collaboration-from-pluralsight-by-bogdan-sucaciu)
     1. [Agentic AI Lifecycle Management from Pluralsight by Eman Hassan](#agentic-ai-lifecycle-management-from-pluralsight-by-eman-hassan)
     1. [Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman](#deploying-ai-agents-in-production-environments-from-pluralsight-by-pratheerth-padman)
 1. [Multi-Agent Systems](#multi-agent-systems-8)
@@ -51,7 +52,8 @@
     1. [MCP for Production Automation from Hugging Face](#mcp-for-production-automation-from-hugging-face)
     1. [Fundamentals of MCP (Model Context Protocol) from Hugging Face](#fundamentals-of-mcp-model-context-protocol-from-hugging-face)
     1. [Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi](#foundations-of-model-context-protocol-from-analytics-vidhya-by-apoorv-vishnoi)
-1. [Prompt Engineering](#prompt-engineering-2)
+1. [Prompt Engineering](#prompt-engineering-3)
+    1. [Essentials of Prompt Engineering from AWS](#essentials-of-prompt-engineering-from-aws)
     1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
 1. [Generative AI](#generative-ai-4)
@@ -196,7 +198,7 @@
 
 <img src="../cert_ai_vibe-coding_vibe-coding_sololearn_cert-CC-H5DTUCSU_2025-07-15.jpg" alt="John's Vibe Coding from Sololearn" style="border:1px solid #000000" />
 
-## AI Agents (6)
+## AI Agents (7)
 ### Fundamentals of Agents from Hugging Face
 * [John's Hugging Face online credential](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/grokify/2025-06-20.png)
 
@@ -213,6 +215,10 @@
 ### Using AI Agents for Productivity from Pluralsight by Vlad Catrinescu
 
 <img src="../cert_ai_agentic-ai_using-ai-agents-for-productivity_pluralsight_vlad-catrinescu_2025-07-20.png" alt="John's Using AI Agents for Productivity from Pluralsight by Vlad Catrinescu" style="border:1px solid #000000" />
+
+### Human–AI Agent Collaboration from Pluralsight by Bogdan Sucaciu
+
+<img src="../cert_ai_agentic-ai_human-ai-agent-collaboration_pluralsight_bogdan-sucaciu_2025-07-27.png" alt="John's Human–AI Agent Collaboration from Pluralsight by Bogdan Sucaciu" style="border:1px solid #000000" />
 
 ### Agentic AI Lifecycle Management from Pluralsight by Eman Hassan
 
@@ -290,7 +296,11 @@
 
 <img src="../cert_ai_mcp_foundations-of-model-context-protocol_analytics-vidhya_cert-636446298_2025-04-02.jpg" alt="John's Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi" style="border:1px solid #000000" />
 
-## Prompt Engineering (2)
+## Prompt Engineering (3)
+### Essentials of Prompt Engineering from AWS
+
+<img src="../cert_ai_prompt-engineering_essentials-of-prompt-engineering_aws_cert-70c8d928-14f7-4695-ac8f-5fe235620168_2025-07-27.png" alt="John's Essentials of Prompt Engineering from AWS" style="border:1px solid #000000" />
+
 ### Prompt Engineering for Web Developers from Scrimba by Treasure Porth
 * [John's Scrimba online credential](https://www.coursera.org/verify/EDM1OJ4B87Q4)
 
