@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/cloud-infrastructure/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Cloud Infrastructure (17) - John Wang's Site</title>
+    <title>Cloud Infrastructure (20) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Cloud Infrastructure (17)";
+        var mkdocs_page_name = "Cloud Infrastructure (20)";
         var mkdocs_page_input_path = "certificates/cloud-infrastructure.md";
         var mkdocs_page_url = "/certificates/cloud-infrastructure/";
       </script>
@@ -66,17 +66,19 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../appreciation/">Appreciation (1)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (66)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (75)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence-ml/">Artificial Intelligence: ML (15)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (5)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Cloud Infrastructure (17)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Cloud Infrastructure (20)</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#aws-9">AWS (9)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-10">AWS (10)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#designing-landing-zone-architectures-with-aws-control-tower-from-aws">Designing Landing Zone Architectures with AWS Control Tower from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#aws-shared-responsibility-model-from-aws">AWS Shared Responsibility Model from AWS</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</a>
     </li>
@@ -96,15 +98,19 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#aws-bedrock-5">AWS Bedrock (5)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-bedrock-7">AWS Bedrock (7)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws">Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws">Automate Generative AI workflows using Amazon Bedrock Flows from AWS</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws">Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws">AWS SimuLearn: Secure Conversational AI with Guardrails from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</a>
     </li>
@@ -193,7 +199,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>Cloud Infrastructure (17)</li>
+          <li>Certificates &raquo;</li><li>Cloud Infrastructure (20)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -205,8 +211,9 @@
               
                 <h1 id="johns-cloud-infrastructure-certificates">John's Cloud Infrastructure Certificates</h1>
 <ol>
-<li><a href="#aws-9">AWS</a><ol>
+<li><a href="#aws-10">AWS</a><ol>
 <li><a href="#designing-landing-zone-architectures-with-aws-control-tower-from-aws">Designing Landing Zone Architectures with AWS Control Tower from AWS</a></li>
+<li><a href="#aws-shared-responsibility-model-from-aws">AWS Shared Responsibility Model from AWS</a></li>
 <li><a href="#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</a></li>
 <li><a href="#introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</a></li>
 <li><a href="#introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</a></li>
@@ -217,11 +224,13 @@
 <li><a href="#aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</a></li>
 </ol>
 </li>
-<li><a href="#aws-bedrock-5">AWS Bedrock</a><ol>
+<li><a href="#aws-bedrock-7">AWS Bedrock</a><ol>
 <li><a href="#amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</a></li>
+<li><a href="#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws">Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS</a></li>
 <li><a href="#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws">Automate Generative AI workflows using Amazon Bedrock Flows from AWS</a></li>
 <li><a href="#building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws">Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS</a></li>
 <li><a href="#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws">AWS SimuLearn: Secure Conversational AI with Guardrails from AWS</a></li>
+<li><a href="#amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</a></li>
 <li><a href="#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</a></li>
 </ol>
 </li>
@@ -235,9 +244,11 @@
 </ol>
 </li>
 </ol>
-<h2 id="aws-9">AWS (9)</h2>
+<h2 id="aws-10">AWS (10)</h2>
 <h3 id="designing-landing-zone-architectures-with-aws-control-tower-from-aws">Designing Landing Zone Architectures with AWS Control Tower from AWS</h3>
 <p><img src="../cert_cloud_aws_desiging-landing-zone-architectures-with-aws-control-tower_cert-67722468-123b-4efc-af0f-b3c596317b5c_2025-07-26.png" alt="John's Designing Landing Zone Architectures with AWS Control Tower from AWS" style="border:1px solid #000000" /></p>
+<h3 id="aws-shared-responsibility-model-from-aws">AWS Shared Responsibility Model from AWS</h3>
+<p><img src="../cert_cloud_aws_aws-shared-responsibility-model_aws_cert-a4e52844-6fef-487d-a6d8-f7af0086ac81_2025-08-05.png" alt="John's AWS Shared Responsibility Model from AWS" style="border:1px solid #000000" /></p>
 <h3 id="create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</h3>
 <p><img src="../cert_devops_aws_create-aws-infrastructure-as-code-templates-using-generative-ai_pluralsight_shubham-sinha_2024-09-11.png" alt="John's Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha" style="border:1px solid #000000" /></p>
 <h3 id="introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</h3>
@@ -260,15 +271,19 @@
 <li><a href="https://coursera.org/verify/QRD93E7CVUMP">John's Whizlabs online credential</a></li>
 </ul>
 <p><img alt="John's AWS: Identity and Access Management from Whizlabs" src="../cert_aws_aws-identity-and-access-management_whizlabs_cert-QRD93E7CVUMP_2024-03-20.png" /></p>
-<h2 id="aws-bedrock-5">AWS Bedrock (5)</h2>
+<h2 id="aws-bedrock-7">AWS Bedrock (7)</h2>
 <h3 id="amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</h3>
 <p><img src="../cert_ai_aws-bedrock_amazon-bedrock-getting-started_aws_cert-ce0a575a-2277-48f0-9a70-e2acb21e0190_2025-07-26.png" alt="John's Amazon Bedrock Getting Started from AWS" style="border:1px solid #000000" /></p>
+<h3 id="introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws">Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_introduction-to-amazon-bedrock-foundation-models-and-ai-applications_aws_cert-8ae9ed2c-0a8b-419d-b565-121e8dba6ec5_2025-08-09.png" alt="John's Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS" style="border:1px solid #000000" /></p>
 <h3 id="automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws">Automate Generative AI workflows using Amazon Bedrock Flows from AWS</h3>
 <p><img src="../cert_ai_aws-bedrock_automate-generative-ai-workflows-using-amazon-bedrock-flows_aws_cert_ba475a2c-5e70-42c4-b25e-524397b4e3fb_2025-07-26.png" alt="John's Automate Generative AI workflows using Amazon Bedrock Flows from AWS" style="border:1px solid #000000" /></p>
 <h3 id="building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws">Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS</h3>
 <p><img src="../cert_ai_aws-bedrock_building-rag-workflows-with-amazon-opensesarch-service_aws_cert-f12227e6-bf4b-451c-9679-00f2d277e05e_2025-07-26.png" alt="John's Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS" style="border:1px solid #000000" /></p>
 <h3 id="aws-simulearn-secure-conversational-ai-with-guardrails-from-aws">AWS SimuLearn: Secure Conversational AI with Guardrails from AWS</h3>
 <p><img src="../cert_ai_aws-bedrock_secure-conversational-ai-with-guardrails_aws_cert-cec75b62-666c-482d-8668-3b68fa2453b8_2025-07-26.png" alt="John's AWS SimuLearn: Secure Conversational AI with Guardrails from AWS" style="border:1px solid #000000" /></p>
+<h3 id="amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_aws-bedrock-agent-core-getting-started_aws_cert-a3ebd357-5aec-4b50-9fe8-044b789f543d_2025-07-09.png" alt="John's Amazon Bedrock AgentCore Getting Started from AWS" style="border:1px solid #000000" /></p>
 <h3 id="introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</h3>
 <p><img src="../cert_ai_aws_introduction-to-bedrock_pluralsight_muhammad-sajid_2025-06-15.png" alt="John's Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" /></p>
 <h2 id="azure-2">Azure (2)</h2>
