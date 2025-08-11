@@ -9,14 +9,14 @@ nav:
     - 'Innovation':
         - 'Patents (3)': 'patents/index.md'
         - 'Presentations (2)': 'presentations/index.md'
-        - 'Publications (1)': 'publications/index.md'
+        - 'Publications (2)': 'publications/index.md'
     - 'Awards':
         - 'API (7)': 'awards/index.md'
     - 'Certificates':
         - 'API (11)': 'certificates/api.md'
         - 'Algorithms (3)': 'certificates/algorithms.md'
         - 'Appreciation (1)': 'certificates/appreciation.md'
-        - 'Artificial Intelligence (75)': 'certificates/artificial-intelligence.md'
+        - 'Artificial Intelligence (77)': 'certificates/artificial-intelligence.md'
         - 'Artificial Intelligence: ML (15)': 'certificates/artificial-intelligence-ml.md'
         - 'Board of Directors (5)': 'certificates/board-of-directors.md'
         - 'Cloud Infrastructure (20)': 'certificates/cloud-infrastructure.md'
@@ -42,7 +42,7 @@ nav:
         - 'Security: AppSec (52)': 'certificates/security-appsec.md'
         - 'Security: Compliance (7)': 'certificates/security-compliance.md'
         - 'Security: IDSec (19)': 'certificates/security-idsec.md'
-        - 'Security: InfoSec (47)': 'certificates/security-infosec.md'
+        - 'Security: InfoSec (48)': 'certificates/security-infosec.md'
         - 'Sports (4)': 'certificates/sports.md'
         - 'Strategy (7)': 'certificates/strategy.md'
         - 'TED Talks (7)': 'certificates/ted-talks.md'

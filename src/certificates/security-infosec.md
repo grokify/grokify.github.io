@@ -21,9 +21,10 @@
     1. [Social Engineering Two-Factor Authentication Access Demonstration from KnowBe4 by Kevin Mitnick](#social-engineering-two-factor-authentication-access-demonstration-from-knowbe4-by-kevin-mitnick)
     1. [Don't Be Like Rick: Two-Factor Authentication from KnowBe4](#dont-be-like-rick-two-factor-authentication-from-knowbe4)
     1. [Don't Be Like Rick: Two-Factor Authentication from KnowBe4](#dont-be-like-rick-two-factor-authentication-from-knowbe4)
-1. [Zero Trust](#zero-trust-2)
+1. [Zero Trust](#zero-trust-3)
     1. [Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews](#zero-trust-architecture-zta-getting-started-from-pluralsight-by-dr-lyron-h-andrews)
     1. [Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews](#zero-trust-architecture-zta-strategize-and-establish-from-pluralsight-by-dr-lyron-h-andrews)
+    1. [Zero Trust Architecture Foundational Concepts from Pluralsight by Cristian Pascariu](#zero-trust-architecture-foundational-concepts-from-pluralsight-by-cristian-pascariu)
 1. [Passwords](#passwords-1)
     1. [Secure Passwords With Quiz from KnowBe4](#secure-passwords-with-quiz-from-knowbe4)
 1. [Email Protection](#email-protection-11)
@@ -144,7 +145,7 @@
 
 <img src="../cert_infosec_2fa_dont-be-like-rick-two-factor-authentication_knowbe4_2024-10-20.png" alt="John's Don't Be Like Rick: Two-Factor Authentication from KnowBe4" style="border:1px solid #000000" />
 
-## Zero Trust (2)
+## Zero Trust (3)
 ### Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews
 
 <img src="../cert_infosec_zero-trust_zero-trust-architecture-zta-getting-started_pluralsight_lyron-h-andrews_2024-08-01.png" alt="John's Zero Trust Architecture (ZTA): Getting Started from Pluralsight by Dr. Lyron H. Andrews" style="border:1px solid #000000" />
@@ -152,6 +153,10 @@
 ### Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews
 
 <img src="../cert_infosec_zero-trust_zero-trust-architecture-zta-strategize-and-establish_pluralsight_dr-lyron-h-andrews_2024-08-18.png" alt="John's Zero Trust Architecture (ZTA): Strategize and Establish from Pluralsight by Dr. Lyron H. Andrews" style="border:1px solid #000000" />
+
+### Zero Trust Architecture Foundational Concepts from Pluralsight by Cristian Pascariu
+
+<img src="../cert_infosec_zero-trust_zero-trust-architecture-foundational-concepts_pluralsight_cristian-pascariu_2025-08-10.png" alt="John's Zero Trust Architecture Foundational Concepts from Pluralsight by Cristian Pascariu" style="border:1px solid #000000" />
 
 ## Passwords (1)
 ### Secure Passwords With Quiz from KnowBe4

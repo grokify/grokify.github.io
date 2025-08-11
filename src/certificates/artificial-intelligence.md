@@ -8,6 +8,37 @@
     1. [Artificial Intelligence Micro-Certification (AIC) from Product School by Sam Stevens](#artificial-intelligence-micro-certification-aic-from-product-school-by-sam-stevens)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
     1. [AI Product from Great Learning Academy by Abhinanda Sarkar](#ai-product-from-great-learning-academy-by-abhinanda-sarkar)
+1. [AI Agents](#ai-agents-10)
+    1. [Fundamentals of Agents from Hugging Face](#fundamentals-of-agents-from-hugging-face)
+    1. [Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White](#agentic-ai-and-ai-agents-a-primer-for-leaders-from-vanderbilt-university-by-james-white)
+    1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
+    1. [Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid](#introduction-to-developing-ai-agents-from-pluralsight-by-muhammad-sajid)
+    1. [Creating Personal AI Agents from Pluralsight by Kamran Ayub](#creating-personal-ai-agents-from-pluralsight-by-kamran-ayub)
+    1. [Using AI Agents for Productivity from Pluralsight by Vlad Catrinescu](#using-ai-agents-for-productivity-from-pluralsight-by-vlad-catrinescu)
+    1. [Human–AI Agent Collaboration from Pluralsight by Bogdan Sucaciu](#humanai-agent-collaboration-from-pluralsight-by-bogdan-sucaciu)
+    1. [Agentic AI Lifecycle Management from Pluralsight by Eman Hassan](#agentic-ai-lifecycle-management-from-pluralsight-by-eman-hassan)
+    1. [Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman](#deploying-ai-agents-in-production-environments-from-pluralsight-by-pratheerth-padman)
+    1. [Agentic AI Safety and Alignment from Pluralsight by Steve Buchanan](#agentic-ai-safety-and-alignment-from-pluralsight-by-steve-buchanan)
+1. [Multi-Agent Systems](#multi-agent-systems-10)
+    1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joao-moura)
+    1. [Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](#mastering-multi-agent-development-with-autogen-from-packt-by-paulo-dichone)
+    1. [Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](#elevate-team-productivity-with-crew-ai-from-coursera-by-yash-thakker)
+    1. [Introduction to CrewAI: Building a Researcher Assistant Agent from Analytics Vidhya by Alessandro Romano](#introduction-to-crewai-building-a-researcher-assistant-agent-from-analytics-vidhya-by-alessandro-romano)
+    1. [Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu](#applying-multi-agent-systems-to-daily-tasks-from-pluralsight-by-bogdan-sucaciu)
+    1. [Developing Multi-agent Systems from Pluralsight by Muhammad Sajid](#developing-multi-agent-systems-from-pluralsight-by-muhammad-sajid)
+    1. [Developing Task-specific Agents with CrewAI from Pluralsight by Jon Friskics](#developing-task-specific-agents-with-crewai-from-pluralsight-by-jon-friskics)
+    1. [Building Multi-agent Systems with AutoGen from Pluralsight by Sandy Ludosky](#building-multi-agent-systems-with-autogen-from-pluralsight-by-sandy-ludosky)
+    1. [Introduction to LangGraph from Pluralsight by Craig Golightly](#introduction-to-langgraph-from-pluralsight-by-craig-golightly)
+    1. [Basics of LangGraph Workflows from Pluralsight by Craig Golightly](#basics-of-langgraph-workflows-from-pluralsight-by-craig-golightly)
+1. [Workflow Automation](#workflow-automation-1)
+    1. [n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi](#n8n-a-complete-guide-to-the-automation-tool-from-analytics-vidhya-by-gyan-prakash-tripathi)
+1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-6)
+    1. [Model Context Protocol: Advanced Topics from Anthropic](#model-context-protocol-advanced-topics-from-anthropic)
+    1. [Introduction to Model Context Protocol from Anthropic](#introduction-to-model-context-protocol-from-anthropic)
+    1. [MCP for Production Automation from Hugging Face](#mcp-for-production-automation-from-hugging-face)
+    1. [Fundamentals of MCP (Model Context Protocol) from Hugging Face](#fundamentals-of-mcp-model-context-protocol-from-hugging-face)
+    1. [Model Context Protocol (MCP) Mastery from Fractal Analytics Academy](#model-context-protocol-mcp-mastery-from-fractal-analytics-academy)
+    1. [Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi](#foundations-of-model-context-protocol-from-analytics-vidhya-by-apoorv-vishnoi)
 1. [AI Assistants](#ai-assistants-7)
     1. [Amazon Q Business Getting Started from AWS](#amazon-q-business-getting-started-from-aws)
     1. [A Hands-On Look at Amazon Q Business Expert from AWS by Paul Colmer](#a-hands-on-look-at-amazon-q-business-expert-from-aws-by-paul-colmer)
@@ -28,35 +59,6 @@
     1. [Vibe Coding with Replit from Analytics Vidhya by Kunal Jain](#vibe-coding-with-replit-from-analytics-vidhya-by-kunal-jain)
     1. [Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi](#guide-to-vibe-coding-in-windsurf-from-analytics-vidhya-by-apoorv-vishnoi)
     1. [Vibe Coding from Sololearn](#vibe-coding-from-sololearn)
-1. [AI Agents](#ai-agents-9)
-    1. [Fundamentals of Agents from Hugging Face](#fundamentals-of-agents-from-hugging-face)
-    1. [Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White](#agentic-ai-and-ai-agents-a-primer-for-leaders-from-vanderbilt-university-by-james-white)
-    1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
-    1. [Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid](#introduction-to-developing-ai-agents-from-pluralsight-by-muhammad-sajid)
-    1. [Creating Personal AI Agents from Pluralsight by Kamran Ayub](#creating-personal-ai-agents-from-pluralsight-by-kamran-ayub)
-    1. [Using AI Agents for Productivity from Pluralsight by Vlad Catrinescu](#using-ai-agents-for-productivity-from-pluralsight-by-vlad-catrinescu)
-    1. [Human–AI Agent Collaboration from Pluralsight by Bogdan Sucaciu](#humanai-agent-collaboration-from-pluralsight-by-bogdan-sucaciu)
-    1. [Agentic AI Lifecycle Management from Pluralsight by Eman Hassan](#agentic-ai-lifecycle-management-from-pluralsight-by-eman-hassan)
-    1. [Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman](#deploying-ai-agents-in-production-environments-from-pluralsight-by-pratheerth-padman)
-1. [Multi-Agent Systems](#multi-agent-systems-9)
-    1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joao-moura)
-    1. [Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](#mastering-multi-agent-development-with-autogen-from-packt-by-paulo-dichone)
-    1. [Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](#elevate-team-productivity-with-crew-ai-from-coursera-by-yash-thakker)
-    1. [Introduction to CrewAI: Building a Researcher Assistant Agent from Analytics Vidhya by Alessandro Romano](#introduction-to-crewai-building-a-researcher-assistant-agent-from-analytics-vidhya-by-alessandro-romano)
-    1. [Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu](#applying-multi-agent-systems-to-daily-tasks-from-pluralsight-by-bogdan-sucaciu)
-    1. [Developing Multi-agent Systems from Pluralsight by Muhammad Sajid](#developing-multi-agent-systems-from-pluralsight-by-muhammad-sajid)
-    1. [Developing Task-specific Agents with CrewAI from Pluralsight by Jon Friskics](#developing-task-specific-agents-with-crewai-from-pluralsight-by-jon-friskics)
-    1. [Introduction to LangGraph from Pluralsight by Craig Golightly](#introduction-to-langgraph-from-pluralsight-by-craig-golightly)
-    1. [Basics of LangGraph Workflows from Pluralsight by Craig Golightly](#basics-of-langgraph-workflows-from-pluralsight-by-craig-golightly)
-1. [Workflow Automation](#workflow-automation-1)
-    1. [n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi](#n8n-a-complete-guide-to-the-automation-tool-from-analytics-vidhya-by-gyan-prakash-tripathi)
-1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-6)
-    1. [Model Context Protocol: Advanced Topics from Anthropic](#model-context-protocol-advanced-topics-from-anthropic)
-    1. [Introduction to Model Context Protocol from Anthropic](#introduction-to-model-context-protocol-from-anthropic)
-    1. [MCP for Production Automation from Hugging Face](#mcp-for-production-automation-from-hugging-face)
-    1. [Fundamentals of MCP (Model Context Protocol) from Hugging Face](#fundamentals-of-mcp-model-context-protocol-from-hugging-face)
-    1. [Model Context Protocol (MCP) Mastery from Fractal Analytics Academy](#model-context-protocol-mcp-mastery-from-fractal-analytics-academy)
-    1. [Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi](#foundations-of-model-context-protocol-from-analytics-vidhya-by-apoorv-vishnoi)
 1. [Prompt Engineering](#prompt-engineering-3)
     1. [Essentials of Prompt Engineering from AWS](#essentials-of-prompt-engineering-from-aws)
     1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
@@ -123,6 +125,131 @@
 ### AI Product from Great Learning Academy by Abhinanda Sarkar
 
 <img src="../cert_ai_product-management_ai-product_great-learning_abhinanda-sarkar_cert-20250720-4683-1t0yf13_2025-07-20.jpg" alt="John's AI Product from Great Learning Academy by Abhinanda Sarkar" style="border:1px solid #000000" />
+
+## AI Agents (10)
+### Fundamentals of Agents from Hugging Face
+* [John's Hugging Face online credential](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/grokify/2025-06-20.png)
+
+![John's Fundamentals of Agents from Hugging Face](cert_ai_agentic-ai_fundamentals-of-agents_hugging-face_2025-06-20.webp)
+
+### Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/APXUOJ49ZSFI)
+
+![John's Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White](cert_ai_agents_agentic-ai-and-ai-agents-a-primer-for-leaders_vanderbiltu_jules-white_cert-APXUOJ49ZSFI_2025-08-10.png)
+
+### Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/1LRTE17NTNXQ)
+
+![John's Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](cert_ai_vibe-coding_claude-code-software-engineering-with-generative-ai-agents_coursera_jules-white_cert-1LRTE17NTNXQ_2025-07-20.png)
+
+### Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid
+
+<img src="../cert_ai_agentic-ai_introduction-to-developing-ai-agents_pluralsight_muhammad-sajid_2025-06-03.png" alt="John's Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" />
+
+### Creating Personal AI Agents from Pluralsight by Kamran Ayub
+
+<img src="../cert_ai_agentic-ai_creating-personal-ai-agents_pluralsight_kamran-ayub_2025-07-20.png" alt="John's Creating Personal AI Agents from Pluralsight by Kamran Ayub" style="border:1px solid #000000" />
+
+### Using AI Agents for Productivity from Pluralsight by Vlad Catrinescu
+
+<img src="../cert_ai_agentic-ai_using-ai-agents-for-productivity_pluralsight_vlad-catrinescu_2025-07-20.png" alt="John's Using AI Agents for Productivity from Pluralsight by Vlad Catrinescu" style="border:1px solid #000000" />
+
+### Human–AI Agent Collaboration from Pluralsight by Bogdan Sucaciu
+
+<img src="../cert_ai_agentic-ai_human-ai-agent-collaboration_pluralsight_bogdan-sucaciu_2025-07-27.png" alt="John's Human–AI Agent Collaboration from Pluralsight by Bogdan Sucaciu" style="border:1px solid #000000" />
+
+### Agentic AI Lifecycle Management from Pluralsight by Eman Hassan
+
+<img src="../cert_ai_agentic-ai_agentic-ai-lifecycle-management_pluralsight_eman-hassan_2025-07-09.png" alt="John's Agentic AI Lifecycle Management from Pluralsight by Eman Hassan" style="border:1px solid #000000" />
+
+### Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman
+
+<img src="../cert_ai_agentic-ai_deploying-ai-agents-in-produciton-environments_pluralsight_pratheerth-padman_2025-06-23.png" alt="John's Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman" style="border:1px solid #000000" />
+
+### Agentic AI Safety and Alignment from Pluralsight by Steve Buchanan
+
+<img src="../cert_ai_agents_agentic-ai-safety-and-alignment_pluralsight_steve-buchanan_2025-08-11.png" alt="John's Agentic AI Safety and Alignment from Pluralsight by Steve Buchanan" style="border:1px solid #000000" />
+
+## Multi-Agent Systems (10)
+### Multi AI Agent Systems with CrewAI from CrewAI by João Moura
+
+<img src="../cert_ai_multi-agent_multi-ai-agent-systems-with-crewai_crewai_2025-06-08.png" alt="John's Multi AI Agent Systems with CrewAI from CrewAI by João Moura" style="border:1px solid #000000" />
+
+### Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone
+* [John's Packt online credential](https://coursera.org/verify/I7EM70S5CNDA)
+
+![John's Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](cert_ai_multi-agent_mastering-multi-agent-development-with-autogen_coursera_packt_cert-I7EM70S5CNDA_2025-06-26.png)
+
+### Elevate Team Productivity with Crew AI from Coursera by Yash Thakker
+* [John's Coursera online credential](https://coursera.org/verify/PL8QUEVA2NYB)
+
+![John's Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](cert_ai_agentic-ai_elevate-team-productivity-with-crew-ai_coursera_yash-thakker_cert-PL8QUEVA2NYB_2025-06-16.png)
+
+### Introduction to CrewAI: Building a Researcher Assistant Agent from Analytics Vidhya by Alessandro Romano
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/bovpkhdpsd)
+
+<img src="../cert_ai_multi-agent_introduction-to-crewai-building-a-researcher-assistant-agent_analyticsvidya_alessandro-romano_certificate-683237094_2025-07-18.jpg" alt="John's Introduction to CrewAI: Building a Researcher Assistant Agent from Analytics Vidhya by Alessandro Romano" style="border:1px solid #000000" />
+
+### Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu
+
+<img src="../cert_ai_agentic-ai_applying-multi-agent-systems-to-daily-tasks_pluralsight_bogdan-sucaciu_2025-06-18.png" alt="John's Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu" style="border:1px solid #000000" />
+
+### Developing Multi-agent Systems from Pluralsight by Muhammad Sajid
+
+<img src="../cert_ai_multi-agent_developing-multi-agent-systems_pluralsight_muhammad-sajid_2025-08-09.png" alt="John's Developing Multi-agent Systems from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" />
+
+### Developing Task-specific Agents with CrewAI from Pluralsight by Jon Friskics
+
+<img src="../cert_ai_multi-agent_developing-task-specific-agents-with-crewai_pluralsight_jon-friskics_2025-06-28.png" alt="John's Developing Task-specific Agents with CrewAI from Pluralsight by Jon Friskics" style="border:1px solid #000000" />
+
+### Building Multi-agent Systems with AutoGen from Pluralsight by Sandy Ludosky
+
+<img src="../cert_ai_multi-agent_building-multi-agent-systems-with-autogen_pluralsight_sandy-ludosky_2025-08-11.png" alt="John's Building Multi-agent Systems with AutoGen from Pluralsight by Sandy Ludosky" style="border:1px solid #000000" />
+
+### Introduction to LangGraph from Pluralsight by Craig Golightly
+
+<img src="../cert_ai_agentic-ai_introduction-to-langgraph_pluralsight_craig-golightly_2025-06-18.png" alt="John's Introduction to LangGraph from Pluralsight by Craig Golightly" style="border:1px solid #000000" />
+
+### Basics of LangGraph Workflows from Pluralsight by Craig Golightly
+
+<img src="../cert_ai_agentic-ai_basics-of-langgraph-workflows_pluralsight_craig-golightly_2025-06-18.png" alt="John's Basics of LangGraph Workflows from Pluralsight by Craig Golightly" style="border:1px solid #000000" />
+
+## Workflow Automation (1)
+### n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/8lnnxuybwr)
+
+<img src="../cert_ai_workflow-automation_n8n-a-complete-guide-to-the-automation-tool_analyticsvidhya_gyan-prakash-tripathi_2025-07-11.jpg" alt="John's n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi" style="border:1px solid #000000" />
+
+## Model Context Protocol (MCP) (6)
+### Model Context Protocol: Advanced Topics from Anthropic
+* [John's Anthropic online credential](https://verify.skilljar.com/c/mu9br5w7hgpu)
+
+<img src="../cert_ai_mcp_model-context-protocol-advanced-topics_anthropic_cert-mu9br5w7hgpu_2025-07-21.jpg" alt="John's Model Context Protocol: Advanced Topics from Anthropic" style="border:1px solid #000000" />
+
+### Introduction to Model Context Protocol from Anthropic
+* [John's Anthropic online credential](https://verify.skilljar.com/c/z63bcx5kdca8)
+
+<img src="../cert_ai_mcp_introduction-to-model-context-protocol_anthropic_cert-z63bcx5kdca8-1753168193_2025-07-22.jpg" alt="John's Introduction to Model Context Protocol from Anthropic" style="border:1px solid #000000" />
+
+### MCP for Production Automation from Hugging Face
+* [John's Hugging Face online credential](https://cdn-uploads.huggingface.co/production/uploads/noauth/tzZ2UDkYY3vwymJ368oB-.webp)
+
+![John's MCP for Production Automation from Hugging Face](cert_ai_mcp_mcp-for-production-automation_hugging-face_2025-07-19.webp)
+
+### Fundamentals of MCP (Model Context Protocol) from Hugging Face
+* [John's Hugging Face online credential](https://huggingface.co/datasets/mcp-course/certificates/resolve/main/certificates/grokify/2025-06-14.png)
+
+![John's Fundamentals of MCP (Model Context Protocol) from Hugging Face](cert_ai_mcp_the-mcp-course-unit-1_hugging-face_2025-06-13.webp)
+
+### Model Context Protocol (MCP) Mastery from Fractal Analytics Academy
+* [John's Fractal Analytics Academy online credential](https://coursera.org/verify/0JTIA6PWXHVI)
+
+![John's Model Context Protocol (MCP) Mastery from Fractal Analytics Academy](cert_ai_mcp_model-context-protocol-mcp-mastery_fractalanalyticsacademy_cert-0JTIA6PWXHVI_2025-08-05.png)
+
+### Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/xea7hrnfdb)
+
+<img src="../cert_ai_mcp_foundations-of-model-context-protocol_analytics-vidhya_cert-636446298_2025-04-02.jpg" alt="John's Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi" style="border:1px solid #000000" />
 
 ## AI Assistants (7)
 ### Amazon Q Business Getting Started from AWS
@@ -207,123 +334,6 @@
 * [John's Sololearn online credential](https://www.sololearn.com/certificates/CC-H5DTUCSU)
 
 <img src="../cert_ai_vibe-coding_vibe-coding_sololearn_cert-CC-H5DTUCSU_2025-07-15.jpg" alt="John's Vibe Coding from Sololearn" style="border:1px solid #000000" />
-
-## AI Agents (9)
-### Fundamentals of Agents from Hugging Face
-* [John's Hugging Face online credential](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/grokify/2025-06-20.png)
-
-![John's Fundamentals of Agents from Hugging Face](cert_ai_agentic-ai_fundamentals-of-agents_hugging-face_2025-06-20.webp)
-
-### Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White
-* [John's Vanderbilt University online credential](https://coursera.org/verify/APXUOJ49ZSFI)
-
-![John's Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White](cert_ai_agents_agentic-ai-and-ai-agents-a-primer-for-leaders_vanderbiltu_jules-white_cert-APXUOJ49ZSFI_2025-08-10.png)
-
-### Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White
-* [John's Vanderbilt University online credential](https://coursera.org/verify/1LRTE17NTNXQ)
-
-![John's Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](cert_ai_vibe-coding_claude-code-software-engineering-with-generative-ai-agents_coursera_jules-white_cert-1LRTE17NTNXQ_2025-07-20.png)
-
-### Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid
-
-<img src="../cert_ai_agentic-ai_introduction-to-developing-ai-agents_pluralsight_muhammad-sajid_2025-06-03.png" alt="John's Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" />
-
-### Creating Personal AI Agents from Pluralsight by Kamran Ayub
-
-<img src="../cert_ai_agentic-ai_creating-personal-ai-agents_pluralsight_kamran-ayub_2025-07-20.png" alt="John's Creating Personal AI Agents from Pluralsight by Kamran Ayub" style="border:1px solid #000000" />
-
-### Using AI Agents for Productivity from Pluralsight by Vlad Catrinescu
-
-<img src="../cert_ai_agentic-ai_using-ai-agents-for-productivity_pluralsight_vlad-catrinescu_2025-07-20.png" alt="John's Using AI Agents for Productivity from Pluralsight by Vlad Catrinescu" style="border:1px solid #000000" />
-
-### Human–AI Agent Collaboration from Pluralsight by Bogdan Sucaciu
-
-<img src="../cert_ai_agentic-ai_human-ai-agent-collaboration_pluralsight_bogdan-sucaciu_2025-07-27.png" alt="John's Human–AI Agent Collaboration from Pluralsight by Bogdan Sucaciu" style="border:1px solid #000000" />
-
-### Agentic AI Lifecycle Management from Pluralsight by Eman Hassan
-
-<img src="../cert_ai_agentic-ai_agentic-ai-lifecycle-management_pluralsight_eman-hassan_2025-07-09.png" alt="John's Agentic AI Lifecycle Management from Pluralsight by Eman Hassan" style="border:1px solid #000000" />
-
-### Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman
-
-<img src="../cert_ai_agentic-ai_deploying-ai-agents-in-produciton-environments_pluralsight_pratheerth-padman_2025-06-23.png" alt="John's Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman" style="border:1px solid #000000" />
-
-## Multi-Agent Systems (9)
-### Multi AI Agent Systems with CrewAI from CrewAI by João Moura
-
-<img src="../cert_ai_multi-agent_multi-ai-agent-systems-with-crewai_crewai_2025-06-08.png" alt="John's Multi AI Agent Systems with CrewAI from CrewAI by João Moura" style="border:1px solid #000000" />
-
-### Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone
-* [John's Packt online credential](https://coursera.org/verify/I7EM70S5CNDA)
-
-![John's Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](cert_ai_multi-agent_mastering-multi-agent-development-with-autogen_coursera_packt_cert-I7EM70S5CNDA_2025-06-26.png)
-
-### Elevate Team Productivity with Crew AI from Coursera by Yash Thakker
-* [John's Coursera online credential](https://coursera.org/verify/PL8QUEVA2NYB)
-
-![John's Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](cert_ai_agentic-ai_elevate-team-productivity-with-crew-ai_coursera_yash-thakker_cert-PL8QUEVA2NYB_2025-06-16.png)
-
-### Introduction to CrewAI: Building a Researcher Assistant Agent from Analytics Vidhya by Alessandro Romano
-* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/bovpkhdpsd)
-
-<img src="../cert_ai_multi-agent_introduction-to-crewai-building-a-researcher-assistant-agent_analyticsvidya_alessandro-romano_certificate-683237094_2025-07-18.jpg" alt="John's Introduction to CrewAI: Building a Researcher Assistant Agent from Analytics Vidhya by Alessandro Romano" style="border:1px solid #000000" />
-
-### Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu
-
-<img src="../cert_ai_agentic-ai_applying-multi-agent-systems-to-daily-tasks_pluralsight_bogdan-sucaciu_2025-06-18.png" alt="John's Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu" style="border:1px solid #000000" />
-
-### Developing Multi-agent Systems from Pluralsight by Muhammad Sajid
-
-<img src="../cert_ai_multi-agent_developing-multi-agent-systems_pluralsight_muhammad-sajid_2025-08-09.png" alt="John's Developing Multi-agent Systems from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" />
-
-### Developing Task-specific Agents with CrewAI from Pluralsight by Jon Friskics
-
-<img src="../cert_ai_multi-agent_developing-task-specific-agents-with-crewai_pluralsight_jon-friskics_2025-06-28.png" alt="John's Developing Task-specific Agents with CrewAI from Pluralsight by Jon Friskics" style="border:1px solid #000000" />
-
-### Introduction to LangGraph from Pluralsight by Craig Golightly
-
-<img src="../cert_ai_agentic-ai_introduction-to-langgraph_pluralsight_craig-golightly_2025-06-18.png" alt="John's Introduction to LangGraph from Pluralsight by Craig Golightly" style="border:1px solid #000000" />
-
-### Basics of LangGraph Workflows from Pluralsight by Craig Golightly
-
-<img src="../cert_ai_agentic-ai_basics-of-langgraph-workflows_pluralsight_craig-golightly_2025-06-18.png" alt="John's Basics of LangGraph Workflows from Pluralsight by Craig Golightly" style="border:1px solid #000000" />
-
-## Workflow Automation (1)
-### n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi
-* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/8lnnxuybwr)
-
-<img src="../cert_ai_workflow-automation_n8n-a-complete-guide-to-the-automation-tool_analyticsvidhya_gyan-prakash-tripathi_2025-07-11.jpg" alt="John's n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi" style="border:1px solid #000000" />
-
-## Model Context Protocol (MCP) (6)
-### Model Context Protocol: Advanced Topics from Anthropic
-* [John's Anthropic online credential](https://verify.skilljar.com/c/mu9br5w7hgpu)
-
-<img src="../cert_ai_mcp_model-context-protocol-advanced-topics_anthropic_cert-mu9br5w7hgpu_2025-07-21.jpg" alt="John's Model Context Protocol: Advanced Topics from Anthropic" style="border:1px solid #000000" />
-
-### Introduction to Model Context Protocol from Anthropic
-* [John's Anthropic online credential](https://verify.skilljar.com/c/z63bcx5kdca8)
-
-<img src="../cert_ai_mcp_introduction-to-model-context-protocol_anthropic_cert-z63bcx5kdca8-1753168193_2025-07-22.jpg" alt="John's Introduction to Model Context Protocol from Anthropic" style="border:1px solid #000000" />
-
-### MCP for Production Automation from Hugging Face
-* [John's Hugging Face online credential](https://cdn-uploads.huggingface.co/production/uploads/noauth/tzZ2UDkYY3vwymJ368oB-.webp)
-
-![John's MCP for Production Automation from Hugging Face](cert_ai_mcp_mcp-for-production-automation_hugging-face_2025-07-19.webp)
-
-### Fundamentals of MCP (Model Context Protocol) from Hugging Face
-* [John's Hugging Face online credential](https://huggingface.co/datasets/mcp-course/certificates/resolve/main/certificates/grokify/2025-06-14.png)
-
-![John's Fundamentals of MCP (Model Context Protocol) from Hugging Face](cert_ai_mcp_the-mcp-course-unit-1_hugging-face_2025-06-13.webp)
-
-### Model Context Protocol (MCP) Mastery from Fractal Analytics Academy
-* [John's Fractal Analytics Academy online credential](https://coursera.org/verify/0JTIA6PWXHVI)
-
-![John's Model Context Protocol (MCP) Mastery from Fractal Analytics Academy](cert_ai_mcp_model-context-protocol-mcp-mastery_fractalanalyticsacademy_cert-0JTIA6PWXHVI_2025-08-05.png)
-
-### Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi
-* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/xea7hrnfdb)
-
-<img src="../cert_ai_mcp_foundations-of-model-context-protocol_analytics-vidhya_cert-636446298_2025-04-02.jpg" alt="John's Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi" style="border:1px solid #000000" />
 
 ## Prompt Engineering (3)
 ### Essentials of Prompt Engineering from AWS
