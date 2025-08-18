@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/cloud-infrastructure/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Cloud Infrastructure (20) - John Wang's Site</title>
+    <title>Cloud Infrastructure (22) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Cloud Infrastructure (20)";
+        var mkdocs_page_name = "Cloud Infrastructure (22)";
         var mkdocs_page_input_path = "certificates/cloud-infrastructure.md";
         var mkdocs_page_url = "/certificates/cloud-infrastructure/";
       </script>
@@ -66,13 +66,13 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../appreciation/">Appreciation (1)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (77)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (79)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence-ml/">Artificial Intelligence: ML (15)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (5)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Cloud Infrastructure (20)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Cloud Infrastructure (22)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#aws-10">AWS (10)</a>
         <ul>
@@ -98,7 +98,7 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#aws-bedrock-7">AWS Bedrock (7)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-bedrock-6">AWS Bedrock (6)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</a>
     </li>
@@ -110,9 +110,17 @@
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws">AWS SimuLearn: Secure Conversational AI with Guardrails from AWS</a>
     </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-bedrock-agentcore-3">AWS Bedrock AgentCore (3)</a>
+        <ul>
     <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</a>
     </li>
-    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</a>
+    <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-agentcore-identity-tutorial-from-aws">Amazon Bedrock AgentCore Identity Tutorial from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-agentcore-tools-tutorial-from-aws">Amazon Bedrock AgentCore Tools Tutorial from AWS</a>
     </li>
         </ul>
     </li>
@@ -199,7 +207,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>Cloud Infrastructure (20)</li>
+          <li>Certificates &raquo;</li><li>Cloud Infrastructure (22)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -224,14 +232,19 @@
 <li><a href="#aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</a></li>
 </ol>
 </li>
-<li><a href="#aws-bedrock-7">AWS Bedrock</a><ol>
+<li><a href="#aws-bedrock-6">AWS Bedrock</a><ol>
 <li><a href="#amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</a></li>
 <li><a href="#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws">Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS</a></li>
 <li><a href="#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws">Automate Generative AI workflows using Amazon Bedrock Flows from AWS</a></li>
 <li><a href="#building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws">Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS</a></li>
 <li><a href="#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws">AWS SimuLearn: Secure Conversational AI with Guardrails from AWS</a></li>
-<li><a href="#amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</a></li>
 <li><a href="#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</a></li>
+</ol>
+</li>
+<li><a href="#aws-bedrock-agentcore-3">AWS Bedrock AgentCore</a><ol>
+<li><a href="#amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</a></li>
+<li><a href="#amazon-bedrock-agentcore-identity-tutorial-from-aws">Amazon Bedrock AgentCore Identity Tutorial from AWS</a></li>
+<li><a href="#amazon-bedrock-agentcore-tools-tutorial-from-aws">Amazon Bedrock AgentCore Tools Tutorial from AWS</a></li>
 </ol>
 </li>
 <li><a href="#azure-2">Azure</a><ol>
@@ -271,7 +284,7 @@
 <li><a href="https://coursera.org/verify/QRD93E7CVUMP">John's Whizlabs online credential</a></li>
 </ul>
 <p><img alt="John's AWS: Identity and Access Management from Whizlabs" src="../cert_aws_aws-identity-and-access-management_whizlabs_cert-QRD93E7CVUMP_2024-03-20.png" /></p>
-<h2 id="aws-bedrock-7">AWS Bedrock (7)</h2>
+<h2 id="aws-bedrock-6">AWS Bedrock (6)</h2>
 <h3 id="amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</h3>
 <p><img src="../cert_ai_aws-bedrock_amazon-bedrock-getting-started_aws_cert-ce0a575a-2277-48f0-9a70-e2acb21e0190_2025-07-26.png" alt="John's Amazon Bedrock Getting Started from AWS" style="border:1px solid #000000" /></p>
 <h3 id="introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws">Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS</h3>
@@ -282,10 +295,15 @@
 <p><img src="../cert_ai_aws-bedrock_building-rag-workflows-with-amazon-opensesarch-service_aws_cert-f12227e6-bf4b-451c-9679-00f2d277e05e_2025-07-26.png" alt="John's Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS" style="border:1px solid #000000" /></p>
 <h3 id="aws-simulearn-secure-conversational-ai-with-guardrails-from-aws">AWS SimuLearn: Secure Conversational AI with Guardrails from AWS</h3>
 <p><img src="../cert_ai_aws-bedrock_secure-conversational-ai-with-guardrails_aws_cert-cec75b62-666c-482d-8668-3b68fa2453b8_2025-07-26.png" alt="John's AWS SimuLearn: Secure Conversational AI with Guardrails from AWS" style="border:1px solid #000000" /></p>
-<h3 id="amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</h3>
-<p><img src="../cert_ai_aws-bedrock_aws-bedrock-agent-core-getting-started_aws_cert-a3ebd357-5aec-4b50-9fe8-044b789f543d_2025-07-09.png" alt="John's Amazon Bedrock AgentCore Getting Started from AWS" style="border:1px solid #000000" /></p>
 <h3 id="introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</h3>
 <p><img src="../cert_ai_aws_introduction-to-bedrock_pluralsight_muhammad-sajid_2025-06-15.png" alt="John's Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" /></p>
+<h2 id="aws-bedrock-agentcore-3">AWS Bedrock AgentCore (3)</h2>
+<h3 id="amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_aws-bedrock-agent-core-getting-started_aws_cert-a3ebd357-5aec-4b50-9fe8-044b789f543d_2025-07-09.png" alt="John's Amazon Bedrock AgentCore Getting Started from AWS" style="border:1px solid #000000" /></p>
+<h3 id="amazon-bedrock-agentcore-identity-tutorial-from-aws">Amazon Bedrock AgentCore Identity Tutorial from AWS</h3>
+<p><img src="../cert_aws_bedrock_amazon-bedrock-agentcore-identity-tutorial_aws_cert-fcbeea92-1494-435e-864d-1a380911b0dc_2025-08-17.png" alt="John's Amazon Bedrock AgentCore Identity Tutorial from AWS" style="border:1px solid #000000" /></p>
+<h3 id="amazon-bedrock-agentcore-tools-tutorial-from-aws">Amazon Bedrock AgentCore Tools Tutorial from AWS</h3>
+<p><img src="../cert_aws_bedrock_amazon-bedrock-agentcore-tools-tutorial_aws_cert-264c8d4b-6c78-4e5e-84b6-91150645173c_2025-08-18.png" alt="John's Amazon Bedrock AgentCore Tools Tutorial from AWS" style="border:1px solid #000000" /></p>
 <h2 id="azure-2">Azure (2)</h2>
 <h3 id="create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako">Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako</h3>
 <p><img src="../cert_devops_azure_create-azure-resource-templates-generative-ai_pluralsight_bismark-adomako_2024-09-28.png" alt="John's Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako" style="border:1px solid #000000" /></p>
