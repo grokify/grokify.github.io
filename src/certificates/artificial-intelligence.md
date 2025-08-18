@@ -19,10 +19,11 @@
     1. [Agentic AI Lifecycle Management from Pluralsight by Eman Hassan](#agentic-ai-lifecycle-management-from-pluralsight-by-eman-hassan)
     1. [Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman](#deploying-ai-agents-in-production-environments-from-pluralsight-by-pratheerth-padman)
     1. [Agentic AI Safety and Alignment from Pluralsight by Steve Buchanan](#agentic-ai-safety-and-alignment-from-pluralsight-by-steve-buchanan)
-1. [Multi-Agent Systems](#multi-agent-systems-10)
+1. [AI Agents Orchestration](#ai-agents-orchestration-11)
     1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joao-moura)
     1. [Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](#mastering-multi-agent-development-with-autogen-from-packt-by-paulo-dichone)
     1. [Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](#elevate-team-productivity-with-crew-ai-from-coursera-by-yash-thakker)
+    1. [n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi](#n8n-a-complete-guide-to-the-automation-tool-from-analytics-vidhya-by-gyan-prakash-tripathi)
     1. [Introduction to CrewAI: Building a Researcher Assistant Agent from Analytics Vidhya by Alessandro Romano](#introduction-to-crewai-building-a-researcher-assistant-agent-from-analytics-vidhya-by-alessandro-romano)
     1. [Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu](#applying-multi-agent-systems-to-daily-tasks-from-pluralsight-by-bogdan-sucaciu)
     1. [Developing Multi-agent Systems from Pluralsight by Muhammad Sajid](#developing-multi-agent-systems-from-pluralsight-by-muhammad-sajid)
@@ -30,8 +31,6 @@
     1. [Building Multi-agent Systems with AutoGen from Pluralsight by Sandy Ludosky](#building-multi-agent-systems-with-autogen-from-pluralsight-by-sandy-ludosky)
     1. [Introduction to LangGraph from Pluralsight by Craig Golightly](#introduction-to-langgraph-from-pluralsight-by-craig-golightly)
     1. [Basics of LangGraph Workflows from Pluralsight by Craig Golightly](#basics-of-langgraph-workflows-from-pluralsight-by-craig-golightly)
-1. [Workflow Automation](#workflow-automation-1)
-    1. [n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi](#n8n-a-complete-guide-to-the-automation-tool-from-analytics-vidhya-by-gyan-prakash-tripathi)
 1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-6)
     1. [Model Context Protocol: Advanced Topics from Anthropic](#model-context-protocol-advanced-topics-from-anthropic)
     1. [Introduction to Model Context Protocol from Anthropic](#introduction-to-model-context-protocol-from-anthropic)
@@ -84,13 +83,15 @@
 1. [Governance](#governance-2)
     1. [Introduction to Responsible AI from Google Cloud](#introduction-to-responsible-ai-from-google-cloud)
     1. [AI Governance from STACKIT](#ai-governance-from-stackit)
-1. [AWS](#aws-8)
+1. [AWS](#aws-10)
     1. [Amazon Bedrock Getting Started from AWS](#amazon-bedrock-getting-started-from-aws)
     1. [Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS](#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws)
     1. [Automate Generative AI workflows using Amazon Bedrock Flows from AWS](#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws)
     1. [Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS](#building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws)
     1. [AWS SimuLearn: Secure Conversational AI with Guardrails from AWS](#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws)
     1. [Amazon Bedrock AgentCore Getting Started from AWS](#amazon-bedrock-agentcore-getting-started-from-aws)
+    1. [Amazon Bedrock AgentCore Identity Tutorial from AWS](#amazon-bedrock-agentcore-identity-tutorial-from-aws)
+    1. [Amazon Bedrock AgentCore Tools Tutorial from AWS](#amazon-bedrock-agentcore-tools-tutorial-from-aws)
     1. [Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid](#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid)
     1. [Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha](#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha)
 ## Resources
@@ -170,7 +171,7 @@
 
 <img src="../cert_ai_agents_agentic-ai-safety-and-alignment_pluralsight_steve-buchanan_2025-08-11.png" alt="John's Agentic AI Safety and Alignment from Pluralsight by Steve Buchanan" style="border:1px solid #000000" />
 
-## Multi-Agent Systems (10)
+## AI Agents Orchestration (11)
 ### Multi AI Agent Systems with CrewAI from CrewAI by João Moura
 
 <img src="../cert_ai_multi-agent_multi-ai-agent-systems-with-crewai_crewai_2025-06-08.png" alt="John's Multi AI Agent Systems with CrewAI from CrewAI by João Moura" style="border:1px solid #000000" />
@@ -184,6 +185,11 @@
 * [John's Coursera online credential](https://coursera.org/verify/PL8QUEVA2NYB)
 
 ![John's Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](cert_ai_agentic-ai_elevate-team-productivity-with-crew-ai_coursera_yash-thakker_cert-PL8QUEVA2NYB_2025-06-16.png)
+
+### n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/8lnnxuybwr)
+
+<img src="../cert_ai_workflow-automation_n8n-a-complete-guide-to-the-automation-tool_analyticsvidhya_gyan-prakash-tripathi_2025-07-11.jpg" alt="John's n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi" style="border:1px solid #000000" />
 
 ### Introduction to CrewAI: Building a Researcher Assistant Agent from Analytics Vidhya by Alessandro Romano
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/bovpkhdpsd)
@@ -213,12 +219,6 @@
 ### Basics of LangGraph Workflows from Pluralsight by Craig Golightly
 
 <img src="../cert_ai_agentic-ai_basics-of-langgraph-workflows_pluralsight_craig-golightly_2025-06-18.png" alt="John's Basics of LangGraph Workflows from Pluralsight by Craig Golightly" style="border:1px solid #000000" />
-
-## Workflow Automation (1)
-### n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi
-* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/8lnnxuybwr)
-
-<img src="../cert_ai_workflow-automation_n8n-a-complete-guide-to-the-automation-tool_analyticsvidhya_gyan-prakash-tripathi_2025-07-11.jpg" alt="John's n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi" style="border:1px solid #000000" />
 
 ## Model Context Protocol (MCP) (6)
 ### Model Context Protocol: Advanced Topics from Anthropic
@@ -430,7 +430,7 @@
 
 <img src="../cert_ai_governance_ai-governance_stackit_2025-08-06.png" alt="John's AI Governance from STACKIT" style="border:1px solid #000000" />
 
-## AWS (8)
+## AWS (10)
 ### Amazon Bedrock Getting Started from AWS
 
 <img src="../cert_ai_aws-bedrock_amazon-bedrock-getting-started_aws_cert-ce0a575a-2277-48f0-9a70-e2acb21e0190_2025-07-26.png" alt="John's Amazon Bedrock Getting Started from AWS" style="border:1px solid #000000" />
@@ -454,6 +454,14 @@
 ### Amazon Bedrock AgentCore Getting Started from AWS
 
 <img src="../cert_ai_aws-bedrock_aws-bedrock-agent-core-getting-started_aws_cert-a3ebd357-5aec-4b50-9fe8-044b789f543d_2025-07-09.png" alt="John's Amazon Bedrock AgentCore Getting Started from AWS" style="border:1px solid #000000" />
+
+### Amazon Bedrock AgentCore Identity Tutorial from AWS
+
+<img src="../cert_aws_bedrock_amazon-bedrock-agentcore-identity-tutorial_aws_cert-fcbeea92-1494-435e-864d-1a380911b0dc_2025-08-17.png" alt="John's Amazon Bedrock AgentCore Identity Tutorial from AWS" style="border:1px solid #000000" />
+
+### Amazon Bedrock AgentCore Tools Tutorial from AWS
+
+<img src="../cert_aws_bedrock_amazon-bedrock-agentcore-tools-tutorial_aws_cert-264c8d4b-6c78-4e5e-84b6-91150645173c_2025-08-18.png" alt="John's Amazon Bedrock AgentCore Tools Tutorial from AWS" style="border:1px solid #000000" />
 
 ### Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid
 

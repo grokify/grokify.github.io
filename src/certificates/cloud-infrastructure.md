@@ -10,14 +10,17 @@
     1. [Getting Started with AWS Control Tower from Simplilearn](#getting-started-with-aws-control-tower-from-simplilearn)
     1. [AWS CI/CD Pipeline from Great Learning Academy](#aws-cicd-pipeline-from-great-learning-academy)
     1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
-1. [AWS Bedrock](#aws-bedrock-7)
+1. [AWS Bedrock](#aws-bedrock-6)
     1. [Amazon Bedrock Getting Started from AWS](#amazon-bedrock-getting-started-from-aws)
     1. [Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS](#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws)
     1. [Automate Generative AI workflows using Amazon Bedrock Flows from AWS](#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws)
     1. [Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS](#building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws)
     1. [AWS SimuLearn: Secure Conversational AI with Guardrails from AWS](#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws)
-    1. [Amazon Bedrock AgentCore Getting Started from AWS](#amazon-bedrock-agentcore-getting-started-from-aws)
     1. [Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid](#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid)
+1. [AWS Bedrock AgentCore](#aws-bedrock-agentcore-3)
+    1. [Amazon Bedrock AgentCore Getting Started from AWS](#amazon-bedrock-agentcore-getting-started-from-aws)
+    1. [Amazon Bedrock AgentCore Identity Tutorial from AWS](#amazon-bedrock-agentcore-identity-tutorial-from-aws)
+    1. [Amazon Bedrock AgentCore Tools Tutorial from AWS](#amazon-bedrock-agentcore-tools-tutorial-from-aws)
 1. [Azure](#azure-2)
     1. [Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako](#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako)
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
@@ -66,7 +69,7 @@
 
 ![John's AWS: Identity and Access Management from Whizlabs](cert_aws_aws-identity-and-access-management_whizlabs_cert-QRD93E7CVUMP_2024-03-20.png)
 
-## AWS Bedrock (7)
+## AWS Bedrock (6)
 ### Amazon Bedrock Getting Started from AWS
 
 <img src="../cert_ai_aws-bedrock_amazon-bedrock-getting-started_aws_cert-ce0a575a-2277-48f0-9a70-e2acb21e0190_2025-07-26.png" alt="John's Amazon Bedrock Getting Started from AWS" style="border:1px solid #000000" />
@@ -87,13 +90,22 @@
 
 <img src="../cert_ai_aws-bedrock_secure-conversational-ai-with-guardrails_aws_cert-cec75b62-666c-482d-8668-3b68fa2453b8_2025-07-26.png" alt="John's AWS SimuLearn: Secure Conversational AI with Guardrails from AWS" style="border:1px solid #000000" />
 
+### Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid
+
+<img src="../cert_ai_aws_introduction-to-bedrock_pluralsight_muhammad-sajid_2025-06-15.png" alt="John's Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" />
+
+## AWS Bedrock AgentCore (3)
 ### Amazon Bedrock AgentCore Getting Started from AWS
 
 <img src="../cert_ai_aws-bedrock_aws-bedrock-agent-core-getting-started_aws_cert-a3ebd357-5aec-4b50-9fe8-044b789f543d_2025-07-09.png" alt="John's Amazon Bedrock AgentCore Getting Started from AWS" style="border:1px solid #000000" />
 
-### Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid
+### Amazon Bedrock AgentCore Identity Tutorial from AWS
 
-<img src="../cert_ai_aws_introduction-to-bedrock_pluralsight_muhammad-sajid_2025-06-15.png" alt="John's Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" />
+<img src="../cert_aws_bedrock_amazon-bedrock-agentcore-identity-tutorial_aws_cert-fcbeea92-1494-435e-864d-1a380911b0dc_2025-08-17.png" alt="John's Amazon Bedrock AgentCore Identity Tutorial from AWS" style="border:1px solid #000000" />
+
+### Amazon Bedrock AgentCore Tools Tutorial from AWS
+
+<img src="../cert_aws_bedrock_amazon-bedrock-agentcore-tools-tutorial_aws_cert-264c8d4b-6c78-4e5e-84b6-91150645173c_2025-08-18.png" alt="John's Amazon Bedrock AgentCore Tools Tutorial from AWS" style="border:1px solid #000000" />
 
 ## Azure (2)
 ### Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako
