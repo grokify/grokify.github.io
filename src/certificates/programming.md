@@ -44,6 +44,8 @@
     1. [Refactoring to SOLID Java from Pluralsight by Dan Geabunea](#refactoring-to-solid-java-from-pluralsight-by-dan-geabunea)
 1. [Python](#python-1)
     1. [Python (Basic) from HackerRank](#python-basic-from-hackerrank)
+1. [TypeScript](#typescript-1)
+    1. [TypeScript Foundations: The Big Picture from Pluralsight by Jon Friskics](#typescript-foundations-the-big-picture-from-pluralsight-by-jon-friskics)
 1. [SQL](#sql-3)
     1. [SQL (Advanced) from HackerRank](#sql-advanced-from-hackerrank)
     1. [SQL (Intermediate) from HackerRank](#sql-intermediate-from-hackerrank)
@@ -224,6 +226,11 @@
 <img src="../cert_programming_python_hackerrank_python-basic_2023-07-08_dl-2024-10-26.png" alt="John's Python (Basic) from HackerRank" style="border:1px solid #000000" />
 
 ![John's Python (Basic) from HackerRank](cert_programming_python_hackerrank_python-basic_2023-07-08.png)
+
+## TypeScript (1)
+### TypeScript Foundations: The Big Picture from Pluralsight by Jon Friskics
+
+<img src="../cert_programming_typescript_typescript-foundations-the-big-picture_pluralsight_jon-friskics_2025-08-31.png" alt="John's TypeScript Foundations: The Big Picture from Pluralsight by Jon Friskics" style="border:1px solid #000000" />
 
 ## SQL (3)
 ### SQL (Advanced) from HackerRank

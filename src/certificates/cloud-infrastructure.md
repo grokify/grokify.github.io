@@ -17,11 +17,13 @@
     1. [Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS](#building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws)
     1. [AWS SimuLearn: Secure Conversational AI with Guardrails from AWS](#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws)
     1. [Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid](#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid)
-1. [AWS Bedrock AgentCore](#aws-bedrock-agentcore-3)
+1. [AWS Bedrock AgentCore](#aws-bedrock-agentcore-4)
     1. [Amazon Bedrock AgentCore Getting Started from AWS](#amazon-bedrock-agentcore-getting-started-from-aws)
     1. [Amazon Bedrock AgentCore Identity Tutorial from AWS](#amazon-bedrock-agentcore-identity-tutorial-from-aws)
+    1. [Amazon Bedrock AgentCore RunTime Tutorial from AWS](#amazon-bedrock-agentcore-runtime-tutorial-from-aws)
     1. [Amazon Bedrock AgentCore Tools Tutorial from AWS](#amazon-bedrock-agentcore-tools-tutorial-from-aws)
-1. [Azure](#azure-2)
+1. [Azure](#azure-3)
+    1. [Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski](#azure-ai-fundamentals-from-pluralsight-by-daniel-krzyczkowski)
     1. [Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako](#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako)
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
 1. [Google Cloud Platform (GCP)](#google-cloud-platform-gcp-1)
@@ -94,7 +96,7 @@
 
 <img src="../cert_ai_aws_introduction-to-bedrock_pluralsight_muhammad-sajid_2025-06-15.png" alt="John's Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" />
 
-## AWS Bedrock AgentCore (3)
+## AWS Bedrock AgentCore (4)
 ### Amazon Bedrock AgentCore Getting Started from AWS
 
 <img src="../cert_ai_aws-bedrock_aws-bedrock-agent-core-getting-started_aws_cert-a3ebd357-5aec-4b50-9fe8-044b789f543d_2025-07-09.png" alt="John's Amazon Bedrock AgentCore Getting Started from AWS" style="border:1px solid #000000" />
@@ -103,11 +105,19 @@
 
 <img src="../cert_aws_bedrock_amazon-bedrock-agentcore-identity-tutorial_aws_cert-fcbeea92-1494-435e-864d-1a380911b0dc_2025-08-17.png" alt="John's Amazon Bedrock AgentCore Identity Tutorial from AWS" style="border:1px solid #000000" />
 
+### Amazon Bedrock AgentCore RunTime Tutorial from AWS
+
+<img src="../cert_ai_aws-bedrock_amazon-bedrock-agentcore-runtime-tutorial_aws_cert-62959d76-1ee7-42cb-af21-fa1473edcd0a_2025-08-26.png" alt="John's Amazon Bedrock AgentCore RunTime Tutorial from AWS" style="border:1px solid #000000" />
+
 ### Amazon Bedrock AgentCore Tools Tutorial from AWS
 
 <img src="../cert_aws_bedrock_amazon-bedrock-agentcore-tools-tutorial_aws_cert-264c8d4b-6c78-4e5e-84b6-91150645173c_2025-08-18.png" alt="John's Amazon Bedrock AgentCore Tools Tutorial from AWS" style="border:1px solid #000000" />
 
-## Azure (2)
+## Azure (3)
+### Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski
+
+<img src="../cert_ai_azure_azure-ai-fundamentals_pluralsight_daniel-krzyczkowski_2025-08-31.png" alt="John's Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski" style="border:1px solid #000000" />
+
 ### Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako
 
 <img src="../cert_devops_azure_create-azure-resource-templates-generative-ai_pluralsight_bismark-adomako_2024-09-28.png" alt="John's Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako" style="border:1px solid #000000" />

@@ -8,7 +8,7 @@
     1. [Artificial Intelligence Micro-Certification (AIC) from Product School by Sam Stevens](#artificial-intelligence-micro-certification-aic-from-product-school-by-sam-stevens)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
     1. [AI Product from Great Learning Academy by Abhinanda Sarkar](#ai-product-from-great-learning-academy-by-abhinanda-sarkar)
-1. [AI Agents](#ai-agents-10)
+1. [AI Agents](#ai-agents-14)
     1. [Fundamentals of Agents from Hugging Face](#fundamentals-of-agents-from-hugging-face)
     1. [Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White](#agentic-ai-and-ai-agents-a-primer-for-leaders-from-vanderbilt-university-by-james-white)
     1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
@@ -19,6 +19,10 @@
     1. [Agentic AI Lifecycle Management from Pluralsight by Eman Hassan](#agentic-ai-lifecycle-management-from-pluralsight-by-eman-hassan)
     1. [Deploying AI Agents in Production Environments from Pluralsight by Pratheerth Padman](#deploying-ai-agents-in-production-environments-from-pluralsight-by-pratheerth-padman)
     1. [Agentic AI Safety and Alignment from Pluralsight by Steve Buchanan](#agentic-ai-safety-and-alignment-from-pluralsight-by-steve-buchanan)
+    1. [Agentic AI in Cybersecurity from Pluralsight by Tim Coakley](#agentic-ai-in-cybersecurity-from-pluralsight-by-tim-coakley)
+    1. [Integrating AI Agents into Development Workflows from Pluralsight by Adam Bertram](#integrating-ai-agents-into-development-workflows-from-pluralsight-by-adam-bertram)
+    1. [Integrating AI Agents in Enterprise Systems from Pluralsight by Tom Taulli](#integrating-ai-agents-in-enterprise-systems-from-pluralsight-by-tom-taulli)
+    1. [Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort](#evaluating-and-optimizing-llm-agents-from-pluralsight-by-brian-letort)
 1. [AI Agents Orchestration](#ai-agents-orchestration-11)
     1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joao-moura)
     1. [Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](#mastering-multi-agent-development-with-autogen-from-packt-by-paulo-dichone)
@@ -83,7 +87,7 @@
 1. [Governance](#governance-2)
     1. [Introduction to Responsible AI from Google Cloud](#introduction-to-responsible-ai-from-google-cloud)
     1. [AI Governance from STACKIT](#ai-governance-from-stackit)
-1. [AWS](#aws-10)
+1. [AWS](#aws-11)
     1. [Amazon Bedrock Getting Started from AWS](#amazon-bedrock-getting-started-from-aws)
     1. [Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS](#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws)
     1. [Automate Generative AI workflows using Amazon Bedrock Flows from AWS](#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws)
@@ -91,9 +95,12 @@
     1. [AWS SimuLearn: Secure Conversational AI with Guardrails from AWS](#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws)
     1. [Amazon Bedrock AgentCore Getting Started from AWS](#amazon-bedrock-agentcore-getting-started-from-aws)
     1. [Amazon Bedrock AgentCore Identity Tutorial from AWS](#amazon-bedrock-agentcore-identity-tutorial-from-aws)
+    1. [Amazon Bedrock AgentCore RunTime Tutorial from AWS](#amazon-bedrock-agentcore-runtime-tutorial-from-aws)
     1. [Amazon Bedrock AgentCore Tools Tutorial from AWS](#amazon-bedrock-agentcore-tools-tutorial-from-aws)
     1. [Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid](#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid)
     1. [Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha](#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha)
+1. [Azure](#azure-1)
+    1. [Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski](#azure-ai-fundamentals-from-pluralsight-by-daniel-krzyczkowski)
 ## Resources
 
 1. [Artificial Intelligence Resource Links](../../links/artificial-intelligence/)
@@ -127,7 +134,7 @@
 
 <img src="../cert_ai_product-management_ai-product_great-learning_abhinanda-sarkar_cert-20250720-4683-1t0yf13_2025-07-20.jpg" alt="John's AI Product from Great Learning Academy by Abhinanda Sarkar" style="border:1px solid #000000" />
 
-## AI Agents (10)
+## AI Agents (14)
 ### Fundamentals of Agents from Hugging Face
 * [John's Hugging Face online credential](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/grokify/2025-06-20.png)
 
@@ -170,6 +177,22 @@
 ### Agentic AI Safety and Alignment from Pluralsight by Steve Buchanan
 
 <img src="../cert_ai_agents_agentic-ai-safety-and-alignment_pluralsight_steve-buchanan_2025-08-11.png" alt="John's Agentic AI Safety and Alignment from Pluralsight by Steve Buchanan" style="border:1px solid #000000" />
+
+### Agentic AI in Cybersecurity from Pluralsight by Tim Coakley
+
+<img src="../cert_ai_agentic-ai_agentic-ai-in-cybersecurity_pluralsight_tim-coakley_2025-08-31.png" alt="John's Agentic AI in Cybersecurity from Pluralsight by Tim Coakley" style="border:1px solid #000000" />
+
+### Integrating AI Agents into Development Workflows from Pluralsight by Adam Bertram
+
+<img src="../cert_ai_ai-agents_integrating-ai-agents-development-workflows_pluralsight_adam-bertram_2025-08-31.png" alt="John's Integrating AI Agents into Development Workflows from Pluralsight by Adam Bertram" style="border:1px solid #000000" />
+
+### Integrating AI Agents in Enterprise Systems from Pluralsight by Tom Taulli
+
+<img src="../cert_ai_ai-agents_integrating-ai-agents-in-enterprise-systems_pluralsight_tom-taulli_2025-08-24.png" alt="John's Integrating AI Agents in Enterprise Systems from Pluralsight by Tom Taulli" style="border:1px solid #000000" />
+
+### Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort
+
+<img src="../cert_ai_ai-agents_evaluating-and-optimizing-llm-agents_pluralsight_brian-letort_2025-08-31.png" alt="John's Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort" style="border:1px solid #000000" />
 
 ## AI Agents Orchestration (11)
 ### Multi AI Agent Systems with CrewAI from CrewAI by João Moura
@@ -430,7 +453,7 @@
 
 <img src="../cert_ai_governance_ai-governance_stackit_2025-08-06.png" alt="John's AI Governance from STACKIT" style="border:1px solid #000000" />
 
-## AWS (10)
+## AWS (11)
 ### Amazon Bedrock Getting Started from AWS
 
 <img src="../cert_ai_aws-bedrock_amazon-bedrock-getting-started_aws_cert-ce0a575a-2277-48f0-9a70-e2acb21e0190_2025-07-26.png" alt="John's Amazon Bedrock Getting Started from AWS" style="border:1px solid #000000" />
@@ -459,6 +482,10 @@
 
 <img src="../cert_aws_bedrock_amazon-bedrock-agentcore-identity-tutorial_aws_cert-fcbeea92-1494-435e-864d-1a380911b0dc_2025-08-17.png" alt="John's Amazon Bedrock AgentCore Identity Tutorial from AWS" style="border:1px solid #000000" />
 
+### Amazon Bedrock AgentCore RunTime Tutorial from AWS
+
+<img src="../cert_ai_aws-bedrock_amazon-bedrock-agentcore-runtime-tutorial_aws_cert-62959d76-1ee7-42cb-af21-fa1473edcd0a_2025-08-26.png" alt="John's Amazon Bedrock AgentCore RunTime Tutorial from AWS" style="border:1px solid #000000" />
+
 ### Amazon Bedrock AgentCore Tools Tutorial from AWS
 
 <img src="../cert_aws_bedrock_amazon-bedrock-agentcore-tools-tutorial_aws_cert-264c8d4b-6c78-4e5e-84b6-91150645173c_2025-08-18.png" alt="John's Amazon Bedrock AgentCore Tools Tutorial from AWS" style="border:1px solid #000000" />
@@ -470,4 +497,9 @@
 ### Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha
 
 <img src="../cert_devops_aws_create-aws-infrastructure-as-code-templates-using-generative-ai_pluralsight_shubham-sinha_2024-09-11.png" alt="John's Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha" style="border:1px solid #000000" />
+
+## Azure (1)
+### Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski
+
+<img src="../cert_ai_azure_azure-ai-fundamentals_pluralsight_daniel-krzyczkowski_2025-08-31.png" alt="John's Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski" style="border:1px solid #000000" />
 
