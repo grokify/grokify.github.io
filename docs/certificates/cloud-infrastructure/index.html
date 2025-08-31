@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/cloud-infrastructure/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Cloud Infrastructure (22) - John Wang's Site</title>
+    <title>Cloud Infrastructure (24) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Cloud Infrastructure (22)";
+        var mkdocs_page_name = "Cloud Infrastructure (24)";
         var mkdocs_page_input_path = "certificates/cloud-infrastructure.md";
         var mkdocs_page_url = "/certificates/cloud-infrastructure/";
       </script>
@@ -66,13 +66,13 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../appreciation/">Appreciation (1)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (79)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (85)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence-ml/">Artificial Intelligence: ML (15)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (5)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Cloud Infrastructure (22)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Cloud Infrastructure (24)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#aws-10">AWS (10)</a>
         <ul>
@@ -114,18 +114,22 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#aws-bedrock-agentcore-3">AWS Bedrock AgentCore (3)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-bedrock-agentcore-4">AWS Bedrock AgentCore (4)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-agentcore-identity-tutorial-from-aws">Amazon Bedrock AgentCore Identity Tutorial from AWS</a>
     </li>
+    <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-agentcore-runtime-tutorial-from-aws">Amazon Bedrock AgentCore RunTime Tutorial from AWS</a>
+    </li>
     <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-agentcore-tools-tutorial-from-aws">Amazon Bedrock AgentCore Tools Tutorial from AWS</a>
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#azure-2">Azure (2)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#azure-3">Azure (3)</a>
         <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#azure-ai-fundamentals-from-pluralsight-by-daniel-krzyczkowski">Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski</a>
+    </li>
     <li class="toctree-l3"><a class="reference internal" href="#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako">Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</a>
@@ -170,7 +174,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (21)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (39)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (40)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../programming-qa/">Programming: QA (5)</a>
                   </li>
@@ -207,7 +211,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" alt="Docs"></a> &raquo;</li>
-          <li>Certificates &raquo;</li><li>Cloud Infrastructure (22)</li>
+          <li>Certificates &raquo;</li><li>Cloud Infrastructure (24)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -241,13 +245,15 @@
 <li><a href="#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</a></li>
 </ol>
 </li>
-<li><a href="#aws-bedrock-agentcore-3">AWS Bedrock AgentCore</a><ol>
+<li><a href="#aws-bedrock-agentcore-4">AWS Bedrock AgentCore</a><ol>
 <li><a href="#amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</a></li>
 <li><a href="#amazon-bedrock-agentcore-identity-tutorial-from-aws">Amazon Bedrock AgentCore Identity Tutorial from AWS</a></li>
+<li><a href="#amazon-bedrock-agentcore-runtime-tutorial-from-aws">Amazon Bedrock AgentCore RunTime Tutorial from AWS</a></li>
 <li><a href="#amazon-bedrock-agentcore-tools-tutorial-from-aws">Amazon Bedrock AgentCore Tools Tutorial from AWS</a></li>
 </ol>
 </li>
-<li><a href="#azure-2">Azure</a><ol>
+<li><a href="#azure-3">Azure</a><ol>
+<li><a href="#azure-ai-fundamentals-from-pluralsight-by-daniel-krzyczkowski">Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski</a></li>
 <li><a href="#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako">Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako</a></li>
 <li><a href="#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</a></li>
 </ol>
@@ -297,14 +303,18 @@
 <p><img src="../cert_ai_aws-bedrock_secure-conversational-ai-with-guardrails_aws_cert-cec75b62-666c-482d-8668-3b68fa2453b8_2025-07-26.png" alt="John's AWS SimuLearn: Secure Conversational AI with Guardrails from AWS" style="border:1px solid #000000" /></p>
 <h3 id="introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</h3>
 <p><img src="../cert_ai_aws_introduction-to-bedrock_pluralsight_muhammad-sajid_2025-06-15.png" alt="John's Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" /></p>
-<h2 id="aws-bedrock-agentcore-3">AWS Bedrock AgentCore (3)</h2>
+<h2 id="aws-bedrock-agentcore-4">AWS Bedrock AgentCore (4)</h2>
 <h3 id="amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</h3>
 <p><img src="../cert_ai_aws-bedrock_aws-bedrock-agent-core-getting-started_aws_cert-a3ebd357-5aec-4b50-9fe8-044b789f543d_2025-07-09.png" alt="John's Amazon Bedrock AgentCore Getting Started from AWS" style="border:1px solid #000000" /></p>
 <h3 id="amazon-bedrock-agentcore-identity-tutorial-from-aws">Amazon Bedrock AgentCore Identity Tutorial from AWS</h3>
 <p><img src="../cert_aws_bedrock_amazon-bedrock-agentcore-identity-tutorial_aws_cert-fcbeea92-1494-435e-864d-1a380911b0dc_2025-08-17.png" alt="John's Amazon Bedrock AgentCore Identity Tutorial from AWS" style="border:1px solid #000000" /></p>
+<h3 id="amazon-bedrock-agentcore-runtime-tutorial-from-aws">Amazon Bedrock AgentCore RunTime Tutorial from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_amazon-bedrock-agentcore-runtime-tutorial_aws_cert-62959d76-1ee7-42cb-af21-fa1473edcd0a_2025-08-26.png" alt="John's Amazon Bedrock AgentCore RunTime Tutorial from AWS" style="border:1px solid #000000" /></p>
 <h3 id="amazon-bedrock-agentcore-tools-tutorial-from-aws">Amazon Bedrock AgentCore Tools Tutorial from AWS</h3>
 <p><img src="../cert_aws_bedrock_amazon-bedrock-agentcore-tools-tutorial_aws_cert-264c8d4b-6c78-4e5e-84b6-91150645173c_2025-08-18.png" alt="John's Amazon Bedrock AgentCore Tools Tutorial from AWS" style="border:1px solid #000000" /></p>
-<h2 id="azure-2">Azure (2)</h2>
+<h2 id="azure-3">Azure (3)</h2>
+<h3 id="azure-ai-fundamentals-from-pluralsight-by-daniel-krzyczkowski">Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski</h3>
+<p><img src="../cert_ai_azure_azure-ai-fundamentals_pluralsight_daniel-krzyczkowski_2025-08-31.png" alt="John's Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski" style="border:1px solid #000000" /></p>
 <h3 id="create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako">Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako</h3>
 <p><img src="../cert_devops_azure_create-azure-resource-templates-generative-ai_pluralsight_bismark-adomako_2024-09-28.png" alt="John's Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako" style="border:1px solid #000000" /></p>
 <h3 id="microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</h3>
