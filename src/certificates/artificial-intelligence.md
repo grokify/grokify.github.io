@@ -1,6 +1,7 @@
 # John's Artificial Intelligence Certificates
-1. [Strategy](#strategy-1)
+1. [Strategy](#strategy-2)
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
+    1. [AI+ Chief AI Officer™ from AI CERTs](#ai-chief-ai-officertm-from-ai-certs)
 1. [Fundamentals](#fundamentals-1)
     1. [AI Ready from STACKIT](#ai-ready-from-stackit)
 1. [Product Management](#product-management-4)
@@ -84,7 +85,9 @@
     1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-ai-generated-attacks-from-codecademy)
     1. [Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana](#security-risks-and-privacy-concerns-using-generative-ai-from-pluralsight-by-dr-shaila-rana)
     1. [AI Security from Lakera](#ai-security-from-lakera)
-1. [Governance](#governance-2)
+1. [Governance](#governance-4)
+    1. [AI-Ready Data from Silicon Valley Certification Hub by Kash Mehdi](#ai-ready-data-from-silicon-valley-certification-hub-by-kash-mehdi)
+    1. [Navigating Global AI Policy and Regulations: Insights for Latam from Silicon Valley Certification Hub by Merve Hickok](#navigating-global-ai-policy-and-regulations-insights-for-latam-from-silicon-valley-certification-hub-by-merve-hickok)
     1. [Introduction to Responsible AI from Google Cloud](#introduction-to-responsible-ai-from-google-cloud)
     1. [AI Governance from STACKIT](#ai-governance-from-stackit)
 1. [AWS](#aws-11)
@@ -104,11 +107,15 @@
 ## Resources
 
 1. [Artificial Intelligence Resource Links](../../links/artificial-intelligence/)
-## Strategy (1)
+## Strategy (2)
 ### AI Strategy and Governance from University of Pennsylvania, Wharton School
 * [John's University of Pennsylvania, Wharton School online credential](https://coursera.org/verify/DGB6XB4C7VKD)
 
 ![John's AI Strategy and Governance from University of Pennsylvania, Wharton School](cert_ai_ai-strategy-and-governance_wharton_cert-DGB6XB4C7VKD_2024-03-03.png)
+
+### AI+ Chief AI Officer™ from AI CERTs
+
+![John's AI+ Chief AI Officer™ from AI CERTs](cert_ai_strategy_ai-plus-chief-artificial-intelligence-officer-caio_aicerts_2025-09-06.png)
 
 ## Fundamentals (1)
 ### AI Ready from STACKIT
@@ -443,7 +450,17 @@
 
 <img src="../cert_ai_ai-security_lakera_cert-53495805-342d-41b7-b9bf-5923ae00422d_2024-03-19.png" alt="John's AI Security from Lakera" style="border:1px solid #000000" />
 
-## Governance (2)
+## Governance (4)
+### AI-Ready Data from Silicon Valley Certification Hub by Kash Mehdi
+* [John's Silicon Valley Certification Hub online credential](https://svch.io/tutor-certificate-2-2/?cert_hash=359fdc8bb7d3b3fb)
+
+<img src="../cert_ai_governance_ai-ready-data_silicon-valley-certification-hub_cert-1756806521828_2025-09-02.jpg" alt="John's AI-Ready Data from Silicon Valley Certification Hub by Kash Mehdi" style="border:1px solid #000000" />
+
+### Navigating Global AI Policy and Regulations: Insights for Latam from Silicon Valley Certification Hub by Merve Hickok
+* [John's Silicon Valley Certification Hub online credential](https://svch.io/tutor-certificate-2-2/?cert_hash=86333c1144297c63&regenerate=1)
+
+<img src="../cert_ai_governance_global-ai-policy-and-regulations_silicon-valley-certification-hub_cert-1756823471046_2025-09-02.jpg" alt="John's Navigating Global AI Policy and Regulations: Insights for Latam from Silicon Valley Certification Hub by Merve Hickok" style="border:1px solid #000000" />
+
 ### Introduction to Responsible AI from Google Cloud
 * [John's Google Cloud online credential](https://coursera.org/verify/ZWGW9HZZC2ET)
 
