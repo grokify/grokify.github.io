@@ -2,6 +2,8 @@
 1. [Strategy](#strategy-2)
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
     1. [AI+ Chief AI Officer™ from AI CERTs](#ai-chief-ai-officertm-from-ai-certs)
+1. [Teaching](#teaching-1)
+    1. [Teaching AI Fluency from Anthropic](#teaching-ai-fluency-from-anthropic)
 1. [Fundamentals](#fundamentals-1)
     1. [AI Ready from STACKIT](#ai-ready-from-stackit)
 1. [Product Management](#product-management-4)
@@ -119,6 +121,12 @@
 * [John's AI CERTs online credential](https://verify.certs365.io/?=05f5ffd0a95d)
 
 ![John's AI+ Chief AI Officer™ from AI CERTs](cert_ai_strategy_ai-plus-chief-artificial-intelligence-officer-caio_aicerts_2025-09-06.png)
+
+## Teaching (1)
+### Teaching AI Fluency from Anthropic
+* [John's Anthropic online credential](https://verify.skilljar.com/c/o6e6wbt7oma6)
+
+<img src="../cert_ai_teaching-ai_teaching-the-ai-fluency-framework_anthropic_cert-o6e6wbt7oma6-1757279061_2025-09-07.jpg" alt="John's Teaching AI Fluency from Anthropic" style="border:1px solid #000000" />
 
 ## Fundamentals (1)
 ### AI Ready from STACKIT
