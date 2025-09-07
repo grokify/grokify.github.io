@@ -86,6 +86,7 @@
 <img src="../cert_product_ai_pendo_ai-product-management_2024-01-02_avatar.png" alt="John's AI for Product Management from Pendo" style="border:1px solid #000000" />
 
 ### AI Product from Great Learning Academy by Abhinanda Sarkar
+* [John's Great Learning Academy online credential](https://www.mygreatlearning.com/certificate/UHWQWTQT)
 
 <img src="../cert_ai_product-management_ai-product_great-learning_abhinanda-sarkar_cert-20250720-4683-1t0yf13_2025-07-20.jpg" alt="John's AI Product from Great Learning Academy by Abhinanda Sarkar" style="border:1px solid #000000" />
 

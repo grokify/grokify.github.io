@@ -24,10 +24,11 @@
     1. [Integrating AI Agents into Development Workflows from Pluralsight by Adam Bertram](#integrating-ai-agents-into-development-workflows-from-pluralsight-by-adam-bertram)
     1. [Integrating AI Agents in Enterprise Systems from Pluralsight by Tom Taulli](#integrating-ai-agents-in-enterprise-systems-from-pluralsight-by-tom-taulli)
     1. [Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort](#evaluating-and-optimizing-llm-agents-from-pluralsight-by-brian-letort)
-1. [AI Agents Orchestration](#ai-agents-orchestration-11)
+1. [AI Agents Orchestration](#ai-agents-orchestration-12)
     1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joao-moura)
     1. [Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](#mastering-multi-agent-development-with-autogen-from-packt-by-paulo-dichone)
     1. [Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](#elevate-team-productivity-with-crew-ai-from-coursera-by-yash-thakker)
+    1. [Agentic AI for Beginner from Udemy by Aman Kumar](#agentic-ai-for-beginner-from-udemy-by-aman-kumar)
     1. [n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi](#n8n-a-complete-guide-to-the-automation-tool-from-analytics-vidhya-by-gyan-prakash-tripathi)
     1. [Introduction to CrewAI: Building a Researcher Assistant Agent from Analytics Vidhya by Alessandro Romano](#introduction-to-crewai-building-a-researcher-assistant-agent-from-analytics-vidhya-by-alessandro-romano)
     1. [Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu](#applying-multi-agent-systems-to-daily-tasks-from-pluralsight-by-bogdan-sucaciu)
@@ -90,7 +91,7 @@
     1. [Navigating Global AI Policy and Regulations: Insights for Latam from Silicon Valley Certification Hub by Merve Hickok](#navigating-global-ai-policy-and-regulations-insights-for-latam-from-silicon-valley-certification-hub-by-merve-hickok)
     1. [Introduction to Responsible AI from Google Cloud](#introduction-to-responsible-ai-from-google-cloud)
     1. [AI Governance from STACKIT](#ai-governance-from-stackit)
-1. [AWS](#aws-11)
+1. [AWS](#aws-12)
     1. [Amazon Bedrock Getting Started from AWS](#amazon-bedrock-getting-started-from-aws)
     1. [Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS](#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws)
     1. [Automate Generative AI workflows using Amazon Bedrock Flows from AWS](#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws)
@@ -98,6 +99,7 @@
     1. [AWS SimuLearn: Secure Conversational AI with Guardrails from AWS](#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws)
     1. [Amazon Bedrock AgentCore Getting Started from AWS](#amazon-bedrock-agentcore-getting-started-from-aws)
     1. [Amazon Bedrock AgentCore Identity Tutorial from AWS](#amazon-bedrock-agentcore-identity-tutorial-from-aws)
+    1. [Amazon Bedrock AgentCore Memory Tutorial from AWS](#amazon-bedrock-agentcore-memory-tutorial-from-aws)
     1. [Amazon Bedrock AgentCore RunTime Tutorial from AWS](#amazon-bedrock-agentcore-runtime-tutorial-from-aws)
     1. [Amazon Bedrock AgentCore Tools Tutorial from AWS](#amazon-bedrock-agentcore-tools-tutorial-from-aws)
     1. [Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid](#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid)
@@ -114,6 +116,7 @@
 ![John's AI Strategy and Governance from University of Pennsylvania, Wharton School](cert_ai_ai-strategy-and-governance_wharton_cert-DGB6XB4C7VKD_2024-03-03.png)
 
 ### AI+ Chief AI Officer™ from AI CERTs
+* [John's AI CERTs online credential](https://verify.certs365.io/?=05f5ffd0a95d)
 
 ![John's AI+ Chief AI Officer™ from AI CERTs](cert_ai_strategy_ai-plus-chief-artificial-intelligence-officer-caio_aicerts_2025-09-06.png)
 
@@ -138,6 +141,7 @@
 <img src="../cert_product_ai_pendo_ai-product-management_2024-01-02_avatar.png" alt="John's AI for Product Management from Pendo" style="border:1px solid #000000" />
 
 ### AI Product from Great Learning Academy by Abhinanda Sarkar
+* [John's Great Learning Academy online credential](https://www.mygreatlearning.com/certificate/UHWQWTQT)
 
 <img src="../cert_ai_product-management_ai-product_great-learning_abhinanda-sarkar_cert-20250720-4683-1t0yf13_2025-07-20.jpg" alt="John's AI Product from Great Learning Academy by Abhinanda Sarkar" style="border:1px solid #000000" />
 
@@ -201,7 +205,7 @@
 
 <img src="../cert_ai_ai-agents_evaluating-and-optimizing-llm-agents_pluralsight_brian-letort_2025-08-31.png" alt="John's Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort" style="border:1px solid #000000" />
 
-## AI Agents Orchestration (11)
+## AI Agents Orchestration (12)
 ### Multi AI Agent Systems with CrewAI from CrewAI by João Moura
 
 <img src="../cert_ai_multi-agent_multi-ai-agent-systems-with-crewai_crewai_2025-06-08.png" alt="John's Multi AI Agent Systems with CrewAI from CrewAI by João Moura" style="border:1px solid #000000" />
@@ -215,6 +219,11 @@
 * [John's Coursera online credential](https://coursera.org/verify/PL8QUEVA2NYB)
 
 ![John's Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](cert_ai_agentic-ai_elevate-team-productivity-with-crew-ai_coursera_yash-thakker_cert-PL8QUEVA2NYB_2025-06-16.png)
+
+### Agentic AI for Beginner from Udemy by Aman Kumar
+* [John's Udemy online credential](http://ude.my/UC-a0ba79a9-c37a-4fc1-a044-91d54fb7fed0)
+
+<img src="../cert_ai_agentic-ai_agentic-ai-for-beginner_udemy_aman-kumar_cert-UC-a0ba79a9-c37a-4fc1-a044-91d54fb7fed0_2025-09-07.jpg" alt="John's Agentic AI for Beginner from Udemy by Aman Kumar" style="border:1px solid #000000" />
 
 ### n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/8lnnxuybwr)
@@ -470,7 +479,7 @@
 
 <img src="../cert_ai_governance_ai-governance_stackit_2025-08-06.png" alt="John's AI Governance from STACKIT" style="border:1px solid #000000" />
 
-## AWS (11)
+## AWS (12)
 ### Amazon Bedrock Getting Started from AWS
 
 <img src="../cert_ai_aws-bedrock_amazon-bedrock-getting-started_aws_cert-ce0a575a-2277-48f0-9a70-e2acb21e0190_2025-07-26.png" alt="John's Amazon Bedrock Getting Started from AWS" style="border:1px solid #000000" />
@@ -498,6 +507,10 @@
 ### Amazon Bedrock AgentCore Identity Tutorial from AWS
 
 <img src="../cert_aws_bedrock_amazon-bedrock-agentcore-identity-tutorial_aws_cert-fcbeea92-1494-435e-864d-1a380911b0dc_2025-08-17.png" alt="John's Amazon Bedrock AgentCore Identity Tutorial from AWS" style="border:1px solid #000000" />
+
+### Amazon Bedrock AgentCore Memory Tutorial from AWS
+
+<img src="../cert_ai_aws-agentcore_amazon-bedrock-agentcore-memory-tutorial_aws_cert-4e8094e4-51b0-4eaf-ba85-3538ac9c8b4a_2025-09-07.png" alt="John's Amazon Bedrock AgentCore Memory Tutorial from AWS" style="border:1px solid #000000" />
 
 ### Amazon Bedrock AgentCore RunTime Tutorial from AWS
 
