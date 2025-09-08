@@ -7,16 +7,18 @@
     1. [Find Quick Wins as a New Manager from NonprofitReady by Grovo](#find-quick-wins-as-a-new-manager-from-nonprofitready-by-grovo)
     1. [Common Misconceptions of New Managers from NonprofitReady by Grovo](#common-misconceptions-of-new-managers-from-nonprofitready-by-grovo)
     1. [Stay Calm Under Pressure as a Manager from NonprofitReady by Grovo](#stay-calm-under-pressure-as-a-manager-from-nonprofitready-by-grovo)
-1. [Objectives and Key Results](#objectives-and-key-results-2)
+1. [Objectives and Key Results](#objectives-and-key-results-3)
     1. [Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell](#certified-professional-in-okr-objectives-key-results-cpokr-from-scrum-institute-by-yeliz-obergfell)
     1. [Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson](#product-management-delivering-on-okrs-from-pluralsight-by-keisha-johnson)
+    1. [Defining Key Performance Indicators from NonprofitReady by Cornerstone OnDemand Foundation](#defining-key-performance-indicators-from-nonprofitready-by-cornerstone-ondemand-foundation)
 1. [Problem Solving](#problem-solving-3)
     1. [Get to the Root of Any Problem from Grovo by Alex Khurgin](#get-to-the-root-of-any-problem-from-grovo-by-alex-khurgin)
     1. [5W2H Problem-Solving Method from Management and Strategy Institute](#5w2h-problem-solving-method-from-management-and-strategy-institute)
     1. [Eight Disciplines (8D) Problem Solving Method from Management and Strategy Institute](#eight-disciplines-8d-problem-solving-method-from-management-and-strategy-institute)
 1. [Quality Control](#quality-control-1)
     1. [Lean Six Sigma White Belt from Management and Strategy Institute](#lean-six-sigma-white-belt-from-management-and-strategy-institute)
-1. [Team Building](#team-building-7)
+1. [Team Building](#team-building-8)
+    1. [Coaching Skills from EJ4](#coaching-skills-from-ej4)
     1. [Planning an Effective Performance Appraisal from SkillSoft](#planning-an-effective-performance-appraisal-from-skillsoft)
     1. [Lead Your Virtual Team from Eleventure](#lead-your-virtual-team-from-eleventure)
     1. [Develop High-Potential Employees from NonprofitReady](#develop-high-potential-employees-from-nonprofitready)
@@ -55,7 +57,7 @@
 
 ![John's Stay Calm Under Pressure as a Manager from NonprofitReady by Grovo](cert_management_stay-calm-under-pressure-as-a-manager_nonprofitready-grovo_2024-03-08.png)
 
-## Objectives and Key Results (2)
+## Objectives and Key Results (3)
 ### Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell
 * [John's Scrum Institute online credential](https://www.scrum-institute.org/badges/34694795736577)
 
@@ -64,6 +66,10 @@
 ### Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson
 
 <img src="../cert_product_okrs_product-management-delivering-on-okrs_pluralsight_keisha-johnson_2024-07-27.png" alt="John's Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson" style="border:1px solid #000000" />
+
+### Defining Key Performance Indicators from NonprofitReady by Cornerstone OnDemand Foundation
+
+<img src="../cert_management_kpis_defining-key-performance-indicators_nonprofitready_cornerstone_2025-09-08.png" alt="John's Defining Key Performance Indicators from NonprofitReady by Cornerstone OnDemand Foundation" style="border:1px solid #000000" />
 
 ## Problem Solving (3)
 ### Get to the Root of Any Problem from Grovo by Alex Khurgin
@@ -86,7 +92,11 @@
 
 <img src="../cert_management_quality-control_lean-six-sigma-white-belt-certified_msi_cert-347254040_2025-06-21.png" alt="John's Lean Six Sigma White Belt from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Team Building (7)
+## Team Building (8)
+### Coaching Skills from EJ4
+
+![John's Coaching Skills from EJ4](cert_management_coaching_coaching-skills_nonprofitready_ej4_2025-09-08.png)
+
 ### Planning an Effective Performance Appraisal from SkillSoft
 
 <img src="../cert_management_planning-an-effective-performance-appraisal_skillsoft_2024-03-14.png" alt="John's Planning an Effective Performance Appraisal from SkillSoft" style="border:1px solid #000000" />
