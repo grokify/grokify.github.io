@@ -49,7 +49,8 @@
     1. [Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund](#red-team-operations-target-and-capability-development-from-pluralsight-by-aaron-rosenmund)
     1. [Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund](#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund)
     1. [Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund](#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund)
-1. [FedRAMP](#fedramp-1)
+1. [FedRAMP](#fedramp-2)
+    1. [Introduction to NIST 800-53 - Security and Privacy Controls from Udemy by Dr. Amar Massoud](#introduction-to-nist-800-53-security-and-privacy-controls-from-udemy-by-dr-amar-massoud)
     1. [Security Compliance: FedRAMP from Pluralsight by Richard Harpur](#security-compliance-fedramp-from-pluralsight-by-richard-harpur)
 1. [AWS](#aws-6)
     1. [Introduction to AWS Identity and Access Management (IAM) from Simplilearn](#introduction-to-aws-identity-and-access-management-iam-from-simplilearn)
@@ -242,7 +243,12 @@
 
 <img src="../cert_appsec_secops_blue-team-tools-defense-against-adversary-activity-using-mitre-techniques_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" />
 
-## FedRAMP (1)
+## FedRAMP (2)
+### Introduction to NIST 800-53 - Security and Privacy Controls from Udemy by Dr. Amar Massoud
+* [John's Udemy online credential](http://ude.my/UC-52ae5a98-c1c4-46d4-9a67-4e4634d1f65e)
+
+<img src="../cert_security_nist_introduction-to-nist-800-53-security-and-privac-controls_udemy-amar-bendou_cert-UC-52ae5a98-c1c4-46d4-9a67-4e4634d1f65e_2025-09-11.jpg" alt="John's Introduction to NIST 800-53 - Security and Privacy Controls from Udemy by Dr. Amar Massoud" style="border:1px solid #000000" />
+
 ### Security Compliance: FedRAMP from Pluralsight by Richard Harpur
 
 <img src="../cert_appsec_fedramp_security-compliance-federamp_pluralsight_richard-harpur_2025-05-22.png" alt="John's Security Compliance: FedRAMP from Pluralsight by Richard Harpur" style="border:1px solid #000000" />
