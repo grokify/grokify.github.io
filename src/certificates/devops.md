@@ -162,7 +162,7 @@
 
 ## AWS (1)
 ### AWS CI/CD Pipeline from Great Learning Academy
-* [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/ZGRSHOKG)
+* [John's Great Learning Academy online credential](/www.mygreatlearning.com/certificate/ZGRSHOKG)
 
 <img src="../cert_aws_aws-ci-cd-pipeline_greatlearning_cert-ZGRSHOKG_2024-04-07.jpg" alt="John's AWS CI/CD Pipeline from Great Learning Academy" style="border:1px solid #000000" />
 

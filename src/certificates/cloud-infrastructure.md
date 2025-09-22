@@ -63,7 +63,7 @@
 ![John's Getting Started with AWS Control Tower from Simplilearn](cert_aws_getting-started-with-aws-control-tower_simplilearn_cert-6735033_1718548596_2024-06-16.png)
 
 ### AWS CI/CD Pipeline from Great Learning Academy
-* [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/ZGRSHOKG)
+* [John's Great Learning Academy online credential](/www.mygreatlearning.com/certificate/ZGRSHOKG)
 
 <img src="../cert_aws_aws-ci-cd-pipeline_greatlearning_cert-ZGRSHOKG_2024-04-07.jpg" alt="John's AWS CI/CD Pipeline from Great Learning Academy" style="border:1px solid #000000" />
 

@@ -47,18 +47,18 @@
     1. [Model Context Protocol (MCP) Mastery from Fractal Analytics Academy](#model-context-protocol-mcp-mastery-from-fractal-analytics-academy)
     1. [Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi](#foundations-of-model-context-protocol-from-analytics-vidhya-by-apoorv-vishnoi)
     1. [MCP: Unlock AI integrations with real-world demos from Analytics Vidhya by Aditya Oberai](#mcp-unlock-ai-integrations-with-real-world-demos-from-analytics-vidhya-by-aditya-oberai)
-1. [AI Assistants](#ai-assistants-7)
+1. [AI Assistants](#ai-assistants-6)
     1. [Amazon Q Business Getting Started from AWS](#amazon-q-business-getting-started-from-aws)
     1. [A Hands-On Look at Amazon Q Business Expert from AWS by Paul Colmer](#a-hands-on-look-at-amazon-q-business-expert-from-aws-by-paul-colmer)
-    1. [MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh](#midjourney-from-inspiration-to-implementation-from-analytics-vidhya-by-sandeep-singh)
     1. [Duet AI in Gmail from Google Cloud](#duet-ai-in-gmail-from-google-cloud)
     1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
     1. [SEO with AI from Sololearn](#seo-with-ai-from-sololearn)
     1. [ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy](#chatgpt-for-excel-from-great-learning-academy-by-e-balachandra-murthy)
-1. [AI Code Assistants](#ai-code-assistants-3)
+1. [AI Code Assistants](#ai-code-assistants-4)
     1. [Claude Code in Action from Anthropic](#claude-code-in-action-from-anthropic)
     1. [Introduction to Amazon Q Developer (Technical) from AWS](#introduction-to-amazon-q-developer-technical-from-aws)
     1. [Intro to Claude AI from Scrimba by Shant Dashjian](#intro-to-claude-ai-from-scrimba-by-shant-dashjian)
+    1. [Secure Coding with Amazon Q Developer from Pluralsight by Tom Taulli](#secure-coding-with-amazon-q-developer-from-pluralsight-by-tom-taulli)
 1. [Vibe Coding](#vibe-coding-7)
     1. [Vibe Coding with Cursor AI from Scrimba by Maham Codes](#vibe-coding-with-cursor-ai-from-scrimba-by-maham-codes)
     1. [Build AI Apps with Lovable: Vibe Coding for Web Dev from Udemy by Pavan Kumar, Manish Patel](#build-ai-apps-with-lovable-vibe-coding-for-web-dev-from-udemy-by-pavan-kumar-manish-patel)
@@ -71,25 +71,32 @@
     1. [Essentials of Prompt Engineering from AWS](#essentials-of-prompt-engineering-from-aws)
     1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
-1. [Generative AI](#generative-ai-6)
+1. [Generative AI](#generative-ai-5)
     1. [Generative AI Primer from Vanderbilt University by James White](#generative-ai-primer-from-vanderbilt-university-by-james-white)
     1. [Generative AI Deep Research: Strategic AI Edge for Leaders from Vanderbilt University by James White](#generative-ai-deep-research-strategic-ai-edge-for-leaders-from-vanderbilt-university-by-james-white)
-    1. [Generative AI for Web Development Specialization (3 Courses) from Scrimba](#generative-ai-for-web-development-specialization-3-courses-from-scrimba)
     1. [Introduction to Generative AI from Google Cloud](#introduction-to-generative-ai-from-google-cloud)
-    1. [Introduction to Image Generation from Google Cloud](#introduction-to-image-generation-from-google-cloud)
+    1. [Generative AI for Web Development Specialization (3 Courses) from Scrimba](#generative-ai-for-web-development-specialization-3-courses-from-scrimba)
     1. [Databricks Accredited Generative AI Fundamentals from Databricks](#databricks-accredited-generative-ai-fundamentals-from-databricks)
 1. [Generative AI API](#generative-ai-api-2)
     1. [OpenAI Chat Completions API from Pluralsight by Xavier Morera](#openai-chat-completions-api-from-pluralsight-by-xavier-morera)
     1. [OpenAI Assistant API from Pluralsight by Xavier Morera](#openai-assistant-api-from-pluralsight-by-xavier-morera)
+1. [Generative AI Images](#generative-ai-images-6)
+    1. [Introduction to Image Generation from Google Cloud](#introduction-to-image-generation-from-google-cloud)
+    1. [MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh](#midjourney-from-inspiration-to-implementation-from-analytics-vidhya-by-sandeep-singh)
+    1. [Exploring Stability.AI from Analytics Vidhya by Sandeep Singh](#exploring-stabilityai-from-analytics-vidhya-by-sandeep-singh)
+    1. [Ghibli Art Using AI from Great Learning Academy by Rushikesh Meharwade](#ghibli-art-using-ai-from-great-learning-academy-by-rushikesh-meharwade)
+    1. [Deepfakes Basics from Great Learning Academy by Dr. Abhinanda Sarkar, Anirudh Rao, Sampriti Chatterjee](#deepfakes-basics-from-great-learning-academy-by-dr-abhinanda-sarkar-anirudh-rao-sampriti-chatterjee)
+    1. [Deepfake Demo from Great Learning Academy by Anirudh Rao](#deepfake-demo-from-great-learning-academy-by-anirudh-rao)
 1. [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag-3)
     1. [Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota](#vector-space-models-and-embeddings-in-rags-from-pluralsight-by-axel-sirota)
     1. [Multi-modal RAGs from Pluralsight by Dhiraj Kumar](#multi-modal-rags-from-pluralsight-by-dhiraj-kumar)
     1. [Modular RAGs from Pluralsight by JS Padoan](#modular-rags-from-pluralsight-by-js-padoan)
-1. [Security](#security-8)
+1. [Security](#security-9)
     1. [Agentic AI - Risk and Cybersecurity Masterclass 2025 from Udemy by Taimur Ijlal](#agentic-ai-risk-and-cybersecurity-masterclass-2025-from-udemy-by-taimur-ijlal)
     1. [AI Security Bootcamp: LLM Hacking Basics from Udemy by Naveen Konrajankuppam Mahavishnu, Mohankumar Vengatachalam](#ai-security-bootcamp-llm-hacking-basics-from-udemy-by-naveen-konrajankuppam-mahavishnu-mohankumar-vengatachalam)
     1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-ai-generated-attacks-from-codecademy)
     1. [Building the AI Security Roadmap from Silicon Valley Certification Hub by Tiffany Saade](#building-the-ai-security-roadmap-from-silicon-valley-certification-hub-by-tiffany-saade)
+    1. [Security Hot Takes: ChatGPT from Pluralsight by Xavier Morera](#security-hot-takes-chatgpt-from-pluralsight-by-xavier-morera)
     1. [Cybersecurity and Artificial Intelligence from Pluralsight by Christopher Rees](#cybersecurity-and-artificial-intelligence-from-pluralsight-by-christopher-rees)
     1. [OpenAI Security and Moderations from Pluralsight by Chris Jackson](#openai-security-and-moderations-from-pluralsight-by-chris-jackson)
     1. [Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana](#security-risks-and-privacy-concerns-using-generative-ai-from-pluralsight-by-dr-shaila-rana)
@@ -313,7 +320,7 @@
 
 <img src="../cert_ai_model-context-protocol_mcp-unlock-ai-integrations-real-world-demos_analyticsvidya_aditya-oberai_cert-mim2vizdvc_2025-09-15.jpg" alt="John's MCP: Unlock AI integrations with real-world demos from Analytics Vidhya by Aditya Oberai" style="border:1px solid #000000" />
 
-## AI Assistants (7)
+## AI Assistants (6)
 ### Amazon Q Business Getting Started from AWS
 
 <img src="../cert_ai_assistants_amazon-q-business-getting-started_cert-386e5f5a-f6a9-418e-82bc-1bc5bf7b31d1_2025-07-26.png" alt="John's Amazon Q Business Getting Started from AWS" style="border:1px solid #000000" />
@@ -321,11 +328,6 @@
 ### A Hands-On Look at Amazon Q Business Expert from AWS by Paul Colmer
 
 <img src="../cert_ai_assistants_hands-on-look-at-amazon-q-business-expert_aws_cert-744372d0-cefe-4ef0-b0af-7463dc254dca_2025-07-26.png" alt="John's A Hands-On Look at Amazon Q Business Expert from AWS by Paul Colmer" style="border:1px solid #000000" />
-
-### MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh
-* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/edmxgsnnvy)
-
-<img src="../cert_ai_gen-ai_midjourney-from-inspiration-to-implementation_analyticsvidhya_cert-680610945_sandeep-singh_2025-07-11.jpg" alt="John's MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh" style="border:1px solid #000000" />
 
 ### Duet AI in Gmail from Google Cloud
 * [John's Google Cloud online credential](https://coursera.org/verify/DHKM6DF4MQ67)
@@ -346,7 +348,7 @@
 
 <img src="../cert_ai_chatgpt-for-excel_greatlearning-by-e-balachandra-murthy_cert-WFDRKONI_2024-03-03.jpg" alt="John's ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy" style="border:1px solid #000000" />
 
-## AI Code Assistants (3)
+## AI Code Assistants (4)
 ### Claude Code in Action from Anthropic
 * [John's Anthropic online credential](https://verify.skilljar.com/c/j3k4jnhhakvj)
 
@@ -360,6 +362,10 @@
 * [John's Scrimba online credential](https://www.coursera.org/verify/BJ2AJF89N18M)
 
 ![John's Intro to Claude AI from Scrimba by Shant Dashjian](cert_programming_gen-ai_intro-to-claud-ai_coursera_shant-dashjian_cert-BJ2AJF89N18M_2025-07-10.png)
+
+### Secure Coding with Amazon Q Developer from Pluralsight by Tom Taulli
+
+<img src="../cert_ai_ai-assistant_secure-coding-amazon-q-developer_ai_pluralsight_tom-taulli_2025-09-22.png" alt="John's Secure Coding with Amazon Q Developer from Pluralsight by Tom Taulli" style="border:1px solid #000000" />
 
 ## Vibe Coding (7)
 ### Vibe Coding with Cursor AI from Scrimba by Maham Codes
@@ -414,7 +420,7 @@
 
 <img src="../cert_ai_prompt-engineering_ai-prompting-essentials-certified_aipec_msi_cert-335389458_2024-03-14.png" alt="John's AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Generative AI (6)
+## Generative AI (5)
 ### Generative AI Primer from Vanderbilt University by James White
 * [John's Vanderbilt University online credential](https://coursera.org/verify/Y8JRWZ58E62M)
 
@@ -425,20 +431,15 @@
 
 ![John's Generative AI Deep Research: Strategic AI Edge for Leaders from Vanderbilt University by James White](cert_ai_gen-ai_generative-ai-deep-research-strategic-ai-edge-for-leaders_vanderbiltu_jules-white_cert-HSTIHLM4FCWG_2025-08-10.png)
 
-### Generative AI for Web Development Specialization (3 Courses) from Scrimba
-* [John's Scrimba online credential](https://www.coursera.org/verify/specialization/VY1BKDGDO76G)
-
-<img src="../cert_ai_gen-ai_generative-ai-for-web-development_coursera_cert-VY1BKDGDO76G_2025-07-11.png" alt="John's Generative AI for Web Development Specialization (3 Courses) from Scrimba" style="border:1px solid #000000" />
-
 ### Introduction to Generative AI from Google Cloud
 * [John's Google Cloud online credential](https://coursera.org/verify/3VBHJ76MBTU9)
 
 ![John's Introduction to Generative AI from Google Cloud](cert_ai_introduction-to-generative-ai_google-cloud_cert-3VBHJ76MBTU9_2024-02-21.png)
 
-### Introduction to Image Generation from Google Cloud
-* [John's Google Cloud online credential](https://coursera.org/verify/8QPV3NJLRBUK)
+### Generative AI for Web Development Specialization (3 Courses) from Scrimba
+* [John's Scrimba online credential](https://www.coursera.org/verify/specialization/VY1BKDGDO76G)
 
-![John's Introduction to Image Generation from Google Cloud](cert_ai_introduction-to-image-generation_google-cloud_cert-8QPV3NJLRBUK_2024-02-21.png)
+<img src="../cert_ai_gen-ai_generative-ai-for-web-development_coursera_cert-VY1BKDGDO76G_2025-07-11.png" alt="John's Generative AI for Web Development Specialization (3 Courses) from Scrimba" style="border:1px solid #000000" />
 
 ### Databricks Accredited Generative AI Fundamentals from Databricks
 * [John's Databricks online profile](https://credentials.databricks.com/profile/grokify)
@@ -455,6 +456,37 @@
 
 <img src="../cert_ai_agentic-ai_openai-assistant-api_pluralsight_xavier-morera_2025-06-23.png" alt="John's OpenAI Assistant API from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
 
+## Generative AI Images (6)
+### Introduction to Image Generation from Google Cloud
+* [John's Google Cloud online credential](https://coursera.org/verify/8QPV3NJLRBUK)
+
+![John's Introduction to Image Generation from Google Cloud](cert_ai_introduction-to-image-generation_google-cloud_cert-8QPV3NJLRBUK_2024-02-21.png)
+
+### MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/edmxgsnnvy)
+
+<img src="../cert_ai_gen-ai_midjourney-from-inspiration-to-implementation_analyticsvidhya_cert-680610945_sandeep-singh_2025-07-11.jpg" alt="John's MidJourney: From Inspiration to Implementation from Analytics Vidhya by Sandeep Singh" style="border:1px solid #000000" />
+
+### Exploring Stability.AI from Analytics Vidhya by Sandeep Singh
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/qkjf9asxfc)
+
+<img src="../cert_ai_gen-ai_exploring-stability-ai_analyticsvidya_sandeep-singh_cert-qkjf9asxfc_2025-09-21.jpg" alt="John's Exploring Stability.AI from Analytics Vidhya by Sandeep Singh" style="border:1px solid #000000" />
+
+### Ghibli Art Using AI from Great Learning Academy by Rushikesh Meharwade
+* [John's Great Learning Academy online credential](https://www.mygreatlearning.com/certificate/AOQMNOYI)
+
+<img src="../cert_ai_gen-ai_ghibli-art-using-ai_greatlearning_cert-AOQMNOYI_2025-09-21.jpg" alt="John's Ghibli Art Using AI from Great Learning Academy by Rushikesh Meharwade" style="border:1px solid #000000" />
+
+### Deepfakes Basics from Great Learning Academy by Dr. Abhinanda Sarkar, Anirudh Rao, Sampriti Chatterjee
+* [John's Great Learning Academy online credential](https://www.mygreatlearning.com/certificate/QHMVPUVP)
+
+<img src="../cert_ai_gen-ai_deepfakes-basics_greatlearning_cert-QHMVPUVP_2025-09-21.jpg" alt="John's Deepfakes Basics from Great Learning Academy by Dr. Abhinanda Sarkar, Anirudh Rao, Sampriti Chatterjee" style="border:1px solid #000000" />
+
+### Deepfake Demo from Great Learning Academy by Anirudh Rao
+* [John's Great Learning Academy online credential](https://www.mygreatlearning.com/certificate/DOVTINJH)
+
+<img src="../cert_ai_gen-ai_deepfake-demo_greatlearning_cert-DOVTINJH_2025-09-21.jpg" alt="John's Deepfake Demo from Great Learning Academy by Anirudh Rao" style="border:1px solid #000000" />
+
 ## Retrieval-Augmented Generation (RAG) (3)
 ### Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota
 
@@ -468,7 +500,7 @@
 
 <img src="../cert_ai_rag_modular-rags_pluralsight_js-padoan_2024-07-28.png" alt="John's Modular RAGs from Pluralsight by JS Padoan" style="border:1px solid #000000" />
 
-## Security (8)
+## Security (9)
 ### Agentic AI - Risk and Cybersecurity Masterclass 2025 from Udemy by Taimur Ijlal
 * [John's Udemy online credential](http://ude.my/UC-ab54d286-b26e-4cd6-bae5-3c7f5e4c975e)
 
@@ -487,6 +519,10 @@
 * [John's Silicon Valley Certification Hub online credential](https://svch.io/tutor-certificate-2-2/?cert_hash=415e03ea4ad86a07)
 
 <img src="../cert_ai_security_building-the-ai-security-roadmap_svch_tiffany-saade_cert-1757463875647_2025-09-09.jpg" alt="John's Building the AI Security Roadmap from Silicon Valley Certification Hub by Tiffany Saade" style="border:1px solid #000000" />
+
+### Security Hot Takes: ChatGPT from Pluralsight by Xavier Morera
+
+<img src="../cert_aisec_chatgpt_security-hot-takes-chatgpt_pluralsight_michael-teske-and-aaron-rosenmund_2024-06-17.png" alt="John's Security Hot Takes: ChatGPT from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
 
 ### Cybersecurity and Artificial Intelligence from Pluralsight by Christopher Rees
 

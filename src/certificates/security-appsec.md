@@ -6,13 +6,15 @@
     1. [Secure Software Implementation for CSSLP® from Pluralsight by Kevin Henry](#secure-software-implementation-for-csslp-from-pluralsight-by-kevin-henry)
     1. [Secure Software Testing for CSSLP® from Pluralsight by Kevin Henry](#secure-software-testing-for-csslp-from-pluralsight-by-kevin-henry)
     1. [Secure Software Supply Chain for CSSLP® from Pluralsight by Kevin Henry](#secure-software-supply-chain-for-csslp-from-pluralsight-by-kevin-henry)
-1. [Developer Security Champion](#developer-security-champion-7)
+1. [Developer Security Champion](#developer-security-champion-9)
     1. [Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour](#introduction-to-security-champion-for-developers-from-pluralsight-by-kat-delorean-seymour)
     1. [Developer Security Champion: OWASP Top 10 from Pluralsight by Kat DeLorean Seymour](#developer-security-champion-owasp-top-10-from-pluralsight-by-kat-delorean-seymour)
     1. [Developer Security Champion: API Security from Pluralsight by Gavin Johnson-Lynn](#developer-security-champion-api-security-from-pluralsight-by-gavin-johnson-lynn)
     1. [Developer Security Champion: Data Protection Standards from Pluralsight by Kevin James](#developer-security-champion-data-protection-standards-from-pluralsight-by-kevin-james)
     1. [Developer Security Champion: Encrypted Communications from Pluralsight by Henry Been](#developer-security-champion-encrypted-communications-from-pluralsight-by-henry-been)
+    1. [Developer Security Champion: SAST & DAST from Pluralsight by Jon La Plante](#developer-security-champion-sast-dast-from-pluralsight-by-jon-la-plante)
     1. [Developer Security Champion: Secure Authentication Implementation from Pluralsight by Gavin Johnson-Lynn](#developer-security-champion-secure-authentication-implementation-from-pluralsight-by-gavin-johnson-lynn)
+    1. [Developer Security Champion: Supply Chain Security from Pluralsight by Kevin James](#developer-security-champion-supply-chain-security-from-pluralsight-by-kevin-james)
     1. [Developer Security Champion: Vulnerability Testing from Pluralsight by Christian Wenz](#developer-security-champion-vulnerability-testing-from-pluralsight-by-christian-wenz)
 1. [Programming](#programming-7)
     1. [OWASP Top 10 from Snyk](#owasp-top-10-from-snyk)
@@ -89,7 +91,7 @@
 
 <img src="../cert_appsec_csslp_secure-software-supply-chain-for-csslp_plurasight_kevin-henry_2024-06-03.png" alt="John's Secure Software Supply Chain for CSSLP® from Pluralsight by Kevin Henry" style="border:1px solid #000000" />
 
-## Developer Security Champion (7)
+## Developer Security Champion (9)
 ### Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour
 
 <img src="../cert_appsec_security-champion_security-champion-for-developers-intro_pluralsight_kat-delorean-seymour_2024-10-21.png" alt="John's Introduction to Security Champion for Developers from Pluralsight by Kat DeLorean Seymour" style="border:1px solid #000000" />
@@ -110,9 +112,17 @@
 
 <img src="../cert_appsec_security-champion_encrypted-communications_pluralsight_henry-been_2024-10-27.png" alt="John's Developer Security Champion: Encrypted Communications from Pluralsight by Henry Been" style="border:1px solid #000000" />
 
+### Developer Security Champion: SAST & DAST from Pluralsight by Jon La Plante
+
+<img src="../cert_appsec_security-champion_sast-dast_pluralsight_jon-laplante_2025-09-22.png" alt="John's Developer Security Champion: SAST & DAST from Pluralsight by Jon La Plante" style="border:1px solid #000000" />
+
 ### Developer Security Champion: Secure Authentication Implementation from Pluralsight by Gavin Johnson-Lynn
 
 <img src="../cert_appsec_security-champion_secure-authentication-implementation_pluralsight_gavin-johnson-lynn_2024-10-27.png" alt="John's Developer Security Champion: Secure Authentication Implementation from Pluralsight by Gavin Johnson-Lynn" style="border:1px solid #000000" />
+
+### Developer Security Champion: Supply Chain Security from Pluralsight by Kevin James
+
+<img src="../cert_appsec_security-champion_supply-chain-security_pluralsight_kevin-james_2025-09-22.png" alt="John's Developer Security Champion: Supply Chain Security from Pluralsight by Kevin James" style="border:1px solid #000000" />
 
 ### Developer Security Champion: Vulnerability Testing from Pluralsight by Christian Wenz
 

@@ -16,6 +16,8 @@
     1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
 1. [Azure](#azure-1)
     1. [Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry](#microsoft-azure-identity-and-security-for-administrators-the-big-picture-from-pluralsight-by-jean-francois-landry)
+1. [Okta](#okta-1)
+    1. [Introduction to Okta Certified Professional from Pluralsight by Tim Warner](#introduction-to-okta-certified-professional-from-pluralsight-by-tim-warner)
 1. [Saviynt](#saviynt-6)
     1. [Saviynt IGA L100 Self-Paced Training from Saviynt](#saviynt-iga-l100-self-paced-training-from-saviynt)
     1. [Saviynt IGA for MSPs from Saviynt](#saviynt-iga-for-msps-from-saviynt)
@@ -80,6 +82,11 @@
 ### Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry
 
 <img src="../cert_azure_microsoft-azure-identity-and-security-for-administrators-the-big-picture_pluralsight_2024-03-27.png" alt="John's Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry" style="border:1px solid #000000" />
+
+## Okta (1)
+### Introduction to Okta Certified Professional from Pluralsight by Tim Warner
+
+<img src="../cert_infosec_iam_introduction-to-okta-certified-professional_pluralsight_tim-warner_2025-09-22.png" alt="John's Introduction to Okta Certified Professional from Pluralsight by Tim Warner" style="border:1px solid #000000" />
 
 ## Saviynt (6)
 ### Saviynt IGA L100 Self-Paced Training from Saviynt
