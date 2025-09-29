@@ -1,6 +1,7 @@
 # John's Artificial Intelligence Certificates
-1. [Strategy](#strategy-2)
+1. [Strategy](#strategy-3)
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
+    1. [Chief Artificial Intelligence Officer from Copenhagen Compliance by Kersi Porbunderwalla](#chief-artificial-intelligence-officer-from-copenhagen-compliance-by-kersi-porbunderwalla)
     1. [AI+ Chief AI Officer™ from AI CERTs](#ai-chief-ai-officertm-from-ai-certs)
 1. [Teaching](#teaching-1)
     1. [Teaching AI Fluency from Anthropic](#teaching-ai-fluency-from-anthropic)
@@ -133,11 +134,15 @@
 ## Resources
 
 1. [Artificial Intelligence Resource Links](../../links/artificial-intelligence/)
-## Strategy (2)
+## Strategy (3)
 ### AI Strategy and Governance from University of Pennsylvania, Wharton School
 * [John's University of Pennsylvania, Wharton School online credential](https://coursera.org/verify/DGB6XB4C7VKD)
 
 ![John's AI Strategy and Governance from University of Pennsylvania, Wharton School](cert_ai_ai-strategy-and-governance_wharton_cert-DGB6XB4C7VKD_2024-03-03.png)
+
+### Chief Artificial Intelligence Officer from Copenhagen Compliance by Kersi Porbunderwalla
+
+![John's Chief Artificial Intelligence Officer from Copenhagen Compliance by Kersi Porbunderwalla](cert_ai_caio_chief-artificial-intelligence-officer_copenhagen-compliance_cert-2025AIEL1150_2025-09-24.png)
 
 ### AI+ Chief AI Officer™ from AI CERTs
 * [John's AI CERTs online credential](https://verify.certs365.io/?=05f5ffd0a95d)

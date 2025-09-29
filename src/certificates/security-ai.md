@@ -1,5 +1,6 @@
 # John's Security: AI Certificates
-1. [Chief Artificial Intelligence Officer (CAIO)](#chief-artificial-intelligence-officer-caio-1)
+1. [Chief Artificial Intelligence Officer (CAIO)](#chief-artificial-intelligence-officer-caio-2)
+    1. [Chief Artificial Intelligence Officer from Copenhagen Compliance by Kersi Porbunderwalla](#chief-artificial-intelligence-officer-from-copenhagen-compliance-by-kersi-porbunderwalla)
     1. [AI+ Chief AI Officer™ from AI CERTs](#ai-chief-ai-officertm-from-ai-certs)
 1. [Fundamentals](#fundamentals-3)
     1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-ai-generated-attacks-from-codecademy)
@@ -19,7 +20,11 @@
 1. [InfoSec](#infosec-2)
     1. [Building the AI Security Roadmap from Silicon Valley Certification Hub by Tiffany Saade](#building-the-ai-security-roadmap-from-silicon-valley-certification-hub-by-tiffany-saade)
     1. [AI, Phishing, and Cybersafety from KnowBe4](#ai-phishing-and-cybersafety-from-knowbe4)
-## Chief Artificial Intelligence Officer (CAIO) (1)
+## Chief Artificial Intelligence Officer (CAIO) (2)
+### Chief Artificial Intelligence Officer from Copenhagen Compliance by Kersi Porbunderwalla
+
+![John's Chief Artificial Intelligence Officer from Copenhagen Compliance by Kersi Porbunderwalla](cert_ai_caio_chief-artificial-intelligence-officer_copenhagen-compliance_cert-2025AIEL1150_2025-09-24.png)
+
 ### AI+ Chief AI Officer™ from AI CERTs
 * [John's AI CERTs online credential](https://verify.certs365.io/?=05f5ffd0a95d)
 
