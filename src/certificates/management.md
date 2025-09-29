@@ -15,8 +15,9 @@
     1. [Get to the Root of Any Problem from Grovo by Alex Khurgin](#get-to-the-root-of-any-problem-from-grovo-by-alex-khurgin)
     1. [5W2H Problem-Solving Method from Management and Strategy Institute](#5w2h-problem-solving-method-from-management-and-strategy-institute)
     1. [Eight Disciplines (8D) Problem Solving Method from Management and Strategy Institute](#eight-disciplines-8d-problem-solving-method-from-management-and-strategy-institute)
-1. [Quality Control](#quality-control-1)
+1. [Quality Control](#quality-control-2)
     1. [Lean Six Sigma White Belt from Management and Strategy Institute](#lean-six-sigma-white-belt-from-management-and-strategy-institute)
+    1. [Error Proofing Techniques from Management and Strategy Institute](#error-proofing-techniques-from-management-and-strategy-institute)
 1. [Team Building](#team-building-8)
     1. [Coaching Skills from EJ4](#coaching-skills-from-ej4)
     1. [Planning an Effective Performance Appraisal from SkillSoft](#planning-an-effective-performance-appraisal-from-skillsoft)
@@ -86,11 +87,16 @@
 
 <img src="../cert_management_problem-solving-framework_eight-disciplines-8d-problem-solving-method_msicertified_cert-347364167_2025-06-26.png" alt="John's Eight Disciplines (8D) Problem Solving Method from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Quality Control (1)
+## Quality Control (2)
 ### Lean Six Sigma White Belt from Management and Strategy Institute
 * [John's Management and Strategy Institute online credential](https://www.proprofs.com/quiz-school/user_certificate.php?id=347254040&qid=3592982)
 
 <img src="../cert_management_quality-control_lean-six-sigma-white-belt-certified_msi_cert-347254040_2025-06-21.png" alt="John's Lean Six Sigma White Belt from Management and Strategy Institute" style="border:1px solid #000000" />
+
+### Error Proofing Techniques from Management and Strategy Institute
+* [John's Management and Strategy Institute online credential](https://www.proprofs.com/quiz-school/user_certificate.php?id=349247773&qid=4363758)
+
+<img src="../cert_management_quality_error-proofing-techniques_msi_cert-349531316_2025-09-29.png" alt="John's Error Proofing Techniques from Management and Strategy Institute" style="border:1px solid #000000" />
 
 ## Team Building (8)
 ### Coaching Skills from EJ4

@@ -7,6 +7,8 @@
     1. [What is the Difference Between Management and Leadership from Grovo](#what-is-the-difference-between-management-and-leadership-from-grovo)
 1. [Strategy](#strategy-1)
     1. [Successful Strategies for Emerging Leaders from NonprofitReady by The Jeff Havens Company](#successful-strategies-for-emerging-leaders-from-nonprofitready-by-the-jeff-havens-company)
+1. [High-Performance Culture](#high-performance-culture-1)
+    1. [Unleashing High-Performance Culture with McLaren Racing from Udemy by Daniel Gallo, Ian James, Piers Thynne](#unleashing-high-performance-culture-with-mclaren-racing-from-udemy-by-daniel-gallo-ian-james-piers-thynne)
 1. [Inspiration](#inspiration-2)
     1. [Recognize Leadership in Others from NonprofitReady](#recognize-leadership-in-others-from-nonprofitready)
     1. [How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](#how-great-leaders-inspire-action-from-nonprofitready-by-simon-sinek)
@@ -39,6 +41,12 @@
 ### Successful Strategies for Emerging Leaders from NonprofitReady by The Jeff Havens Company
 
 ![John's Successful Strategies for Emerging Leaders from NonprofitReady by The Jeff Havens Company](cert_leadership_successful-strategies-for-emerging-leaders_nonprofitready_2024-03-07.png)
+
+## High-Performance Culture (1)
+### Unleashing High-Performance Culture with McLaren Racing from Udemy by Daniel Gallo, Ian James, Piers Thynne
+* [John's Udemy online credential](http://ude.my/UC-445d4710-ad37-40c3-b710-6491eca3adb3/)
+
+<img src="../cert_leadership_culture_unleashing-high-performance-culture-with-mclaren_udemy_mclaren_cert-UC-445d4710-ad37-40c3-b710-6491eca3adb3_2025-09-24.jpg" alt="John's Unleashing High-Performance Culture with McLaren Racing from Udemy by Daniel Gallo, Ian James, Piers Thynne" style="border:1px solid #000000" />
 
 ## Inspiration (2)
 ### Recognize Leadership in Others from NonprofitReady

@@ -46,10 +46,11 @@
     1. [Python (Basic) from HackerRank](#python-basic-from-hackerrank)
 1. [TypeScript](#typescript-1)
     1. [TypeScript Foundations: The Big Picture from Pluralsight by Jon Friskics](#typescript-foundations-the-big-picture-from-pluralsight-by-jon-friskics)
-1. [SQL](#sql-3)
+1. [SQL](#sql-4)
     1. [SQL (Advanced) from HackerRank](#sql-advanced-from-hackerrank)
     1. [SQL (Intermediate) from HackerRank](#sql-intermediate-from-hackerrank)
     1. [SQL (Basic) from HackerRank](#sql-basic-from-hackerrank)
+    1. [Chat with Your Data: Generative AI-Powered SQL Data Analysis from Vanderbilt University by James White](#chat-with-your-data-generative-ai-powered-sql-data-analysis-from-vanderbilt-university-by-james-white)
 1. [Front-End](#front-end-3)
     1. [Learn Svelte from Scrimba by Noah Kaufman](#learn-svelte-from-scrimba-by-noah-kaufman)
     1. [React 18: The Big Picture from Pluralsight by Cory House](#react-18-the-big-picture-from-pluralsight-by-cory-house)
@@ -232,7 +233,7 @@
 
 <img src="../cert_programming_typescript_typescript-foundations-the-big-picture_pluralsight_jon-friskics_2025-08-31.png" alt="John's TypeScript Foundations: The Big Picture from Pluralsight by Jon Friskics" style="border:1px solid #000000" />
 
-## SQL (3)
+## SQL (4)
 ### SQL (Advanced) from HackerRank
 * [John's HackerRank online profile](https://www.hackerrank.com/profile/grokify)
 * [John's HackerRank online credential](https://www.hackerrank.com/certificates/3398beadc245)
@@ -256,6 +257,11 @@
 <img src="../cert_programming_sql_hackerrank_sql-basic_2023-07-08_dl-2024-10-26.png" alt="John's SQL (Basic) from HackerRank" style="border:1px solid #000000" />
 
 ![John's SQL (Basic) from HackerRank](cert_programming_sql_hackerrank_sql-basic_2023-07-08.png)
+
+### Chat with Your Data: Generative AI-Powered SQL Data Analysis from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/KZ5NKNL9FZ1M)
+
+![John's Chat with Your Data: Generative AI-Powered SQL Data Analysis from Vanderbilt University by James White](cert_ai_gen-ai_generative-ai-powered-sql-data-analysis_coursera_jules-white_cert-KZ5NKNL9FZ1M_2025-09-29.png)
 
 ## Front-End (3)
 ### Learn Svelte from Scrimba by Noah Kaufman

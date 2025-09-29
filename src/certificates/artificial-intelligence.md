@@ -39,6 +39,9 @@
     1. [Building Multi-agent Systems with AutoGen from Pluralsight by Sandy Ludosky](#building-multi-agent-systems-with-autogen-from-pluralsight-by-sandy-ludosky)
     1. [Introduction to LangGraph from Pluralsight by Craig Golightly](#introduction-to-langgraph-from-pluralsight-by-craig-golightly)
     1. [Basics of LangGraph Workflows from Pluralsight by Craig Golightly](#basics-of-langgraph-workflows-from-pluralsight-by-craig-golightly)
+1. [A2A Protocol](#a2a-protocol-2)
+    1. [Intro to Google's A2A Protocol: Interoperable AI Agents from Udemy by Yash Thakker](#intro-to-googles-a2a-protocol-interoperable-ai-agents-from-udemy-by-yash-thakker)
+    1. [Agent2Agent (A2A) Protocol Fundamentals from Udemy by Mayfair Real Estate Institute](#agent2agent-a2a-protocol-fundamentals-from-udemy-by-mayfair-real-estate-institute)
 1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-7)
     1. [Model Context Protocol: Advanced Topics from Anthropic](#model-context-protocol-advanced-topics-from-anthropic)
     1. [Introduction to Model Context Protocol from Anthropic](#introduction-to-model-context-protocol-from-anthropic)
@@ -71,9 +74,11 @@
     1. [Essentials of Prompt Engineering from AWS](#essentials-of-prompt-engineering-from-aws)
     1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
-1. [Generative AI](#generative-ai-5)
+1. [Generative AI](#generative-ai-7)
     1. [Generative AI Primer from Vanderbilt University by James White](#generative-ai-primer-from-vanderbilt-university-by-james-white)
     1. [Generative AI Deep Research: Strategic AI Edge for Leaders from Vanderbilt University by James White](#generative-ai-deep-research-strategic-ai-edge-for-leaders-from-vanderbilt-university-by-james-white)
+    1. [Chat with Your Data: Generative AI-Powered SQL Data Analysis from Vanderbilt University by James White](#chat-with-your-data-generative-ai-powered-sql-data-analysis-from-vanderbilt-university-by-james-white)
+    1. [ChatGPT + Excel: Master Data, Make Decisions, Tell Stories from Vanderbilt University by James White](#chatgpt-excel-master-data-make-decisions-tell-stories-from-vanderbilt-university-by-james-white)
     1. [Introduction to Generative AI from Google Cloud](#introduction-to-generative-ai-from-google-cloud)
     1. [Generative AI for Web Development Specialization (3 Courses) from Scrimba](#generative-ai-for-web-development-specialization-3-courses-from-scrimba)
     1. [Databricks Accredited Generative AI Fundamentals from Databricks](#databricks-accredited-generative-ai-fundamentals-from-databricks)
@@ -284,6 +289,17 @@
 
 <img src="../cert_ai_agentic-ai_basics-of-langgraph-workflows_pluralsight_craig-golightly_2025-06-18.png" alt="John's Basics of LangGraph Workflows from Pluralsight by Craig Golightly" style="border:1px solid #000000" />
 
+## A2A Protocol (2)
+### Intro to Google's A2A Protocol: Interoperable AI Agents from Udemy by Yash Thakker
+* [John's Udemy online credential](http://ude.my/UC-575247de-13c9-44c2-9139-9fe1582f27d9/)
+
+<img src="../cert_ai_a2a_google-agent-to-agent-protocol_udemy_yash-thakker_cert-UC-575247de-13c9-44c2-9139-9fe1582f27d9_2025-09-25.jpg" alt="John's Intro to Google's A2A Protocol: Interoperable AI Agents from Udemy by Yash Thakker" style="border:1px solid #000000" />
+
+### Agent2Agent (A2A) Protocol Fundamentals from Udemy by Mayfair Real Estate Institute
+* [John's Udemy online credential](http://ude.my/UC-8c673384-3329-4fd3-9502-6ba873b5bf96/)
+
+<img src="../cert_ai_a2a_agent2agent-a2a-protocol-fundamentals_udemy_mayfair_cert-UC-8c673384-3329-4fd3-9502-6ba873b5bf96_2025-09-26.jpg" alt="John's Agent2Agent (A2A) Protocol Fundamentals from Udemy by Mayfair Real Estate Institute" style="border:1px solid #000000" />
+
 ## Model Context Protocol (MCP) (7)
 ### Model Context Protocol: Advanced Topics from Anthropic
 * [John's Anthropic online credential](https://verify.skilljar.com/c/mu9br5w7hgpu)
@@ -420,7 +436,7 @@
 
 <img src="../cert_ai_prompt-engineering_ai-prompting-essentials-certified_aipec_msi_cert-335389458_2024-03-14.png" alt="John's AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Generative AI (5)
+## Generative AI (7)
 ### Generative AI Primer from Vanderbilt University by James White
 * [John's Vanderbilt University online credential](https://coursera.org/verify/Y8JRWZ58E62M)
 
@@ -430,6 +446,16 @@
 * [John's Vanderbilt University online credential](https://coursera.org/verify/HSTIHLM4FCWG)
 
 ![John's Generative AI Deep Research: Strategic AI Edge for Leaders from Vanderbilt University by James White](cert_ai_gen-ai_generative-ai-deep-research-strategic-ai-edge-for-leaders_vanderbiltu_jules-white_cert-HSTIHLM4FCWG_2025-08-10.png)
+
+### Chat with Your Data: Generative AI-Powered SQL Data Analysis from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/KZ5NKNL9FZ1M)
+
+![John's Chat with Your Data: Generative AI-Powered SQL Data Analysis from Vanderbilt University by James White](cert_ai_gen-ai_generative-ai-powered-sql-data-analysis_coursera_jules-white_cert-KZ5NKNL9FZ1M_2025-09-29.png)
+
+### ChatGPT + Excel: Master Data, Make Decisions, Tell Stories from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/2JV659VK31TV)
+
+![John's ChatGPT + Excel: Master Data, Make Decisions, Tell Stories from Vanderbilt University by James White](cert_ai_gen-ai_chatgpt-excel-master-data-make-decisions-tell-stories_coursera_jules-white_cert-2JV659VK31TV_2025-09-29.png)
 
 ### Introduction to Generative AI from Google Cloud
 * [John's Google Cloud online credential](https://coursera.org/verify/3VBHJ76MBTU9)
