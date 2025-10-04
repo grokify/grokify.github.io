@@ -63,6 +63,9 @@
     1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
 1. [Snyk](#snyk-1)
     1. [Application Analysis with Snyk from Pluralsight by Hiren Gadhvi](#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi)
+1. [CVEs](#cves-2)
+    1. [Authentication Bypass Vulnerability in Next.js CVE-2025-29927: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske](#authentication-bypass-vulnerability-in-nextjs-cve-2025-29927-what-you-should-know-from-pluralsight-by-matthew-lloyd-davies-michael-teske)
+    1. [Unauthenticated Remote Code Execution in Apache Tomcat CVE-2025-24813: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske](#unauthenticated-remote-code-execution-in-apache-tomcat-cve-2025-24813-what-you-should-know-from-pluralsight-by-matthew-lloyd-davies-michael-teske)
 1. [Vulnerability Examples](#vulnerability-examples-5)
     1. [Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault](#apache-commons-text-vulnerability-what-you-should-know-from-pluralsight-by-bri-frost-brandon-devault)
     1. [Atlassian RCE Vulnerabilities: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies](#atlassian-rce-vulnerabilities-what-you-should-know-from-pluralsight-by-michael-teske-matthew-lloyd-davies)
@@ -293,6 +296,15 @@
 ### Application Analysis with Snyk from Pluralsight by Hiren Gadhvi
 
 <img src="../cert_security_application-analysis-with-snyk_pluralsight_2024-04-10.png" alt="John's Application Analysis with Snyk from Pluralsight by Hiren Gadhvi" style="border:1px solid #000000" />
+
+## CVEs (2)
+### Authentication Bypass Vulnerability in Next.js CVE-2025-29927: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske
+
+<img src="../cert_appsec_cve_cve-2025-29927-nextjs-auth-bypass-vuln_pluralsight_matt-davies-michael-teske_2025-10-04.png" alt="John's Authentication Bypass Vulnerability in Next.js CVE-2025-29927: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske" style="border:1px solid #000000" />
+
+### Unauthenticated Remote Code Execution in Apache Tomcat CVE-2025-24813: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske
+
+<img src="../cert_appsec_cve_cve-2025-24813-apache-tomcat-apache-tomcat-unauthenticated-remote-code-execution-rce_pluralsight_matt-davies-michael-teske_2025-10-04.png" alt="John's Unauthenticated Remote Code Execution in Apache Tomcat CVE-2025-24813: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske" style="border:1px solid #000000" />
 
 ## Vulnerability Examples (5)
 ### Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault
