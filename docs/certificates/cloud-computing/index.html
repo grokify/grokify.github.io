@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/cloud-computing/" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>Cloud Computing (42) - John Wang's Site</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Cloud Computing (42)";
+        var mkdocs_page_input_path = "certificates/cloud-computing.md";
+        var mkdocs_page_url = "/certificates/cloud-computing/";
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../.." class="icon icon-home"> John Wang's Site
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../..">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Innovation</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../patents/">Patents (3)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../presentations/">Presentations (2)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../publications/">Publications (2)</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Awards</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../awards/">API (7)</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Certificates</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../api/">API (11)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../algorithms/">Algorithms (3)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../appreciation/">Appreciation (1)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (111)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence-ml/">Artificial Intelligence: ML (15)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (5)</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Cloud Computing (42)</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#container-security-3">Container Security (3)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#painless-vulnerability-management-from-chainguard">Painless Vulnerability Management from Chainguard</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#neuvector-basics-from-rancher-academy">NeuVector Basics from Rancher Academy</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#kubernetes-administration-2">Kubernetes Administration (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino">Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon">Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#kubernetes-observability-3">Kubernetes Observability (3)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#monitoring-a-kubernetes-cluster-install-the-agent-from-datadog">Monitoring a Kubernetes Cluster: Install the Agent from Datadog</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#monitoring-a-kubernetes-cluster-the-control-plane-from-datadog">Monitoring a Kubernetes Cluster: The Control Plane from Datadog</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#monitoring-a-kubernetes-cluster-troubleshooting-workloads-from-datadog">Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#kubernetes-security-6">Kubernetes Security (6)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#certified-kubernetes-security-specialist-cks-unit-5-from-pearson-by-chris-jackson">Certified Kubernetes Security Specialist (CKS): Unit 5 from Pearson by Chris Jackson</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker">Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer">Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-implementing-monitoring-logging-and-runtime-security-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#hyperscalers-1">Hyperscalers (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#aws-vs-azure-vs-gcp-from-great-learning-academy-by-vishal-padghan">AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-11">AWS (11)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#designing-landing-zone-architectures-with-aws-control-tower-from-aws">Designing Landing Zone Architectures with AWS Control Tower from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#aws-shared-responsibility-model-from-aws">AWS Shared Responsibility Model from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#getting-started-with-aws-security-hub-from-simplilearn">Getting Started with AWS Security Hub from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-security-token-services-sts-from-simplilearn">Introduction to AWS Security Token Services (STS) from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#getting-started-with-aws-control-tower-from-simplilearn">Getting Started with AWS Control Tower from Simplilearn</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#aws-sagemaker-from-great-learning-academy-by-vishal-padghan">AWS SageMaker from Great Learning Academy by Vishal Padghan</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#aws-cicd-pipeline-from-great-learning-academy">AWS CI/CD Pipeline from Great Learning Academy</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-bedrock-6">AWS Bedrock (6)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws">Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws">Automate Generative AI workflows using Amazon Bedrock Flows from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws">Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws">AWS SimuLearn: Secure Conversational AI with Guardrails from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-bedrock-agentcore-5">AWS Bedrock AgentCore (5)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-agentcore-identity-tutorial-from-aws">Amazon Bedrock AgentCore Identity Tutorial from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-agentcore-memory-tutorial-from-aws">Amazon Bedrock AgentCore Memory Tutorial from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-agentcore-runtime-tutorial-from-aws">Amazon Bedrock AgentCore RunTime Tutorial from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-agentcore-tools-tutorial-from-aws">Amazon Bedrock AgentCore Tools Tutorial from AWS</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#azure-3">Azure (3)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#azure-ai-fundamentals-from-pluralsight-by-daniel-krzyczkowski">Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako">Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#google-cloud-platform-gcp-1">Google Cloud Platform (GCP) (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#scaling-with-google-cloud-operations-from-google-cloud">Scaling with Google Cloud Operations from Google Cloud</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#datadog-1">Datadog (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog">Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../customer-service/">Customer Service (5)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../data-science/">Data Science (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (13)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../human-resources/">Human Resources (12)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../information-technology/">Information Technology (1)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (11)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (26)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../management-consulting/">Management Consulting (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../marketing/">Marketing (2)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (9)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../observability-and-reliability/">Observability and Reliability (14)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../personal-development/">Personal Development (9)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-design/">Product Design (2)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (21)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (41)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming-qa/">Programming: QA (5)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (21)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (15)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (57)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-compliance/">Security: Compliance (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-idsec/">Security: IDSec (20)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (48)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-secops/">Security: SecOps (1)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../sports/">Sports (4)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../ted-talks/">TED Talks (7)</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../..">John Wang's Site</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">Certificates</li>
+      <li class="breadcrumb-item active">Cloud Computing (42)</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="johns-cloud-computing-certificates">John's Cloud Computing Certificates</h1>
+<ol>
+<li><a href="#container-security-3">Container Security</a><ol>
+<li><a href="#painless-vulnerability-management-from-chainguard">Painless Vulnerability Management from Chainguard</a></li>
+<li><a href="#neuvector-basics-from-rancher-academy">NeuVector Basics from Rancher Academy</a></li>
+<li><a href="#container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</a></li>
+</ol>
+</li>
+<li><a href="#kubernetes-administration-2">Kubernetes Administration</a><ol>
+<li><a href="#certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino">Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino</a></li>
+<li><a href="#packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon">Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon</a></li>
+</ol>
+</li>
+<li><a href="#kubernetes-observability-3">Kubernetes Observability</a><ol>
+<li><a href="#monitoring-a-kubernetes-cluster-install-the-agent-from-datadog">Monitoring a Kubernetes Cluster: Install the Agent from Datadog</a></li>
+<li><a href="#monitoring-a-kubernetes-cluster-the-control-plane-from-datadog">Monitoring a Kubernetes Cluster: The Control Plane from Datadog</a></li>
+<li><a href="#monitoring-a-kubernetes-cluster-troubleshooting-workloads-from-datadog">Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog</a></li>
+</ol>
+</li>
+<li><a href="#kubernetes-security-6">Kubernetes Security</a><ol>
+<li><a href="#certified-kubernetes-security-specialist-cks-unit-5-from-pearson-by-chris-jackson">Certified Kubernetes Security Specialist (CKS): Unit 5 from Pearson by Chris Jackson</a></li>
+<li><a href="#kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</a></li>
+<li><a href="#kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker">Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker</a></li>
+<li><a href="#kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer">Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer</a></li>
+<li><a href="#kubernetes-security-implementing-monitoring-logging-and-runtime-security-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra</a></li>
+<li><a href="#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra</a></li>
+</ol>
+</li>
+<li><a href="#hyperscalers-1">Hyperscalers</a><ol>
+<li><a href="#aws-vs-azure-vs-gcp-from-great-learning-academy-by-vishal-padghan">AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan</a></li>
+</ol>
+</li>
+<li><a href="#aws-11">AWS</a><ol>
+<li><a href="#designing-landing-zone-architectures-with-aws-control-tower-from-aws">Designing Landing Zone Architectures with AWS Control Tower from AWS</a></li>
+<li><a href="#aws-shared-responsibility-model-from-aws">AWS Shared Responsibility Model from AWS</a></li>
+<li><a href="#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</a></li>
+<li><a href="#introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</a></li>
+<li><a href="#introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</a></li>
+<li><a href="#getting-started-with-aws-security-hub-from-simplilearn">Getting Started with AWS Security Hub from Simplilearn</a></li>
+<li><a href="#introduction-to-aws-security-token-services-sts-from-simplilearn">Introduction to AWS Security Token Services (STS) from Simplilearn</a></li>
+<li><a href="#getting-started-with-aws-control-tower-from-simplilearn">Getting Started with AWS Control Tower from Simplilearn</a></li>
+<li><a href="#aws-sagemaker-from-great-learning-academy-by-vishal-padghan">AWS SageMaker from Great Learning Academy by Vishal Padghan</a></li>
+<li><a href="#aws-cicd-pipeline-from-great-learning-academy">AWS CI/CD Pipeline from Great Learning Academy</a></li>
+<li><a href="#aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</a></li>
+</ol>
+</li>
+<li><a href="#aws-bedrock-6">AWS Bedrock</a><ol>
+<li><a href="#amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</a></li>
+<li><a href="#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws">Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS</a></li>
+<li><a href="#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws">Automate Generative AI workflows using Amazon Bedrock Flows from AWS</a></li>
+<li><a href="#building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws">Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS</a></li>
+<li><a href="#aws-simulearn-secure-conversational-ai-with-guardrails-from-aws">AWS SimuLearn: Secure Conversational AI with Guardrails from AWS</a></li>
+<li><a href="#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</a></li>
+</ol>
+</li>
+<li><a href="#aws-bedrock-agentcore-5">AWS Bedrock AgentCore</a><ol>
+<li><a href="#amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</a></li>
+<li><a href="#amazon-bedrock-agentcore-identity-tutorial-from-aws">Amazon Bedrock AgentCore Identity Tutorial from AWS</a></li>
+<li><a href="#amazon-bedrock-agentcore-memory-tutorial-from-aws">Amazon Bedrock AgentCore Memory Tutorial from AWS</a></li>
+<li><a href="#amazon-bedrock-agentcore-runtime-tutorial-from-aws">Amazon Bedrock AgentCore RunTime Tutorial from AWS</a></li>
+<li><a href="#amazon-bedrock-agentcore-tools-tutorial-from-aws">Amazon Bedrock AgentCore Tools Tutorial from AWS</a></li>
+</ol>
+</li>
+<li><a href="#azure-3">Azure</a><ol>
+<li><a href="#azure-ai-fundamentals-from-pluralsight-by-daniel-krzyczkowski">Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski</a></li>
+<li><a href="#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako">Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako</a></li>
+<li><a href="#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</a></li>
+</ol>
+</li>
+<li><a href="#google-cloud-platform-gcp-1">Google Cloud Platform (GCP)</a><ol>
+<li><a href="#scaling-with-google-cloud-operations-from-google-cloud">Scaling with Google Cloud Operations from Google Cloud</a></li>
+</ol>
+</li>
+<li><a href="#datadog-1">Datadog</a><ol>
+<li><a href="#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog">Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog</a></li>
+</ol>
+</li>
+</ol>
+<h2 id="container-security-3">Container Security (3)</h2>
+<h3 id="painless-vulnerability-management-from-chainguard">Painless Vulnerability Management from Chainguard</h3>
+<ul>
+<li><a href="https://www.credly.com/users/grokify/">John's Credly online profile</a></li>
+<li><a href="https://verify.skilljar.com/c/mp47sq9gms8t">John's Chainguard online credential</a></li>
+</ul>
+<p><img alt="John's Painless Vulnerability Management from Chainguard" src="../cert_appsec_container_painless-vulnerabilities-management_chainguard_cert-mp47sq9gms8t-1731434214_2024-11-12.png" /></p>
+<h3 id="neuvector-basics-from-rancher-academy">NeuVector Basics from Rancher Academy</h3>
+<ul>
+<li><a href="https://www.rancher.academy/certificates/pnr5lqx5uw">John's Rancher Academy online credential</a></li>
+</ul>
+<p><img src="../cert_devops_neuvector_neuvector-basics_rancher-academy_2025-01-28.jpg" alt="John's NeuVector Basics from Rancher Academy" style="border:1px solid #000000" /></p>
+<h3 id="container-infrastructure-analysis-with-trivy-from-pluralsight-by-zach-roof">Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof</h3>
+<p><img src="../cert_devops_container-infrastructure-analysis-with-trivy_pluralsight_2024-03-30.png" alt="John's Container Infrastructure Analysis with Trivy from Pluralsight by Zach Roof" style="border:1px solid #000000" /></p>
+<h2 id="kubernetes-administration-2">Kubernetes Administration (2)</h2>
+<h3 id="certified-kubernetes-administrator-kubernetes-foundations-from-pluralsight-by-anthony-nocentino">Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino</h3>
+<p><img src="../cert_kubernetes_kubernetes-administrator-foundations_pluralsight_2024-03-27.png" alt="John's Certified Kubernetes Administrator: Kubernetes Foundations from Pluralsight by Anthony Nocentino" style="border:1px solid #000000" /></p>
+<h3 id="packaging-applications-with-helm-for-kubernetes-from-pluralsight-by-philippe-collignon">Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon</h3>
+<p><img src="../cert_kubernetes_packaging-applications-with-helm-for-kubernetes_pluralsight_2024-03-30.png" alt="John's Packaging Applications with Helm for Kubernetes from Pluralsight by Philippe Collignon" style="border:1px solid #000000" /></p>
+<h2 id="kubernetes-observability-3">Kubernetes Observability (3)</h2>
+<h3 id="monitoring-a-kubernetes-cluster-install-the-agent-from-datadog">Monitoring a Kubernetes Cluster: Install the Agent from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/jsko012qas">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-install-the-agent_datadog_cert-jsko012qas_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: Install the Agent from Datadog" style="border:1px solid #000000" /></p>
+<h3 id="monitoring-a-kubernetes-cluster-the-control-plane-from-datadog">Monitoring a Kubernetes Cluster: The Control Plane from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/ehnz89oual">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-the-control-plane_datadog_cert-ehnz89oual_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: The Control Plane from Datadog" style="border:1px solid #000000" /></p>
+<h3 id="monitoring-a-kubernetes-cluster-troubleshooting-workloads-from-datadog">Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/8v4xiyb3tt">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_k8s_monitoring-a-kubernetes-cluster-troubleshooting-workloads_datadog_cert-8v4xiyb3tt_2025-02-24.jpg" alt="John's Monitoring a Kubernetes Cluster: Troubleshooting Workloads from Datadog" style="border:1px solid #000000" /></p>
+<h2 id="kubernetes-security-6">Kubernetes Security (6)</h2>
+<h3 id="certified-kubernetes-security-specialist-cks-unit-5-from-pearson-by-chris-jackson">Certified Kubernetes Security Specialist (CKS): Unit 5 from Pearson by Chris Jackson</h3>
+<ul>
+<li><a href="https://coursera.org/verify/YEY0ESLHJUAY">John's Pearson online credential</a></li>
+</ul>
+<p><img alt="John's Certified Kubernetes Security Specialist (CKS): Unit 5 from Pearson by Chris Jackson" src="../cert_k8s_security_certified-kubernetes-security-specialist-cks-unit-5_coursera_pearson_cert-YEY0ESLHJUAY_2025-10-03.png" /></p>
+<h3 id="kubernetes-security-cluster-setup-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra</h3>
+<p><img src="../cert_security_kubernetes-security-cluster-setup_pluralsight_2024-05-12.png" alt="John's Kubernetes Security: Cluster Setup from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" /></p>
+<h3 id="kubernetes-security-cluster-hardening-from-pluralsight-by-erik-whitaker">Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker</h3>
+<p><img src="../cert_appsec_kubernetes-security-cluster-hardening_pluralsight_erik-whitaker_2024-07-11.png" alt="John's Kubernetes Security: Cluster Hardening from Pluralsight by Erik Whitaker" style="border:1px solid #000000" /></p>
+<h3 id="kubernetes-security-minimizing-microservice-vulnerabilities-from-pluralsight-by-justin-boyer">Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer</h3>
+<p><img src="../cert_security_appsec_kubernetes-security-minimizing-microservice-vulnerabilities_pluralsight_2024-06-12.png" alt="John's Kubernetes Security: Minimizing Microservice Vulnerabilities from Pluralsight by Justin Boyer" style="border:1px solid #000000" /></p>
+<h3 id="kubernetes-security-implementing-monitoring-logging-and-runtime-security-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra</h3>
+<p><img src="../cert_appsec_kubernetes_kubernetes-security-implementing-monitoring-logging-and-runtime-security_pluralsight_antoniojesus-piedra_cert-cdd5e071-9321-4ee5-93ff-9d737dd95ef2_2025-02-24.png" alt="John's Kubernetes Security: Implementing Monitoring, Logging, and Runtime Security from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" /></p>
+<h3 id="kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jesus-piedra">Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra</h3>
+<p><img src="../cert_appsec_container_kubernetes-security-implementing-supply-chain-security_pluralsight_antonio-jesus-piedra_cert-639e7a4d-50bf-445e-a1be-b38da0dcffd0_2024-07-09.png" alt="John's Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra" style="border:1px solid #000000" /></p>
+<h2 id="hyperscalers-1">Hyperscalers (1)</h2>
+<h3 id="aws-vs-azure-vs-gcp-from-great-learning-academy-by-vishal-padghan">AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan</h3>
+<ul>
+<li><a href="https://verify.mygreatlearning.com/verify/WRHCURXB">John's Great Learning Academy online credential</a></li>
+</ul>
+<p><img src="../cert_infra_aws-vs-azure-vs-gcp_greatlearning_cert-WRHCURXB_2024-02-28.jpg" alt="John's AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan" style="border:1px solid #000000" /></p>
+<h2 id="aws-11">AWS (11)</h2>
+<h3 id="designing-landing-zone-architectures-with-aws-control-tower-from-aws">Designing Landing Zone Architectures with AWS Control Tower from AWS</h3>
+<p><img src="../cert_cloud_aws_desiging-landing-zone-architectures-with-aws-control-tower_cert-67722468-123b-4efc-af0f-b3c596317b5c_2025-07-26.png" alt="John's Designing Landing Zone Architectures with AWS Control Tower from AWS" style="border:1px solid #000000" /></p>
+<h3 id="aws-shared-responsibility-model-from-aws">AWS Shared Responsibility Model from AWS</h3>
+<p><img src="../cert_cloud_aws_aws-shared-responsibility-model_aws_cert-a4e52844-6fef-487d-a6d8-f7af0086ac81_2025-08-05.png" alt="John's AWS Shared Responsibility Model from AWS" style="border:1px solid #000000" /></p>
+<h3 id="create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</h3>
+<p><img src="../cert_devops_aws_create-aws-infrastructure-as-code-templates-using-generative-ai_pluralsight_shubham-sinha_2024-09-11.png" alt="John's Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha" style="border:1px solid #000000" /></p>
+<h3 id="introduction-to-aws-identity-and-access-management-iam-from-simplilearn">Introduction to AWS Identity and Access Management (IAM) from Simplilearn</h3>
+<p><img alt="John's Introduction to AWS Identity and Access Management (IAM) from Simplilearn" src="../cert_aws_intro-to-aws-identity-and-access-management-iam_simplilearn_cert-4970506_1710929859_2024-03-20.png" /></p>
+<h3 id="introduction-to-aws-trusted-advisor-from-simplilearn">Introduction to AWS Trusted Advisor from Simplilearn</h3>
+<p><img alt="John's Introduction to AWS Trusted Advisor from Simplilearn" src="../cert_aws_intro-to-aws-trusted-advisor_simplilearn_cert-4971787_1710945844_2024-03-20.png" /></p>
+<h3 id="getting-started-with-aws-security-hub-from-simplilearn">Getting Started with AWS Security Hub from Simplilearn</h3>
+<p><img alt="John's Getting Started with AWS Security Hub from Simplilearn" src="../cert_aws_getting-started-with-aws-security-hub_simplilearn_cert-4973168_1711030705_2024-03-21.png" /></p>
+<h3 id="introduction-to-aws-security-token-services-sts-from-simplilearn">Introduction to AWS Security Token Services (STS) from Simplilearn</h3>
+<p><img alt="John's Introduction to AWS Security Token Services (STS) from Simplilearn" src="../cert_aws_introduction-to-aws-security-token-services-sts_6733873_2024-06-15.png" /></p>
+<h3 id="getting-started-with-aws-control-tower-from-simplilearn">Getting Started with AWS Control Tower from Simplilearn</h3>
+<p><img alt="John's Getting Started with AWS Control Tower from Simplilearn" src="../cert_aws_getting-started-with-aws-control-tower_simplilearn_cert-6735033_1718548596_2024-06-16.png" /></p>
+<h3 id="aws-sagemaker-from-great-learning-academy-by-vishal-padghan">AWS SageMaker from Great Learning Academy by Vishal Padghan</h3>
+<ul>
+<li><a href="https://verify.mygreatlearning.com/verify/OICYKGXZ">John's Great Learning Academy online credential</a></li>
+</ul>
+<p><img src="../cert_machine-learning_aws-sagemaker_greatlearning_cert-OICYKGXZ_2024-02-25.jpg" alt="John's AWS SageMaker from Great Learning Academy by Vishal Padghan" style="border:1px solid #000000" /></p>
+<h3 id="aws-cicd-pipeline-from-great-learning-academy">AWS CI/CD Pipeline from Great Learning Academy</h3>
+<ul>
+<li><a href="/www.mygreatlearning.com/certificate/ZGRSHOKG">John's Great Learning Academy online credential</a></li>
+</ul>
+<p><img src="../cert_aws_aws-ci-cd-pipeline_greatlearning_cert-ZGRSHOKG_2024-04-07.jpg" alt="John's AWS CI/CD Pipeline from Great Learning Academy" style="border:1px solid #000000" /></p>
+<h3 id="aws-identity-and-access-management-from-whizlabs">AWS: Identity and Access Management from Whizlabs</h3>
+<ul>
+<li><a href="https://coursera.org/verify/QRD93E7CVUMP">John's Whizlabs online credential</a></li>
+</ul>
+<p><img alt="John's AWS: Identity and Access Management from Whizlabs" src="../cert_aws_aws-identity-and-access-management_whizlabs_cert-QRD93E7CVUMP_2024-03-20.png" /></p>
+<h2 id="aws-bedrock-6">AWS Bedrock (6)</h2>
+<h3 id="amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_amazon-bedrock-getting-started_aws_cert-ce0a575a-2277-48f0-9a70-e2acb21e0190_2025-07-26.png" alt="John's Amazon Bedrock Getting Started from AWS" style="border:1px solid #000000" /></p>
+<h3 id="introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws">Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_introduction-to-amazon-bedrock-foundation-models-and-ai-applications_aws_cert-8ae9ed2c-0a8b-419d-b565-121e8dba6ec5_2025-08-09.png" alt="John's Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS" style="border:1px solid #000000" /></p>
+<h3 id="automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws">Automate Generative AI workflows using Amazon Bedrock Flows from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_automate-generative-ai-workflows-using-amazon-bedrock-flows_aws_cert_ba475a2c-5e70-42c4-b25e-524397b4e3fb_2025-07-26.png" alt="John's Automate Generative AI workflows using Amazon Bedrock Flows from AWS" style="border:1px solid #000000" /></p>
+<h3 id="building-retrieval-augmented-generation-rag-workflows-with-amazon-opensearch-service-from-aws">Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_building-rag-workflows-with-amazon-opensesarch-service_aws_cert-f12227e6-bf4b-451c-9679-00f2d277e05e_2025-07-26.png" alt="John's Building Retrieval Augmented Generation (RAG) workflows with Amazon OpenSearch Service from AWS" style="border:1px solid #000000" /></p>
+<h3 id="aws-simulearn-secure-conversational-ai-with-guardrails-from-aws">AWS SimuLearn: Secure Conversational AI with Guardrails from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_secure-conversational-ai-with-guardrails_aws_cert-cec75b62-666c-482d-8668-3b68fa2453b8_2025-07-26.png" alt="John's AWS SimuLearn: Secure Conversational AI with Guardrails from AWS" style="border:1px solid #000000" /></p>
+<h3 id="introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</h3>
+<p><img src="../cert_ai_aws_introduction-to-bedrock_pluralsight_muhammad-sajid_2025-06-15.png" alt="John's Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" /></p>
+<h2 id="aws-bedrock-agentcore-5">AWS Bedrock AgentCore (5)</h2>
+<h3 id="amazon-bedrock-agentcore-getting-started-from-aws">Amazon Bedrock AgentCore Getting Started from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_aws-bedrock-agent-core-getting-started_aws_cert-a3ebd357-5aec-4b50-9fe8-044b789f543d_2025-07-09.png" alt="John's Amazon Bedrock AgentCore Getting Started from AWS" style="border:1px solid #000000" /></p>
+<h3 id="amazon-bedrock-agentcore-identity-tutorial-from-aws">Amazon Bedrock AgentCore Identity Tutorial from AWS</h3>
+<p><img src="../cert_aws_bedrock_amazon-bedrock-agentcore-identity-tutorial_aws_cert-fcbeea92-1494-435e-864d-1a380911b0dc_2025-08-17.png" alt="John's Amazon Bedrock AgentCore Identity Tutorial from AWS" style="border:1px solid #000000" /></p>
+<h3 id="amazon-bedrock-agentcore-memory-tutorial-from-aws">Amazon Bedrock AgentCore Memory Tutorial from AWS</h3>
+<p><img src="../cert_ai_aws-agentcore_amazon-bedrock-agentcore-memory-tutorial_aws_cert-4e8094e4-51b0-4eaf-ba85-3538ac9c8b4a_2025-09-07.png" alt="John's Amazon Bedrock AgentCore Memory Tutorial from AWS" style="border:1px solid #000000" /></p>
+<h3 id="amazon-bedrock-agentcore-runtime-tutorial-from-aws">Amazon Bedrock AgentCore RunTime Tutorial from AWS</h3>
+<p><img src="../cert_ai_aws-bedrock_amazon-bedrock-agentcore-runtime-tutorial_aws_cert-62959d76-1ee7-42cb-af21-fa1473edcd0a_2025-08-26.png" alt="John's Amazon Bedrock AgentCore RunTime Tutorial from AWS" style="border:1px solid #000000" /></p>
+<h3 id="amazon-bedrock-agentcore-tools-tutorial-from-aws">Amazon Bedrock AgentCore Tools Tutorial from AWS</h3>
+<p><img src="../cert_aws_bedrock_amazon-bedrock-agentcore-tools-tutorial_aws_cert-264c8d4b-6c78-4e5e-84b6-91150645173c_2025-08-18.png" alt="John's Amazon Bedrock AgentCore Tools Tutorial from AWS" style="border:1px solid #000000" /></p>
+<h2 id="azure-3">Azure (3)</h2>
+<h3 id="azure-ai-fundamentals-from-pluralsight-by-daniel-krzyczkowski">Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski</h3>
+<p><img src="../cert_ai_azure_azure-ai-fundamentals_pluralsight_daniel-krzyczkowski_2025-08-31.png" alt="John's Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski" style="border:1px solid #000000" /></p>
+<h3 id="create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako">Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako</h3>
+<p><img src="../cert_devops_azure_create-azure-resource-templates-generative-ai_pluralsight_bismark-adomako_2024-09-28.png" alt="John's Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako" style="border:1px solid #000000" /></p>
+<h3 id="microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts">Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts</h3>
+<p><img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" /></p>
+<h2 id="google-cloud-platform-gcp-1">Google Cloud Platform (GCP) (1)</h2>
+<h3 id="scaling-with-google-cloud-operations-from-google-cloud">Scaling with Google Cloud Operations from Google Cloud</h3>
+<ul>
+<li><a href="https://coursera.org/verify/UZNVFWLTKF6V">John's Google Cloud online credential</a></li>
+</ul>
+<p><img alt="John's Scaling with Google Cloud Operations from Google Cloud" src="../cert_googlecloud_scaling-with-google-cloud-operations_google_cert-UZNVFWLTKF6V_2024-07-10.png" /></p>
+<h2 id="datadog-1">Datadog (1)</h2>
+<h3 id="detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog">Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog</h3>
+<ul>
+<li><a href="https://learn.datadoghq.com/certificates/jq29dawso1">John's Datadog online credential</a></li>
+</ul>
+<p><img src="../cert_datadog_appsec_detect-prioritize-remediate-cloud-security-riskes-with-datadog-csm_datadog_cert-jq29dawso1_2024-07-10.jpg" alt="John's Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog" style="border:1px solid #000000" /></p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../board-of-directors/" class="btn btn-neutral float-left" title="Board of Directors (5)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../customer-service/" class="btn btn-neutral float-right" title="Customer Service (5)">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../board-of-directors/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../customer-service/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "../..";</script>
+    <script src="../../js/theme_extra.js"></script>
+    <script src="../../js/theme.js"></script>
+      <script src="../../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>

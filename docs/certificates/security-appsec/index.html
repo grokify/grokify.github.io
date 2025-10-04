@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/security-appsec/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Security: AppSec (55) - John Wang's Site</title>
+    <title>Security: AppSec (57) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Security: AppSec (55)";
+        var mkdocs_page_name = "Security: AppSec (57)";
         var mkdocs_page_input_path = "certificates/security-appsec.md";
         var mkdocs_page_url = "/certificates/security-appsec/";
       </script>
@@ -71,7 +71,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (5)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../cloud-infrastructure/">Cloud Infrastructure (25)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../cloud-computing/">Cloud Computing (42)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../customer-service/">Customer Service (5)</a>
                   </li>
@@ -79,7 +79,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (35)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (13)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../human-resources/">Human Resources (12)</a>
                   </li>
@@ -111,7 +111,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (15)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Security: AppSec (55)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Security: AppSec (57)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#strategy-1">Strategy (1)</a>
         <ul>
@@ -269,6 +269,14 @@
     </li>
         </ul>
     </li>
+    <li class="toctree-l2"><a class="reference internal" href="#cves-2">CVEs (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#authentication-bypass-vulnerability-in-nextjs-cve-2025-29927-what-you-should-know-from-pluralsight-by-matthew-lloyd-davies-michael-teske">Authentication Bypass Vulnerability in Next.js CVE-2025-29927: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#unauthenticated-remote-code-execution-in-apache-tomcat-cve-2025-24813-what-you-should-know-from-pluralsight-by-matthew-lloyd-davies-michael-teske">Unauthenticated Remote Code Execution in Apache Tomcat CVE-2025-24813: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske</a>
+    </li>
+        </ul>
+    </li>
     <li class="toctree-l2"><a class="reference internal" href="#vulnerability-examples-5">Vulnerability Examples (5)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#apache-commons-text-vulnerability-what-you-should-know-from-pluralsight-by-bri-frost-brandon-devault">Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault</a>
@@ -315,7 +323,7 @@
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
           <li class="breadcrumb-item">Certificates</li>
-      <li class="breadcrumb-item active">Security: AppSec (55)</li>
+      <li class="breadcrumb-item active">Security: AppSec (57)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -416,6 +424,11 @@
 </li>
 <li><a href="#snyk-1">Snyk</a><ol>
 <li><a href="#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi">Application Analysis with Snyk from Pluralsight by Hiren Gadhvi</a></li>
+</ol>
+</li>
+<li><a href="#cves-2">CVEs</a><ol>
+<li><a href="#authentication-bypass-vulnerability-in-nextjs-cve-2025-29927-what-you-should-know-from-pluralsight-by-matthew-lloyd-davies-michael-teske">Authentication Bypass Vulnerability in Next.js CVE-2025-29927: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske</a></li>
+<li><a href="#unauthenticated-remote-code-execution-in-apache-tomcat-cve-2025-24813-what-you-should-know-from-pluralsight-by-matthew-lloyd-davies-michael-teske">Unauthenticated Remote Code Execution in Apache Tomcat CVE-2025-24813: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske</a></li>
 </ol>
 </li>
 <li><a href="#vulnerability-examples-5">Vulnerability Examples</a><ol>
@@ -567,6 +580,11 @@
 <h2 id="snyk-1">Snyk (1)</h2>
 <h3 id="application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi">Application Analysis with Snyk from Pluralsight by Hiren Gadhvi</h3>
 <p><img src="../cert_security_application-analysis-with-snyk_pluralsight_2024-04-10.png" alt="John's Application Analysis with Snyk from Pluralsight by Hiren Gadhvi" style="border:1px solid #000000" /></p>
+<h2 id="cves-2">CVEs (2)</h2>
+<h3 id="authentication-bypass-vulnerability-in-nextjs-cve-2025-29927-what-you-should-know-from-pluralsight-by-matthew-lloyd-davies-michael-teske">Authentication Bypass Vulnerability in Next.js CVE-2025-29927: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske</h3>
+<p><img src="../cert_appsec_cve_cve-2025-29927-nextjs-auth-bypass-vuln_pluralsight_matt-davies-michael-teske_2025-10-04.png" alt="John's Authentication Bypass Vulnerability in Next.js CVE-2025-29927: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske" style="border:1px solid #000000" /></p>
+<h3 id="unauthenticated-remote-code-execution-in-apache-tomcat-cve-2025-24813-what-you-should-know-from-pluralsight-by-matthew-lloyd-davies-michael-teske">Unauthenticated Remote Code Execution in Apache Tomcat CVE-2025-24813: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske</h3>
+<p><img src="../cert_appsec_cve_cve-2025-24813-apache-tomcat-apache-tomcat-unauthenticated-remote-code-execution-rce_pluralsight_matt-davies-michael-teske_2025-10-04.png" alt="John's Unauthenticated Remote Code Execution in Apache Tomcat CVE-2025-24813: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske" style="border:1px solid #000000" /></p>
 <h2 id="vulnerability-examples-5">Vulnerability Examples (5)</h2>
 <h3 id="apache-commons-text-vulnerability-what-you-should-know-from-pluralsight-by-bri-frost-brandon-devault">Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault</h3>
 <p><img src="../cert_appsec_vulns_apache-commons-text-vulnerability_pluralslight_bri-frost--brandon-devault_2024-11-01.png" alt="John's Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault" style="border:1px solid #000000" /></p>
