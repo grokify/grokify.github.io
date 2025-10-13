@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/data/" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>Data (7) - John Wang's Site</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Data (7)";
+        var mkdocs_page_input_path = "certificates/data.md";
+        var mkdocs_page_url = "/certificates/data/";
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../.." class="icon icon-home"> John Wang's Site
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../..">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Innovation</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../patents/">Patents (3)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../presentations/">Presentations (2)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../publications/">Publications (2)</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Awards</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../awards/">API (7)</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Certificates</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../api/">API (11)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../algorithms/">Algorithms (3)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../appreciation/">Appreciation (2)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (115)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence-ml/">Artificial Intelligence: ML (15)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (5)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../cloud-computing/">Cloud Computing (43)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../customer-service/">Customer Service (5)</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Data (7)</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#governance-1">Governance (1)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#data-governance-with-dataplex-universal-catalog-from-google-cloud">Data Governance with Dataplex Universal Catalog from Google Cloud</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#apache-iceberg-4">Apache Iceberg (4)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-apache-iceberg-from-pluralsight-by-russ-thomas">Introduction to Apache Iceberg from Pluralsight by Russ Thomas</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#leveraging-apache-iceberg-catalogs-from-pluralsight-by-pinal-dave">Leveraging Apache Iceberg Catalogs from Pluralsight by Pinal Dave</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#understanding-apache-iceberg-architecture-from-pluralsight-by-russ-thomas">Understanding Apache Iceberg Architecture from Pluralsight by Russ Thomas</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#rollbacks-time-travel-and-disaster-recovery-with-apache-iceberg-from-pluralsight-by-russ-thomas">Rollbacks, Time Travel, and Disaster Recovery with Apache Iceberg from Pluralsight by Russ Thomas</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#neo4j-2">Neo4j (2)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#neo4j-fundamentals-from-neo4j">Neo4j Fundamentals from Neo4j</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#neo4j-generativeai-fundamentals-from-neo4j">Neo4j &amp; GenerativeAI Fundamentals from Neo4j</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../data-science/">Data Science (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../design-thinking/">Design Thinking (4)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../devops/">DevOps (13)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../human-resources/">Human Resources (12)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../information-technology/">Information Technology (1)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../leadership/">Leadership (12)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../management/">Management (26)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../management-consulting/">Management Consulting (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../marketing/">Marketing (4)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (9)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../observability-and-reliability/">Observability and Reliability (14)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../personal-development/">Personal Development (9)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-design/">Product Design (2)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (22)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (41)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../programming-qa/">Programming: QA (5)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum (21)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-ai/">Security: AI (15)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-appsec/">Security: AppSec (54)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-compliance/">Security: Compliance (8)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-idsec/">Security: IDSec (21)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (48)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-secops/">Security: SecOps (6)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../sports/">Sports (4)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../strategy/">Strategy (7)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../ted-talks/">TED Talks (7)</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../..">John Wang's Site</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">Certificates</li>
+      <li class="breadcrumb-item active">Data (7)</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="johns-data-certificates">John's Data Certificates</h1>
+<ol>
+<li><a href="#governance-1">Governance</a><ol>
+<li><a href="#data-governance-with-dataplex-universal-catalog-from-google-cloud">Data Governance with Dataplex Universal Catalog from Google Cloud</a></li>
+</ol>
+</li>
+<li><a href="#apache-iceberg-4">Apache Iceberg</a><ol>
+<li><a href="#introduction-to-apache-iceberg-from-pluralsight-by-russ-thomas">Introduction to Apache Iceberg from Pluralsight by Russ Thomas</a></li>
+<li><a href="#leveraging-apache-iceberg-catalogs-from-pluralsight-by-pinal-dave">Leveraging Apache Iceberg Catalogs from Pluralsight by Pinal Dave</a></li>
+<li><a href="#understanding-apache-iceberg-architecture-from-pluralsight-by-russ-thomas">Understanding Apache Iceberg Architecture from Pluralsight by Russ Thomas</a></li>
+<li><a href="#rollbacks-time-travel-and-disaster-recovery-with-apache-iceberg-from-pluralsight-by-russ-thomas">Rollbacks, Time Travel, and Disaster Recovery with Apache Iceberg from Pluralsight by Russ Thomas</a></li>
+</ol>
+</li>
+<li><a href="#neo4j-2">Neo4j</a><ol>
+<li><a href="#neo4j-fundamentals-from-neo4j">Neo4j Fundamentals from Neo4j</a></li>
+<li><a href="#neo4j-generativeai-fundamentals-from-neo4j">Neo4j &amp; GenerativeAI Fundamentals from Neo4j</a></li>
+</ol>
+</li>
+</ol>
+<h2 id="governance-1">Governance (1)</h2>
+<h3 id="data-governance-with-dataplex-universal-catalog-from-google-cloud">Data Governance with Dataplex Universal Catalog from Google Cloud</h3>
+<ul>
+<li><a href="https://coursera.org/verify/0FWCJB049GJ8">John's Google Cloud online credential</a></li>
+</ul>
+<p><img alt="John's Data Governance with Dataplex Universal Catalog from Google Cloud" src="../cert_data_governance_google-dataplex-universal-catalog_googlecloud_cert-0FWCJB049GJ8_2025-10-13.png" /></p>
+<h2 id="apache-iceberg-4">Apache Iceberg (4)</h2>
+<h3 id="introduction-to-apache-iceberg-from-pluralsight-by-russ-thomas">Introduction to Apache Iceberg from Pluralsight by Russ Thomas</h3>
+<p><img src="../cert_database_iceberg_introduction-to-apache-iceberg_pluralsight_russ-thomas_2025-10-12.png" alt="John's Introduction to Apache Iceberg from Pluralsight by Russ Thomas" style="border:1px solid #000000" /></p>
+<h3 id="leveraging-apache-iceberg-catalogs-from-pluralsight-by-pinal-dave">Leveraging Apache Iceberg Catalogs from Pluralsight by Pinal Dave</h3>
+<p><img src="../cert_database_iceberg_leveraging-apache-iceberg-catalogs_pluralsight_pinal-dave_2025-10-12.png" alt="John's Leveraging Apache Iceberg Catalogs from Pluralsight by Pinal Dave" style="border:1px solid #000000" /></p>
+<h3 id="understanding-apache-iceberg-architecture-from-pluralsight-by-russ-thomas">Understanding Apache Iceberg Architecture from Pluralsight by Russ Thomas</h3>
+<p><img src="../cert_database_iceberg_understanding-apache-iceberg-architecture_pluralsight_russ-thomas_2025-10-12.png" alt="John's Understanding Apache Iceberg Architecture from Pluralsight by Russ Thomas" style="border:1px solid #000000" /></p>
+<h3 id="rollbacks-time-travel-and-disaster-recovery-with-apache-iceberg-from-pluralsight-by-russ-thomas">Rollbacks, Time Travel, and Disaster Recovery with Apache Iceberg from Pluralsight by Russ Thomas</h3>
+<p><img src="../cert_database_iceberg_rollbacks-time-travel-disaster-recovery-with-apache-iceberg_russ-thomas_2025-10-12.png" alt="John's Rollbacks, Time Travel, and Disaster Recovery with Apache Iceberg from Pluralsight by Russ Thomas" style="border:1px solid #000000" /></p>
+<h2 id="neo4j-2">Neo4j (2)</h2>
+<h3 id="neo4j-fundamentals-from-neo4j">Neo4j Fundamentals from Neo4j</h3>
+<ul>
+<li><a href="https://graphacademy.neo4j.com/c/c36291b3-2872-4c3c-9aeb-2a0032bf7a03/">John's Neo4j online credential</a></li>
+</ul>
+<p><img alt="John's Neo4j Fundamentals from Neo4j" src="../cert_db_graph_neo4j-fundamentals_neo4j_2025-10-12.png" /></p>
+<h3 id="neo4j-generativeai-fundamentals-from-neo4j">Neo4j &amp; GenerativeAI Fundamentals from Neo4j</h3>
+<ul>
+<li><a href="https://graphacademy.neo4j.com/c/3cc6608a-217d-4dde-a0cb-75e2b2c93098/">John's Neo4j online credential</a></li>
+</ul>
+<p><img alt="John's Neo4j &amp; GenerativeAI Fundamentals from Neo4j" src="../cert_db_graph_neo4j-generative-ai-fundamentals_neo4j_2025-10-07.png" /></p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../customer-service/" class="btn btn-neutral float-left" title="Customer Service (5)"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../data-science/" class="btn btn-neutral float-right" title="Data Science (7)">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../customer-service/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../data-science/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "../..";</script>
+    <script src="../../js/theme_extra.js"></script>
+    <script src="../../js/theme.js"></script>
+      <script src="../../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
