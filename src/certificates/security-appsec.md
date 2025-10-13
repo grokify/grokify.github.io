@@ -16,6 +16,8 @@
     1. [Developer Security Champion: Secure Authentication Implementation from Pluralsight by Gavin Johnson-Lynn](#developer-security-champion-secure-authentication-implementation-from-pluralsight-by-gavin-johnson-lynn)
     1. [Developer Security Champion: Supply Chain Security from Pluralsight by Kevin James](#developer-security-champion-supply-chain-security-from-pluralsight-by-kevin-james)
     1. [Developer Security Champion: Vulnerability Testing from Pluralsight by Christian Wenz](#developer-security-champion-vulnerability-testing-from-pluralsight-by-christian-wenz)
+1. [SAST](#sast-1)
+    1. [Application Analysis with SonarQube from Pluralsight by George Smith](#application-analysis-with-sonarqube-from-pluralsight-by-george-smith)
 1. [Programming](#programming-7)
     1. [OWASP Top 10 from Snyk](#owasp-top-10-from-snyk)
     1. [Snyk Top 10 from Snyk](#snyk-top-10-from-snyk)
@@ -45,12 +47,6 @@
     1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jesus-piedra)
 1. [DevOps](#devops-1)
     1. [Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy](#certified-devops-information-security-engineer-devops-sec-from-devops-academy)
-1. [SecOps](#secops-5)
-    1. [Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog](#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog)
-    1. [Getting Started with APM Metrics & Traces from Datadog](#getting-started-with-apm-metrics-traces-from-datadog)
-    1. [Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund](#red-team-operations-target-and-capability-development-from-pluralsight-by-aaron-rosenmund)
-    1. [Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund](#red-team-tools-for-emulated-adversary-techniques-with-mitre-attck-from-pluralsight-by-aaron-rosenmund)
-    1. [Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund](#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund)
 1. [FedRAMP](#fedramp-2)
     1. [Introduction to NIST 800-53 - Security and Privacy Controls from Udemy by Dr. Amar Massoud](#introduction-to-nist-800-53-security-and-privacy-controls-from-udemy-by-dr-amar-massoud)
     1. [Security Compliance: FedRAMP from Pluralsight by Richard Harpur](#security-compliance-fedramp-from-pluralsight-by-richard-harpur)
@@ -63,9 +59,10 @@
     1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
 1. [Snyk](#snyk-1)
     1. [Application Analysis with Snyk from Pluralsight by Hiren Gadhvi](#application-analysis-with-snyk-from-pluralsight-by-hiren-gadhvi)
-1. [CVEs](#cves-2)
+1. [CVEs](#cves-3)
     1. [Authentication Bypass Vulnerability in Next.js CVE-2025-29927: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske](#authentication-bypass-vulnerability-in-nextjs-cve-2025-29927-what-you-should-know-from-pluralsight-by-matthew-lloyd-davies-michael-teske)
     1. [Unauthenticated Remote Code Execution in Apache Tomcat CVE-2025-24813: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske](#unauthenticated-remote-code-execution-in-apache-tomcat-cve-2025-24813-what-you-should-know-from-pluralsight-by-matthew-lloyd-davies-michael-teske)
+    1. [CVE-2024-0012 Palo Alto PAN-OS Authentication Bypass: What You Should Know from Pluralsight by Chris Jackson, Michael Teske](#cve-2024-0012-palo-alto-pan-os-authentication-bypass-what-you-should-know-from-pluralsight-by-chris-jackson-michael-teske)
 1. [Vulnerability Examples](#vulnerability-examples-5)
     1. [Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault](#apache-commons-text-vulnerability-what-you-should-know-from-pluralsight-by-bri-frost-brandon-devault)
     1. [Atlassian RCE Vulnerabilities: What You Should Know from Pluralsight by Michael Teske, Matthew Lloyd Davies](#atlassian-rce-vulnerabilities-what-you-should-know-from-pluralsight-by-michael-teske-matthew-lloyd-davies)
@@ -130,6 +127,11 @@
 ### Developer Security Champion: Vulnerability Testing from Pluralsight by Christian Wenz
 
 <img src="../cert_appsec_security-champion_vulnerability-testing_pluralsight_christian-wenz_2024-10-23.png" alt="John's Developer Security Champion: Vulnerability Testing from Pluralsight by Christian Wenz" style="border:1px solid #000000" />
+
+## SAST (1)
+### Application Analysis with SonarQube from Pluralsight by George Smith
+
+<img src="../cert_appsec_sast_application-analysis-with-sonarqube_pluralsight_george-smith_2025-10-12.png" alt="John's Application Analysis with SonarQube from Pluralsight by George Smith" style="border:1px solid #000000" />
 
 ## Programming (7)
 ### OWASP Top 10 from Snyk
@@ -233,29 +235,6 @@
 
 <img src="../cert_devops_infosec_devops-cert-org_devops-sec_2023-11-11_cert-22465533642098.png" alt="John's Certified DevOps Information Security Engineer (DevOps-SEC) from DevOps Academy" style="border:1px solid #000000" />
 
-## SecOps (5)
-### Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog
-* [John's Datadog online credential](https://learn.datadoghq.com/certificates/jq29dawso1)
-
-<img src="../cert_datadog_appsec_detect-prioritize-remediate-cloud-security-riskes-with-datadog-csm_datadog_cert-jq29dawso1_2024-07-10.jpg" alt="John's Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog" style="border:1px solid #000000" />
-
-### Getting Started with APM Metrics & Traces from Datadog
-* [John's Datadog online credential](https://learn.datadoghq.com/certificates/rcppjvns7a)
-
-<img src="../cert_datadog_apm_getting-started-with-apm-metrics-and-traces_datadog_cert-610680042_2025-01-29.jpg" alt="John's Getting Started with APM Metrics & Traces from Datadog" style="border:1px solid #000000" />
-
-### Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund
-
-<img src="../cert_infosec_redteam_red-team-operations-target-and-capability-development_pluralsight_aaron-rosenmund_2024-09-29.png" alt="John's Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" />
-
-### Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund
-
-<img src="../cert_appsec_secops_red-team-tools-for-emulated-adversary-techniques-with-mitre-attack_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Red Team Tools for Emulated Adversary Techniques with MITRE ATT&CK from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" />
-
-### Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund
-
-<img src="../cert_appsec_secops_blue-team-tools-defense-against-adversary-activity-using-mitre-techniques_pluralsight_aaron-rosenmund_2024-06-17.png" alt="John's Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund" style="border:1px solid #000000" />
-
 ## FedRAMP (2)
 ### Introduction to NIST 800-53 - Security and Privacy Controls from Udemy by Dr. Amar Massoud
 * [John's Udemy online credential](http://ude.my/UC-52ae5a98-c1c4-46d4-9a67-4e4634d1f65e)
@@ -297,7 +276,7 @@
 
 <img src="../cert_security_application-analysis-with-snyk_pluralsight_2024-04-10.png" alt="John's Application Analysis with Snyk from Pluralsight by Hiren Gadhvi" style="border:1px solid #000000" />
 
-## CVEs (2)
+## CVEs (3)
 ### Authentication Bypass Vulnerability in Next.js CVE-2025-29927: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske
 
 <img src="../cert_appsec_cve_cve-2025-29927-nextjs-auth-bypass-vuln_pluralsight_matt-davies-michael-teske_2025-10-04.png" alt="John's Authentication Bypass Vulnerability in Next.js CVE-2025-29927: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske" style="border:1px solid #000000" />
@@ -305,6 +284,10 @@
 ### Unauthenticated Remote Code Execution in Apache Tomcat CVE-2025-24813: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske
 
 <img src="../cert_appsec_cve_cve-2025-24813-apache-tomcat-apache-tomcat-unauthenticated-remote-code-execution-rce_pluralsight_matt-davies-michael-teske_2025-10-04.png" alt="John's Unauthenticated Remote Code Execution in Apache Tomcat CVE-2025-24813: What You Should Know from Pluralsight by Matthew Lloyd Davies, Michael Teske" style="border:1px solid #000000" />
+
+### CVE-2024-0012 Palo Alto PAN-OS Authentication Bypass: What You Should Know from Pluralsight by Chris Jackson, Michael Teske
+
+<img src="../cert_appsec_cve_cve-2024-0012-palo-alto-pan-os-auth-bypass_pluralsight_chris-jackson-michael-teske_2025-10-12.png" alt="John's CVE-2024-0012 Palo Alto PAN-OS Authentication Bypass: What You Should Know from Pluralsight by Chris Jackson, Michael Teske" style="border:1px solid #000000" />
 
 ## Vulnerability Examples (5)
 ### Apache Commons Text Vulnerability: What You Should Know from Pluralsight by Bri Frost, Brandon DeVault

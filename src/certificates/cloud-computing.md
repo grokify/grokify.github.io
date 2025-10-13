@@ -48,8 +48,9 @@
     1. [Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski](#azure-ai-fundamentals-from-pluralsight-by-daniel-krzyczkowski)
     1. [Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako](#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako)
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
-1. [Google Cloud Platform (GCP)](#google-cloud-platform-gcp-1)
+1. [Google Cloud Platform (GCP)](#google-cloud-platform-gcp-2)
     1. [Scaling with Google Cloud Operations from Google Cloud](#scaling-with-google-cloud-operations-from-google-cloud)
+    1. [Data Governance with Dataplex Universal Catalog from Google Cloud](#data-governance-with-dataplex-universal-catalog-from-google-cloud)
 1. [Datadog](#datadog-1)
     1. [Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog](#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog)
 ## Container Security (3)
@@ -232,11 +233,16 @@
 
 <img src="../cert_devops_azure_microsoft-azure-solutions-architect-design-for-high-availability_pluralsight_barry-luijbregts_2024-06-22.png" alt="John's Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts" style="border:1px solid #000000" />
 
-## Google Cloud Platform (GCP) (1)
+## Google Cloud Platform (GCP) (2)
 ### Scaling with Google Cloud Operations from Google Cloud
 * [John's Google Cloud online credential](https://coursera.org/verify/UZNVFWLTKF6V)
 
 ![John's Scaling with Google Cloud Operations from Google Cloud](cert_googlecloud_scaling-with-google-cloud-operations_google_cert-UZNVFWLTKF6V_2024-07-10.png)
+
+### Data Governance with Dataplex Universal Catalog from Google Cloud
+* [John's Google Cloud online credential](https://coursera.org/verify/0FWCJB049GJ8)
+
+![John's Data Governance with Dataplex Universal Catalog from Google Cloud](cert_data_governance_google-dataplex-universal-catalog_googlecloud_cert-0FWCJB049GJ8_2025-10-13.png)
 
 ## Datadog (1)
 ### Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog

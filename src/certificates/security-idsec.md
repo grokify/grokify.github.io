@@ -18,12 +18,13 @@
     1. [Microsoft Azure Identity and Security for Administrators: The Big Picture from Pluralsight by Jean Francois Landry](#microsoft-azure-identity-and-security-for-administrators-the-big-picture-from-pluralsight-by-jean-francois-landry)
 1. [Okta](#okta-1)
     1. [Introduction to Okta Certified Professional from Pluralsight by Tim Warner](#introduction-to-okta-certified-professional-from-pluralsight-by-tim-warner)
-1. [Saviynt](#saviynt-6)
+1. [Saviynt](#saviynt-7)
     1. [Saviynt IGA L100 Self-Paced Training from Saviynt](#saviynt-iga-l100-self-paced-training-from-saviynt)
     1. [Saviynt IGA for MSPs from Saviynt](#saviynt-iga-for-msps-from-saviynt)
-    1. [Application Onboarding (AOB) Fundamentals from Saviynt](#application-onboarding-aob-fundamentals-from-saviynt)
     1. [Saviynt CPAM L100 - Self-Paced Training from Saviynt](#saviynt-cpam-l100-self-paced-training-from-saviynt)
     1. [Application Access Governance (AAG) Fundamentals from Saviynt](#application-access-governance-aag-fundamentals-from-saviynt)
+    1. [Saviynt Just In Time Access (JITA) Fundamentals from Saviynt](#saviynt-just-in-time-access-jita-fundamentals-from-saviynt)
+    1. [Application Onboarding (AOB) Fundamentals from Saviynt](#application-onboarding-aob-fundamentals-from-saviynt)
     1. [Saviynt Ambassador Accreditation from Saviynt](#saviynt-ambassador-accreditation-from-saviynt)
 ## Programming (7)
 ### Introduction to OAuth 2.0 and OpenID Connect from Pragmatic Web Security by Dr. Philippe De Ryck
@@ -88,7 +89,7 @@
 
 <img src="../cert_infosec_iam_introduction-to-okta-certified-professional_pluralsight_tim-warner_2025-09-22.png" alt="John's Introduction to Okta Certified Professional from Pluralsight by Tim Warner" style="border:1px solid #000000" />
 
-## Saviynt (6)
+## Saviynt (7)
 ### Saviynt IGA L100 Self-Paced Training from Saviynt
 
 <img src="../cert_idsec_saviynt_saviynt-iga-l100-self-paced-training_saviynt_cert-638669597333894696_2024-07-05_dl-2024-11-11.png" alt="John's Saviynt IGA L100 Self-Paced Training from Saviynt" style="border:1px solid #000000" />
@@ -101,10 +102,6 @@
 
 <img src="../cert_saviynt_saviynt-iga-for-msps_saviynt_cert-638556617907981626_2024-07-04.png" alt="John's Saviynt IGA for MSPs from Saviynt" style="border:1px solid #000000" />
 
-### Application Onboarding (AOB) Fundamentals from Saviynt
-
-<img src="../cert_saviynt_application-onboarding-aob-fundamentals_saviynt_cert-638556603880420320_2024-03-21.png" alt="John's Application Onboarding (AOB) Fundamentals from Saviynt" style="border:1px solid #000000" />
-
 ### Saviynt CPAM L100 - Self-Paced Training from Saviynt
 
 <img src="../cert_idsec_saviynt_saviynt-pam-l100-self-paced-training_saviynt_cert-638669601905368153_2024-07-08_dl-2024-11-11.png" alt="John's Saviynt CPAM L100 - Self-Paced Training from Saviynt" style="border:1px solid #000000" />
@@ -116,6 +113,14 @@
 <img src="../cert_idsec_saviynt_application-access-governance-aag-fundamentals_saviynt_cert-638669601923200423_2024-07-09_dl-2024-11-11.png" alt="John's Application Access Governance (AAG) Fundamentals from Saviynt" style="border:1px solid #000000" />
 
 <img src="../cert_saviynt_application-access-governance-aag-fundamentals_saviynt_cert-638561132094980409_2024-07-09.png" alt="John's Application Access Governance (AAG) Fundamentals from Saviynt" style="border:1px solid #000000" />
+
+### Saviynt Just In Time Access (JITA) Fundamentals from Saviynt
+
+<img src="../cert_idsec_pam_saviynt-just-in-time-access-jita-fundamentals_saviynt_cert-638956530483912907_2025-10-10.png" alt="John's Saviynt Just In Time Access (JITA) Fundamentals from Saviynt" style="border:1px solid #000000" />
+
+### Application Onboarding (AOB) Fundamentals from Saviynt
+
+<img src="../cert_saviynt_application-onboarding-aob-fundamentals_saviynt_cert-638556603880420320_2024-03-21.png" alt="John's Application Onboarding (AOB) Fundamentals from Saviynt" style="border:1px solid #000000" />
 
 ### Saviynt Ambassador Accreditation from Saviynt
 

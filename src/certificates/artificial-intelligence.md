@@ -7,12 +7,13 @@
     1. [Teaching AI Fluency from Anthropic](#teaching-ai-fluency-from-anthropic)
 1. [Fundamentals](#fundamentals-1)
     1. [AI Ready from STACKIT](#ai-ready-from-stackit)
-1. [Product Management](#product-management-4)
+1. [Product Management](#product-management-5)
     1. [Generative AI for Innovators from Pluralsight by Esteban Herrera](#generative-ai-for-innovators-from-pluralsight-by-esteban-herrera)
     1. [Artificial Intelligence Micro-Certification (AIC) from Product School by Sam Stevens](#artificial-intelligence-micro-certification-aic-from-product-school-by-sam-stevens)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
     1. [AI Product from Great Learning Academy by Abhinanda Sarkar](#ai-product-from-great-learning-academy-by-abhinanda-sarkar)
-1. [AI Agents](#ai-agents-14)
+    1. [AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy](#ai-product-manager-roles-skills-and-responsibilities-from-great-learning-academy)
+1. [AI Agents](#ai-agents-15)
     1. [Fundamentals of Agents from Hugging Face](#fundamentals-of-agents-from-hugging-face)
     1. [Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White](#agentic-ai-and-ai-agents-a-primer-for-leaders-from-vanderbilt-university-by-james-white)
     1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
@@ -27,6 +28,7 @@
     1. [Integrating AI Agents into Development Workflows from Pluralsight by Adam Bertram](#integrating-ai-agents-into-development-workflows-from-pluralsight-by-adam-bertram)
     1. [Integrating AI Agents in Enterprise Systems from Pluralsight by Tom Taulli](#integrating-ai-agents-in-enterprise-systems-from-pluralsight-by-tom-taulli)
     1. [Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort](#evaluating-and-optimizing-llm-agents-from-pluralsight-by-brian-letort)
+    1. [Building Intelligent AI Agents from Great Learning Academy by Sneha VK](#building-intelligent-ai-agents-from-great-learning-academy-by-sneha-vk)
 1. [AI Agents Orchestration](#ai-agents-orchestration-12)
     1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joao-moura)
     1. [Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](#mastering-multi-agent-development-with-autogen-from-packt-by-paulo-dichone)
@@ -93,7 +95,9 @@
     1. [Ghibli Art Using AI from Great Learning Academy by Rushikesh Meharwade](#ghibli-art-using-ai-from-great-learning-academy-by-rushikesh-meharwade)
     1. [Deepfakes Basics from Great Learning Academy by Dr. Abhinanda Sarkar, Anirudh Rao, Sampriti Chatterjee](#deepfakes-basics-from-great-learning-academy-by-dr-abhinanda-sarkar-anirudh-rao-sampriti-chatterjee)
     1. [Deepfake Demo from Great Learning Academy by Anirudh Rao](#deepfake-demo-from-great-learning-academy-by-anirudh-rao)
-1. [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag-3)
+1. [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag-5)
+    1. [Neo4j & GenerativeAI Fundamentals from Neo4j](#neo4j-generativeai-fundamentals-from-neo4j)
+    1. [Supercharge AI with Knowledge Graphs: RAG System Mastery from Udemy by Paulo Dichone](#supercharge-ai-with-knowledge-graphs-rag-system-mastery-from-udemy-by-paulo-dichone)
     1. [Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota](#vector-space-models-and-embeddings-in-rags-from-pluralsight-by-axel-sirota)
     1. [Multi-modal RAGs from Pluralsight by Dhiraj Kumar](#multi-modal-rags-from-pluralsight-by-dhiraj-kumar)
     1. [Modular RAGs from Pluralsight by JS Padoan](#modular-rags-from-pluralsight-by-js-padoan)
@@ -160,7 +164,7 @@
 
 <img src="../cert_ai_fundamentals_ai-ready_stackit_2025-08-06.png" alt="John's AI Ready from STACKIT" style="border:1px solid #000000" />
 
-## Product Management (4)
+## Product Management (5)
 ### Generative AI for Innovators from Pluralsight by Esteban Herrera
 
 <img src="../cert_ai_pm_generative-ai-for-innovators_pluralsight_esteban-herrera_2025-07-27.png" alt="John's Generative AI for Innovators from Pluralsight by Esteban Herrera" style="border:1px solid #000000" />
@@ -180,7 +184,12 @@
 
 <img src="../cert_ai_product-management_ai-product_great-learning_abhinanda-sarkar_cert-20250720-4683-1t0yf13_2025-07-20.jpg" alt="John's AI Product from Great Learning Academy by Abhinanda Sarkar" style="border:1px solid #000000" />
 
-## AI Agents (14)
+### AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy
+* [John's Great Learning Academy online credential](https://www.mygreatlearning.com/certificate/ZIBSQYCA)
+
+<img src="../cert_ai_pm_ai-product-manager-roles-skills-responsibilities_greatlearning_2025-10-06.jpg" alt="John's AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy" style="border:1px solid #000000" />
+
+## AI Agents (15)
 ### Fundamentals of Agents from Hugging Face
 * [John's Hugging Face online credential](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/grokify/2025-06-20.png)
 
@@ -239,6 +248,11 @@
 ### Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort
 
 <img src="../cert_ai_ai-agents_evaluating-and-optimizing-llm-agents_pluralsight_brian-letort_2025-08-31.png" alt="John's Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort" style="border:1px solid #000000" />
+
+### Building Intelligent AI Agents from Great Learning Academy by Sneha VK
+* [John's Great Learning Academy online credential](https://www.mygreatlearning.com/certificate/QKDQCPMT)
+
+<img src="../cert_ai_agents_building-intelligent-ai-agents_greatlearning_sneha-vk_2025-10-06.jpg" alt="John's Building Intelligent AI Agents from Great Learning Academy by Sneha VK" style="border:1px solid #000000" />
 
 ## AI Agents Orchestration (12)
 ### Multi AI Agent Systems with CrewAI from CrewAI by João Moura
@@ -518,7 +532,17 @@
 
 <img src="../cert_ai_gen-ai_deepfake-demo_greatlearning_cert-DOVTINJH_2025-09-21.jpg" alt="John's Deepfake Demo from Great Learning Academy by Anirudh Rao" style="border:1px solid #000000" />
 
-## Retrieval-Augmented Generation (RAG) (3)
+## Retrieval-Augmented Generation (RAG) (5)
+### Neo4j & GenerativeAI Fundamentals from Neo4j
+* [John's Neo4j online credential](https://graphacademy.neo4j.com/c/3cc6608a-217d-4dde-a0cb-75e2b2c93098/)
+
+![John's Neo4j & GenerativeAI Fundamentals from Neo4j](cert_db_graph_neo4j-generative-ai-fundamentals_neo4j_2025-10-07.png)
+
+### Supercharge AI with Knowledge Graphs: RAG System Mastery from Udemy by Paulo Dichone
+* [John's Udemy online credential](http://ude.my/UC-dd892633-ab1d-4092-80f2-1539d60358a0/)
+
+<img src="../cert_ai_graphrag_supercharge-ai-with-knowledge-graphs-rag_udemy_paulo-dichone_cert-UC-dd892633-ab1d-4092-80f2-1539d60358a0_2025-10-08.jpg" alt="John's Supercharge AI with Knowledge Graphs: RAG System Mastery from Udemy by Paulo Dichone" style="border:1px solid #000000" />
+
 ### Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota
 
 <img src="../cert_ai_rag_vector-space-models-and-embeddings-in-rags_pluralsight_axel-sirota_2024-07-28.png" alt="John's Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota" style="border:1px solid #000000" />

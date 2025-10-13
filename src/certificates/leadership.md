@@ -16,6 +16,8 @@
     1. [Removing Barriers to Change from University of Pennsylvania, Wharton School by Jonah Berger](#removing-barriers-to-change-from-university-of-pennsylvania-wharton-school-by-jonah-berger)
 1. [Communications](#communications-1)
     1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
+1. [Industry Judge](#industry-judge-1)
+    1. [Globee® Awards for Leadership - 2025 Industry Judge from Globee](#globee-awards-for-leadership-2025-industry-judge-from-globee)
 ## Fundamentals (5)
 ### Stanford Executive Program (SEP) from Stanford
 
@@ -67,4 +69,10 @@
 ### Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas
 
 <img src="../cert_leadership_communications_using-generative-ai-to-refine-communications-to-executives_pluralsight_ed-freitas_2024-07-28.png" alt="John's Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas" style="border:1px solid #000000" />
+
+## Industry Judge (1)
+### Globee® Awards for Leadership - 2025 Industry Judge from Globee
+* [John's Globee online credential](https://credential.globeeawards.com/9400943b-d520-4ff5-a15b-c187cf5b3a69#acc.JWTq7MYZ)
+
+<img src="../cert_appreciation_globee_industry-judge-for-leadership_globee_2025-10-09.png" alt="John's Globee® Awards for Leadership - 2025 Industry Judge from Globee" style="border:1px solid #000000" />
 
