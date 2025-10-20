@@ -13,10 +13,11 @@
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
     1. [AI Product from Great Learning Academy by Abhinanda Sarkar](#ai-product-from-great-learning-academy-by-abhinanda-sarkar)
     1. [AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy](#ai-product-manager-roles-skills-and-responsibilities-from-great-learning-academy)
-1. [AI Agents](#ai-agents-15)
+1. [AI Agents](#ai-agents-16)
     1. [Fundamentals of Agents from Hugging Face](#fundamentals-of-agents-from-hugging-face)
     1. [Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White](#agentic-ai-and-ai-agents-a-primer-for-leaders-from-vanderbilt-university-by-james-white)
     1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
+    1. [Dremio-Powered AI Agents from Dremio by Alex Merced](#dremio-powered-ai-agents-from-dremio-by-alex-merced)
     1. [Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid](#introduction-to-developing-ai-agents-from-pluralsight-by-muhammad-sajid)
     1. [Creating Personal AI Agents from Pluralsight by Kamran Ayub](#creating-personal-ai-agents-from-pluralsight-by-kamran-ayub)
     1. [Using AI Agents for Productivity from Pluralsight by Vlad Catrinescu](#using-ai-agents-for-productivity-from-pluralsight-by-vlad-catrinescu)
@@ -45,11 +46,12 @@
 1. [A2A Protocol](#a2a-protocol-2)
     1. [Intro to Google's A2A Protocol: Interoperable AI Agents from Udemy by Yash Thakker](#intro-to-googles-a2a-protocol-interoperable-ai-agents-from-udemy-by-yash-thakker)
     1. [Agent2Agent (A2A) Protocol Fundamentals from Udemy by Mayfair Real Estate Institute](#agent2agent-a2a-protocol-fundamentals-from-udemy-by-mayfair-real-estate-institute)
-1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-7)
+1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-8)
     1. [Model Context Protocol: Advanced Topics from Anthropic](#model-context-protocol-advanced-topics-from-anthropic)
     1. [Introduction to Model Context Protocol from Anthropic](#introduction-to-model-context-protocol-from-anthropic)
     1. [MCP for Production Automation from Hugging Face](#mcp-for-production-automation-from-hugging-face)
     1. [Fundamentals of MCP (Model Context Protocol) from Hugging Face](#fundamentals-of-mcp-model-context-protocol-from-hugging-face)
+    1. [Dremio MCP Server from Dremio by Alex Merced](#dremio-mcp-server-from-dremio-by-alex-merced)
     1. [Model Context Protocol (MCP) Mastery from Fractal Analytics Academy](#model-context-protocol-mcp-mastery-from-fractal-analytics-academy)
     1. [Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi](#foundations-of-model-context-protocol-from-analytics-vidhya-by-apoorv-vishnoi)
     1. [MCP: Unlock AI integrations with real-world demos from Analytics Vidhya by Aditya Oberai](#mcp-unlock-ai-integrations-with-real-world-demos-from-analytics-vidhya-by-aditya-oberai)
@@ -120,7 +122,10 @@
     1. [Navigating Global AI Policy and Regulations: Insights for Latam from Silicon Valley Certification Hub by Merve Hickok](#navigating-global-ai-policy-and-regulations-insights-for-latam-from-silicon-valley-certification-hub-by-merve-hickok)
     1. [Artificial Intelligence Essentials: Responsible AI from Pluralsight by Ben Weissman](#artificial-intelligence-essentials-responsible-ai-from-pluralsight-by-ben-weissman)
     1. [AI and the Law: Implementing Trustworthy AI from Pluralsight by Anton Ekker](#ai-and-the-law-implementing-trustworthy-ai-from-pluralsight-by-anton-ekker)
-1. [AWS](#aws-12)
+1. [AIOps](#aiops-2)
+    1. [AIOps: Observability and Explainability for Production Models from Pluralsight by Russ Thomas](#aiops-observability-and-explainability-for-production-models-from-pluralsight-by-russ-thomas)
+    1. [Scale and Deploy LLMs in Production Environments from Pluralsight by Abhishek Kumar](#scale-and-deploy-llms-in-production-environments-from-pluralsight-by-abhishek-kumar)
+1. [AWS](#aws-13)
     1. [Amazon Bedrock Getting Started from AWS](#amazon-bedrock-getting-started-from-aws)
     1. [Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS](#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws)
     1. [Automate Generative AI workflows using Amazon Bedrock Flows from AWS](#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws)
@@ -131,6 +136,7 @@
     1. [Amazon Bedrock AgentCore Memory Tutorial from AWS](#amazon-bedrock-agentcore-memory-tutorial-from-aws)
     1. [Amazon Bedrock AgentCore RunTime Tutorial from AWS](#amazon-bedrock-agentcore-runtime-tutorial-from-aws)
     1. [Amazon Bedrock AgentCore Tools Tutorial from AWS](#amazon-bedrock-agentcore-tools-tutorial-from-aws)
+    1. [Introduction to Amazon SageMaker from AWS](#introduction-to-amazon-sagemaker-from-aws)
     1. [Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid](#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid)
     1. [Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha](#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha)
 1. [Azure](#azure-1)
@@ -189,7 +195,7 @@
 
 <img src="../cert_ai_pm_ai-product-manager-roles-skills-responsibilities_greatlearning_2025-10-06.jpg" alt="John's AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy" style="border:1px solid #000000" />
 
-## AI Agents (15)
+## AI Agents (16)
 ### Fundamentals of Agents from Hugging Face
 * [John's Hugging Face online credential](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/grokify/2025-06-20.png)
 
@@ -204,6 +210,11 @@
 * [John's Vanderbilt University online credential](https://coursera.org/verify/1LRTE17NTNXQ)
 
 ![John's Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](cert_ai_vibe-coding_claude-code-software-engineering-with-generative-ai-agents_coursera_jules-white_cert-1LRTE17NTNXQ_2025-07-20.png)
+
+### Dremio-Powered AI Agents from Dremio by Alex Merced
+* [John's Dremio online credential](https://mycourse.app/SUPaoxZw0ZS7TgJio)
+
+![John's Dremio-Powered AI Agents from Dremio by Alex Merced](cert_data_agents_dremio-powered-ai-agents_dremio_alex-merced_cert-67e6b2a7a9820d4e22089bbc_2025-10-17.png)
 
 ### Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid
 
@@ -319,7 +330,7 @@
 
 <img src="../cert_ai_a2a_agent2agent-a2a-protocol-fundamentals_udemy_mayfair_cert-UC-8c673384-3329-4fd3-9502-6ba873b5bf96_2025-09-26.jpg" alt="John's Agent2Agent (A2A) Protocol Fundamentals from Udemy by Mayfair Real Estate Institute" style="border:1px solid #000000" />
 
-## Model Context Protocol (MCP) (7)
+## Model Context Protocol (MCP) (8)
 ### Model Context Protocol: Advanced Topics from Anthropic
 * [John's Anthropic online credential](https://verify.skilljar.com/c/mu9br5w7hgpu)
 
@@ -339,6 +350,11 @@
 * [John's Hugging Face online credential](https://huggingface.co/datasets/mcp-course/certificates/resolve/main/certificates/grokify/2025-06-14.png)
 
 ![John's Fundamentals of MCP (Model Context Protocol) from Hugging Face](cert_ai_mcp_the-mcp-course-unit-1_hugging-face_2025-06-13.webp)
+
+### Dremio MCP Server from Dremio by Alex Merced
+* [John's Dremio online credential](https://mycourse.app/O3RwtKTwnNIIZQn67)
+
+![John's Dremio MCP Server from Dremio by Alex Merced](cert_data_mcp_dremio-mcp-server_dremio_alex-merced_cert-6807a2a8d0f7b759600cd7f7_2025-10-17.png)
 
 ### Model Context Protocol (MCP) Mastery from Fractal Analytics Academy
 * [John's Fractal Analytics Academy online credential](https://coursera.org/verify/0JTIA6PWXHVI)
@@ -629,7 +645,16 @@
 
 <img src="../cert_ai_governance_ai-law-implementing-trustworthy-ai_pluralsight_anton-ekker_2025-09-15.png" alt="John's AI and the Law: Implementing Trustworthy AI from Pluralsight by Anton Ekker" style="border:1px solid #000000" />
 
-## AWS (12)
+## AIOps (2)
+### AIOps: Observability and Explainability for Production Models from Pluralsight by Russ Thomas
+
+<img src="../cert_ai_aiops_observability-and-explainability-for-production-models_pluralsight_russ-thomas_2025-06-20.png" alt="John's AIOps: Observability and Explainability for Production Models from Pluralsight by Russ Thomas" style="border:1px solid #000000" />
+
+### Scale and Deploy LLMs in Production Environments from Pluralsight by Abhishek Kumar
+
+<img src="../cert_ai_aiops_scale-deploy-llms-production-environments_pluralsight_abhishek-kumar_2025-06-20.png" alt="John's Scale and Deploy LLMs in Production Environments from Pluralsight by Abhishek Kumar" style="border:1px solid #000000" />
+
+## AWS (13)
 ### Amazon Bedrock Getting Started from AWS
 
 <img src="../cert_ai_aws-bedrock_amazon-bedrock-getting-started_aws_cert-ce0a575a-2277-48f0-9a70-e2acb21e0190_2025-07-26.png" alt="John's Amazon Bedrock Getting Started from AWS" style="border:1px solid #000000" />
@@ -669,6 +694,10 @@
 ### Amazon Bedrock AgentCore Tools Tutorial from AWS
 
 <img src="../cert_aws_bedrock_amazon-bedrock-agentcore-tools-tutorial_aws_cert-264c8d4b-6c78-4e5e-84b6-91150645173c_2025-08-18.png" alt="John's Amazon Bedrock AgentCore Tools Tutorial from AWS" style="border:1px solid #000000" />
+
+### Introduction to Amazon SageMaker from AWS
+
+<img src="../cert_ai_aws_introduction-to-amazon-sagemaker_aws_fan-li_cert-ba41249a-02c7-4598-872b-178ee4512905_2025-10-15.png" alt="John's Introduction to Amazon SageMaker from AWS" style="border:1px solid #000000" />
 
 ### Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid
 

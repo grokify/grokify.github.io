@@ -19,7 +19,7 @@
     1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jesus-piedra)
 1. [Hyperscalers](#hyperscalers-1)
     1. [AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan](#aws-vs-azure-vs-gcp-from-great-learning-academy-by-vishal-padghan)
-1. [AWS](#aws-11)
+1. [AWS](#aws-10)
     1. [Designing Landing Zone Architectures with AWS Control Tower from AWS](#designing-landing-zone-architectures-with-aws-control-tower-from-aws)
     1. [AWS Shared Responsibility Model from AWS](#aws-shared-responsibility-model-from-aws)
     1. [Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha](#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha)
@@ -28,7 +28,6 @@
     1. [Getting Started with AWS Security Hub from Simplilearn](#getting-started-with-aws-security-hub-from-simplilearn)
     1. [Introduction to AWS Security Token Services (STS) from Simplilearn](#introduction-to-aws-security-token-services-sts-from-simplilearn)
     1. [Getting Started with AWS Control Tower from Simplilearn](#getting-started-with-aws-control-tower-from-simplilearn)
-    1. [AWS SageMaker from Great Learning Academy by Vishal Padghan](#aws-sagemaker-from-great-learning-academy-by-vishal-padghan)
     1. [AWS CI/CD Pipeline from Great Learning Academy](#aws-cicd-pipeline-from-great-learning-academy)
     1. [AWS: Identity and Access Management from Whizlabs](#aws-identity-and-access-management-from-whizlabs)
 1. [AWS Bedrock](#aws-bedrock-6)
@@ -44,6 +43,9 @@
     1. [Amazon Bedrock AgentCore Memory Tutorial from AWS](#amazon-bedrock-agentcore-memory-tutorial-from-aws)
     1. [Amazon Bedrock AgentCore RunTime Tutorial from AWS](#amazon-bedrock-agentcore-runtime-tutorial-from-aws)
     1. [Amazon Bedrock AgentCore Tools Tutorial from AWS](#amazon-bedrock-agentcore-tools-tutorial-from-aws)
+1. [AWS SageMaker](#aws-sagemaker-2)
+    1. [Introduction to Amazon SageMaker from AWS](#introduction-to-amazon-sagemaker-from-aws)
+    1. [AWS SageMaker from Great Learning Academy by Vishal Padghan](#aws-sagemaker-from-great-learning-academy-by-vishal-padghan)
 1. [Azure](#azure-3)
     1. [Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski](#azure-ai-fundamentals-from-pluralsight-by-daniel-krzyczkowski)
     1. [Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako](#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako)
@@ -126,7 +128,7 @@
 
 <img src="../cert_infra_aws-vs-azure-vs-gcp_greatlearning_cert-WRHCURXB_2024-02-28.jpg" alt="John's AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan" style="border:1px solid #000000" />
 
-## AWS (11)
+## AWS (10)
 ### Designing Landing Zone Architectures with AWS Control Tower from AWS
 
 <img src="../cert_cloud_aws_desiging-landing-zone-architectures-with-aws-control-tower_cert-67722468-123b-4efc-af0f-b3c596317b5c_2025-07-26.png" alt="John's Designing Landing Zone Architectures with AWS Control Tower from AWS" style="border:1px solid #000000" />
@@ -158,11 +160,6 @@
 ### Getting Started with AWS Control Tower from Simplilearn
 
 ![John's Getting Started with AWS Control Tower from Simplilearn](cert_aws_getting-started-with-aws-control-tower_simplilearn_cert-6735033_1718548596_2024-06-16.png)
-
-### AWS SageMaker from Great Learning Academy by Vishal Padghan
-* [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/OICYKGXZ)
-
-<img src="../cert_machine-learning_aws-sagemaker_greatlearning_cert-OICYKGXZ_2024-02-25.jpg" alt="John's AWS SageMaker from Great Learning Academy by Vishal Padghan" style="border:1px solid #000000" />
 
 ### AWS CI/CD Pipeline from Great Learning Academy
 * [John's Great Learning Academy online credential](/www.mygreatlearning.com/certificate/ZGRSHOKG)
@@ -219,6 +216,16 @@
 ### Amazon Bedrock AgentCore Tools Tutorial from AWS
 
 <img src="../cert_aws_bedrock_amazon-bedrock-agentcore-tools-tutorial_aws_cert-264c8d4b-6c78-4e5e-84b6-91150645173c_2025-08-18.png" alt="John's Amazon Bedrock AgentCore Tools Tutorial from AWS" style="border:1px solid #000000" />
+
+## AWS SageMaker (2)
+### Introduction to Amazon SageMaker from AWS
+
+<img src="../cert_ai_aws_introduction-to-amazon-sagemaker_aws_fan-li_cert-ba41249a-02c7-4598-872b-178ee4512905_2025-10-15.png" alt="John's Introduction to Amazon SageMaker from AWS" style="border:1px solid #000000" />
+
+### AWS SageMaker from Great Learning Academy by Vishal Padghan
+* [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/OICYKGXZ)
+
+<img src="../cert_machine-learning_aws-sagemaker_greatlearning_cert-OICYKGXZ_2024-02-25.jpg" alt="John's AWS SageMaker from Great Learning Academy by Vishal Padghan" style="border:1px solid #000000" />
 
 ## Azure (3)
 ### Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski

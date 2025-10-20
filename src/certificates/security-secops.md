@@ -1,4 +1,6 @@
 # John's Security: SecOps Certificates
+1. [Assessment and Testing](#assessment-and-testing-1)
+    1. [Security Assessment and Testing from Packt by Anthony Sequeira, Lauren Deal](#security-assessment-and-testing-from-packt-by-anthony-sequeira-lauren-deal)
 1. [Threat Intelligence](#threat-intelligence-1)
     1. [Threat Intelligence from Udemy by Peter A](#threat-intelligence-from-udemy-by-peter-a)
 1. [Threat Simulation](#threat-simulation-4)
@@ -8,6 +10,12 @@
     1. [Blue Team Tools: Defense against Adversary Activity Using MITRE Techniques from Pluralsight by Aaron Rosenmund](#blue-team-tools-defense-against-adversary-activity-using-mitre-techniques-from-pluralsight-by-aaron-rosenmund)
 1. [Datadog](#datadog-1)
     1. [Detect, Prioritize, and Remediate Cloud Security Risks with Datadog CSM from Datadog](#detect-prioritize-and-remediate-cloud-security-risks-with-datadog-csm-from-datadog)
+## Assessment and Testing (1)
+### Security Assessment and Testing from Packt by Anthony Sequeira, Lauren Deal
+* [John's Packt online credential](https://coursera.org/verify/UW6HD0WABLYD)
+
+![John's Security Assessment and Testing from Packt by Anthony Sequeira, Lauren Deal](cert_infosec_assessment_security-assessment-testing_packt_anthony-sequeira-lauren-deal_cert-UW6HD0WABLYD_2025-10-13.png)
+
 ## Threat Intelligence (1)
 ### Threat Intelligence from Udemy by Peter A
 * [John's Udemy online credential](http://ude.my/UC-5de04873-4909-4caf-a157-645531882407)

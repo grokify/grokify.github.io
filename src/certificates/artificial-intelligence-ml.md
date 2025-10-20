@@ -4,10 +4,14 @@
     1. [Vector Search and Embeddings from Google Cloud](#vector-search-and-embeddings-from-google-cloud)
     1. [Intro to Hugging Face from Codecademy](#intro-to-hugging-face-from-codecademy)
     1. [Jupyter Notebook from Great Learning Academy by Anirudh Rao](#jupyter-notebook-from-great-learning-academy-by-anirudh-rao)
-1. [Large Language Models (LLMs)](#large-language-models-llms-4)
+1. [Large Language Models (LLMs)](#large-language-models-llms-8)
     1. [Fundamentals of LLMs from Hugging Face](#fundamentals-of-llms-from-hugging-face)
     1. [Introduction to Large Language Models from Google Cloud](#introduction-to-large-language-models-from-google-cloud)
     1. [Attention Mechanism from Google Cloud](#attention-mechanism-from-google-cloud)
+    1. [LLM Observability: Evaluations from Arize by Amber Roberts](#llm-observability-evaluations-from-arize-by-amber-roberts)
+    1. [LLM Observability: Agents, Tools, and Chains from Arize by Amber Roberts](#llm-observability-agents-tools-and-chains-from-arize-by-amber-roberts)
+    1. [LLM Observability: Search & Retrieval from Arize by Amber Roberts](#llm-observability-search-retrieval-from-arize-by-amber-roberts)
+    1. [LLM Observability: Traces & Spans from Arize by Amber Roberts](#llm-observability-traces-spans-from-arize-by-amber-roberts)
     1. [Domain-specific LLM Agents from Pluralsight by Brian Letort](#domain-specific-llm-agents-from-pluralsight-by-brian-letort)
 1. [Algorithms](#algorithms-1)
     1. [KNN Algorithm from Great Learning Academy by Anirudh Rao, Bharani Akella](#knn-algorithm-from-great-learning-academy-by-anirudh-rao-bharani-akella)
@@ -41,7 +45,7 @@
 
 <img src="../cert_machine-learning_jupyter-notebook_greatlearning_cert-PPFKNCCJ_2024-02-28.jpg" alt="John's Jupyter Notebook from Great Learning Academy by Anirudh Rao" style="border:1px solid #000000" />
 
-## Large Language Models (LLMs) (4)
+## Large Language Models (LLMs) (8)
 ### Fundamentals of LLMs from Hugging Face
 
 ![John's Fundamentals of LLMs from Hugging Face](cert_machine-learning_llm_fundamentals-of-llms_hugging-face_2025-06-21.webp)
@@ -55,6 +59,22 @@
 * [John's Google Cloud online credential](https://coursera.org/verify/DFS67KJRE8T5)
 
 ![John's Attention Mechanism from Google Cloud](cert_machine-learning_attention-mechanism_google-cloud_cert-DFS67KJRE8T5_2024-02-22.png)
+
+### LLM Observability: Evaluations from Arize by Amber Roberts
+
+![John's LLM Observability: Evaluations from Arize by Amber Roberts](cert_ai_llm_llm-observability-evaluations_arize_amber-roberts_2025-10-13.png)
+
+### LLM Observability: Agents, Tools, and Chains from Arize by Amber Roberts
+
+![John's LLM Observability: Agents, Tools, and Chains from Arize by Amber Roberts](cert_ai_llm_llm-observability-agents-tools-chains_arize_amber-roberts_2025-10-13.png)
+
+### LLM Observability: Search & Retrieval from Arize by Amber Roberts
+
+![John's LLM Observability: Search & Retrieval from Arize by Amber Roberts](cert_ai_llm_llm-observability-search-retrieval_arize_amber-roberts_2025-10-14.png)
+
+### LLM Observability: Traces & Spans from Arize by Amber Roberts
+
+![John's LLM Observability: Traces & Spans from Arize by Amber Roberts](cert_ai_llm_llm-observability-traces-spans_arize_amber-roberts_2025-10-14.png)
 
 ### Domain-specific LLM Agents from Pluralsight by Brian Letort
 
@@ -90,7 +110,7 @@
 
 ### Databricks Accredited Lakehouse Fundamentals from Databricks
 * [John's Databricks online profile](https://credentials.databricks.com/profile/grokify)
-* [John's Databricks online credential](https://credentials.databricks.com/a2736146-90aa-4679-9dda-90d465bf5537f)
+* [John's Databricks online credential](https://credentials.databricks.com/a2736146-90aa-4679-9dda-90d465bf5537)
 
 ![John's Databricks Accredited Lakehouse Fundamentals from Databricks](cert_databricks_datalake-fundamentals_2024-01-21_cert-a2736146-90aa-4679-9dda-90d465bf5537.png)
 

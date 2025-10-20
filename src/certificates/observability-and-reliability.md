@@ -8,6 +8,11 @@
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
 1. [OpenTelemetry (OTel)](#opentelemetry-otel-1)
     1. [Introduction to OpenTelemetry from Datadog](#introduction-to-opentelemetry-from-datadog)
+1. [Large Language Models (LLMs)](#large-language-models-llms-4)
+    1. [LLM Observability: Evaluations from Arize by Amber Roberts](#llm-observability-evaluations-from-arize-by-amber-roberts)
+    1. [LLM Observability: Agents, Tools, and Chains from Arize by Amber Roberts](#llm-observability-agents-tools-and-chains-from-arize-by-amber-roberts)
+    1. [LLM Observability: Search & Retrieval from Arize by Amber Roberts](#llm-observability-search-retrieval-from-arize-by-amber-roberts)
+    1. [LLM Observability: Traces & Spans from Arize by Amber Roberts](#llm-observability-traces-spans-from-arize-by-amber-roberts)
 1. [Datadog](#datadog-8)
     1. [Introduction to Observability from Datadog](#introduction-to-observability-from-datadog)
     1. [Introduction to Service Level Objectives from Datadog](#introduction-to-service-level-objectives-from-datadog)
@@ -46,6 +51,23 @@
 * [John's Datadog online credential](https://learn.datadoghq.com/certificates/wahhhgg8ai)
 
 <img src="../cert_observability_opentelemetry_understanding-otel_datadog_2025-02-22.jpg" alt="John's Introduction to OpenTelemetry from Datadog" style="border:1px solid #000000" />
+
+## Large Language Models (LLMs) (4)
+### LLM Observability: Evaluations from Arize by Amber Roberts
+
+![John's LLM Observability: Evaluations from Arize by Amber Roberts](cert_ai_llm_llm-observability-evaluations_arize_amber-roberts_2025-10-13.png)
+
+### LLM Observability: Agents, Tools, and Chains from Arize by Amber Roberts
+
+![John's LLM Observability: Agents, Tools, and Chains from Arize by Amber Roberts](cert_ai_llm_llm-observability-agents-tools-chains_arize_amber-roberts_2025-10-13.png)
+
+### LLM Observability: Search & Retrieval from Arize by Amber Roberts
+
+![John's LLM Observability: Search & Retrieval from Arize by Amber Roberts](cert_ai_llm_llm-observability-search-retrieval_arize_amber-roberts_2025-10-14.png)
+
+### LLM Observability: Traces & Spans from Arize by Amber Roberts
+
+![John's LLM Observability: Traces & Spans from Arize by Amber Roberts](cert_ai_llm_llm-observability-traces-spans_arize_amber-roberts_2025-10-14.png)
 
 ## Datadog (8)
 ### Introduction to Observability from Datadog

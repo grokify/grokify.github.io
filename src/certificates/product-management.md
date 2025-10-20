@@ -1,10 +1,12 @@
 # John's Product Management Certificates
 1. [Strategy](#strategy-1)
     1. [Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell](#product-management-strategy-and-vision-from-pluralsight-by-jeremy-jarrell)
-1. [Frameworks](#frameworks-3)
+1. [Frameworks](#frameworks-5)
     1. [Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan](#customer-centric-it-strategy-from-university-of-virginia-darden-school-by-alex-cowan)
     1. [The Strategist's Challenge from University of Virginia, Darden School Foundation by Michael Lenox, Jared Harris](#the-strategists-challenge-from-university-of-virginia-darden-school-foundation-by-michael-lenox-jared-harris)
+    1. [Professional Product Discovery and Validation™ (PPDV) from Scrum.org](#professional-product-discovery-and-validationtm-ppdv-from-scrumorg)
     1. [Exploring Product Management Philosophies and Frameworks from Pluralsight by Dave Masom](#exploring-product-management-philosophies-and-frameworks-from-pluralsight-by-dave-masom)
+    1. [Product Prioritization Micro-Certification from Product School](#product-prioritization-micro-certification-from-product-school)
 1. [Roadmap](#roadmap-1)
     1. [Develop a Product Roadmap Using Generative AI from Pluralsight by Harit Himanshu](#develop-a-product-roadmap-using-generative-ai-from-pluralsight-by-harit-himanshu)
 1. [Outcomes](#outcomes-3)
@@ -20,12 +22,13 @@
     1. [AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy](#ai-product-manager-roles-skills-and-responsibilities-from-great-learning-academy)
 1. [Artificial Intelligence: ML](#artificial-intelligence-ml-1)
     1. [Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](#machine-learning-foundations-for-product-managers-from-duke-university-by-jon-reifschneider)
+1. [Data](#data-1)
+    1. [Data Product Fundamentals from Dremio by Andrew Madson](#data-product-fundamentals-from-dremio-by-andrew-madson)
 1. [Product Craft](#product-craft-1)
     1. [The Emotional Side of Product Management from Pluralsight by Nicole Castillo](#the-emotional-side-of-product-management-from-pluralsight-by-nicole-castillo)
-1. [Product Owner](#product-owner-6)
+1. [Product Owner](#product-owner-5)
     1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
     1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
-    1. [Professional Product Discovery and Validation™ (PPDV) from Scrum.org](#professional-product-discovery-and-validationtm-ppdv-from-scrumorg)
     1. [Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute](#scrum-product-owner-accredited-certification-spoac-from-scrum-institute)
     1. [Certified DevOps Product Owner (DevOps-PO) from DevOps Academy](#certified-devops-product-owner-devops-po-from-devops-academy)
     1. [Becoming a Great Product Owner from Pluralsight by Jeremy Jarrell](#becoming-a-great-product-owner-from-pluralsight-by-jeremy-jarrell)
@@ -36,7 +39,7 @@
 
 <img src="../cert_product_product-management-strategy-and-vision_pluralsight_jeremy-jarrell_2024-06-22.png" alt="John's Product Management: Strategy and Vision from Pluralsight by Jeremy Jarrell" style="border:1px solid #000000" />
 
-## Frameworks (3)
+## Frameworks (5)
 ### Customer-Centric IT Strategy from University of Virginia, Darden School by Alex Cowan
 * [John's University of Virginia, Darden School online credential](https://coursera.org/verify/JU7THK93NFN3)
 
@@ -47,9 +50,19 @@
 
 ![John's The Strategist's Challenge from University of Virginia, Darden School Foundation by Michael Lenox, Jared Harris](cert_strategy_strategists-challenge_uvadarden_cert-TRF84QSBXV2S_2024-03-04.png)
 
+### Professional Product Discovery and Validation™ (PPDV) from Scrum.org
+* [John's Scrum.org online profile](https://www.scrum.org/user/16066/)
+* [John's Credly online profile](https://www.credly.com/users/grokify/)
+
+![John's Professional Product Discovery and Validation™ (PPDV) from Scrum.org](cert_scrum_discovery_professional-product-discovery-and-validation_scrum-org_2025-06-25.png)
+
 ### Exploring Product Management Philosophies and Frameworks from Pluralsight by Dave Masom
 
 <img src="../cert_product_frameworks_exploring-product-management-philosophies-and-frameworks_pluralsight_dave-masom_2024-07-29.png" alt="John's Exploring Product Management Philosophies and Frameworks from Pluralsight by Dave Masom" style="border:1px solid #000000" />
+
+### Product Prioritization Micro-Certification from Product School
+
+<img src="../cert_pm_backlog_product-prioritization-micro-certification-ppc_productschool_2025-10-19.png" alt="John's Product Prioritization Micro-Certification from Product School" style="border:1px solid #000000" />
 
 ## Roadmap (1)
 ### Develop a Product Roadmap Using Generative AI from Pluralsight by Harit Himanshu
@@ -102,12 +115,18 @@
 
 ![John's Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](cert_machine-learning_duke_machine-learning-foundations-for-product-managers_2024_01-27_cert-NCRF8YSUYLSB.png)
 
+## Data (1)
+### Data Product Fundamentals from Dremio by Andrew Madson
+* [John's Dremio online credential](https://mycourse.app/r5Tjg2HV9SurSPxTT)
+
+![John's Data Product Fundamentals from Dremio by Andrew Madson](cert_data_product_data-product-fundamentals_dremio_andrew-madson_cert-67a3761b45e94205850a7ed5_2025-10-17.png)
+
 ## Product Craft (1)
 ### The Emotional Side of Product Management from Pluralsight by Nicole Castillo
 
 <img src="../cert_product_the-emotional-side-of-product-management_plurasight_nicole-castillo_2024-07-12.png" alt="John's The Emotional Side of Product Management from Pluralsight by Nicole Castillo" style="border:1px solid #000000" />
 
-## Product Owner (6)
+## Product Owner (5)
 ### Certified Scrum Product Owner (CSPO) from Scrum Alliance
 * [John's Scrum Alliance online profile](https://www.scrumalliance.org/community/profile/jwang96)
 
@@ -123,12 +142,6 @@
 * [John's Scrum.org online credential](https://www.credly.com/badges/74df9221-8ef3-4dcb-98a5-88525ca6012d)
 
 ![John's Professional Scrum Product Owner I (PSPO I) from Scrum.org](cert_scrum_product-owner_scrum-org_professional-scrum-product-owner-i--pspo-i_2023-09-14.png)
-
-### Professional Product Discovery and Validation™ (PPDV) from Scrum.org
-* [John's Scrum.org online profile](https://www.scrum.org/user/16066/)
-* [John's Credly online profile](https://www.credly.com/users/grokify/)
-
-![John's Professional Product Discovery and Validation™ (PPDV) from Scrum.org](cert_scrum_discovery_professional-product-discovery-and-validation_scrum-org_2025-06-25.png)
 
 ### Scrum Product Owner Accredited Certification (SPOAC) from Scrum Institute
 * [John's Scrum Institute online credential](https://www.scrum-institute.org/badges/79982314947061)
