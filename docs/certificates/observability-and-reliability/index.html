@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/observability-and-reliability/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Observability and Reliability (14) - John Wang's Site</title>
+    <title>Observability and Reliability (18) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Observability and Reliability (14)";
+        var mkdocs_page_name = "Observability and Reliability (18)";
         var mkdocs_page_input_path = "certificates/observability-and-reliability.md";
         var mkdocs_page_url = "/certificates/observability-and-reliability/";
       </script>
@@ -65,17 +65,17 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../appreciation/">Appreciation (2)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (115)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence/">Artificial Intelligence (120)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence-ml/">Artificial Intelligence: ML (15)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../artificial-intelligence-ml/">Artificial Intelligence: ML (19)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (5)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../cloud-computing/">Cloud Computing (43)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../cloud-computing/">Cloud Computing (44)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../customer-service/">Customer Service (5)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../data/">Data (7)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../data/">Data (17)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../data-science/">Data Science (7)</a>
                   </li>
@@ -97,7 +97,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../nonprofit/">Nonprofit (9)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Observability and Reliability (14)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Observability and Reliability (18)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#fundamentals-1">Fundamentals (1)</a>
         <ul>
@@ -120,6 +120,18 @@
     <li class="toctree-l2"><a class="reference internal" href="#opentelemetry-otel-1">OpenTelemetry (OTel) (1)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#introduction-to-opentelemetry-from-datadog">Introduction to OpenTelemetry from Datadog</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#large-language-models-llms-4">Large Language Models (LLMs) (4)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#llm-observability-evaluations-from-arize-by-amber-roberts">LLM Observability: Evaluations from Arize by Amber Roberts</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#llm-observability-agents-tools-and-chains-from-arize-by-amber-roberts">LLM Observability: Agents, Tools, and Chains from Arize by Amber Roberts</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#llm-observability-search-retrieval-from-arize-by-amber-roberts">LLM Observability: Search &amp; Retrieval from Arize by Amber Roberts</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#llm-observability-traces-spans-from-arize-by-amber-roberts">LLM Observability: Traces &amp; Spans from Arize by Amber Roberts</a>
     </li>
         </ul>
     </li>
@@ -149,7 +161,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../product-design/">Product Design (2)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (22)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../product-management/">Product Management (24)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../programming/">Programming (41)</a>
                   </li>
@@ -167,7 +179,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../security-infosec/">Security: InfoSec (48)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../security-secops/">Security: SecOps (6)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-secops/">Security: SecOps (7)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../sports/">Sports (4)</a>
                   </li>
@@ -191,7 +203,7 @@
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
           <li class="breadcrumb-item">Certificates</li>
-      <li class="breadcrumb-item active">Observability and Reliability (14)</li>
+      <li class="breadcrumb-item active">Observability and Reliability (18)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -215,6 +227,13 @@
 </li>
 <li><a href="#opentelemetry-otel-1">OpenTelemetry (OTel)</a><ol>
 <li><a href="#introduction-to-opentelemetry-from-datadog">Introduction to OpenTelemetry from Datadog</a></li>
+</ol>
+</li>
+<li><a href="#large-language-models-llms-4">Large Language Models (LLMs)</a><ol>
+<li><a href="#llm-observability-evaluations-from-arize-by-amber-roberts">LLM Observability: Evaluations from Arize by Amber Roberts</a></li>
+<li><a href="#llm-observability-agents-tools-and-chains-from-arize-by-amber-roberts">LLM Observability: Agents, Tools, and Chains from Arize by Amber Roberts</a></li>
+<li><a href="#llm-observability-search-retrieval-from-arize-by-amber-roberts">LLM Observability: Search &amp; Retrieval from Arize by Amber Roberts</a></li>
+<li><a href="#llm-observability-traces-spans-from-arize-by-amber-roberts">LLM Observability: Traces &amp; Spans from Arize by Amber Roberts</a></li>
 </ol>
 </li>
 <li><a href="#datadog-8">Datadog</a><ol>
@@ -253,6 +272,15 @@
 <li><a href="https://learn.datadoghq.com/certificates/wahhhgg8ai">John's Datadog online credential</a></li>
 </ul>
 <p><img src="../cert_observability_opentelemetry_understanding-otel_datadog_2025-02-22.jpg" alt="John's Introduction to OpenTelemetry from Datadog" style="border:1px solid #000000" /></p>
+<h2 id="large-language-models-llms-4">Large Language Models (LLMs) (4)</h2>
+<h3 id="llm-observability-evaluations-from-arize-by-amber-roberts">LLM Observability: Evaluations from Arize by Amber Roberts</h3>
+<p><img alt="John's LLM Observability: Evaluations from Arize by Amber Roberts" src="../cert_ai_llm_llm-observability-evaluations_arize_amber-roberts_2025-10-13.png" /></p>
+<h3 id="llm-observability-agents-tools-and-chains-from-arize-by-amber-roberts">LLM Observability: Agents, Tools, and Chains from Arize by Amber Roberts</h3>
+<p><img alt="John's LLM Observability: Agents, Tools, and Chains from Arize by Amber Roberts" src="../cert_ai_llm_llm-observability-agents-tools-chains_arize_amber-roberts_2025-10-13.png" /></p>
+<h3 id="llm-observability-search-retrieval-from-arize-by-amber-roberts">LLM Observability: Search &amp; Retrieval from Arize by Amber Roberts</h3>
+<p><img alt="John's LLM Observability: Search &amp; Retrieval from Arize by Amber Roberts" src="../cert_ai_llm_llm-observability-search-retrieval_arize_amber-roberts_2025-10-14.png" /></p>
+<h3 id="llm-observability-traces-spans-from-arize-by-amber-roberts">LLM Observability: Traces &amp; Spans from Arize by Amber Roberts</h3>
+<p><img alt="John's LLM Observability: Traces &amp; Spans from Arize by Amber Roberts" src="../cert_ai_llm_llm-observability-traces-spans_arize_amber-roberts_2025-10-14.png" /></p>
 <h2 id="datadog-8">Datadog (8)</h2>
 <h3 id="introduction-to-observability-from-datadog">Introduction to Observability from Datadog</h3>
 <ul>
