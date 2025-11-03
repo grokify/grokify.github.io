@@ -1,4 +1,6 @@
 # John's Human Resources Certificates
+1. [Employer Branding](#employer-branding-1)
+    1. [World-Class Employer Branding: The Fundamentals from Udemy by Anj Vera](#world-class-employer-branding-the-fundamentals-from-udemy-by-anj-vera)
 1. [Compliance](#compliance-4)
     1. [Preventing Workplace Harassment - Advanced Office (CPE/CLE) ML from Traliant](#preventing-workplace-harassment-advanced-office-cpecle-ml-from-traliant)
     1. [Avoiding Conflicts of Interest from Traliant](#avoiding-conflicts-of-interest-from-traliant)
@@ -14,6 +16,12 @@
     1. [Responding to Complaints from Traliant](#responding-to-complaints-from-traliant)
     1. [Responding to Complaints (2024) from Traliant](#responding-to-complaints-2024-from-traliant)
     1. [Workplace Violence Prevention (California) from Traliant](#workplace-violence-prevention-california-from-traliant)
+## Employer Branding (1)
+### World-Class Employer Branding: The Fundamentals from Udemy by Anj Vera
+* [John's Udemy online credential](http://ude.my/UC-defc59c4-18d5-4a40-aac8-0c70cf1fd2d3/)
+
+<img src="../cert_hr_branding_world-class-employer-branding-the-fundamentals_udemy_anj-vera_cert-UC-defc59c4-18d5-4a40-aac8-0c70cf1fd2d3_2025-10-22.jpg" alt="John's World-Class Employer Branding: The Fundamentals from Udemy by Anj Vera" style="border:1px solid #000000" />
+
 ## Compliance (4)
 ### Preventing Workplace Harassment - Advanced Office (CPE/CLE) ML from Traliant
 

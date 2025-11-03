@@ -8,7 +8,8 @@
     1. [Microsoft Azure Solutions Architect: Design for High Availability from Pluralsight by Barry Luijbregts](#microsoft-azure-solutions-architect-design-for-high-availability-from-pluralsight-by-barry-luijbregts)
 1. [OpenTelemetry (OTel)](#opentelemetry-otel-1)
     1. [Introduction to OpenTelemetry from Datadog](#introduction-to-opentelemetry-from-datadog)
-1. [Large Language Models (LLMs)](#large-language-models-llms-4)
+1. [Large Language Models (LLMs)](#large-language-models-llms-5)
+    1. [LLM Apps: Evaluation from Weights & Biases by Anish Shah, Ayush Thakur](#llm-apps-evaluation-from-weights-biases-by-anish-shah-ayush-thakur)
     1. [LLM Observability: Evaluations from Arize by Amber Roberts](#llm-observability-evaluations-from-arize-by-amber-roberts)
     1. [LLM Observability: Agents, Tools, and Chains from Arize by Amber Roberts](#llm-observability-agents-tools-and-chains-from-arize-by-amber-roberts)
     1. [LLM Observability: Search & Retrieval from Arize by Amber Roberts](#llm-observability-search-retrieval-from-arize-by-amber-roberts)
@@ -52,7 +53,12 @@
 
 <img src="../cert_observability_opentelemetry_understanding-otel_datadog_2025-02-22.jpg" alt="John's Introduction to OpenTelemetry from Datadog" style="border:1px solid #000000" />
 
-## Large Language Models (LLMs) (4)
+## Large Language Models (LLMs) (5)
+### LLM Apps: Evaluation from Weights & Biases by Anish Shah, Ayush Thakur
+* [John's Weights & Biases online credential](https://www.credential.net/9d589ba5-8cc5-4a81-81b9-15f562c8925f)
+
+<img src="../cert_ai_wandb_llm-apps-evaluation_wandb_2025-10-22.png" alt="John's LLM Apps: Evaluation from Weights & Biases by Anish Shah, Ayush Thakur" style="border:1px solid #000000" />
+
 ### LLM Observability: Evaluations from Arize by Amber Roberts
 
 ![John's LLM Observability: Evaluations from Arize by Amber Roberts](cert_ai_llm_llm-observability-evaluations_arize_amber-roberts_2025-10-13.png)

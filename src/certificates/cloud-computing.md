@@ -46,6 +46,9 @@
 1. [AWS SageMaker](#aws-sagemaker-2)
     1. [Introduction to Amazon SageMaker from AWS](#introduction-to-amazon-sagemaker-from-aws)
     1. [AWS SageMaker from Great Learning Academy by Vishal Padghan](#aws-sagemaker-from-great-learning-academy-by-vishal-padghan)
+1. [AWS Well-Architected](#aws-well-architected-2)
+    1. [Building Your Agentic Applications the Well-Architected Way from AWS](#building-your-agentic-applications-the-well-architected-way-from-aws)
+    1. [Well-Architected For Enterprises from AWS](#well-architected-for-enterprises-from-aws)
 1. [Azure](#azure-3)
     1. [Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski](#azure-ai-fundamentals-from-pluralsight-by-daniel-krzyczkowski)
     1. [Create Azure Resource Manager Templates Using Generative AI from Pluralsight by Bismark Adomako](#create-azure-resource-manager-templates-using-generative-ai-from-pluralsight-by-bismark-adomako)
@@ -226,6 +229,15 @@
 * [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/OICYKGXZ)
 
 <img src="../cert_machine-learning_aws-sagemaker_greatlearning_cert-OICYKGXZ_2024-02-25.jpg" alt="John's AWS SageMaker from Great Learning Academy by Vishal Padghan" style="border:1px solid #000000" />
+
+## AWS Well-Architected (2)
+### Building Your Agentic Applications the Well-Architected Way from AWS
+
+<img src="../cert_ai_aws_building-agentic-applications-well-architected_aws_cert-7e3f09e6-26f1-40e5-8b1b-08e9d3ae5296_2025-11-02.png" alt="John's Building Your Agentic Applications the Well-Architected Way from AWS" style="border:1px solid #000000" />
+
+### Well-Architected For Enterprises from AWS
+
+<img src="../cert_cloud_aws_well-architected-for-enterprises_aws_cert-e807a9fc-177f-4334-a9b4-5584d5ca4fa0_2025-11-01.png" alt="John's Well-Architected For Enterprises from AWS" style="border:1px solid #000000" />
 
 ## Azure (3)
 ### Azure AI Fundamentals from Pluralsight by Daniel Krzyczkowski

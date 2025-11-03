@@ -18,7 +18,8 @@
 1. [Quality Control](#quality-control-2)
     1. [Lean Six Sigma White Belt from Management and Strategy Institute](#lean-six-sigma-white-belt-from-management-and-strategy-institute)
     1. [Error Proofing Techniques from Management and Strategy Institute](#error-proofing-techniques-from-management-and-strategy-institute)
-1. [Team Building](#team-building-8)
+1. [Team Building](#team-building-9)
+    1. [Leading Effective 1-on-1 Meetings: Win loyalty and retention from Udemy by PracticalGrowth Inc.](#leading-effective-1-on-1-meetings-win-loyalty-and-retention-from-udemy-by-practicalgrowth-inc)
     1. [Coaching Skills from EJ4](#coaching-skills-from-ej4)
     1. [Planning an Effective Performance Appraisal from SkillSoft](#planning-an-effective-performance-appraisal-from-skillsoft)
     1. [Lead Your Virtual Team from Eleventure](#lead-your-virtual-team-from-eleventure)
@@ -32,6 +33,8 @@
     1. [Break Down Job Competencies Into Behaviors from Grovo](#break-down-job-competencies-into-behaviors-from-grovo)
     1. [Prepare for a Behavior-Based Interview from Grovo](#prepare-for-a-behavior-based-interview-from-grovo)
     1. [The Advantages of a Behavior-Based Interview from Grovo](#the-advantages-of-a-behavior-based-interview-from-grovo)
+1. [Industry Judge](#industry-judge-1)
+    1. [Globee® Awards for Business - 2025 Industry Judge from Globee](#globee-awards-for-business-2025-industry-judge-from-globee)
 ## General Management (1)
 ### Stanford Executive Program (SEP) from Stanford
 
@@ -98,7 +101,12 @@
 
 <img src="../cert_management_quality_error-proofing-techniques_msi_cert-349531316_2025-09-29.png" alt="John's Error Proofing Techniques from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Team Building (8)
+## Team Building (9)
+### Leading Effective 1-on-1 Meetings: Win loyalty and retention from Udemy by PracticalGrowth Inc.
+* [John's Udemy online credential](http://ude.my/UC-21f78c07-3e97-496b-a513-a07c9270c9b2/)
+
+<img src="../cert_management_1on1_leading-effective-1-on-1-meetings_udemy_cert-UC-21f78c07-3e97-496b-a513-a07c9270c9b2_2025-10-22.jpg" alt="John's Leading Effective 1-on-1 Meetings: Win loyalty and retention from Udemy by PracticalGrowth Inc." style="border:1px solid #000000" />
+
 ### Coaching Skills from EJ4
 
 ![John's Coaching Skills from EJ4](cert_management_coaching_coaching-skills_nonprofitready_ej4_2025-09-08.png)
@@ -149,4 +157,10 @@
 ### The Advantages of a Behavior-Based Interview from Grovo
 
 ![John's The Advantages of a Behavior-Based Interview from Grovo](cert_hiring_the-advantages-of-a-behavior-based-interview_nonprofitready_2024-03-06.png)
+
+## Industry Judge (1)
+### Globee® Awards for Business - 2025 Industry Judge from Globee
+* [John's Globee online credential](https://credential.globeeawards.com/dbad9415-8141-48c9-90a1-e41e583f6c88#acc.4jKmhyQI)
+
+<img src="../cert_appreciation_globee_industry-judge-for-business_globee_2025-10-23.png" alt="John's Globee® Awards for Business - 2025 Industry Judge from Globee" style="border:1px solid #000000" />
 

@@ -30,13 +30,14 @@
     1. [Integrating AI Agents in Enterprise Systems from Pluralsight by Tom Taulli](#integrating-ai-agents-in-enterprise-systems-from-pluralsight-by-tom-taulli)
     1. [Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort](#evaluating-and-optimizing-llm-agents-from-pluralsight-by-brian-letort)
     1. [Building Intelligent AI Agents from Great Learning Academy by Sneha VK](#building-intelligent-ai-agents-from-great-learning-academy-by-sneha-vk)
-1. [AI Agents Orchestration](#ai-agents-orchestration-12)
+1. [AI Agents Orchestration](#ai-agents-orchestration-13)
     1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joao-moura)
     1. [Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](#mastering-multi-agent-development-with-autogen-from-packt-by-paulo-dichone)
     1. [Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](#elevate-team-productivity-with-crew-ai-from-coursera-by-yash-thakker)
     1. [Agentic AI for Beginner from Udemy by Aman Kumar](#agentic-ai-for-beginner-from-udemy-by-aman-kumar)
     1. [n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi](#n8n-a-complete-guide-to-the-automation-tool-from-analytics-vidhya-by-gyan-prakash-tripathi)
     1. [Introduction to CrewAI: Building a Researcher Assistant Agent from Analytics Vidhya by Alessandro Romano](#introduction-to-crewai-building-a-researcher-assistant-agent-from-analytics-vidhya-by-alessandro-romano)
+    1. [Demystifying OpenAI Agents SDK from Analytics Vidhya by Prashant Sahu](#demystifying-openai-agents-sdk-from-analytics-vidhya-by-prashant-sahu)
     1. [Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu](#applying-multi-agent-systems-to-daily-tasks-from-pluralsight-by-bogdan-sucaciu)
     1. [Developing Multi-agent Systems from Pluralsight by Muhammad Sajid](#developing-multi-agent-systems-from-pluralsight-by-muhammad-sajid)
     1. [Developing Task-specific Agents with CrewAI from Pluralsight by Jon Friskics](#developing-task-specific-agents-with-crewai-from-pluralsight-by-jon-friskics)
@@ -46,15 +47,16 @@
 1. [A2A Protocol](#a2a-protocol-2)
     1. [Intro to Google's A2A Protocol: Interoperable AI Agents from Udemy by Yash Thakker](#intro-to-googles-a2a-protocol-interoperable-ai-agents-from-udemy-by-yash-thakker)
     1. [Agent2Agent (A2A) Protocol Fundamentals from Udemy by Mayfair Real Estate Institute](#agent2agent-a2a-protocol-fundamentals-from-udemy-by-mayfair-real-estate-institute)
-1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-8)
+1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-9)
     1. [Model Context Protocol: Advanced Topics from Anthropic](#model-context-protocol-advanced-topics-from-anthropic)
     1. [Introduction to Model Context Protocol from Anthropic](#introduction-to-model-context-protocol-from-anthropic)
     1. [MCP for Production Automation from Hugging Face](#mcp-for-production-automation-from-hugging-face)
     1. [Fundamentals of MCP (Model Context Protocol) from Hugging Face](#fundamentals-of-mcp-model-context-protocol-from-hugging-face)
-    1. [Dremio MCP Server from Dremio by Alex Merced](#dremio-mcp-server-from-dremio-by-alex-merced)
+    1. [Model Context Protocol (MCP) – Simply explained from AWS](#model-context-protocol-mcp-simply-explained-from-aws)
     1. [Model Context Protocol (MCP) Mastery from Fractal Analytics Academy](#model-context-protocol-mcp-mastery-from-fractal-analytics-academy)
     1. [Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi](#foundations-of-model-context-protocol-from-analytics-vidhya-by-apoorv-vishnoi)
     1. [MCP: Unlock AI integrations with real-world demos from Analytics Vidhya by Aditya Oberai](#mcp-unlock-ai-integrations-with-real-world-demos-from-analytics-vidhya-by-aditya-oberai)
+    1. [Dremio MCP Server from Dremio by Alex Merced](#dremio-mcp-server-from-dremio-by-alex-merced)
 1. [AI Assistants](#ai-assistants-6)
     1. [Amazon Q Business Getting Started from AWS](#amazon-q-business-getting-started-from-aws)
     1. [A Hands-On Look at Amazon Q Business Expert from AWS by Paul Colmer](#a-hands-on-look-at-amazon-q-business-expert-from-aws-by-paul-colmer)
@@ -79,13 +81,14 @@
     1. [Essentials of Prompt Engineering from AWS](#essentials-of-prompt-engineering-from-aws)
     1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
-1. [Generative AI](#generative-ai-7)
+1. [Generative AI](#generative-ai-8)
     1. [Generative AI Primer from Vanderbilt University by James White](#generative-ai-primer-from-vanderbilt-university-by-james-white)
     1. [Generative AI Deep Research: Strategic AI Edge for Leaders from Vanderbilt University by James White](#generative-ai-deep-research-strategic-ai-edge-for-leaders-from-vanderbilt-university-by-james-white)
     1. [Chat with Your Data: Generative AI-Powered SQL Data Analysis from Vanderbilt University by James White](#chat-with-your-data-generative-ai-powered-sql-data-analysis-from-vanderbilt-university-by-james-white)
     1. [ChatGPT + Excel: Master Data, Make Decisions, Tell Stories from Vanderbilt University by James White](#chatgpt-excel-master-data-make-decisions-tell-stories-from-vanderbilt-university-by-james-white)
     1. [Introduction to Generative AI from Google Cloud](#introduction-to-generative-ai-from-google-cloud)
     1. [Generative AI for Web Development Specialization (3 Courses) from Scrimba](#generative-ai-for-web-development-specialization-3-courses-from-scrimba)
+    1. [AI Literacy Basics: Applying Generative AI in the Workplace from Udemy by Nicolle Merrill](#ai-literacy-basics-applying-generative-ai-in-the-workplace-from-udemy-by-nicolle-merrill)
     1. [Databricks Accredited Generative AI Fundamentals from Databricks](#databricks-accredited-generative-ai-fundamentals-from-databricks)
 1. [Generative AI API](#generative-ai-api-2)
     1. [OpenAI Chat Completions API from Pluralsight by Xavier Morera](#openai-chat-completions-api-from-pluralsight-by-xavier-morera)
@@ -97,9 +100,10 @@
     1. [Ghibli Art Using AI from Great Learning Academy by Rushikesh Meharwade](#ghibli-art-using-ai-from-great-learning-academy-by-rushikesh-meharwade)
     1. [Deepfakes Basics from Great Learning Academy by Dr. Abhinanda Sarkar, Anirudh Rao, Sampriti Chatterjee](#deepfakes-basics-from-great-learning-academy-by-dr-abhinanda-sarkar-anirudh-rao-sampriti-chatterjee)
     1. [Deepfake Demo from Great Learning Academy by Anirudh Rao](#deepfake-demo-from-great-learning-academy-by-anirudh-rao)
-1. [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag-5)
+1. [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag-6)
     1. [Neo4j & GenerativeAI Fundamentals from Neo4j](#neo4j-generativeai-fundamentals-from-neo4j)
     1. [Supercharge AI with Knowledge Graphs: RAG System Mastery from Udemy by Paulo Dichone](#supercharge-ai-with-knowledge-graphs-rag-system-mastery-from-udemy-by-paulo-dichone)
+    1. [Building Your first RAG System using LlamaIndex from Analytics Vidhya by Prashant Sahu, Ravi Theja](#building-your-first-rag-system-using-llamaindex-from-analytics-vidhya-by-prashant-sahu-ravi-theja)
     1. [Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota](#vector-space-models-and-embeddings-in-rags-from-pluralsight-by-axel-sirota)
     1. [Multi-modal RAGs from Pluralsight by Dhiraj Kumar](#multi-modal-rags-from-pluralsight-by-dhiraj-kumar)
     1. [Modular RAGs from Pluralsight by JS Padoan](#modular-rags-from-pluralsight-by-js-padoan)
@@ -115,7 +119,12 @@
     1. [AI Security from Lakera](#ai-security-from-lakera)
 1. [Vulnerability Examples](#vulnerability-examples-1)
     1. [CVE-2025-32711 Microsoft 365 Copilot EchoLeak: Zero-click AI Vulnerability from Pluralsight by Chris Jackson](#cve-2025-32711-microsoft-365-copilot-echoleak-zero-click-ai-vulnerability-from-pluralsight-by-chris-jackson)
-1. [Governance](#governance-6)
+1. [Governance](#governance-11)
+    1. [Responsible Generative AI from University of Michigan by Merve Hickok](#responsible-generative-ai-from-university-of-michigan-by-merve-hickok)
+    1. [Generative AI: Fundamentals, Applications, and Challenges from University of Michigan by Merve Hickok](#generative-ai-fundamentals-applications-and-challenges-from-university-of-michigan-by-merve-hickok)
+    1. [Generative AI: Impact on Business and Society from University of Michigan by Merve Hickok](#generative-ai-impact-on-business-and-society-from-university-of-michigan-by-merve-hickok)
+    1. [Generative AI: Governance, Policy, and Emerging Regulation from University of Michigan by Merve Hickok](#generative-ai-governance-policy-and-emerging-regulation-from-university-of-michigan-by-merve-hickok)
+    1. [Generative AI: Labor and the Future of Work from University of Michigan by Merve Hickok](#generative-ai-labor-and-the-future-of-work-from-university-of-michigan-by-merve-hickok)
     1. [Introduction to Responsible AI from Google Cloud](#introduction-to-responsible-ai-from-google-cloud)
     1. [AI Governance from STACKIT](#ai-governance-from-stackit)
     1. [AI-Ready Data from Silicon Valley Certification Hub by Kash Mehdi](#ai-ready-data-from-silicon-valley-certification-hub-by-kash-mehdi)
@@ -125,7 +134,8 @@
 1. [AIOps](#aiops-2)
     1. [AIOps: Observability and Explainability for Production Models from Pluralsight by Russ Thomas](#aiops-observability-and-explainability-for-production-models-from-pluralsight-by-russ-thomas)
     1. [Scale and Deploy LLMs in Production Environments from Pluralsight by Abhishek Kumar](#scale-and-deploy-llms-in-production-environments-from-pluralsight-by-abhishek-kumar)
-1. [AWS](#aws-13)
+1. [AWS](#aws-14)
+    1. [Building Your Agentic Applications the Well-Architected Way from AWS](#building-your-agentic-applications-the-well-architected-way-from-aws)
     1. [Amazon Bedrock Getting Started from AWS](#amazon-bedrock-getting-started-from-aws)
     1. [Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS](#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws)
     1. [Automate Generative AI workflows using Amazon Bedrock Flows from AWS](#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws)
@@ -265,7 +275,7 @@
 
 <img src="../cert_ai_agents_building-intelligent-ai-agents_greatlearning_sneha-vk_2025-10-06.jpg" alt="John's Building Intelligent AI Agents from Great Learning Academy by Sneha VK" style="border:1px solid #000000" />
 
-## AI Agents Orchestration (12)
+## AI Agents Orchestration (13)
 ### Multi AI Agent Systems with CrewAI from CrewAI by João Moura
 
 <img src="../cert_ai_multi-agent_multi-ai-agent-systems-with-crewai_crewai_2025-06-08.png" alt="John's Multi AI Agent Systems with CrewAI from CrewAI by João Moura" style="border:1px solid #000000" />
@@ -294,6 +304,11 @@
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/bovpkhdpsd)
 
 <img src="../cert_ai_multi-agent_introduction-to-crewai-building-a-researcher-assistant-agent_analyticsvidya_alessandro-romano_certificate-683237094_2025-07-18.jpg" alt="John's Introduction to CrewAI: Building a Researcher Assistant Agent from Analytics Vidhya by Alessandro Romano" style="border:1px solid #000000" />
+
+### Demystifying OpenAI Agents SDK from Analytics Vidhya by Prashant Sahu
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/7qmywnllzk)
+
+<img src="../cert_ai_agents_demystifying-openai-agents-sdk_analyticsvidya_prashant-sahu_cert-7qmywnllzk_2025-10-24.jpg" alt="John's Demystifying OpenAI Agents SDK from Analytics Vidhya by Prashant Sahu" style="border:1px solid #000000" />
 
 ### Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu
 
@@ -330,7 +345,7 @@
 
 <img src="../cert_ai_a2a_agent2agent-a2a-protocol-fundamentals_udemy_mayfair_cert-UC-8c673384-3329-4fd3-9502-6ba873b5bf96_2025-09-26.jpg" alt="John's Agent2Agent (A2A) Protocol Fundamentals from Udemy by Mayfair Real Estate Institute" style="border:1px solid #000000" />
 
-## Model Context Protocol (MCP) (8)
+## Model Context Protocol (MCP) (9)
 ### Model Context Protocol: Advanced Topics from Anthropic
 * [John's Anthropic online credential](https://verify.skilljar.com/c/mu9br5w7hgpu)
 
@@ -351,10 +366,9 @@
 
 ![John's Fundamentals of MCP (Model Context Protocol) from Hugging Face](cert_ai_mcp_the-mcp-course-unit-1_hugging-face_2025-06-13.webp)
 
-### Dremio MCP Server from Dremio by Alex Merced
-* [John's Dremio online credential](https://mycourse.app/O3RwtKTwnNIIZQn67)
+### Model Context Protocol (MCP) – Simply explained from AWS
 
-![John's Dremio MCP Server from Dremio by Alex Merced](cert_data_mcp_dremio-mcp-server_dremio_alex-merced_cert-6807a2a8d0f7b759600cd7f7_2025-10-17.png)
+<img src="../cert_ai_mcp_model-context-protocol-mcp-simply-explained_aws_cert-48f83212-a404-42d5-9bf9-079d15954fe4_2025-11-02.png" alt="John's Model Context Protocol (MCP) – Simply explained from AWS" style="border:1px solid #000000" />
 
 ### Model Context Protocol (MCP) Mastery from Fractal Analytics Academy
 * [John's Fractal Analytics Academy online credential](https://coursera.org/verify/0JTIA6PWXHVI)
@@ -370,6 +384,11 @@
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/mim2vizdvc)
 
 <img src="../cert_ai_model-context-protocol_mcp-unlock-ai-integrations-real-world-demos_analyticsvidya_aditya-oberai_cert-mim2vizdvc_2025-09-15.jpg" alt="John's MCP: Unlock AI integrations with real-world demos from Analytics Vidhya by Aditya Oberai" style="border:1px solid #000000" />
+
+### Dremio MCP Server from Dremio by Alex Merced
+* [John's Dremio online credential](https://mycourse.app/O3RwtKTwnNIIZQn67)
+
+![John's Dremio MCP Server from Dremio by Alex Merced](cert_data_mcp_dremio-mcp-server_dremio_alex-merced_cert-6807a2a8d0f7b759600cd7f7_2025-10-17.png)
 
 ## AI Assistants (6)
 ### Amazon Q Business Getting Started from AWS
@@ -471,7 +490,7 @@
 
 <img src="../cert_ai_prompt-engineering_ai-prompting-essentials-certified_aipec_msi_cert-335389458_2024-03-14.png" alt="John's AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Generative AI (7)
+## Generative AI (8)
 ### Generative AI Primer from Vanderbilt University by James White
 * [John's Vanderbilt University online credential](https://coursera.org/verify/Y8JRWZ58E62M)
 
@@ -501,6 +520,11 @@
 * [John's Scrimba online credential](https://www.coursera.org/verify/specialization/VY1BKDGDO76G)
 
 <img src="../cert_ai_gen-ai_generative-ai-for-web-development_coursera_cert-VY1BKDGDO76G_2025-07-11.png" alt="John's Generative AI for Web Development Specialization (3 Courses) from Scrimba" style="border:1px solid #000000" />
+
+### AI Literacy Basics: Applying Generative AI in the Workplace from Udemy by Nicolle Merrill
+* [John's Udemy online credential](http://ude.my/UC-ee0ddc67-8697-4d0f-b00d-d81bd8bb75c7/)
+
+<img src="../cert_ai_gen-ai_ai-literacy-basics_udemy_nicolle-merrill_UC-ee0ddc67-8697-4d0f-b00d-d81bd8bb75c7_2025-10-31.jpg" alt="John's AI Literacy Basics: Applying Generative AI in the Workplace from Udemy by Nicolle Merrill" style="border:1px solid #000000" />
 
 ### Databricks Accredited Generative AI Fundamentals from Databricks
 * [John's Databricks online profile](https://credentials.databricks.com/profile/grokify)
@@ -548,7 +572,7 @@
 
 <img src="../cert_ai_gen-ai_deepfake-demo_greatlearning_cert-DOVTINJH_2025-09-21.jpg" alt="John's Deepfake Demo from Great Learning Academy by Anirudh Rao" style="border:1px solid #000000" />
 
-## Retrieval-Augmented Generation (RAG) (5)
+## Retrieval-Augmented Generation (RAG) (6)
 ### Neo4j & GenerativeAI Fundamentals from Neo4j
 * [John's Neo4j online credential](https://graphacademy.neo4j.com/c/3cc6608a-217d-4dde-a0cb-75e2b2c93098/)
 
@@ -558,6 +582,13 @@
 * [John's Udemy online credential](http://ude.my/UC-dd892633-ab1d-4092-80f2-1539d60358a0/)
 
 <img src="../cert_ai_graphrag_supercharge-ai-with-knowledge-graphs-rag_udemy_paulo-dichone_cert-UC-dd892633-ab1d-4092-80f2-1539d60358a0_2025-10-08.jpg" alt="John's Supercharge AI with Knowledge Graphs: RAG System Mastery from Udemy by Paulo Dichone" style="border:1px solid #000000" />
+
+### Building Your first RAG System using LlamaIndex from Analytics Vidhya by Prashant Sahu, Ravi Theja
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/usqyy5wkd5)
+
+<img src="../cert_ai_rag_building-rag-system-llamindex_analyticsvidya_prashant-sahu_cert-usqyy5wkd5_2025-11-01.jpg" alt="John's Building Your first RAG System using LlamaIndex from Analytics Vidhya by Prashant Sahu, Ravi Theja" style="border:1px solid #000000" />
+
+<img src="../cert_ai_rag_building-rag-system-llamindex_analyticsvidya_prashant-sahu_cert-usqyy5wkd5_2025-11-01_blue.png" alt="John's Building Your first RAG System using LlamaIndex from Analytics Vidhya by Prashant Sahu, Ravi Theja" style="border:1px solid #000000" />
 
 ### Vector Space Models and Embeddings in RAGs from Pluralsight by Axel Sirota
 
@@ -617,7 +648,32 @@
 
 <img src="../cert_ai_vuln_cve-2025-32711-microsoft-365-copilot-echoleak_pluralsight_chris-jackson_2025-09-15.png" alt="John's CVE-2025-32711 Microsoft 365 Copilot EchoLeak: Zero-click AI Vulnerability from Pluralsight by Chris Jackson" style="border:1px solid #000000" />
 
-## Governance (6)
+## Governance (11)
+### Responsible Generative AI from University of Michigan by Merve Hickok
+* [John's University of Michigan online credential](https://coursera.org/verify/specialization/BWWDTFDSRMU0)
+
+<img src="../cert_ai_governance_responsible-generative-ai_umich_merve-hickok_cert-BWWDTFDSRMU0_2025-11-03.png" alt="John's Responsible Generative AI from University of Michigan by Merve Hickok" style="border:1px solid #000000" />
+
+### Generative AI: Fundamentals, Applications, and Challenges from University of Michigan by Merve Hickok
+* [John's University of Michigan online credential](https://coursera.org/verify/5STNSVJ5488J)
+
+![John's Generative AI: Fundamentals, Applications, and Challenges from University of Michigan by Merve Hickok](cert_ai_governance_fundamentals-applications-challenges_umich_merve-hickok_cert-5STNSVJ5488J_2025-11-03.png)
+
+### Generative AI: Impact on Business and Society from University of Michigan by Merve Hickok
+* [John's University of Michigan online credential](https://coursera.org/verify/6S88Q6OU4ZHT)
+
+![John's Generative AI: Impact on Business and Society from University of Michigan by Merve Hickok](cert_ai_governance_generative-ai-impact-business-society_umich_merve-hickok_cert-HFXGLDS9S8N1_2025-11-02.png)
+
+### Generative AI: Governance, Policy, and Emerging Regulation from University of Michigan by Merve Hickok
+* [John's University of Michigan online credential](https://coursera.org/verify/HFXGLDS9S8N1)
+
+![John's Generative AI: Governance, Policy, and Emerging Regulation from University of Michigan by Merve Hickok](cert_ai_governance_generative-ai-governance-policy-regulation_umich_merve-hickok_cert-HFXGLDS9S8N1_2025-11-01.png)
+
+### Generative AI: Labor and the Future of Work from University of Michigan by Merve Hickok
+* [John's University of Michigan online credential](https://coursera.org/verify/RQ0HBHAKIUFD)
+
+![John's Generative AI: Labor and the Future of Work from University of Michigan by Merve Hickok](cert_ai_governance_generative-ai-labor-future-of-work_umich_merve-hickok_cert-RQ0HBHAKIUFD_2025-11-01.png)
+
 ### Introduction to Responsible AI from Google Cloud
 * [John's Google Cloud online credential](https://coursera.org/verify/ZWGW9HZZC2ET)
 
@@ -654,7 +710,11 @@
 
 <img src="../cert_ai_aiops_scale-deploy-llms-production-environments_pluralsight_abhishek-kumar_2025-06-20.png" alt="John's Scale and Deploy LLMs in Production Environments from Pluralsight by Abhishek Kumar" style="border:1px solid #000000" />
 
-## AWS (13)
+## AWS (14)
+### Building Your Agentic Applications the Well-Architected Way from AWS
+
+<img src="../cert_ai_aws_building-agentic-applications-well-architected_aws_cert-7e3f09e6-26f1-40e5-8b1b-08e9d3ae5296_2025-11-02.png" alt="John's Building Your Agentic Applications the Well-Architected Way from AWS" style="border:1px solid #000000" />
+
 ### Amazon Bedrock Getting Started from AWS
 
 <img src="../cert_ai_aws-bedrock_amazon-bedrock-getting-started_aws_cert-ce0a575a-2277-48f0-9a70-e2acb21e0190_2025-07-26.png" alt="John's Amazon Bedrock Getting Started from AWS" style="border:1px solid #000000" />

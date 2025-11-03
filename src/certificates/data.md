@@ -3,22 +3,24 @@
     1. [Data Product Fundamentals from Dremio by Andrew Madson](#data-product-fundamentals-from-dremio-by-andrew-madson)
 1. [Governance](#governance-1)
     1. [Data Governance with Dataplex Universal Catalog from Google Cloud](#data-governance-with-dataplex-universal-catalog-from-google-cloud)
+1. [Artificial Intelligence](#artificial-intelligence-1)
+    1. [AI-Ready Data from Silicon Valley Certification Hub by Kash Mehdi](#ai-ready-data-from-silicon-valley-certification-hub-by-kash-mehdi)
 1. [Data Lakehouse](#data-lakehouse-1)
     1. [Databricks Accredited Lakehouse Fundamentals from Databricks](#databricks-accredited-lakehouse-fundamentals-from-databricks)
-1. [Apache Iceberg](#apache-iceberg-7)
+1. [Apache Iceberg](#apache-iceberg-8)
     1. [Apache Iceberg from Dremio by Alex Merced](#apache-iceberg-from-dremio-by-alex-merced)
     1. [DataOps with Apache Iceberg from Dremio by Alex Merced](#dataops-with-apache-iceberg-from-dremio-by-alex-merced)
+    1. [Apache Iceberg for Analytics and Machine Learning from Dremio by Andrew Madson](#apache-iceberg-for-analytics-and-machine-learning-from-dremio-by-andrew-madson)
     1. [Apache Polaris from Dremio by Andrew Madson](#apache-polaris-from-dremio-by-andrew-madson)
     1. [Introduction to Apache Iceberg from Pluralsight by Russ Thomas](#introduction-to-apache-iceberg-from-pluralsight-by-russ-thomas)
     1. [Leveraging Apache Iceberg Catalogs from Pluralsight by Pinal Dave](#leveraging-apache-iceberg-catalogs-from-pluralsight-by-pinal-dave)
     1. [Understanding Apache Iceberg Architecture from Pluralsight by Russ Thomas](#understanding-apache-iceberg-architecture-from-pluralsight-by-russ-thomas)
     1. [Rollbacks, Time Travel, and Disaster Recovery with Apache Iceberg from Pluralsight by Russ Thomas](#rollbacks-time-travel-and-disaster-recovery-with-apache-iceberg-from-pluralsight-by-russ-thomas)
-1. [Dremio](#dremio-5)
+1. [Dremio](#dremio-4)
     1. [Dremio Fundamentals (Cloud) from Dremio](#dremio-fundamentals-cloud-from-dremio)
     1. [Dremio Fundamentals (Software) from Dremio](#dremio-fundamentals-software-from-dremio)
     1. [Dremio-Powered AI Agents from Dremio by Alex Merced](#dremio-powered-ai-agents-from-dremio-by-alex-merced)
     1. [Dremio MCP Server from Dremio by Alex Merced](#dremio-mcp-server-from-dremio-by-alex-merced)
-    1. [Apache Iceberg for Analytics and Machine Learning from Dremio by Andrew Madson](#apache-iceberg-for-analytics-and-machine-learning-from-dremio-by-andrew-madson)
 1. [Neo4j](#neo4j-2)
     1. [Neo4j Fundamentals from Neo4j](#neo4j-fundamentals-from-neo4j)
     1. [Neo4j & GenerativeAI Fundamentals from Neo4j](#neo4j-generativeai-fundamentals-from-neo4j)
@@ -34,6 +36,12 @@
 
 ![John's Data Governance with Dataplex Universal Catalog from Google Cloud](cert_data_governance_google-dataplex-universal-catalog_googlecloud_cert-0FWCJB049GJ8_2025-10-13.png)
 
+## Artificial Intelligence (1)
+### AI-Ready Data from Silicon Valley Certification Hub by Kash Mehdi
+* [John's Silicon Valley Certification Hub online credential](https://svch.io/tutor-certificate-2-2/?cert_hash=359fdc8bb7d3b3fb)
+
+<img src="../cert_ai_governance_ai-ready-data_silicon-valley-certification-hub_cert-1756806521828_2025-09-02.jpg" alt="John's AI-Ready Data from Silicon Valley Certification Hub by Kash Mehdi" style="border:1px solid #000000" />
+
 ## Data Lakehouse (1)
 ### Databricks Accredited Lakehouse Fundamentals from Databricks
 * [John's Databricks online profile](https://credentials.databricks.com/profile/grokify)
@@ -43,7 +51,7 @@
 
 ![John's Databricks Accredited Lakehouse Fundamentals from Databricks](cert_databricks_datalake-fundamentals_2024-01-21_cert-a2736146-90aa-4679-9dda-90d465bf5537_old.png)
 
-## Apache Iceberg (7)
+## Apache Iceberg (8)
 ### Apache Iceberg from Dremio by Alex Merced
 * [John's Dremio online credential](https://mycourse.app/xlATmMEU0duRzacDY)
 
@@ -53,6 +61,11 @@
 * [John's Dremio online credential](https://mycourse.app/130kSPMPA189yZIBf)
 
 ![John's DataOps with Apache Iceberg from Dremio by Alex Merced](cert_data_iceberg_data-ops-apache-iceberg_dremio_cert-6792bb89b37306233b0d7ad7_2025-10-16.png)
+
+### Apache Iceberg for Analytics and Machine Learning from Dremio by Andrew Madson
+* [John's Dremio online credential](https://mycourse.app/130kSPMPA189yZIBf)
+
+![John's Apache Iceberg for Analytics and Machine Learning from Dremio by Andrew Madson](cert_data_iceberg_apache-iceberg-for-data-analytics-and-machine-learning_dremio_andrew-madson_cert-675c67ab9b8b506dbd07fbea_2025-10-17.png)
 
 ### Apache Polaris from Dremio by Andrew Madson
 * [John's Dremio online credential](https://mycourse.app/MOcKSoUquFBEzXCGQ)
@@ -75,7 +88,7 @@
 
 <img src="../cert_database_iceberg_rollbacks-time-travel-disaster-recovery-with-apache-iceberg_russ-thomas_2025-10-12.png" alt="John's Rollbacks, Time Travel, and Disaster Recovery with Apache Iceberg from Pluralsight by Russ Thomas" style="border:1px solid #000000" />
 
-## Dremio (5)
+## Dremio (4)
 ### Dremio Fundamentals (Cloud) from Dremio
 * [John's Dremio online credential](https://mycourse.app/iYAOIXcUYfHqSX5Aw)
 
@@ -95,11 +108,6 @@
 * [John's Dremio online credential](https://mycourse.app/O3RwtKTwnNIIZQn67)
 
 ![John's Dremio MCP Server from Dremio by Alex Merced](cert_data_mcp_dremio-mcp-server_dremio_alex-merced_cert-6807a2a8d0f7b759600cd7f7_2025-10-17.png)
-
-### Apache Iceberg for Analytics and Machine Learning from Dremio by Andrew Madson
-* [John's Dremio online credential](https://mycourse.app/130kSPMPA189yZIBf)
-
-![John's Apache Iceberg for Analytics and Machine Learning from Dremio by Andrew Madson](cert_data_iceberg_apache-iceberg-for-data-analytics-and-machine-learning_dremio_andrew-madson_cert-675c67ab9b8b506dbd07fbea_2025-10-17.png)
 
 ## Neo4j (2)
 ### Neo4j Fundamentals from Neo4j

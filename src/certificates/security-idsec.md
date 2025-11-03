@@ -7,6 +7,8 @@
     1. [Learn to Prevent Cross-Site Scripting (XSS) with Node.js from Codecademy](#learn-to-prevent-cross-site-scripting-xss-with-nodejs-from-codecademy)
     1. [Learn about CSRF Attacks from Codecademy](#learn-about-csrf-attacks-from-codecademy)
     1. [OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt](#oauth2-and-openid-connect-easy-now-from-pluralsight-by-roland-guijt)
+1. [Privileged Access Management (PAM)](#privileged-access-management-pam-1)
+    1. [Benefits of the CyberArk PAM Solution from CyberArk](#benefits-of-the-cyberark-pam-solution-from-cyberark)
 1. [Third-Party](#third-party-2)
     1. [Working With Third Parties Securely from KnowBe4](#working-with-third-parties-securely-from-knowbe4)
     1. [Minimising Third-Party Risk from KnowBe4](#minimising-third-party-risk-from-knowbe4)
@@ -55,6 +57,11 @@
 ### OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt
 
 <img src="../cert_security_oauth2-and-openid-connect-easy-now_pluralsight_2024-03-27.png" alt="John's OAuth2 and OpenID Connect: Easy Now from Pluralsight by Roland Guijt" style="border:1px solid #000000" />
+
+## Privileged Access Management (PAM) (1)
+### Benefits of the CyberArk PAM Solution from CyberArk
+
+![John's Benefits of the CyberArk PAM Solution from CyberArk](cert_infosec_pam_benefits-of-the-cyberark-pam-solution_cyberark_cert-366_3_311133_1752545024_2025-07-14.png)
 
 ## Third-Party (2)
 ### Working With Third Parties Securely from KnowBe4

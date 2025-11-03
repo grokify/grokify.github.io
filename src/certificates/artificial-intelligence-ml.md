@@ -4,10 +4,11 @@
     1. [Vector Search and Embeddings from Google Cloud](#vector-search-and-embeddings-from-google-cloud)
     1. [Intro to Hugging Face from Codecademy](#intro-to-hugging-face-from-codecademy)
     1. [Jupyter Notebook from Great Learning Academy by Anirudh Rao](#jupyter-notebook-from-great-learning-academy-by-anirudh-rao)
-1. [Large Language Models (LLMs)](#large-language-models-llms-8)
+1. [Large Language Models (LLMs)](#large-language-models-llms-9)
     1. [Fundamentals of LLMs from Hugging Face](#fundamentals-of-llms-from-hugging-face)
     1. [Introduction to Large Language Models from Google Cloud](#introduction-to-large-language-models-from-google-cloud)
     1. [Attention Mechanism from Google Cloud](#attention-mechanism-from-google-cloud)
+    1. [LLM Apps: Evaluation from Weights & Biases by Anish Shah, Ayush Thakur](#llm-apps-evaluation-from-weights-biases-by-anish-shah-ayush-thakur)
     1. [LLM Observability: Evaluations from Arize by Amber Roberts](#llm-observability-evaluations-from-arize-by-amber-roberts)
     1. [LLM Observability: Agents, Tools, and Chains from Arize by Amber Roberts](#llm-observability-agents-tools-and-chains-from-arize-by-amber-roberts)
     1. [LLM Observability: Search & Retrieval from Arize by Amber Roberts](#llm-observability-search-retrieval-from-arize-by-amber-roberts)
@@ -45,7 +46,7 @@
 
 <img src="../cert_machine-learning_jupyter-notebook_greatlearning_cert-PPFKNCCJ_2024-02-28.jpg" alt="John's Jupyter Notebook from Great Learning Academy by Anirudh Rao" style="border:1px solid #000000" />
 
-## Large Language Models (LLMs) (8)
+## Large Language Models (LLMs) (9)
 ### Fundamentals of LLMs from Hugging Face
 
 ![John's Fundamentals of LLMs from Hugging Face](cert_machine-learning_llm_fundamentals-of-llms_hugging-face_2025-06-21.webp)
@@ -59,6 +60,11 @@
 * [John's Google Cloud online credential](https://coursera.org/verify/DFS67KJRE8T5)
 
 ![John's Attention Mechanism from Google Cloud](cert_machine-learning_attention-mechanism_google-cloud_cert-DFS67KJRE8T5_2024-02-22.png)
+
+### LLM Apps: Evaluation from Weights & Biases by Anish Shah, Ayush Thakur
+* [John's Weights & Biases online credential](https://www.credential.net/9d589ba5-8cc5-4a81-81b9-15f562c8925f)
+
+<img src="../cert_ai_wandb_llm-apps-evaluation_wandb_2025-10-22.png" alt="John's LLM Apps: Evaluation from Weights & Biases by Anish Shah, Ayush Thakur" style="border:1px solid #000000" />
 
 ### LLM Observability: Evaluations from Arize by Amber Roberts
 

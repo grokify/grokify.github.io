@@ -1,6 +1,7 @@
 # John's Leadership Certificates
-1. [Fundamentals](#fundamentals-5)
+1. [Fundamentals](#fundamentals-6)
     1. [Stanford Executive Program (SEP) from Stanford](#stanford-executive-program-sep-from-stanford)
+    1. [Sports Leadership and management from Udemy by Neal Pilson](#sports-leadership-and-management-from-udemy-by-neal-pilson)
     1. [Becoming a Great Leader - Leadership Skills from EJ4](#becoming-a-great-leader-leadership-skills-from-ej4)
     1. [Are There Fixed Leadership Traits? from Grovo](#are-there-fixed-leadership-traits-from-grovo)
     1. [Why Leadership Isn't About the Leader from Grovo](#why-leadership-isnt-about-the-leader-from-grovo)
@@ -18,10 +19,15 @@
     1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
 1. [Industry Judge](#industry-judge-1)
     1. [Globee® Awards for Leadership - 2025 Industry Judge from Globee](#globee-awards-for-leadership-2025-industry-judge-from-globee)
-## Fundamentals (5)
+## Fundamentals (6)
 ### Stanford Executive Program (SEP) from Stanford
 
 <img src="../cert_management_stanford-executive-program-sep_stanford_2023-02-18.png" alt="John's Stanford Executive Program (SEP) from Stanford" style="border:1px solid #000000" />
+
+### Sports Leadership and management from Udemy by Neal Pilson
+* [John's Udemy online credential](http://ude.my/UC-3acc3aee-6463-4c7e-b8f8-2449aa3e9109/)
+
+<img src="../cert_sports_leadership_sports-leadership-and-management_udemy_neal-pilson_UC-3acc3aee-6463-4c7e-b8f8-2449aa3e9109_2025-10-22.jpg" alt="John's Sports Leadership and management from Udemy by Neal Pilson" style="border:1px solid #000000" />
 
 ### Becoming a Great Leader - Leadership Skills from EJ4
 
