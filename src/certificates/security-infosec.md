@@ -12,6 +12,9 @@
 1. [Concepts](#concepts-2)
     1. [How to Become a Human Firewall from KnowBe4](#how-to-become-a-human-firewall-from-knowbe4)
     1. [Voice on Security: Piggybacking from KnowBe4](#voice-on-security-piggybacking-from-knowbe4)
+1. [Risk Management](#risk-management-2)
+    1. [CVSS v3.1 from FIRST](#cvss-v31-from-first)
+    1. [CVSS v4.0 from FIRST](#cvss-v40-from-first)
 1. [Phishing](#phishing-3)
     1. [Microsoft Teams Phishing Demo from KnowBe4](#microsoft-teams-phishing-demo-from-knowbe4)
     1. [Video: Reality Bytes: Vishing from KnowBe4](#video-reality-bytes-vishing-from-knowbe4)
@@ -57,6 +60,8 @@
 1. [Business Continuity Planning (BCP)](#business-continuity-planning-bcp-2)
     1. [Saviynt Contingency Planning and Incident Response Training from Saviynt](#saviynt-contingency-planning-and-incident-response-training-from-saviynt)
     1. [Security and Disaster Preparedness from KnowBe4](#security-and-disaster-preparedness-from-knowbe4)
+1. [Product Security](#product-security-1)
+    1. [PSIRT Training from FIRST by Josh Dembling, Peter Allor, Christopher Robinson, Jerry Bryant, Lisa Bradley, Beverly Miller Finch, Tania Ward, Darius Wiles, Jeff Hahn](#psirt-training-from-first-by-josh-dembling-peter-allor-christopher-robinson-jerry-bryant-lisa-bradley-beverly-miller-finch-tania-ward-darius-wiles-jeff-hahn)
 1. [Personas](#personas-1)
     1. [How Security Awareness Applies to Me: Educators from KnowBe4](#how-security-awareness-applies-to-me-educators-from-knowbe4)
 1. [Microsoft](#microsoft-1)
@@ -112,6 +117,15 @@
 ### Voice on Security: Piggybacking from KnowBe4
 
 <img src="../cert_infosec_concepts_voice-on-security-piggybacking_knowbe4_2024-06-04.png" alt="John's Voice on Security: Piggybacking from KnowBe4" style="border:1px solid #000000" />
+
+## Risk Management (2)
+### CVSS v3.1 from FIRST
+
+![John's CVSS v3.1 from FIRST](cert_infosec_risk_first-cvss-v3-1_first_2025-11-03.png)
+
+### CVSS v4.0 from FIRST
+
+![John's CVSS v4.0 from FIRST](cert_infosec_risk_first-cvss-v4-0_first_2025-11-03.png)
 
 ## Phishing (3)
 ### Microsoft Teams Phishing Demo from KnowBe4
@@ -253,6 +267,11 @@
 ### Security and Disaster Preparedness from KnowBe4
 
 <img src="../cert_infosec_dr_security-and-disaster-preparedness_knowbe4_2024-07-23.png" alt="John's Security and Disaster Preparedness from KnowBe4" style="border:1px solid #000000" />
+
+## Product Security (1)
+### PSIRT Training from FIRST by Josh Dembling, Peter Allor, Christopher Robinson, Jerry Bryant, Lisa Bradley, Beverly Miller Finch, Tania Ward, Darius Wiles, Jeff Hahn
+
+![John's PSIRT Training from FIRST by Josh Dembling, Peter Allor, Christopher Robinson, Jerry Bryant, Lisa Bradley, Beverly Miller Finch, Tania Ward, Darius Wiles, Jeff Hahn](cert_infosec_prodsec_psirt-training_first_2025-11-05.png)
 
 ## Personas (1)
 ### How Security Awareness Applies to Me: Educators from KnowBe4

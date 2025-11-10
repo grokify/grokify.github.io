@@ -13,7 +13,8 @@
 1. [Inspiration](#inspiration-2)
     1. [Recognize Leadership in Others from NonprofitReady](#recognize-leadership-in-others-from-nonprofitready)
     1. [How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](#how-great-leaders-inspire-action-from-nonprofitready-by-simon-sinek)
-1. [Change Management](#change-management-1)
+1. [Change Management](#change-management-2)
+    1. [Change Management from Packt](#change-management-from-packt)
     1. [Removing Barriers to Change from University of Pennsylvania, Wharton School by Jonah Berger](#removing-barriers-to-change-from-university-of-pennsylvania-wharton-school-by-jonah-berger)
 1. [Communications](#communications-1)
     1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
@@ -65,7 +66,12 @@
 
 ![John's How Great Leaders Inspire Action from NonprofitReady by Simon Sinek](cert_leadership_simon-sinek-how-great-leaders-inspire-action_nonprofitready_2024-03-06.png)
 
-## Change Management (1)
+## Change Management (2)
+### Change Management from Packt
+* [John's Packt online credential](https://coursera.org/verify/7O32Z9C9P3X5)
+
+![John's Change Management from Packt](cert_leadership_teams_change-management_packt_cert-7O32Z9C9P3X5_2025-11-09.png)
+
 ### Removing Barriers to Change from University of Pennsylvania, Wharton School by Jonah Berger
 * [John's University of Pennsylvania, Wharton School online credential](https://coursera.org/verify/JN1TH83RD9CY)
 

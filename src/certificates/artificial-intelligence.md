@@ -81,11 +81,12 @@
     1. [Essentials of Prompt Engineering from AWS](#essentials-of-prompt-engineering-from-aws)
     1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
-1. [Generative AI](#generative-ai-8)
+1. [Generative AI](#generative-ai-9)
     1. [Generative AI Primer from Vanderbilt University by James White](#generative-ai-primer-from-vanderbilt-university-by-james-white)
     1. [Generative AI Deep Research: Strategic AI Edge for Leaders from Vanderbilt University by James White](#generative-ai-deep-research-strategic-ai-edge-for-leaders-from-vanderbilt-university-by-james-white)
     1. [Chat with Your Data: Generative AI-Powered SQL Data Analysis from Vanderbilt University by James White](#chat-with-your-data-generative-ai-powered-sql-data-analysis-from-vanderbilt-university-by-james-white)
     1. [ChatGPT + Excel: Master Data, Make Decisions, Tell Stories from Vanderbilt University by James White](#chatgpt-excel-master-data-make-decisions-tell-stories-from-vanderbilt-university-by-james-white)
+    1. [Work smarter with AI from Canva](#work-smarter-with-ai-from-canva)
     1. [Introduction to Generative AI from Google Cloud](#introduction-to-generative-ai-from-google-cloud)
     1. [Generative AI for Web Development Specialization (3 Courses) from Scrimba](#generative-ai-for-web-development-specialization-3-courses-from-scrimba)
     1. [AI Literacy Basics: Applying Generative AI in the Workplace from Udemy by Nicolle Merrill](#ai-literacy-basics-applying-generative-ai-in-the-workplace-from-udemy-by-nicolle-merrill)
@@ -119,13 +120,14 @@
     1. [AI Security from Lakera](#ai-security-from-lakera)
 1. [Vulnerability Examples](#vulnerability-examples-1)
     1. [CVE-2025-32711 Microsoft 365 Copilot EchoLeak: Zero-click AI Vulnerability from Pluralsight by Chris Jackson](#cve-2025-32711-microsoft-365-copilot-echoleak-zero-click-ai-vulnerability-from-pluralsight-by-chris-jackson)
-1. [Governance](#governance-11)
+1. [Governance](#governance-12)
     1. [Responsible Generative AI from University of Michigan by Merve Hickok](#responsible-generative-ai-from-university-of-michigan-by-merve-hickok)
     1. [Generative AI: Fundamentals, Applications, and Challenges from University of Michigan by Merve Hickok](#generative-ai-fundamentals-applications-and-challenges-from-university-of-michigan-by-merve-hickok)
     1. [Generative AI: Impact on Business and Society from University of Michigan by Merve Hickok](#generative-ai-impact-on-business-and-society-from-university-of-michigan-by-merve-hickok)
     1. [Generative AI: Governance, Policy, and Emerging Regulation from University of Michigan by Merve Hickok](#generative-ai-governance-policy-and-emerging-regulation-from-university-of-michigan-by-merve-hickok)
     1. [Generative AI: Labor and the Future of Work from University of Michigan by Merve Hickok](#generative-ai-labor-and-the-future-of-work-from-university-of-michigan-by-merve-hickok)
     1. [Introduction to Responsible AI from Google Cloud](#introduction-to-responsible-ai-from-google-cloud)
+    1. [Intro to AI Ethics from Kaggle](#intro-to-ai-ethics-from-kaggle)
     1. [AI Governance from STACKIT](#ai-governance-from-stackit)
     1. [AI-Ready Data from Silicon Valley Certification Hub by Kash Mehdi](#ai-ready-data-from-silicon-valley-certification-hub-by-kash-mehdi)
     1. [Navigating Global AI Policy and Regulations: Insights for Latam from Silicon Valley Certification Hub by Merve Hickok](#navigating-global-ai-policy-and-regulations-insights-for-latam-from-silicon-valley-certification-hub-by-merve-hickok)
@@ -134,7 +136,7 @@
 1. [AIOps](#aiops-2)
     1. [AIOps: Observability and Explainability for Production Models from Pluralsight by Russ Thomas](#aiops-observability-and-explainability-for-production-models-from-pluralsight-by-russ-thomas)
     1. [Scale and Deploy LLMs in Production Environments from Pluralsight by Abhishek Kumar](#scale-and-deploy-llms-in-production-environments-from-pluralsight-by-abhishek-kumar)
-1. [AWS](#aws-14)
+1. [AWS](#aws-15)
     1. [Building Your Agentic Applications the Well-Architected Way from AWS](#building-your-agentic-applications-the-well-architected-way-from-aws)
     1. [Amazon Bedrock Getting Started from AWS](#amazon-bedrock-getting-started-from-aws)
     1. [Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS](#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws)
@@ -146,6 +148,7 @@
     1. [Amazon Bedrock AgentCore Memory Tutorial from AWS](#amazon-bedrock-agentcore-memory-tutorial-from-aws)
     1. [Amazon Bedrock AgentCore RunTime Tutorial from AWS](#amazon-bedrock-agentcore-runtime-tutorial-from-aws)
     1. [Amazon Bedrock AgentCore Tools Tutorial from AWS](#amazon-bedrock-agentcore-tools-tutorial-from-aws)
+    1. [Generative AI Business Strategy and Solution Design from AWS by Jody Baty](#generative-ai-business-strategy-and-solution-design-from-aws-by-jody-baty)
     1. [Introduction to Amazon SageMaker from AWS](#introduction-to-amazon-sagemaker-from-aws)
     1. [Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid](#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid)
     1. [Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha](#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha)
@@ -490,7 +493,7 @@
 
 <img src="../cert_ai_prompt-engineering_ai-prompting-essentials-certified_aipec_msi_cert-335389458_2024-03-14.png" alt="John's AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Generative AI (8)
+## Generative AI (9)
 ### Generative AI Primer from Vanderbilt University by James White
 * [John's Vanderbilt University online credential](https://coursera.org/verify/Y8JRWZ58E62M)
 
@@ -510,6 +513,11 @@
 * [John's Vanderbilt University online credential](https://coursera.org/verify/2JV659VK31TV)
 
 ![John's ChatGPT + Excel: Master Data, Make Decisions, Tell Stories from Vanderbilt University by James White](cert_ai_gen-ai_chatgpt-excel-master-data-make-decisions-tell-stories_coursera_jules-white_cert-2JV659VK31TV_2025-09-29.png)
+
+### Work smarter with AI from Canva
+* [John's Canva online credential](https://www.canva.com/design-school/certification-award/09baca73-3c63-48ab-bc9a-a96519f200ac)
+
+<img src="../cert_ai_genai_work-smarter-with-ai_canva_2025-11-09.png" alt="John's Work smarter with AI from Canva" style="border:1px solid #000000" />
 
 ### Introduction to Generative AI from Google Cloud
 * [John's Google Cloud online credential](https://coursera.org/verify/3VBHJ76MBTU9)
@@ -648,7 +656,7 @@
 
 <img src="../cert_ai_vuln_cve-2025-32711-microsoft-365-copilot-echoleak_pluralsight_chris-jackson_2025-09-15.png" alt="John's CVE-2025-32711 Microsoft 365 Copilot EchoLeak: Zero-click AI Vulnerability from Pluralsight by Chris Jackson" style="border:1px solid #000000" />
 
-## Governance (11)
+## Governance (12)
 ### Responsible Generative AI from University of Michigan by Merve Hickok
 * [John's University of Michigan online credential](https://coursera.org/verify/specialization/BWWDTFDSRMU0)
 
@@ -678,6 +686,11 @@
 * [John's Google Cloud online credential](https://coursera.org/verify/ZWGW9HZZC2ET)
 
 ![John's Introduction to Responsible AI from Google Cloud](cert_ai_introduction-to-responsible-ai_google-cloud_cert-ZWGW9HZZC2ET_2024-02-21.png)
+
+### Intro to AI Ethics from Kaggle
+* [John's Kaggle online credential](https://www.kaggle.com/learn/certification/grokify/intro-to-ai-ethics)
+
+<img src="../cert_ai_governance_intro-ai-ethics_kaggle_2025-11-04.png" alt="John's Intro to AI Ethics from Kaggle" style="border:1px solid #000000" />
 
 ### AI Governance from STACKIT
 
@@ -710,7 +723,7 @@
 
 <img src="../cert_ai_aiops_scale-deploy-llms-production-environments_pluralsight_abhishek-kumar_2025-06-20.png" alt="John's Scale and Deploy LLMs in Production Environments from Pluralsight by Abhishek Kumar" style="border:1px solid #000000" />
 
-## AWS (14)
+## AWS (15)
 ### Building Your Agentic Applications the Well-Architected Way from AWS
 
 <img src="../cert_ai_aws_building-agentic-applications-well-architected_aws_cert-7e3f09e6-26f1-40e5-8b1b-08e9d3ae5296_2025-11-02.png" alt="John's Building Your Agentic Applications the Well-Architected Way from AWS" style="border:1px solid #000000" />
@@ -754,6 +767,10 @@
 ### Amazon Bedrock AgentCore Tools Tutorial from AWS
 
 <img src="../cert_aws_bedrock_amazon-bedrock-agentcore-tools-tutorial_aws_cert-264c8d4b-6c78-4e5e-84b6-91150645173c_2025-08-18.png" alt="John's Amazon Bedrock AgentCore Tools Tutorial from AWS" style="border:1px solid #000000" />
+
+### Generative AI Business Strategy and Solution Design from AWS by Jody Baty
+
+<img src="../cert_aws_genai_generative-ai-business-strategy-solution-design_aws_jody-baty_cert-9ada1f86-5830-45c6-a6c1-88ca541dc29c_2025-11-03.png" alt="John's Generative AI Business Strategy and Solution Design from AWS by Jody Baty" style="border:1px solid #000000" />
 
 ### Introduction to Amazon SageMaker from AWS
 

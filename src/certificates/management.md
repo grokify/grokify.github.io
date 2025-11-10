@@ -18,7 +18,8 @@
 1. [Quality Control](#quality-control-2)
     1. [Lean Six Sigma White Belt from Management and Strategy Institute](#lean-six-sigma-white-belt-from-management-and-strategy-institute)
     1. [Error Proofing Techniques from Management and Strategy Institute](#error-proofing-techniques-from-management-and-strategy-institute)
-1. [Team Building](#team-building-9)
+1. [Team Building](#team-building-10)
+    1. [Coaching Skills from Packt](#coaching-skills-from-packt)
     1. [Leading Effective 1-on-1 Meetings: Win loyalty and retention from Udemy by PracticalGrowth Inc.](#leading-effective-1-on-1-meetings-win-loyalty-and-retention-from-udemy-by-practicalgrowth-inc)
     1. [Coaching Skills from EJ4](#coaching-skills-from-ej4)
     1. [Planning an Effective Performance Appraisal from SkillSoft](#planning-an-effective-performance-appraisal-from-skillsoft)
@@ -101,7 +102,12 @@
 
 <img src="../cert_management_quality_error-proofing-techniques_msi_cert-349531316_2025-09-29.png" alt="John's Error Proofing Techniques from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Team Building (9)
+## Team Building (10)
+### Coaching Skills from Packt
+* [John's Packt online credential](https://coursera.org/verify/DMFB53N7SAZK)
+
+![John's Coaching Skills from Packt](cert_leadership_teams_coaching-skills_packt_cert-DMFB53N7SAZK_2025-11-08.png)
+
 ### Leading Effective 1-on-1 Meetings: Win loyalty and retention from Udemy by PracticalGrowth Inc.
 * [John's Udemy online credential](http://ude.my/UC-21f78c07-3e97-496b-a513-a07c9270c9b2/)
 
