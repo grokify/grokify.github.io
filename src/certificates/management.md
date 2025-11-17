@@ -7,6 +7,8 @@
     1. [Find Quick Wins as a New Manager from NonprofitReady by Grovo](#find-quick-wins-as-a-new-manager-from-nonprofitready-by-grovo)
     1. [Common Misconceptions of New Managers from NonprofitReady by Grovo](#common-misconceptions-of-new-managers-from-nonprofitready-by-grovo)
     1. [Stay Calm Under Pressure as a Manager from NonprofitReady by Grovo](#stay-calm-under-pressure-as-a-manager-from-nonprofitready-by-grovo)
+1. [Project Management](#project-management-1)
+    1. [Project Management Essentials Certified from Management and Strategy Institute](#project-management-essentials-certified-from-management-and-strategy-institute)
 1. [Objectives and Key Results](#objectives-and-key-results-3)
     1. [Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell](#certified-professional-in-okr-objectives-key-results-cpokr-from-scrum-institute-by-yeliz-obergfell)
     1. [Product Management: Delivering on OKRs from Pluralsight by Keisha Johnson](#product-management-delivering-on-okrs-from-pluralsight-by-keisha-johnson)
@@ -15,9 +17,6 @@
     1. [Get to the Root of Any Problem from Grovo by Alex Khurgin](#get-to-the-root-of-any-problem-from-grovo-by-alex-khurgin)
     1. [5W2H Problem-Solving Method from Management and Strategy Institute](#5w2h-problem-solving-method-from-management-and-strategy-institute)
     1. [Eight Disciplines (8D) Problem Solving Method from Management and Strategy Institute](#eight-disciplines-8d-problem-solving-method-from-management-and-strategy-institute)
-1. [Quality Control](#quality-control-2)
-    1. [Lean Six Sigma White Belt from Management and Strategy Institute](#lean-six-sigma-white-belt-from-management-and-strategy-institute)
-    1. [Error Proofing Techniques from Management and Strategy Institute](#error-proofing-techniques-from-management-and-strategy-institute)
 1. [Team Building](#team-building-10)
     1. [Coaching Skills from Packt](#coaching-skills-from-packt)
     1. [Leading Effective 1-on-1 Meetings: Win loyalty and retention from Udemy by PracticalGrowth Inc.](#leading-effective-1-on-1-meetings-win-loyalty-and-retention-from-udemy-by-practicalgrowth-inc)
@@ -62,6 +61,12 @@
 
 ![John's Stay Calm Under Pressure as a Manager from NonprofitReady by Grovo](cert_management_stay-calm-under-pressure-as-a-manager_nonprofitready-grovo_2024-03-08.png)
 
+## Project Management (1)
+### Project Management Essentials Certified from Management and Strategy Institute
+* [John's Management and Strategy Institute online credential](https://www.proprofs.com/quiz-school/user_certificate.php?id=350137056&qid=3593197)
+
+<img src="../cert_management_project_project-management-essentials-certified_msicertified_2025-11-11.png" alt="John's Project Management Essentials Certified from Management and Strategy Institute" style="border:1px solid #000000" />
+
 ## Objectives and Key Results (3)
 ### Certified Professional In OKR (Objectives & Key Results) (CPOKR) from Scrum Institute by Yeliz Obergfell
 * [John's Scrum Institute online credential](https://www.scrum-institute.org/badges/34694795736577)
@@ -90,17 +95,6 @@
 * [John's Management and Strategy Institute online credential](https://www.proprofs.com/quiz-school/user_certificate.php?id=347364167&qid=3930884)
 
 <img src="../cert_management_problem-solving-framework_eight-disciplines-8d-problem-solving-method_msicertified_cert-347364167_2025-06-26.png" alt="John's Eight Disciplines (8D) Problem Solving Method from Management and Strategy Institute" style="border:1px solid #000000" />
-
-## Quality Control (2)
-### Lean Six Sigma White Belt from Management and Strategy Institute
-* [John's Management and Strategy Institute online credential](https://www.proprofs.com/quiz-school/user_certificate.php?id=347254040&qid=3592982)
-
-<img src="../cert_management_quality-control_lean-six-sigma-white-belt-certified_msi_cert-347254040_2025-06-21.png" alt="John's Lean Six Sigma White Belt from Management and Strategy Institute" style="border:1px solid #000000" />
-
-### Error Proofing Techniques from Management and Strategy Institute
-* [John's Management and Strategy Institute online credential](https://www.proprofs.com/quiz-school/user_certificate.php?id=349247773&qid=4363758)
-
-<img src="../cert_management_quality_error-proofing-techniques_msi_cert-349531316_2025-09-29.png" alt="John's Error Proofing Techniques from Management and Strategy Institute" style="border:1px solid #000000" />
 
 ## Team Building (10)
 ### Coaching Skills from Packt

@@ -3,8 +3,9 @@
     1. [Data Product Fundamentals from Dremio by Andrew Madson](#data-product-fundamentals-from-dremio-by-andrew-madson)
 1. [Governance](#governance-1)
     1. [Data Governance with Dataplex Universal Catalog from Google Cloud](#data-governance-with-dataplex-universal-catalog-from-google-cloud)
-1. [Artificial Intelligence](#artificial-intelligence-1)
+1. [Artificial Intelligence](#artificial-intelligence-2)
     1. [AI-Ready Data from Silicon Valley Certification Hub by Kash Mehdi](#ai-ready-data-from-silicon-valley-certification-hub-by-kash-mehdi)
+    1. [Data Literacy with AI from Sololearn](#data-literacy-with-ai-from-sololearn)
 1. [Data Lakehouse](#data-lakehouse-1)
     1. [Databricks Accredited Lakehouse Fundamentals from Databricks](#databricks-accredited-lakehouse-fundamentals-from-databricks)
 1. [Apache Iceberg](#apache-iceberg-8)
@@ -36,11 +37,16 @@
 
 ![John's Data Governance with Dataplex Universal Catalog from Google Cloud](cert_data_governance_google-dataplex-universal-catalog_googlecloud_cert-0FWCJB049GJ8_2025-10-13.png)
 
-## Artificial Intelligence (1)
+## Artificial Intelligence (2)
 ### AI-Ready Data from Silicon Valley Certification Hub by Kash Mehdi
 * [John's Silicon Valley Certification Hub online credential](https://svch.io/tutor-certificate-2-2/?cert_hash=359fdc8bb7d3b3fb)
 
 <img src="../cert_ai_governance_ai-ready-data_silicon-valley-certification-hub_cert-1756806521828_2025-09-02.jpg" alt="John's AI-Ready Data from Silicon Valley Certification Hub by Kash Mehdi" style="border:1px solid #000000" />
+
+### Data Literacy with AI from Sololearn
+* [John's Sololearn online credential](https://www.sololearn.com/en/certificates/CC-KX4KKRLT/)
+
+<img src="../cert_data_fundamentals_data-literacy-with-ai_sololearn_cert-CC-KX4KKRLT_2025-11-11.png" alt="John's Data Literacy with AI from Sololearn" style="border:1px solid #000000" />
 
 ## Data Lakehouse (1)
 ### Databricks Accredited Lakehouse Fundamentals from Databricks

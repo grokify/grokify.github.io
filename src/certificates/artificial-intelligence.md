@@ -47,7 +47,7 @@
 1. [A2A Protocol](#a2a-protocol-2)
     1. [Intro to Google's A2A Protocol: Interoperable AI Agents from Udemy by Yash Thakker](#intro-to-googles-a2a-protocol-interoperable-ai-agents-from-udemy-by-yash-thakker)
     1. [Agent2Agent (A2A) Protocol Fundamentals from Udemy by Mayfair Real Estate Institute](#agent2agent-a2a-protocol-fundamentals-from-udemy-by-mayfair-real-estate-institute)
-1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-9)
+1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-10)
     1. [Model Context Protocol: Advanced Topics from Anthropic](#model-context-protocol-advanced-topics-from-anthropic)
     1. [Introduction to Model Context Protocol from Anthropic](#introduction-to-model-context-protocol-from-anthropic)
     1. [MCP for Production Automation from Hugging Face](#mcp-for-production-automation-from-hugging-face)
@@ -56,6 +56,7 @@
     1. [Model Context Protocol (MCP) Mastery from Fractal Analytics Academy](#model-context-protocol-mcp-mastery-from-fractal-analytics-academy)
     1. [Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi](#foundations-of-model-context-protocol-from-analytics-vidhya-by-apoorv-vishnoi)
     1. [MCP: Unlock AI integrations with real-world demos from Analytics Vidhya by Aditya Oberai](#mcp-unlock-ai-integrations-with-real-world-demos-from-analytics-vidhya-by-aditya-oberai)
+    1. [MCP Security Fundamentals from APIsec University by Corey Ball](#mcp-security-fundamentals-from-apisec-university-by-corey-ball)
     1. [Dremio MCP Server from Dremio by Alex Merced](#dremio-mcp-server-from-dremio-by-alex-merced)
 1. [AI Assistants](#ai-assistants-6)
     1. [Amazon Q Business Getting Started from AWS](#amazon-q-business-getting-started-from-aws)
@@ -77,9 +78,10 @@
     1. [Vibe Coding with Replit from Analytics Vidhya by Kunal Jain](#vibe-coding-with-replit-from-analytics-vidhya-by-kunal-jain)
     1. [Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi](#guide-to-vibe-coding-in-windsurf-from-analytics-vidhya-by-apoorv-vishnoi)
     1. [Vibe Coding from Sololearn](#vibe-coding-from-sololearn)
-1. [Prompt Engineering](#prompt-engineering-3)
+1. [Prompt Engineering](#prompt-engineering-4)
     1. [Essentials of Prompt Engineering from AWS](#essentials-of-prompt-engineering-from-aws)
     1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
+    1. [Prompt Engineering from Sololearn](#prompt-engineering-from-sololearn)
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
 1. [Generative AI](#generative-ai-9)
     1. [Generative AI Primer from Vanderbilt University by James White](#generative-ai-primer-from-vanderbilt-university-by-james-white)
@@ -348,7 +350,7 @@
 
 <img src="../cert_ai_a2a_agent2agent-a2a-protocol-fundamentals_udemy_mayfair_cert-UC-8c673384-3329-4fd3-9502-6ba873b5bf96_2025-09-26.jpg" alt="John's Agent2Agent (A2A) Protocol Fundamentals from Udemy by Mayfair Real Estate Institute" style="border:1px solid #000000" />
 
-## Model Context Protocol (MCP) (9)
+## Model Context Protocol (MCP) (10)
 ### Model Context Protocol: Advanced Topics from Anthropic
 * [John's Anthropic online credential](https://verify.skilljar.com/c/mu9br5w7hgpu)
 
@@ -387,6 +389,10 @@
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/mim2vizdvc)
 
 <img src="../cert_ai_model-context-protocol_mcp-unlock-ai-integrations-real-world-demos_analyticsvidya_aditya-oberai_cert-mim2vizdvc_2025-09-15.jpg" alt="John's MCP: Unlock AI integrations with real-world demos from Analytics Vidhya by Aditya Oberai" style="border:1px solid #000000" />
+
+### MCP Security Fundamentals from APIsec University by Corey Ball
+
+<img src="../cert_ai_mcp_mcp-security-fundamentals_apisecuniversity_corey-ball_cert-LKNhsJOH_2025-11-15.png" alt="John's MCP Security Fundamentals from APIsec University by Corey Ball" style="border:1px solid #000000" />
 
 ### Dremio MCP Server from Dremio by Alex Merced
 * [John's Dremio online credential](https://mycourse.app/O3RwtKTwnNIIZQn67)
@@ -476,7 +482,7 @@
 
 <img src="../cert_ai_vibe-coding_vibe-coding_sololearn_cert-CC-H5DTUCSU_2025-07-15.jpg" alt="John's Vibe Coding from Sololearn" style="border:1px solid #000000" />
 
-## Prompt Engineering (3)
+## Prompt Engineering (4)
 ### Essentials of Prompt Engineering from AWS
 
 <img src="../cert_ai_prompt-engineering_essentials-of-prompt-engineering_aws_cert-70c8d928-14f7-4695-ac8f-5fe235620168_2025-07-27.png" alt="John's Essentials of Prompt Engineering from AWS" style="border:1px solid #000000" />
@@ -485,6 +491,11 @@
 * [John's Scrimba online credential](https://www.coursera.org/verify/EDM1OJ4B87Q4)
 
 ![John's Prompt Engineering for Web Developers from Scrimba by Treasure Porth](cert_ai_prompt-engineering_prompt-engineering-for-web-developers_coursera_treasure-porth_cert-EDM1OJ4B87Q4_2025-07-11.png)
+
+### Prompt Engineering from Sololearn
+* [John's Sololearn online credential](https://www.sololearn.com/en/certificates/CC-6UVMSWSY/)
+
+<img src="../cert_ai_prompteng_prompt-engineering_sololearn_cert-CC-6UVMSWSY_2025-11-11.jpg" alt="John's Prompt Engineering from Sololearn" style="border:1px solid #000000" />
 
 ### AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute
 * [John's Management and Strategy Institute online credential](https://www.proprofs.com/quiz-school/user_certificate.php?id=347250771&qid=3809416)
