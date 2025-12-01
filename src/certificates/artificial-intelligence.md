@@ -1,18 +1,20 @@
 # John's Artificial Intelligence Certificates
-1. [Strategy](#strategy-3)
+1. [Strategy](#strategy-4)
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
+    1. [Generative AI Strategic Leader Specialization (4 Courses) from Vanderbilt University by James White](#generative-ai-strategic-leader-specialization-4-courses-from-vanderbilt-university-by-james-white)
     1. [Chief Artificial Intelligence Officer from Copenhagen Compliance by Kersi Porbunderwalla](#chief-artificial-intelligence-officer-from-copenhagen-compliance-by-kersi-porbunderwalla)
     1. [AI+ Chief AI Officer™ from AI CERTs](#ai-chief-ai-officertm-from-ai-certs)
 1. [Teaching](#teaching-1)
     1. [Teaching AI Fluency from Anthropic](#teaching-ai-fluency-from-anthropic)
 1. [Fundamentals](#fundamentals-1)
     1. [AI Ready from STACKIT](#ai-ready-from-stackit)
-1. [Product Management](#product-management-5)
+1. [Product Management](#product-management-6)
     1. [Generative AI for Innovators from Pluralsight by Esteban Herrera](#generative-ai-for-innovators-from-pluralsight-by-esteban-herrera)
     1. [Artificial Intelligence Micro-Certification (AIC) from Product School by Sam Stevens](#artificial-intelligence-micro-certification-aic-from-product-school-by-sam-stevens)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
     1. [AI Product from Great Learning Academy by Abhinanda Sarkar](#ai-product-from-great-learning-academy-by-abhinanda-sarkar)
     1. [AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy](#ai-product-manager-roles-skills-and-responsibilities-from-great-learning-academy)
+    1. [AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng](#ai-and-customer-journey-essentials-from-great-learning-academy-by-kathie-feng)
 1. [AI Agents](#ai-agents-16)
     1. [Fundamentals of Agents from Hugging Face](#fundamentals-of-agents-from-hugging-face)
     1. [Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White](#agentic-ai-and-ai-agents-a-primer-for-leaders-from-vanderbilt-university-by-james-white)
@@ -78,16 +80,19 @@
     1. [Vibe Coding with Replit from Analytics Vidhya by Kunal Jain](#vibe-coding-with-replit-from-analytics-vidhya-by-kunal-jain)
     1. [Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi](#guide-to-vibe-coding-in-windsurf-from-analytics-vidhya-by-apoorv-vishnoi)
     1. [Vibe Coding from Sololearn](#vibe-coding-from-sololearn)
-1. [Prompt Engineering](#prompt-engineering-4)
+1. [Prompt Engineering](#prompt-engineering-5)
+    1. [Prompt Engineering for ChatGPT from Vanderbilt University by James White](#prompt-engineering-for-chatgpt-from-vanderbilt-university-by-james-white)
     1. [Essentials of Prompt Engineering from AWS](#essentials-of-prompt-engineering-from-aws)
     1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
     1. [Prompt Engineering from Sololearn](#prompt-engineering-from-sololearn)
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
-1. [Generative AI](#generative-ai-9)
+1. [Generative AI](#generative-ai-11)
+    1. [Generative AI SQL Database Specialist with ChatGPT Specialization (3 Courses) from Vanderbilt University by James White](#generative-ai-sql-database-specialist-with-chatgpt-specialization-3-courses-from-vanderbilt-university-by-james-white)
     1. [Generative AI Primer from Vanderbilt University by James White](#generative-ai-primer-from-vanderbilt-university-by-james-white)
     1. [Generative AI Deep Research: Strategic AI Edge for Leaders from Vanderbilt University by James White](#generative-ai-deep-research-strategic-ai-edge-for-leaders-from-vanderbilt-university-by-james-white)
     1. [Chat with Your Data: Generative AI-Powered SQL Data Analysis from Vanderbilt University by James White](#chat-with-your-data-generative-ai-powered-sql-data-analysis-from-vanderbilt-university-by-james-white)
     1. [ChatGPT + Excel: Master Data, Make Decisions, Tell Stories from Vanderbilt University by James White](#chatgpt-excel-master-data-make-decisions-tell-stories-from-vanderbilt-university-by-james-white)
+    1. [Generative AI Database Design & Management with ChatGPT from Vanderbilt University by James White](#generative-ai-database-design-management-with-chatgpt-from-vanderbilt-university-by-james-white)
     1. [Work smarter with AI from Canva](#work-smarter-with-ai-from-canva)
     1. [Introduction to Generative AI from Google Cloud](#introduction-to-generative-ai-from-google-cloud)
     1. [Generative AI for Web Development Specialization (3 Courses) from Scrimba](#generative-ai-for-web-development-specialization-3-courses-from-scrimba)
@@ -159,11 +164,16 @@
 ## Resources
 
 1. [Artificial Intelligence Resource Links](../../links/artificial-intelligence/)
-## Strategy (3)
+## Strategy (4)
 ### AI Strategy and Governance from University of Pennsylvania, Wharton School
 * [John's University of Pennsylvania, Wharton School online credential](https://coursera.org/verify/DGB6XB4C7VKD)
 
 ![John's AI Strategy and Governance from University of Pennsylvania, Wharton School](cert_ai_ai-strategy-and-governance_wharton_cert-DGB6XB4C7VKD_2024-03-03.png)
+
+### Generative AI Strategic Leader Specialization (4 Courses) from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/specialization/MZFR2PSPD5UK)
+
+<img src="../cert_ai_gen-ai_generative-ai-strategic-leader_vanderbiltu_jules-white_spec-MZFR2PSPD5UK_2025-11-30.png" alt="John's Generative AI Strategic Leader Specialization (4 Courses) from Vanderbilt University by James White" style="border:1px solid #000000" />
 
 ### Chief Artificial Intelligence Officer from Copenhagen Compliance by Kersi Porbunderwalla
 
@@ -185,7 +195,7 @@
 
 <img src="../cert_ai_fundamentals_ai-ready_stackit_2025-08-06.png" alt="John's AI Ready from STACKIT" style="border:1px solid #000000" />
 
-## Product Management (5)
+## Product Management (6)
 ### Generative AI for Innovators from Pluralsight by Esteban Herrera
 
 <img src="../cert_ai_pm_generative-ai-for-innovators_pluralsight_esteban-herrera_2025-07-27.png" alt="John's Generative AI for Innovators from Pluralsight by Esteban Herrera" style="border:1px solid #000000" />
@@ -209,6 +219,11 @@
 * [John's Great Learning Academy online credential](https://www.mygreatlearning.com/certificate/ZIBSQYCA)
 
 <img src="../cert_ai_pm_ai-product-manager-roles-skills-responsibilities_greatlearning_2025-10-06.jpg" alt="John's AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy" style="border:1px solid #000000" />
+
+### AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng
+* [John's Great Learning Academy online credential](https://www.mygreatlearning.com/certificate/XNICZSBZ)
+
+<img src="../cert_product_ai_ai-and-customer-journey-essentials_greatlearning_kathie-feng_2025-11-30.jpg" alt="John's AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng" style="border:1px solid #000000" />
 
 ## AI Agents (16)
 ### Fundamentals of Agents from Hugging Face
@@ -482,7 +497,12 @@
 
 <img src="../cert_ai_vibe-coding_vibe-coding_sololearn_cert-CC-H5DTUCSU_2025-07-15.jpg" alt="John's Vibe Coding from Sololearn" style="border:1px solid #000000" />
 
-## Prompt Engineering (4)
+## Prompt Engineering (5)
+### Prompt Engineering for ChatGPT from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/9VHLWEHPR0QV)
+
+![John's Prompt Engineering for ChatGPT from Vanderbilt University by James White](cert_ai_gen-ai_prompt-engineering-chatgpt_vanderbiltu_jules-white_cert-9VHLWEHPR0QV_2025-11-30.png)
+
 ### Essentials of Prompt Engineering from AWS
 
 <img src="../cert_ai_prompt-engineering_essentials-of-prompt-engineering_aws_cert-70c8d928-14f7-4695-ac8f-5fe235620168_2025-07-27.png" alt="John's Essentials of Prompt Engineering from AWS" style="border:1px solid #000000" />
@@ -504,7 +524,12 @@
 
 <img src="../cert_ai_prompt-engineering_ai-prompting-essentials-certified_aipec_msi_cert-335389458_2024-03-14.png" alt="John's AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Generative AI (9)
+## Generative AI (11)
+### Generative AI SQL Database Specialist with ChatGPT Specialization (3 Courses) from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/specialization/PFS4AXZ9EIF4)
+
+<img src="../cert_ai_gen-ai_generative-ai-sql-database-specialization-chatgpt_vanderbiltu_jules-white_spec-PFS4AXZ9EIF4_2025-11-30.png" alt="John's Generative AI SQL Database Specialist with ChatGPT Specialization (3 Courses) from Vanderbilt University by James White" style="border:1px solid #000000" />
+
 ### Generative AI Primer from Vanderbilt University by James White
 * [John's Vanderbilt University online credential](https://coursera.org/verify/Y8JRWZ58E62M)
 
@@ -524,6 +549,11 @@
 * [John's Vanderbilt University online credential](https://coursera.org/verify/2JV659VK31TV)
 
 ![John's ChatGPT + Excel: Master Data, Make Decisions, Tell Stories from Vanderbilt University by James White](cert_ai_gen-ai_chatgpt-excel-master-data-make-decisions-tell-stories_coursera_jules-white_cert-2JV659VK31TV_2025-09-29.png)
+
+### Generative AI Database Design & Management with ChatGPT from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/76CR020U130O)
+
+![John's Generative AI Database Design & Management with ChatGPT from Vanderbilt University by James White](cert_ai_gen-ai_generative-ai-database-design-management-chatgpt_vanderbiltu_jules-white_cert-76CR020U130O_2025-11-30.png)
 
 ### Work smarter with AI from Canva
 * [John's Canva online credential](https://www.canva.com/design-school/certification-award/09baca73-3c63-48ab-bc9a-a96519f200ac)

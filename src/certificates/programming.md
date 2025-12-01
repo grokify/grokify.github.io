@@ -44,8 +44,16 @@
     1. [Refactoring to SOLID Java from Pluralsight by Dan Geabunea](#refactoring-to-solid-java-from-pluralsight-by-dan-geabunea)
 1. [Python](#python-1)
     1. [Python (Basic) from HackerRank](#python-basic-from-hackerrank)
-1. [TypeScript](#typescript-1)
+1. [JavaScript](#javascript-2)
+    1. [JavaScript Security Refreshers from Infosec](#javascript-security-refreshers-from-infosec)
+    1. [Vitest Foundations from Pluralsight by Ian Marshall](#vitest-foundations-from-pluralsight-by-ian-marshall)
+1. [TypeScript](#typescript-2)
     1. [TypeScript Foundations: The Big Picture from Pluralsight by Jon Friskics](#typescript-foundations-the-big-picture-from-pluralsight-by-jon-friskics)
+    1. [TypeScript in Practice: Unit Tests with Jest from Pluralsight by Daniel Stern](#typescript-in-practice-unit-tests-with-jest-from-pluralsight-by-daniel-stern)
+1. [React](#react-3)
+    1. [Using TypeScript with React from Pluralsight by Peter Kellner](#using-typescript-with-react-from-pluralsight-by-peter-kellner)
+    1. [Using Vite with React from Pluralsight by Zachary Bennett](#using-vite-with-react-from-pluralsight-by-zachary-bennett)
+    1. [Creating Micro-frontends with React from Pluralsight by Hendrik Swanepoel](#creating-micro-frontends-with-react-from-pluralsight-by-hendrik-swanepoel)
 1. [SQL](#sql-4)
     1. [SQL (Advanced) from HackerRank](#sql-advanced-from-hackerrank)
     1. [SQL (Intermediate) from HackerRank](#sql-intermediate-from-hackerrank)
@@ -228,10 +236,37 @@
 
 ![John's Python (Basic) from HackerRank](cert_programming_python_hackerrank_python-basic_2023-07-08.png)
 
-## TypeScript (1)
+## JavaScript (2)
+### JavaScript Security Refreshers from Infosec
+* [John's Infosec online credential](https://coursera.org/verify/SPUMEFBEX360)
+
+![John's JavaScript Security Refreshers from Infosec](cert_programming_js_javascript-security-refreshers_infosec_cert-SPUMEFBEX360_2025-11-28.png)
+
+### Vitest Foundations from Pluralsight by Ian Marshall
+
+<img src="../cert_programming_javascript_vitest-foundations_pluralsight_ian-marshall_2025-11-29.png" alt="John's Vitest Foundations from Pluralsight by Ian Marshall" style="border:1px solid #000000" />
+
+## TypeScript (2)
 ### TypeScript Foundations: The Big Picture from Pluralsight by Jon Friskics
 
 <img src="../cert_programming_typescript_typescript-foundations-the-big-picture_pluralsight_jon-friskics_2025-08-31.png" alt="John's TypeScript Foundations: The Big Picture from Pluralsight by Jon Friskics" style="border:1px solid #000000" />
+
+### TypeScript in Practice: Unit Tests with Jest from Pluralsight by Daniel Stern
+
+<img src="../cert_programming_typescript_typescript-in-practice-unit-tests-with-jest_pluralsight_daniel-stern_2025-11-29.png" alt="John's TypeScript in Practice: Unit Tests with Jest from Pluralsight by Daniel Stern" style="border:1px solid #000000" />
+
+## React (3)
+### Using TypeScript with React from Pluralsight by Peter Kellner
+
+<img src="../cert_programming_typescript_using-typescript-with-react_pluralsight_peter-kellner_2025-11-25.png" alt="John's Using TypeScript with React from Pluralsight by Peter Kellner" style="border:1px solid #000000" />
+
+### Using Vite with React from Pluralsight by Zachary Bennett
+
+<img src="../cert_programming_react_using-vite-with-react_pluralsight_zachary-bennett_2025-11-29.png" alt="John's Using Vite with React from Pluralsight by Zachary Bennett" style="border:1px solid #000000" />
+
+### Creating Micro-frontends with React from Pluralsight by Hendrik Swanepoel
+
+<img src="../cert_programming_react_micro-frontends-react_pluralsight_hendrik-swanepoel_2025-11-30.png" alt="John's Creating Micro-frontends with React from Pluralsight by Hendrik Swanepoel" style="border:1px solid #000000" />
 
 ## SQL (4)
 ### SQL (Advanced) from HackerRank

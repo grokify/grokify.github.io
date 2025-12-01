@@ -19,6 +19,8 @@
     1. [Kubernetes Security: Implementing Supply Chain Security from Pluralsight by Antonio Jesús Piedra](#kubernetes-security-implementing-supply-chain-security-from-pluralsight-by-antonio-jesus-piedra)
 1. [Hyperscalers](#hyperscalers-1)
     1. [AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan](#aws-vs-azure-vs-gcp-from-great-learning-academy-by-vishal-padghan)
+1. [Compliance](#compliance-1)
+    1. [Compliance for Secure Cloud Environments from Pluralsight by Alexander Shafe](#compliance-for-secure-cloud-environments-from-pluralsight-by-alexander-shafe)
 1. [AWS](#aws-11)
     1. [Designing Landing Zone Architectures with AWS Control Tower from AWS](#designing-landing-zone-architectures-with-aws-control-tower-from-aws)
     1. [AWS Shared Responsibility Model from AWS](#aws-shared-responsibility-model-from-aws)
@@ -131,6 +133,11 @@
 * [John's Great Learning Academy online credential](https://verify.mygreatlearning.com/verify/WRHCURXB)
 
 <img src="../cert_infra_aws-vs-azure-vs-gcp_greatlearning_cert-WRHCURXB_2024-02-28.jpg" alt="John's AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan" style="border:1px solid #000000" />
+
+## Compliance (1)
+### Compliance for Secure Cloud Environments from Pluralsight by Alexander Shafe
+
+<img src="../cert_cloud_compliance_compliance-for-secure-cloud-environments_pluralsight_alexander-shafe_2025-11-23.png" alt="John's Compliance for Secure Cloud Environments from Pluralsight by Alexander Shafe" style="border:1px solid #000000" />
 
 ## AWS (11)
 ### Designing Landing Zone Architectures with AWS Control Tower from AWS

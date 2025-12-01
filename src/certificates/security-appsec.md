@@ -18,7 +18,8 @@
     1. [Developer Security Champion: Vulnerability Testing from Pluralsight by Christian Wenz](#developer-security-champion-vulnerability-testing-from-pluralsight-by-christian-wenz)
 1. [SAST](#sast-1)
     1. [Application Analysis with SonarQube from Pluralsight by George Smith](#application-analysis-with-sonarqube-from-pluralsight-by-george-smith)
-1. [Programming](#programming-7)
+1. [Programming](#programming-8)
+    1. [JavaScript Security Refreshers from Infosec](#javascript-security-refreshers-from-infosec)
     1. [OWASP Top 10 from Snyk](#owasp-top-10-from-snyk)
     1. [Snyk Top 10 from Snyk](#snyk-top-10-from-snyk)
     1. [Security for Developers from Snyk](#security-for-developers-from-snyk)
@@ -133,7 +134,12 @@
 
 <img src="../cert_appsec_sast_application-analysis-with-sonarqube_pluralsight_george-smith_2025-10-12.png" alt="John's Application Analysis with SonarQube from Pluralsight by George Smith" style="border:1px solid #000000" />
 
-## Programming (7)
+## Programming (8)
+### JavaScript Security Refreshers from Infosec
+* [John's Infosec online credential](https://coursera.org/verify/SPUMEFBEX360)
+
+![John's JavaScript Security Refreshers from Infosec](cert_programming_js_javascript-security-refreshers_infosec_cert-SPUMEFBEX360_2025-11-28.png)
+
 ### OWASP Top 10 from Snyk
 
 ![John's OWASP Top 10 from Snyk](cert_security_owaasp-top-10_snyk_2024-03-09.png)

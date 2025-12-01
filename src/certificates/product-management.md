@@ -15,11 +15,12 @@
     1. [Exploring Envisioning Outcomes from Pluralsight by Lauren Gray](#exploring-envisioning-outcomes-from-pluralsight-by-lauren-gray)
 1. [Product-Led Growth (PLG)](#product-led-growth-plg-1)
     1. [Product-Led Fundamentals from ProductLed](#product-led-fundamentals-from-productled)
-1. [Artificial Intelligence](#artificial-intelligence-4)
+1. [Artificial Intelligence](#artificial-intelligence-5)
     1. [Artificial Intelligence Micro-Certification (AIC) from Product School by Sam Stevens](#artificial-intelligence-micro-certification-aic-from-product-school-by-sam-stevens)
     1. [AI for Product Management from Pendo](#ai-for-product-management-from-pendo)
     1. [AI Product from Great Learning Academy by Abhinanda Sarkar](#ai-product-from-great-learning-academy-by-abhinanda-sarkar)
     1. [AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy](#ai-product-manager-roles-skills-and-responsibilities-from-great-learning-academy)
+    1. [AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng](#ai-and-customer-journey-essentials-from-great-learning-academy-by-kathie-feng)
 1. [Artificial Intelligence: ML](#artificial-intelligence-ml-1)
     1. [Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](#machine-learning-foundations-for-product-managers-from-duke-university-by-jon-reifschneider)
 1. [Data](#data-1)
@@ -88,7 +89,7 @@
 
 ![John's Product-Led Fundamentals from ProductLed](cert_product_plg_productled_product-led-growth-fundamentals_2022-10-08_date.png)
 
-## Artificial Intelligence (4)
+## Artificial Intelligence (5)
 ### Artificial Intelligence Micro-Certification (AIC) from Product School by Sam Stevens
 
 <img src="../cert_ai_product-management_artificial-intelligence-micro-certification-aic_product-school_sam-stevens_2025-07-20.png" alt="John's Artificial Intelligence Micro-Certification (AIC) from Product School by Sam Stevens" style="border:1px solid #000000" />
@@ -108,6 +109,11 @@
 * [John's Great Learning Academy online credential](https://www.mygreatlearning.com/certificate/ZIBSQYCA)
 
 <img src="../cert_ai_pm_ai-product-manager-roles-skills-responsibilities_greatlearning_2025-10-06.jpg" alt="John's AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy" style="border:1px solid #000000" />
+
+### AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng
+* [John's Great Learning Academy online credential](https://www.mygreatlearning.com/certificate/XNICZSBZ)
+
+<img src="../cert_product_ai_ai-and-customer-journey-essentials_greatlearning_kathie-feng_2025-11-30.jpg" alt="John's AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng" style="border:1px solid #000000" />
 
 ## Artificial Intelligence: ML (1)
 ### Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider
