@@ -15,10 +15,13 @@
     1. [AI Product from Great Learning Academy by Abhinanda Sarkar](#ai-product-from-great-learning-academy-by-abhinanda-sarkar)
     1. [AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy](#ai-product-manager-roles-skills-and-responsibilities-from-great-learning-academy)
     1. [AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng](#ai-and-customer-journey-essentials-from-great-learning-academy-by-kathie-feng)
-1. [AI Agents](#ai-agents-16)
+1. [AI Agents](#ai-agents-19)
     1. [Fundamentals of Agents from Hugging Face](#fundamentals-of-agents-from-hugging-face)
     1. [Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White](#agentic-ai-and-ai-agents-a-primer-for-leaders-from-vanderbilt-university-by-james-white)
     1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
+    1. [Getting Started with Strands Agents: Build Your First AI Agent from Analytics Vidhya by Laura Salinas, Elizabeth Fuentes Leone](#getting-started-with-strands-agents-build-your-first-ai-agent-from-analytics-vidhya-by-laura-salinas-elizabeth-fuentes-leone)
+    1. [Building AI agents with Amazon Bedrock AgentCore from Analytics Vidhya by Shubham Londhe, Elizabeth Fuentes Leone](#building-ai-agents-with-amazon-bedrock-agentcore-from-analytics-vidhya-by-shubham-londhe-elizabeth-fuentes-leone)
+    1. [Deploying Strands Agents with Amazon Bedrock AgentCore from Analytics Vidhya by Shubham Londhe, Elizabeth Fuentes Leone](#deploying-strands-agents-with-amazon-bedrock-agentcore-from-analytics-vidhya-by-shubham-londhe-elizabeth-fuentes-leone)
     1. [Dremio-Powered AI Agents from Dremio by Alex Merced](#dremio-powered-ai-agents-from-dremio-by-alex-merced)
     1. [Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid](#introduction-to-developing-ai-agents-from-pluralsight-by-muhammad-sajid)
     1. [Creating Personal AI Agents from Pluralsight by Kamran Ayub](#creating-personal-ai-agents-from-pluralsight-by-kamran-ayub)
@@ -32,7 +35,7 @@
     1. [Integrating AI Agents in Enterprise Systems from Pluralsight by Tom Taulli](#integrating-ai-agents-in-enterprise-systems-from-pluralsight-by-tom-taulli)
     1. [Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort](#evaluating-and-optimizing-llm-agents-from-pluralsight-by-brian-letort)
     1. [Building Intelligent AI Agents from Great Learning Academy by Sneha VK](#building-intelligent-ai-agents-from-great-learning-academy-by-sneha-vk)
-1. [AI Agents Orchestration](#ai-agents-orchestration-13)
+1. [AI Agents Orchestration](#ai-agents-orchestration-14)
     1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joao-moura)
     1. [Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](#mastering-multi-agent-development-with-autogen-from-packt-by-paulo-dichone)
     1. [Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](#elevate-team-productivity-with-crew-ai-from-coursera-by-yash-thakker)
@@ -40,6 +43,7 @@
     1. [n8n: A Complete Guide to the Automation Tool from Analytics Vidhya by Gyan Prakash Tripathi](#n8n-a-complete-guide-to-the-automation-tool-from-analytics-vidhya-by-gyan-prakash-tripathi)
     1. [Introduction to CrewAI: Building a Researcher Assistant Agent from Analytics Vidhya by Alessandro Romano](#introduction-to-crewai-building-a-researcher-assistant-agent-from-analytics-vidhya-by-alessandro-romano)
     1. [Demystifying OpenAI Agents SDK from Analytics Vidhya by Prashant Sahu](#demystifying-openai-agents-sdk-from-analytics-vidhya-by-prashant-sahu)
+    1. [Building Multi Agent Systems with Strands Agents from Analytics Vidhya by Laura Salinas](#building-multi-agent-systems-with-strands-agents-from-analytics-vidhya-by-laura-salinas)
     1. [Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu](#applying-multi-agent-systems-to-daily-tasks-from-pluralsight-by-bogdan-sucaciu)
     1. [Developing Multi-agent Systems from Pluralsight by Muhammad Sajid](#developing-multi-agent-systems-from-pluralsight-by-muhammad-sajid)
     1. [Developing Task-specific Agents with CrewAI from Pluralsight by Jon Friskics](#developing-task-specific-agents-with-crewai-from-pluralsight-by-jon-friskics)
@@ -49,7 +53,7 @@
 1. [A2A Protocol](#a2a-protocol-2)
     1. [Intro to Google's A2A Protocol: Interoperable AI Agents from Udemy by Yash Thakker](#intro-to-googles-a2a-protocol-interoperable-ai-agents-from-udemy-by-yash-thakker)
     1. [Agent2Agent (A2A) Protocol Fundamentals from Udemy by Mayfair Real Estate Institute](#agent2agent-a2a-protocol-fundamentals-from-udemy-by-mayfair-real-estate-institute)
-1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-10)
+1. [Model Context Protocol (MCP)](#model-context-protocol-mcp-11)
     1. [Model Context Protocol: Advanced Topics from Anthropic](#model-context-protocol-advanced-topics-from-anthropic)
     1. [Introduction to Model Context Protocol from Anthropic](#introduction-to-model-context-protocol-from-anthropic)
     1. [MCP for Production Automation from Hugging Face](#mcp-for-production-automation-from-hugging-face)
@@ -58,6 +62,7 @@
     1. [Model Context Protocol (MCP) Mastery from Fractal Analytics Academy](#model-context-protocol-mcp-mastery-from-fractal-analytics-academy)
     1. [Foundations of Model Context Protocol from Analytics Vidhya by Apoorv Vishnoi](#foundations-of-model-context-protocol-from-analytics-vidhya-by-apoorv-vishnoi)
     1. [MCP: Unlock AI integrations with real-world demos from Analytics Vidhya by Aditya Oberai](#mcp-unlock-ai-integrations-with-real-world-demos-from-analytics-vidhya-by-aditya-oberai)
+    1. [Advanced Strands Agents with MCP from Analytics Vidhya by Du'An Lightfoot](#advanced-strands-agents-with-mcp-from-analytics-vidhya-by-duan-lightfoot)
     1. [MCP Security Fundamentals from APIsec University by Corey Ball](#mcp-security-fundamentals-from-apisec-university-by-corey-ball)
     1. [Dremio MCP Server from Dremio by Alex Merced](#dremio-mcp-server-from-dremio-by-alex-merced)
 1. [AI Assistants](#ai-assistants-6)
@@ -86,7 +91,7 @@
     1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
     1. [Prompt Engineering from Sololearn](#prompt-engineering-from-sololearn)
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
-1. [Generative AI](#generative-ai-11)
+1. [Generative AI](#generative-ai-14)
     1. [Generative AI SQL Database Specialist with ChatGPT Specialization (3 Courses) from Vanderbilt University by James White](#generative-ai-sql-database-specialist-with-chatgpt-specialization-3-courses-from-vanderbilt-university-by-james-white)
     1. [Generative AI Primer from Vanderbilt University by James White](#generative-ai-primer-from-vanderbilt-university-by-james-white)
     1. [Generative AI Deep Research: Strategic AI Edge for Leaders from Vanderbilt University by James White](#generative-ai-deep-research-strategic-ai-edge-for-leaders-from-vanderbilt-university-by-james-white)
@@ -97,6 +102,9 @@
     1. [Introduction to Generative AI from Google Cloud](#introduction-to-generative-ai-from-google-cloud)
     1. [Generative AI for Web Development Specialization (3 Courses) from Scrimba](#generative-ai-for-web-development-specialization-3-courses-from-scrimba)
     1. [AI Literacy Basics: Applying Generative AI in the Workplace from Udemy by Nicolle Merrill](#ai-literacy-basics-applying-generative-ai-in-the-workplace-from-udemy-by-nicolle-merrill)
+    1. [Gemini 3: The AI That Thinks, Sees and Creates from Analytics Vidhya by Dipanjan Sarkar, Soumil Jain](#gemini-3-the-ai-that-thinks-sees-and-creates-from-analytics-vidhya-by-dipanjan-sarkar-soumil-jain)
+    1. [Claude 4.5: Smarter, Faster & More Human AI from Analytics Vidhya by Soumil Jain](#claude-45-smarter-faster-more-human-ai-from-analytics-vidhya-by-soumil-jain)
+    1. [NotebookLM Essentials to Pro: The Complete Practical Guide from Analytics Vidhya by Sarthak Dogra](#notebooklm-essentials-to-pro-the-complete-practical-guide-from-analytics-vidhya-by-sarthak-dogra)
     1. [Databricks Accredited Generative AI Fundamentals from Databricks](#databricks-accredited-generative-ai-fundamentals-from-databricks)
 1. [Generative AI API](#generative-ai-api-2)
     1. [OpenAI Chat Completions API from Pluralsight by Xavier Morera](#openai-chat-completions-api-from-pluralsight-by-xavier-morera)
@@ -225,7 +233,7 @@
 
 <img src="../cert_product_ai_ai-and-customer-journey-essentials_greatlearning_kathie-feng_2025-11-30.jpg" alt="John's AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng" style="border:1px solid #000000" />
 
-## AI Agents (16)
+## AI Agents (19)
 ### Fundamentals of Agents from Hugging Face
 * [John's Hugging Face online credential](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/grokify/2025-06-20.png)
 
@@ -240,6 +248,21 @@
 * [John's Vanderbilt University online credential](https://coursera.org/verify/1LRTE17NTNXQ)
 
 ![John's Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](cert_ai_vibe-coding_claude-code-software-engineering-with-generative-ai-agents_coursera_jules-white_cert-1LRTE17NTNXQ_2025-07-20.png)
+
+### Getting Started with Strands Agents: Build Your First AI Agent from Analytics Vidhya by Laura Salinas, Elizabeth Fuentes Leone
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/ooujc6hwcy)
+
+<img src="../cert_ai_multi-agent_strands-agents-first-ai-agent_analyticsvidya_cert-ooujc6hwcy_2025-12-27.jpg" alt="John's Getting Started with Strands Agents: Build Your First AI Agent from Analytics Vidhya by Laura Salinas, Elizabeth Fuentes Leone" style="border:1px solid #000000" />
+
+### Building AI agents with Amazon Bedrock AgentCore from Analytics Vidhya by Shubham Londhe, Elizabeth Fuentes Leone
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/3cxcnz3218)
+
+<img src="../cert_ai_agent_ai-agents-amazon-bedrock-agentcore_analyticsvidhya_cert-3cxcnz3218_2025-12-27.jpg" alt="John's Building AI agents with Amazon Bedrock AgentCore from Analytics Vidhya by Shubham Londhe, Elizabeth Fuentes Leone" style="border:1px solid #000000" />
+
+### Deploying Strands Agents with Amazon Bedrock AgentCore from Analytics Vidhya by Shubham Londhe, Elizabeth Fuentes Leone
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/vfcfozhv0e)
+
+<img src="../cert_ai_agentic-ai_deploying-strands-agents-amazon-bedrock-agentcore_analytics-vidya_cert-3cxcnz3218_2025-12-27.jpg" alt="John's Deploying Strands Agents with Amazon Bedrock AgentCore from Analytics Vidhya by Shubham Londhe, Elizabeth Fuentes Leone" style="border:1px solid #000000" />
 
 ### Dremio-Powered AI Agents from Dremio by Alex Merced
 * [John's Dremio online credential](https://mycourse.app/SUPaoxZw0ZS7TgJio)
@@ -295,7 +318,7 @@
 
 <img src="../cert_ai_agents_building-intelligent-ai-agents_greatlearning_sneha-vk_2025-10-06.jpg" alt="John's Building Intelligent AI Agents from Great Learning Academy by Sneha VK" style="border:1px solid #000000" />
 
-## AI Agents Orchestration (13)
+## AI Agents Orchestration (14)
 ### Multi AI Agent Systems with CrewAI from CrewAI by João Moura
 
 <img src="../cert_ai_multi-agent_multi-ai-agent-systems-with-crewai_crewai_2025-06-08.png" alt="John's Multi AI Agent Systems with CrewAI from CrewAI by João Moura" style="border:1px solid #000000" />
@@ -329,6 +352,11 @@
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/7qmywnllzk)
 
 <img src="../cert_ai_agents_demystifying-openai-agents-sdk_analyticsvidya_prashant-sahu_cert-7qmywnllzk_2025-10-24.jpg" alt="John's Demystifying OpenAI Agents SDK from Analytics Vidhya by Prashant Sahu" style="border:1px solid #000000" />
+
+### Building Multi Agent Systems with Strands Agents from Analytics Vidhya by Laura Salinas
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/ysw0zeim7y)
+
+<img src="../cert_ai_multi-agent_multi-agent-systems-strands-agents_analyticsvidhya_cert-ysw0zeim7y_2025-12-27.jpg" alt="John's Building Multi Agent Systems with Strands Agents from Analytics Vidhya by Laura Salinas" style="border:1px solid #000000" />
 
 ### Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu
 
@@ -365,7 +393,7 @@
 
 <img src="../cert_ai_a2a_agent2agent-a2a-protocol-fundamentals_udemy_mayfair_cert-UC-8c673384-3329-4fd3-9502-6ba873b5bf96_2025-09-26.jpg" alt="John's Agent2Agent (A2A) Protocol Fundamentals from Udemy by Mayfair Real Estate Institute" style="border:1px solid #000000" />
 
-## Model Context Protocol (MCP) (10)
+## Model Context Protocol (MCP) (11)
 ### Model Context Protocol: Advanced Topics from Anthropic
 * [John's Anthropic online credential](https://verify.skilljar.com/c/mu9br5w7hgpu)
 
@@ -404,6 +432,11 @@
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/mim2vizdvc)
 
 <img src="../cert_ai_model-context-protocol_mcp-unlock-ai-integrations-real-world-demos_analyticsvidya_aditya-oberai_cert-mim2vizdvc_2025-09-15.jpg" alt="John's MCP: Unlock AI integrations with real-world demos from Analytics Vidhya by Aditya Oberai" style="border:1px solid #000000" />
+
+### Advanced Strands Agents with MCP from Analytics Vidhya by Du'An Lightfoot
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/ehvea31a4v)
+
+<img src="../cert_ai_mcp_strands-agents-mcp-advanced_analyticsvidhya_cert-ehvea31a4v_2025-12-27.jpg" alt="John's Advanced Strands Agents with MCP from Analytics Vidhya by Du'An Lightfoot" style="border:1px solid #000000" />
 
 ### MCP Security Fundamentals from APIsec University by Corey Ball
 
@@ -524,7 +557,7 @@
 
 <img src="../cert_ai_prompt-engineering_ai-prompting-essentials-certified_aipec_msi_cert-335389458_2024-03-14.png" alt="John's AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Generative AI (11)
+## Generative AI (14)
 ### Generative AI SQL Database Specialist with ChatGPT Specialization (3 Courses) from Vanderbilt University by James White
 * [John's Vanderbilt University online credential](https://coursera.org/verify/specialization/PFS4AXZ9EIF4)
 
@@ -574,6 +607,21 @@
 * [John's Udemy online credential](http://ude.my/UC-ee0ddc67-8697-4d0f-b00d-d81bd8bb75c7/)
 
 <img src="../cert_ai_gen-ai_ai-literacy-basics_udemy_nicolle-merrill_UC-ee0ddc67-8697-4d0f-b00d-d81bd8bb75c7_2025-10-31.jpg" alt="John's AI Literacy Basics: Applying Generative AI in the Workplace from Udemy by Nicolle Merrill" style="border:1px solid #000000" />
+
+### Gemini 3: The AI That Thinks, Sees and Creates from Analytics Vidhya by Dipanjan Sarkar, Soumil Jain
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/ugo7ifvh38)
+
+<img src="../cert_ai_genai_gemini-3-ai-thinks-sees-creates_cert-ugo7ifvh38_2025-12-17.jpg" alt="John's Gemini 3: The AI That Thinks, Sees and Creates from Analytics Vidhya by Dipanjan Sarkar, Soumil Jain" style="border:1px solid #000000" />
+
+### Claude 4.5: Smarter, Faster & More Human AI from Analytics Vidhya by Soumil Jain
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/3nlacxsh17)
+
+<img src="../cert_ai_genai_claude-4-5-smarter-faster-more-human-ai_cert-3nlacxsh17_2025-12-18.jpg" alt="John's Claude 4.5: Smarter, Faster & More Human AI from Analytics Vidhya by Soumil Jain" style="border:1px solid #000000" />
+
+### NotebookLM Essentials to Pro: The Complete Practical Guide from Analytics Vidhya by Sarthak Dogra
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/fxctfutsrz)
+
+<img src="../cert_ai_genai_notebooklm-essentials-pro-complete-practical-guide_cert-fxctfutsrz_2025-12-18.jpg" alt="John's NotebookLM Essentials to Pro: The Complete Practical Guide from Analytics Vidhya by Sarthak Dogra" style="border:1px solid #000000" />
 
 ### Databricks Accredited Generative AI Fundamentals from Databricks
 * [John's Databricks online profile](https://credentials.databricks.com/profile/grokify)
