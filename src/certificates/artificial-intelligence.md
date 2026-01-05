@@ -15,7 +15,7 @@
     1. [AI Product from Great Learning Academy by Abhinanda Sarkar](#ai-product-from-great-learning-academy-by-abhinanda-sarkar)
     1. [AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy](#ai-product-manager-roles-skills-and-responsibilities-from-great-learning-academy)
     1. [AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng](#ai-and-customer-journey-essentials-from-great-learning-academy-by-kathie-feng)
-1. [AI Agents](#ai-agents-19)
+1. [AI Agents](#ai-agents-20)
     1. [Fundamentals of Agents from Hugging Face](#fundamentals-of-agents-from-hugging-face)
     1. [Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White](#agentic-ai-and-ai-agents-a-primer-for-leaders-from-vanderbilt-university-by-james-white)
     1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
@@ -34,6 +34,7 @@
     1. [Integrating AI Agents into Development Workflows from Pluralsight by Adam Bertram](#integrating-ai-agents-into-development-workflows-from-pluralsight-by-adam-bertram)
     1. [Integrating AI Agents in Enterprise Systems from Pluralsight by Tom Taulli](#integrating-ai-agents-in-enterprise-systems-from-pluralsight-by-tom-taulli)
     1. [Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort](#evaluating-and-optimizing-llm-agents-from-pluralsight-by-brian-letort)
+    1. [Agentic AI in Ecommerce from Pluralsight by Vovwe Enyoyi](#agentic-ai-in-ecommerce-from-pluralsight-by-vovwe-enyoyi)
     1. [Building Intelligent AI Agents from Great Learning Academy by Sneha VK](#building-intelligent-ai-agents-from-great-learning-academy-by-sneha-vk)
 1. [AI Agents Orchestration](#ai-agents-orchestration-14)
     1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joao-moura)
@@ -91,7 +92,7 @@
     1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
     1. [Prompt Engineering from Sololearn](#prompt-engineering-from-sololearn)
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
-1. [Generative AI](#generative-ai-14)
+1. [Generative AI](#generative-ai-15)
     1. [Generative AI SQL Database Specialist with ChatGPT Specialization (3 Courses) from Vanderbilt University by James White](#generative-ai-sql-database-specialist-with-chatgpt-specialization-3-courses-from-vanderbilt-university-by-james-white)
     1. [Generative AI Primer from Vanderbilt University by James White](#generative-ai-primer-from-vanderbilt-university-by-james-white)
     1. [Generative AI Deep Research: Strategic AI Edge for Leaders from Vanderbilt University by James White](#generative-ai-deep-research-strategic-ai-edge-for-leaders-from-vanderbilt-university-by-james-white)
@@ -105,6 +106,7 @@
     1. [Gemini 3: The AI That Thinks, Sees and Creates from Analytics Vidhya by Dipanjan Sarkar, Soumil Jain](#gemini-3-the-ai-that-thinks-sees-and-creates-from-analytics-vidhya-by-dipanjan-sarkar-soumil-jain)
     1. [Claude 4.5: Smarter, Faster & More Human AI from Analytics Vidhya by Soumil Jain](#claude-45-smarter-faster-more-human-ai-from-analytics-vidhya-by-soumil-jain)
     1. [NotebookLM Essentials to Pro: The Complete Practical Guide from Analytics Vidhya by Sarthak Dogra](#notebooklm-essentials-to-pro-the-complete-practical-guide-from-analytics-vidhya-by-sarthak-dogra)
+    1. [Core Concepts of Generative AI for Developers from Pluralsight by Xavier Morera](#core-concepts-of-generative-ai-for-developers-from-pluralsight-by-xavier-morera)
     1. [Databricks Accredited Generative AI Fundamentals from Databricks](#databricks-accredited-generative-ai-fundamentals-from-databricks)
 1. [Generative AI API](#generative-ai-api-2)
     1. [OpenAI Chat Completions API from Pluralsight by Xavier Morera](#openai-chat-completions-api-from-pluralsight-by-xavier-morera)
@@ -233,7 +235,7 @@
 
 <img src="../cert_product_ai_ai-and-customer-journey-essentials_greatlearning_kathie-feng_2025-11-30.jpg" alt="John's AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng" style="border:1px solid #000000" />
 
-## AI Agents (19)
+## AI Agents (20)
 ### Fundamentals of Agents from Hugging Face
 * [John's Hugging Face online credential](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/grokify/2025-06-20.png)
 
@@ -312,6 +314,10 @@
 ### Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort
 
 <img src="../cert_ai_ai-agents_evaluating-and-optimizing-llm-agents_pluralsight_brian-letort_2025-08-31.png" alt="John's Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort" style="border:1px solid #000000" />
+
+### Agentic AI in Ecommerce from Pluralsight by Vovwe Enyoyi
+
+<img src="../cert_ai_agents_agentic-ai-ecommerce_pluralsight_vovwe-enyoyi_2026-01-03.png" alt="John's Agentic AI in Ecommerce from Pluralsight by Vovwe Enyoyi" style="border:1px solid #000000" />
 
 ### Building Intelligent AI Agents from Great Learning Academy by Sneha VK
 * [John's Great Learning Academy online credential](https://www.mygreatlearning.com/certificate/QKDQCPMT)
@@ -557,7 +563,7 @@
 
 <img src="../cert_ai_prompt-engineering_ai-prompting-essentials-certified_aipec_msi_cert-335389458_2024-03-14.png" alt="John's AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Generative AI (14)
+## Generative AI (15)
 ### Generative AI SQL Database Specialist with ChatGPT Specialization (3 Courses) from Vanderbilt University by James White
 * [John's Vanderbilt University online credential](https://coursera.org/verify/specialization/PFS4AXZ9EIF4)
 
@@ -622,6 +628,10 @@
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/fxctfutsrz)
 
 <img src="../cert_ai_genai_notebooklm-essentials-pro-complete-practical-guide_cert-fxctfutsrz_2025-12-18.jpg" alt="John's NotebookLM Essentials to Pro: The Complete Practical Guide from Analytics Vidhya by Sarthak Dogra" style="border:1px solid #000000" />
+
+### Core Concepts of Generative AI for Developers from Pluralsight by Xavier Morera
+
+<img src="../cert_ai_fundamentals_gen-ai-developers_pluralsight_xavier-morera_2026-01-04.png" alt="John's Core Concepts of Generative AI for Developers from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
 
 ### Databricks Accredited Generative AI Fundamentals from Databricks
 * [John's Databricks online profile](https://credentials.databricks.com/profile/grokify)

@@ -2,9 +2,11 @@
 1. [Chief Artificial Intelligence Officer (CAIO)](#chief-artificial-intelligence-officer-caio-2)
     1. [Chief Artificial Intelligence Officer from Copenhagen Compliance by Kersi Porbunderwalla](#chief-artificial-intelligence-officer-from-copenhagen-compliance-by-kersi-porbunderwalla)
     1. [AI+ Chief AI Officer™ from AI CERTs](#ai-chief-ai-officertm-from-ai-certs)
-1. [Fundamentals](#fundamentals-3)
+1. [Fundamentals](#fundamentals-5)
     1. [Defending Against AI-Generated Attacks from Codecademy](#defending-against-ai-generated-attacks-from-codecademy)
     1. [Cybersecurity and Artificial Intelligence from Pluralsight by Christopher Rees](#cybersecurity-and-artificial-intelligence-from-pluralsight-by-christopher-rees)
+    1. [Security Hot Takes: Confronting the AI Gold Rush from Pluralsight by Michael Teske, Matthew Lloyd Davies](#security-hot-takes-confronting-the-ai-gold-rush-from-pluralsight-by-michael-teske-matthew-lloyd-davies)
+    1. [Security Hot Takes: Are You Pen Testing Your AI Apps? from Pluralsight by Michael Teske, Matthew Lloyd Davies](#security-hot-takes-are-you-pen-testing-your-ai-apps-from-pluralsight-by-michael-teske-matthew-lloyd-davies)
     1. [AI Security from Lakera](#ai-security-from-lakera)
 1. [AI Agents](#ai-agents-1)
     1. [Agentic AI - Risk and Cybersecurity Masterclass 2025 from Udemy by Taimur Ijlal](#agentic-ai-risk-and-cybersecurity-masterclass-2025-from-udemy-by-taimur-ijlal)
@@ -30,7 +32,7 @@
 
 ![John's AI+ Chief AI Officer™ from AI CERTs](cert_ai_strategy_ai-plus-chief-artificial-intelligence-officer-caio_aicerts_2025-09-06.png)
 
-## Fundamentals (3)
+## Fundamentals (5)
 ### Defending Against AI-Generated Attacks from Codecademy
 
 <img src="../cert_ai_defending-against-ai-generated-attacks_codecademy_2024-03-28.png" alt="John's Defending Against AI-Generated Attacks from Codecademy" style="border:1px solid #000000" />
@@ -38,6 +40,14 @@
 ### Cybersecurity and Artificial Intelligence from Pluralsight by Christopher Rees
 
 <img src="../cert_ai_security_cybersecurity-and-artificial-intelligence_pluralsight_chris-rees_2025-09-15.png" alt="John's Cybersecurity and Artificial Intelligence from Pluralsight by Christopher Rees" style="border:1px solid #000000" />
+
+### Security Hot Takes: Confronting the AI Gold Rush from Pluralsight by Michael Teske, Matthew Lloyd Davies
+
+<img src="../cert_ai_security_ai-gold-rush-security-hot-takes_pluralsight_teske-davies_2025-12-01.png" alt="John's Security Hot Takes: Confronting the AI Gold Rush from Pluralsight by Michael Teske, Matthew Lloyd Davies" style="border:1px solid #000000" />
+
+### Security Hot Takes: Are You Pen Testing Your AI Apps? from Pluralsight by Michael Teske, Matthew Lloyd Davies
+
+<img src="../cert_ai_security_pen-testing-ai-apps-security-hot-takes_pluralsight_teske-davies_2025-12-01.png" alt="John's Security Hot Takes: Are You Pen Testing Your AI Apps? from Pluralsight by Michael Teske, Matthew Lloyd Davies" style="border:1px solid #000000" />
 
 ### AI Security from Lakera
 * [John's Lakera online credential](https://security.certificates.lakera.ai/credentials/53495805-342d-41b7-b9bf-5923ae00422d)
