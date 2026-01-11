@@ -15,13 +15,14 @@
     1. [AI Product from Great Learning Academy by Abhinanda Sarkar](#ai-product-from-great-learning-academy-by-abhinanda-sarkar)
     1. [AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy](#ai-product-manager-roles-skills-and-responsibilities-from-great-learning-academy)
     1. [AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng](#ai-and-customer-journey-essentials-from-great-learning-academy-by-kathie-feng)
-1. [AI Agents](#ai-agents-20)
+1. [AI Agents](#ai-agents-21)
     1. [Fundamentals of Agents from Hugging Face](#fundamentals-of-agents-from-hugging-face)
     1. [Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White](#agentic-ai-and-ai-agents-a-primer-for-leaders-from-vanderbilt-university-by-james-white)
     1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
     1. [Getting Started with Strands Agents: Build Your First AI Agent from Analytics Vidhya by Laura Salinas, Elizabeth Fuentes Leone](#getting-started-with-strands-agents-build-your-first-ai-agent-from-analytics-vidhya-by-laura-salinas-elizabeth-fuentes-leone)
     1. [Building AI agents with Amazon Bedrock AgentCore from Analytics Vidhya by Shubham Londhe, Elizabeth Fuentes Leone](#building-ai-agents-with-amazon-bedrock-agentcore-from-analytics-vidhya-by-shubham-londhe-elizabeth-fuentes-leone)
     1. [Deploying Strands Agents with Amazon Bedrock AgentCore from Analytics Vidhya by Shubham Londhe, Elizabeth Fuentes Leone](#deploying-strands-agents-with-amazon-bedrock-agentcore-from-analytics-vidhya-by-shubham-londhe-elizabeth-fuentes-leone)
+    1. [Building a Customized Newsletter AI Agent from Analytics Vidhya by Chen Wang](#building-a-customized-newsletter-ai-agent-from-analytics-vidhya-by-chen-wang)
     1. [Dremio-Powered AI Agents from Dremio by Alex Merced](#dremio-powered-ai-agents-from-dremio-by-alex-merced)
     1. [Introduction to Developing AI Agents from Pluralsight by Muhammad Sajid](#introduction-to-developing-ai-agents-from-pluralsight-by-muhammad-sajid)
     1. [Creating Personal AI Agents from Pluralsight by Kamran Ayub](#creating-personal-ai-agents-from-pluralsight-by-kamran-ayub)
@@ -36,7 +37,7 @@
     1. [Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort](#evaluating-and-optimizing-llm-agents-from-pluralsight-by-brian-letort)
     1. [Agentic AI in Ecommerce from Pluralsight by Vovwe Enyoyi](#agentic-ai-in-ecommerce-from-pluralsight-by-vovwe-enyoyi)
     1. [Building Intelligent AI Agents from Great Learning Academy by Sneha VK](#building-intelligent-ai-agents-from-great-learning-academy-by-sneha-vk)
-1. [AI Agents Orchestration](#ai-agents-orchestration-14)
+1. [AI Agents Orchestration](#ai-agents-orchestration-16)
     1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joao-moura)
     1. [Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](#mastering-multi-agent-development-with-autogen-from-packt-by-paulo-dichone)
     1. [Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](#elevate-team-productivity-with-crew-ai-from-coursera-by-yash-thakker)
@@ -45,6 +46,8 @@
     1. [Introduction to CrewAI: Building a Researcher Assistant Agent from Analytics Vidhya by Alessandro Romano](#introduction-to-crewai-building-a-researcher-assistant-agent-from-analytics-vidhya-by-alessandro-romano)
     1. [Demystifying OpenAI Agents SDK from Analytics Vidhya by Prashant Sahu](#demystifying-openai-agents-sdk-from-analytics-vidhya-by-prashant-sahu)
     1. [Building Multi Agent Systems with Strands Agents from Analytics Vidhya by Laura Salinas](#building-multi-agent-systems-with-strands-agents-from-analytics-vidhya-by-laura-salinas)
+    1. [Build a Resume Review Agentic System with CrewAI from Analytics Vidhya by Apoorv Vishnoi](#build-a-resume-review-agentic-system-with-crewai-from-analytics-vidhya-by-apoorv-vishnoi)
+    1. [Building a Deep Research AI Agent from Analytics Vidhya by Dipanjan Sarkar](#building-a-deep-research-ai-agent-from-analytics-vidhya-by-dipanjan-sarkar)
     1. [Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu](#applying-multi-agent-systems-to-daily-tasks-from-pluralsight-by-bogdan-sucaciu)
     1. [Developing Multi-agent Systems from Pluralsight by Muhammad Sajid](#developing-multi-agent-systems-from-pluralsight-by-muhammad-sajid)
     1. [Developing Task-specific Agents with CrewAI from Pluralsight by Jon Friskics](#developing-task-specific-agents-with-crewai-from-pluralsight-by-jon-friskics)
@@ -235,7 +238,7 @@
 
 <img src="../cert_product_ai_ai-and-customer-journey-essentials_greatlearning_kathie-feng_2025-11-30.jpg" alt="John's AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng" style="border:1px solid #000000" />
 
-## AI Agents (20)
+## AI Agents (21)
 ### Fundamentals of Agents from Hugging Face
 * [John's Hugging Face online credential](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/grokify/2025-06-20.png)
 
@@ -265,6 +268,11 @@
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/vfcfozhv0e)
 
 <img src="../cert_ai_agentic-ai_deploying-strands-agents-amazon-bedrock-agentcore_analytics-vidya_cert-3cxcnz3218_2025-12-27.jpg" alt="John's Deploying Strands Agents with Amazon Bedrock AgentCore from Analytics Vidhya by Shubham Londhe, Elizabeth Fuentes Leone" style="border:1px solid #000000" />
+
+### Building a Customized Newsletter AI Agent from Analytics Vidhya by Chen Wang
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/h3ydbkgta8)
+
+<img src="../cert_ai_agent_customized-newsletter-ai-agent_analyticsvidhya_cert-h3ydbkgta8_2026-01-10.jpg" alt="John's Building a Customized Newsletter AI Agent from Analytics Vidhya by Chen Wang" style="border:1px solid #000000" />
 
 ### Dremio-Powered AI Agents from Dremio by Alex Merced
 * [John's Dremio online credential](https://mycourse.app/SUPaoxZw0ZS7TgJio)
@@ -324,7 +332,7 @@
 
 <img src="../cert_ai_agents_building-intelligent-ai-agents_greatlearning_sneha-vk_2025-10-06.jpg" alt="John's Building Intelligent AI Agents from Great Learning Academy by Sneha VK" style="border:1px solid #000000" />
 
-## AI Agents Orchestration (14)
+## AI Agents Orchestration (16)
 ### Multi AI Agent Systems with CrewAI from CrewAI by João Moura
 
 <img src="../cert_ai_multi-agent_multi-ai-agent-systems-with-crewai_crewai_2025-06-08.png" alt="John's Multi AI Agent Systems with CrewAI from CrewAI by João Moura" style="border:1px solid #000000" />
@@ -363,6 +371,16 @@
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/ysw0zeim7y)
 
 <img src="../cert_ai_multi-agent_multi-agent-systems-strands-agents_analyticsvidhya_cert-ysw0zeim7y_2025-12-27.jpg" alt="John's Building Multi Agent Systems with Strands Agents from Analytics Vidhya by Laura Salinas" style="border:1px solid #000000" />
+
+### Build a Resume Review Agentic System with CrewAI from Analytics Vidhya by Apoorv Vishnoi
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/p8vhuqlqxb)
+
+<img src="../cert_ai_multi-agent_resume-review-agentic-system-crewai_analyticsvidhya_cert-p8vhuqlqxb_2026-01-10.jpg" alt="John's Build a Resume Review Agentic System with CrewAI from Analytics Vidhya by Apoorv Vishnoi" style="border:1px solid #000000" />
+
+### Building a Deep Research AI Agent from Analytics Vidhya by Dipanjan Sarkar
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/6h9cj1q0zm)
+
+<img src="../cert_ai_multi-agent_building-a-deep-research-ai-agent_analyticsvidhya_cert-6h9cj1q0zm_2026-01-11.jpg" alt="John's Building a Deep Research AI Agent from Analytics Vidhya by Dipanjan Sarkar" style="border:1px solid #000000" />
 
 ### Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu
 
