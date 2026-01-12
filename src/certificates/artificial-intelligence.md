@@ -15,10 +15,11 @@
     1. [AI Product from Great Learning Academy by Abhinanda Sarkar](#ai-product-from-great-learning-academy-by-abhinanda-sarkar)
     1. [AI Product Manager: Roles, Skills and Responsibilities from Great Learning Academy](#ai-product-manager-roles-skills-and-responsibilities-from-great-learning-academy)
     1. [AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng](#ai-and-customer-journey-essentials-from-great-learning-academy-by-kathie-feng)
-1. [AI Agents](#ai-agents-21)
+1. [AI Agents](#ai-agents-22)
     1. [Fundamentals of Agents from Hugging Face](#fundamentals-of-agents-from-hugging-face)
     1. [Agentic AI and AI Agents: A Primer for Leaders from Vanderbilt University by James White](#agentic-ai-and-ai-agents-a-primer-for-leaders-from-vanderbilt-university-by-james-white)
     1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
+    1. [GPT Builder Course: Mastering Specialized AI Agents from Udemy by Jasper Hallamore](#gpt-builder-course-mastering-specialized-ai-agents-from-udemy-by-jasper-hallamore)
     1. [Getting Started with Strands Agents: Build Your First AI Agent from Analytics Vidhya by Laura Salinas, Elizabeth Fuentes Leone](#getting-started-with-strands-agents-build-your-first-ai-agent-from-analytics-vidhya-by-laura-salinas-elizabeth-fuentes-leone)
     1. [Building AI agents with Amazon Bedrock AgentCore from Analytics Vidhya by Shubham Londhe, Elizabeth Fuentes Leone](#building-ai-agents-with-amazon-bedrock-agentcore-from-analytics-vidhya-by-shubham-londhe-elizabeth-fuentes-leone)
     1. [Deploying Strands Agents with Amazon Bedrock AgentCore from Analytics Vidhya by Shubham Londhe, Elizabeth Fuentes Leone](#deploying-strands-agents-with-amazon-bedrock-agentcore-from-analytics-vidhya-by-shubham-londhe-elizabeth-fuentes-leone)
@@ -76,10 +77,11 @@
     1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
     1. [SEO with AI from Sololearn](#seo-with-ai-from-sololearn)
     1. [ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy](#chatgpt-for-excel-from-great-learning-academy-by-e-balachandra-murthy)
-1. [AI Code Assistants](#ai-code-assistants-4)
+1. [AI Code Assistants](#ai-code-assistants-5)
     1. [Claude Code in Action from Anthropic](#claude-code-in-action-from-anthropic)
     1. [Introduction to Amazon Q Developer (Technical) from AWS](#introduction-to-amazon-q-developer-technical-from-aws)
     1. [Intro to Claude AI from Scrimba by Shant Dashjian](#intro-to-claude-ai-from-scrimba-by-shant-dashjian)
+    1. [Intro to OpenAI Codex: Fully Agentic Coding from Udemy by Yash Thakker](#intro-to-openai-codex-fully-agentic-coding-from-udemy-by-yash-thakker)
     1. [Secure Coding with Amazon Q Developer from Pluralsight by Tom Taulli](#secure-coding-with-amazon-q-developer-from-pluralsight-by-tom-taulli)
 1. [Vibe Coding](#vibe-coding-7)
     1. [Vibe Coding with Cursor AI from Scrimba by Maham Codes](#vibe-coding-with-cursor-ai-from-scrimba-by-maham-codes)
@@ -238,7 +240,7 @@
 
 <img src="../cert_product_ai_ai-and-customer-journey-essentials_greatlearning_kathie-feng_2025-11-30.jpg" alt="John's AI and Customer Journey Essentials from Great Learning Academy by Kathie Feng" style="border:1px solid #000000" />
 
-## AI Agents (21)
+## AI Agents (22)
 ### Fundamentals of Agents from Hugging Face
 * [John's Hugging Face online credential](https://huggingface.co/datasets/agents-course/certificates/resolve/main/certificates/grokify/2025-06-20.png)
 
@@ -253,6 +255,11 @@
 * [John's Vanderbilt University online credential](https://coursera.org/verify/1LRTE17NTNXQ)
 
 ![John's Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](cert_ai_vibe-coding_claude-code-software-engineering-with-generative-ai-agents_coursera_jules-white_cert-1LRTE17NTNXQ_2025-07-20.png)
+
+### GPT Builder Course: Mastering Specialized AI Agents from Udemy by Jasper Hallamore
+* [John's Udemy online credential](http://ude.my/UC-6a285703-5a8f-4305-b3ea-b38e2c179086/)
+
+<img src="../cert_ai_agent_gpt-builder-specialized-ai-agents_udemy_jasper-hallamore_UC-6a285703-5a8f-4305-b3ea-b38e2c179086_2026-01-12.jpg" alt="John's GPT Builder Course: Mastering Specialized AI Agents from Udemy by Jasper Hallamore" style="border:1px solid #000000" />
 
 ### Getting Started with Strands Agents: Build Your First AI Agent from Analytics Vidhya by Laura Salinas, Elizabeth Fuentes Leone
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/ooujc6hwcy)
@@ -499,7 +506,7 @@
 
 <img src="../cert_ai_chatgpt-for-excel_greatlearning-by-e-balachandra-murthy_cert-WFDRKONI_2024-03-03.jpg" alt="John's ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy" style="border:1px solid #000000" />
 
-## AI Code Assistants (4)
+## AI Code Assistants (5)
 ### Claude Code in Action from Anthropic
 * [John's Anthropic online credential](https://verify.skilljar.com/c/j3k4jnhhakvj)
 
@@ -513,6 +520,11 @@
 * [John's Scrimba online credential](https://www.coursera.org/verify/BJ2AJF89N18M)
 
 ![John's Intro to Claude AI from Scrimba by Shant Dashjian](cert_programming_gen-ai_intro-to-claud-ai_coursera_shant-dashjian_cert-BJ2AJF89N18M_2025-07-10.png)
+
+### Intro to OpenAI Codex: Fully Agentic Coding from Udemy by Yash Thakker
+* [John's Udemy online credential](http://ude.my/UC-07354aa3-db31-423f-92f4-74be93171cd9/)
+
+<img src="../cert_ai_coding_openai-codex-agentic-coding_udemy_yash-thakker_UC-07354aa3-db31-423f-92f4-74be93171cd9_2026-01-11.jpg" alt="John's Intro to OpenAI Codex: Fully Agentic Coding from Udemy by Yash Thakker" style="border:1px solid #000000" />
 
 ### Secure Coding with Amazon Q Developer from Pluralsight by Tom Taulli
 
