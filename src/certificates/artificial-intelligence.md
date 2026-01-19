@@ -97,13 +97,14 @@
     1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
     1. [Prompt Engineering from Sololearn](#prompt-engineering-from-sololearn)
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
-1. [Generative AI](#generative-ai-15)
+1. [Generative AI](#generative-ai-16)
     1. [Generative AI SQL Database Specialist with ChatGPT Specialization (3 Courses) from Vanderbilt University by James White](#generative-ai-sql-database-specialist-with-chatgpt-specialization-3-courses-from-vanderbilt-university-by-james-white)
     1. [Generative AI Primer from Vanderbilt University by James White](#generative-ai-primer-from-vanderbilt-university-by-james-white)
     1. [Generative AI Deep Research: Strategic AI Edge for Leaders from Vanderbilt University by James White](#generative-ai-deep-research-strategic-ai-edge-for-leaders-from-vanderbilt-university-by-james-white)
     1. [Chat with Your Data: Generative AI-Powered SQL Data Analysis from Vanderbilt University by James White](#chat-with-your-data-generative-ai-powered-sql-data-analysis-from-vanderbilt-university-by-james-white)
     1. [ChatGPT + Excel: Master Data, Make Decisions, Tell Stories from Vanderbilt University by James White](#chatgpt-excel-master-data-make-decisions-tell-stories-from-vanderbilt-university-by-james-white)
     1. [Generative AI Database Design & Management with ChatGPT from Vanderbilt University by James White](#generative-ai-database-design-management-with-chatgpt-from-vanderbilt-university-by-james-white)
+    1. [LLM SEO, GEO, AEO: Get Traffic From ChatGPT And Other AI SEO from Coursera by Alex Genadinik](#llm-seo-geo-aeo-get-traffic-from-chatgpt-and-other-ai-seo-from-coursera-by-alex-genadinik)
     1. [Work smarter with AI from Canva](#work-smarter-with-ai-from-canva)
     1. [Introduction to Generative AI from Google Cloud](#introduction-to-generative-ai-from-google-cloud)
     1. [Generative AI for Web Development Specialization (3 Courses) from Scrimba](#generative-ai-for-web-development-specialization-3-courses-from-scrimba)
@@ -593,7 +594,7 @@
 
 <img src="../cert_ai_prompt-engineering_ai-prompting-essentials-certified_aipec_msi_cert-335389458_2024-03-14.png" alt="John's AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Generative AI (15)
+## Generative AI (16)
 ### Generative AI SQL Database Specialist with ChatGPT Specialization (3 Courses) from Vanderbilt University by James White
 * [John's Vanderbilt University online credential](https://coursera.org/verify/specialization/PFS4AXZ9EIF4)
 
@@ -623,6 +624,11 @@
 * [John's Vanderbilt University online credential](https://coursera.org/verify/76CR020U130O)
 
 ![John's Generative AI Database Design & Management with ChatGPT from Vanderbilt University by James White](cert_ai_gen-ai_generative-ai-database-design-management-chatgpt_vanderbiltu_jules-white_cert-76CR020U130O_2025-11-30.png)
+
+### LLM SEO, GEO, AEO: Get Traffic From ChatGPT And Other AI SEO from Coursera by Alex Genadinik
+* [John's Coursera online credential](https://coursera.org/verify/G0L2I0NOEILT)
+
+![John's LLM SEO, GEO, AEO: Get Traffic From ChatGPT And Other AI SEO from Coursera by Alex Genadinik](cert_ai_seo_llm-seo-geo-aeo-traffic-chatgpt-other-ai-seo_coursera_alex-genadinik_cert-G0L2I0NOEILT_2026-01-18.png)
 
 ### Work smarter with AI from Canva
 * [John's Canva online credential](https://www.canva.com/design-school/certification-award/09baca73-3c63-48ab-bc9a-a96519f200ac)

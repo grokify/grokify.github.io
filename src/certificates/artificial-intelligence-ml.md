@@ -4,10 +4,12 @@
     1. [Vector Search and Embeddings from Google Cloud](#vector-search-and-embeddings-from-google-cloud)
     1. [Intro to Hugging Face from Codecademy](#intro-to-hugging-face-from-codecademy)
     1. [Jupyter Notebook from Great Learning Academy by Anirudh Rao](#jupyter-notebook-from-great-learning-academy-by-anirudh-rao)
-1. [Large Language Models (LLMs)](#large-language-models-llms-9)
+1. [Large Language Models (LLMs)](#large-language-models-llms-11)
     1. [Fundamentals of LLMs from Hugging Face](#fundamentals-of-llms-from-hugging-face)
     1. [Introduction to Large Language Models from Google Cloud](#introduction-to-large-language-models-from-google-cloud)
     1. [Attention Mechanism from Google Cloud](#attention-mechanism-from-google-cloud)
+    1. [Advanced NLP Techniques: LoRA for Fine-Tuning Llama3 LLMs from Udemy by Machine Learning Warrrior](#advanced-nlp-techniques-lora-for-fine-tuning-llama3-llms-from-udemy-by-machine-learning-warrrior)
+    1. [OpenAI & ChatGPT API's: Expert Fine-tuning for Developers from Udemy by Mariam Omar](#openai-chatgpt-apis-expert-fine-tuning-for-developers-from-udemy-by-mariam-omar)
     1. [LLM Apps: Evaluation from Weights & Biases by Anish Shah, Ayush Thakur](#llm-apps-evaluation-from-weights-biases-by-anish-shah-ayush-thakur)
     1. [LLM Observability: Evaluations from Arize by Amber Roberts](#llm-observability-evaluations-from-arize-by-amber-roberts)
     1. [LLM Observability: Agents, Tools, and Chains from Arize by Amber Roberts](#llm-observability-agents-tools-and-chains-from-arize-by-amber-roberts)
@@ -46,7 +48,7 @@
 
 <img src="../cert_machine-learning_jupyter-notebook_greatlearning_cert-PPFKNCCJ_2024-02-28.jpg" alt="John's Jupyter Notebook from Great Learning Academy by Anirudh Rao" style="border:1px solid #000000" />
 
-## Large Language Models (LLMs) (9)
+## Large Language Models (LLMs) (11)
 ### Fundamentals of LLMs from Hugging Face
 
 ![John's Fundamentals of LLMs from Hugging Face](cert_machine-learning_llm_fundamentals-of-llms_hugging-face_2025-06-21.webp)
@@ -60,6 +62,16 @@
 * [John's Google Cloud online credential](https://coursera.org/verify/DFS67KJRE8T5)
 
 ![John's Attention Mechanism from Google Cloud](cert_machine-learning_attention-mechanism_google-cloud_cert-DFS67KJRE8T5_2024-02-22.png)
+
+### Advanced NLP Techniques: LoRA for Fine-Tuning Llama3 LLMs from Udemy by Machine Learning Warrrior
+* [John's Udemy online credential](http://ude.my/UC-63ab9de1-ede2-46cd-83c8-f90c3c775f77/)
+
+<img src="../cert_ml_llm_advanced-nlp-techniques-lora-fine-tuning-llama3-llms_udemy_machine-learning-warrior_UC-63ab9de1-ede2-46cd-83c8-f90c3c775f77_2026-01-17.jpg" alt="John's Advanced NLP Techniques: LoRA for Fine-Tuning Llama3 LLMs from Udemy by Machine Learning Warrrior" style="border:1px solid #000000" />
+
+### OpenAI & ChatGPT API's: Expert Fine-tuning for Developers from Udemy by Mariam Omar
+* [John's Udemy online credential](http://ude.my/UC-d4976b69-410e-47e5-a62c-5ddfb9cfcc8f/)
+
+<img src="../cert_ml_llm_openai-chatgpt-api-expert-fine-tuning-developers_udemy_mariam-omar_cert-UC-d4976b69-410e-47e5-a62c-5ddfb9cfcc8f_2026-01-18.jpg" alt="John's OpenAI & ChatGPT API's: Expert Fine-tuning for Developers from Udemy by Mariam Omar" style="border:1px solid #000000" />
 
 ### LLM Apps: Evaluation from Weights & Biases by Anish Shah, Ayush Thakur
 * [John's Weights & Biases online credential](https://www.credential.net/9d589ba5-8cc5-4a81-81b9-15f562c8925f)
