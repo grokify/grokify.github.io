@@ -12,7 +12,10 @@
     1. [Agentic AI - Risk and Cybersecurity Masterclass 2025 from Udemy by Taimur Ijlal](#agentic-ai-risk-and-cybersecurity-masterclass-2025-from-udemy-by-taimur-ijlal)
 1. [AI Assistants](#ai-assistants-1)
     1. [Secure Coding with Amazon Q Developer from Pluralsight by Tom Taulli](#secure-coding-with-amazon-q-developer-from-pluralsight-by-tom-taulli)
-1. [Generative AI](#generative-ai-6)
+1. [Generative AI](#generative-ai-9)
+    1. [AI Voice Cloning Demo from Saviynt](#ai-voice-cloning-demo-from-saviynt)
+    1. [Deepfakes, Scams, and Disinformation from Saviynt](#deepfakes-scams-and-disinformation-from-saviynt)
+    1. [Generative AI: Seeing Through the Deception from Saviynt](#generative-ai-seeing-through-the-deception-from-saviynt)
     1. [AI Security Bootcamp: LLM Hacking Basics from Udemy by Naveen Konrajankuppam Mahavishnu, Mohankumar Vengatachalam](#ai-security-bootcamp-llm-hacking-basics-from-udemy-by-naveen-konrajankuppam-mahavishnu-mohankumar-vengatachalam)
     1. [Security Hot Takes: ChatGPT from Pluralsight by Xavier Morera](#security-hot-takes-chatgpt-from-pluralsight-by-xavier-morera)
     1. [OpenAI Security and Moderations from Pluralsight by Chris Jackson](#openai-security-and-moderations-from-pluralsight-by-chris-jackson)
@@ -65,7 +68,19 @@
 
 <img src="../cert_ai_ai-assistant_secure-coding-amazon-q-developer_ai_pluralsight_tom-taulli_2025-09-22.png" alt="John's Secure Coding with Amazon Q Developer from Pluralsight by Tom Taulli" style="border:1px solid #000000" />
 
-## Generative AI (6)
+## Generative AI (9)
+### AI Voice Cloning Demo from Saviynt
+
+<img src="../cert_aisec_genai_ai-voice-cloning-demo_saviynt-knowbe4_2026-02-16.png" alt="John's AI Voice Cloning Demo from Saviynt" style="border:1px solid #000000" />
+
+### Deepfakes, Scams, and Disinformation from Saviynt
+
+<img src="../cert_aisec_genai_deepfakes-scans-disinformation_saviynt-knowbe4_2026-02-16.png" alt="John's Deepfakes, Scams, and Disinformation from Saviynt" style="border:1px solid #000000" />
+
+### Generative AI: Seeing Through the Deception from Saviynt
+
+<img src="../cert_aisec_genai_generative-ai-seeing-through-deception_saviynt-knowbe4_2026-02-16.png" alt="John's Generative AI: Seeing Through the Deception from Saviynt" style="border:1px solid #000000" />
+
 ### AI Security Bootcamp: LLM Hacking Basics from Udemy by Naveen Konrajankuppam Mahavishnu, Mohankumar Vengatachalam
 * [John's Udemy online credential](http://ude.my/UC-e1b44f95-516d-41e1-af3e-686c0dbb38e1)
 
@@ -88,6 +103,8 @@
 <img src="../cert_aisec_security-risks-and-privacy-concerns-using-generative-ai_pluralsight_dr-shaila-rana_2024-06-10.png" alt="John's Security Risks and Privacy Concerns Using Generative AI from Pluralsight by Dr. Shaila Rana" style="border:1px solid #000000" />
 
 ### Generative AI: Intelligent and Dangerous? from KnowBe4 by Dr. Swantje Westpfahl
+
+<img src="../cert_aisec_generative-ai-intelligent-and-dangerous_knowbe4_dr-swantje-westpfahl_2024-06-11_dl-2026-02-16.png" alt="John's Generative AI: Intelligent and Dangerous? from KnowBe4 by Dr. Swantje Westpfahl" style="border:1px solid #000000" />
 
 <img src="../cert_aisec_generative-ai-intelligent-and-dangerous_knowbe4_dr-swantje-westpfahl_2024-06-11.png" alt="John's Generative AI: Intelligent and Dangerous? from KnowBe4 by Dr. Swantje Westpfahl" style="border:1px solid #000000" />
 

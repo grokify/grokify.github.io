@@ -1,7 +1,8 @@
 # John's Artificial Intelligence Certificates
-1. [Strategy](#strategy-4)
+1. [Strategy](#strategy-5)
     1. [AI Strategy and Governance from University of Pennsylvania, Wharton School](#ai-strategy-and-governance-from-university-of-pennsylvania-wharton-school)
     1. [Generative AI Strategic Leader Specialization (4 Courses) from Vanderbilt University by James White](#generative-ai-strategic-leader-specialization-4-courses-from-vanderbilt-university-by-james-white)
+    1. [Agentic AI and AI Agents for Leaders Specialization (3 Courses) from Vanderbilt University by James White](#agentic-ai-and-ai-agents-for-leaders-specialization-3-courses-from-vanderbilt-university-by-james-white)
     1. [Chief Artificial Intelligence Officer from Copenhagen Compliance by Kersi Porbunderwalla](#chief-artificial-intelligence-officer-from-copenhagen-compliance-by-kersi-porbunderwalla)
     1. [AI+ Chief AI Officer™ from AI CERTs](#ai-chief-ai-officertm-from-ai-certs)
 1. [Teaching](#teaching-1)
@@ -38,7 +39,7 @@
     1. [Evaluating and Optimizing LLM Agents from Pluralsight by Brian Letort](#evaluating-and-optimizing-llm-agents-from-pluralsight-by-brian-letort)
     1. [Agentic AI in Ecommerce from Pluralsight by Vovwe Enyoyi](#agentic-ai-in-ecommerce-from-pluralsight-by-vovwe-enyoyi)
     1. [Building Intelligent AI Agents from Great Learning Academy by Sneha VK](#building-intelligent-ai-agents-from-great-learning-academy-by-sneha-vk)
-1. [AI Agents Orchestration](#ai-agents-orchestration-16)
+1. [AI Agents Orchestration](#ai-agents-orchestration-17)
     1. [Multi AI Agent Systems with CrewAI from CrewAI by João Moura](#multi-ai-agent-systems-with-crewai-from-crewai-by-joao-moura)
     1. [Mastering Multi-Agent Development with AutoGen from Packt by Paulo Dichone](#mastering-multi-agent-development-with-autogen-from-packt-by-paulo-dichone)
     1. [Elevate Team Productivity with Crew AI from Coursera by Yash Thakker](#elevate-team-productivity-with-crew-ai-from-coursera-by-yash-thakker)
@@ -49,6 +50,7 @@
     1. [Building Multi Agent Systems with Strands Agents from Analytics Vidhya by Laura Salinas](#building-multi-agent-systems-with-strands-agents-from-analytics-vidhya-by-laura-salinas)
     1. [Build a Resume Review Agentic System with CrewAI from Analytics Vidhya by Apoorv Vishnoi](#build-a-resume-review-agentic-system-with-crewai-from-analytics-vidhya-by-apoorv-vishnoi)
     1. [Building a Deep Research AI Agent from Analytics Vidhya by Dipanjan Sarkar](#building-a-deep-research-ai-agent-from-analytics-vidhya-by-dipanjan-sarkar)
+    1. [From Chat to Action: Automate with OpenClaw from Analytics Vidhya by Riya Bansal](#from-chat-to-action-automate-with-openclaw-from-analytics-vidhya-by-riya-bansal)
     1. [Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu](#applying-multi-agent-systems-to-daily-tasks-from-pluralsight-by-bogdan-sucaciu)
     1. [Developing Multi-agent Systems from Pluralsight by Muhammad Sajid](#developing-multi-agent-systems-from-pluralsight-by-muhammad-sajid)
     1. [Developing Task-specific Agents with CrewAI from Pluralsight by Jon Friskics](#developing-task-specific-agents-with-crewai-from-pluralsight-by-jon-friskics)
@@ -91,13 +93,17 @@
     1. [Vibe Coding with Replit from Analytics Vidhya by Kunal Jain](#vibe-coding-with-replit-from-analytics-vidhya-by-kunal-jain)
     1. [Guide to Vibe Coding in Windsurf from Analytics Vidhya by Apoorv Vishnoi](#guide-to-vibe-coding-in-windsurf-from-analytics-vidhya-by-apoorv-vishnoi)
     1. [Vibe Coding from Sololearn](#vibe-coding-from-sololearn)
-1. [Prompt Engineering](#prompt-engineering-5)
+1. [Prompt Engineering](#prompt-engineering-8)
     1. [Prompt Engineering for ChatGPT from Vanderbilt University by James White](#prompt-engineering-for-chatgpt-from-vanderbilt-university-by-james-white)
+    1. [OpenAI GPTs: Creating Your Own Custom AI Assistants from Vanderbilt University by James White](#openai-gpts-creating-your-own-custom-ai-assistants-from-vanderbilt-university-by-james-white)
+    1. [OpenAI GPTs: Creating Your Own Custom AI Assistants from Vanderbilt University by James White](#openai-gpts-creating-your-own-custom-ai-assistants-from-vanderbilt-university-by-james-white)
+    1. [Trustworthy Generative AI from Vanderbilt University by James White](#trustworthy-generative-ai-from-vanderbilt-university-by-james-white)
     1. [Essentials of Prompt Engineering from AWS](#essentials-of-prompt-engineering-from-aws)
     1. [Prompt Engineering for Web Developers from Scrimba by Treasure Porth](#prompt-engineering-for-web-developers-from-scrimba-by-treasure-porth)
     1. [Prompt Engineering from Sololearn](#prompt-engineering-from-sololearn)
     1. [AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute](#ai-prompting-essentials-certified-aipec-from-management-and-strategy-institute)
-1. [Generative AI](#generative-ai-16)
+1. [Generative AI](#generative-ai-21)
+    1. [Generative AI Assistants Specialization (3 Courses) from Vanderbilt University by James White](#generative-ai-assistants-specialization-3-courses-from-vanderbilt-university-by-james-white)
     1. [Generative AI SQL Database Specialist with ChatGPT Specialization (3 Courses) from Vanderbilt University by James White](#generative-ai-sql-database-specialist-with-chatgpt-specialization-3-courses-from-vanderbilt-university-by-james-white)
     1. [Generative AI Primer from Vanderbilt University by James White](#generative-ai-primer-from-vanderbilt-university-by-james-white)
     1. [Generative AI Deep Research: Strategic AI Edge for Leaders from Vanderbilt University by James White](#generative-ai-deep-research-strategic-ai-edge-for-leaders-from-vanderbilt-university-by-james-white)
@@ -106,9 +112,13 @@
     1. [Generative AI Database Design & Management with ChatGPT from Vanderbilt University by James White](#generative-ai-database-design-management-with-chatgpt-from-vanderbilt-university-by-james-white)
     1. [LLM SEO, GEO, AEO: Get Traffic From ChatGPT And Other AI SEO from Coursera by Alex Genadinik](#llm-seo-geo-aeo-get-traffic-from-chatgpt-and-other-ai-seo-from-coursera-by-alex-genadinik)
     1. [Work smarter with AI from Canva](#work-smarter-with-ai-from-canva)
+    1. [AI in the classroom from Canva](#ai-in-the-classroom-from-canva)
     1. [Introduction to Generative AI from Google Cloud](#introduction-to-generative-ai-from-google-cloud)
     1. [Generative AI for Web Development Specialization (3 Courses) from Scrimba](#generative-ai-for-web-development-specialization-3-courses-from-scrimba)
     1. [AI Literacy Basics: Applying Generative AI in the Workplace from Udemy by Nicolle Merrill](#ai-literacy-basics-applying-generative-ai-in-the-workplace-from-udemy-by-nicolle-merrill)
+    1. [The Automated Video Factory: AI Content Creation from Udemy by Yash Thakker](#the-automated-video-factory-ai-content-creation-from-udemy-by-yash-thakker)
+    1. [Become an Expert in AI Avatar Videos with HeyGen from Udemy by Stan Slavev](#become-an-expert-in-ai-avatar-videos-with-heygen-from-udemy-by-stan-slavev)
+    1. [Create an AI Influencer: No-Code, for Free from Udemy by Filip Cermak](#create-an-ai-influencer-no-code-for-free-from-udemy-by-filip-cermak)
     1. [Gemini 3: The AI That Thinks, Sees and Creates from Analytics Vidhya by Dipanjan Sarkar, Soumil Jain](#gemini-3-the-ai-that-thinks-sees-and-creates-from-analytics-vidhya-by-dipanjan-sarkar-soumil-jain)
     1. [Claude 4.5: Smarter, Faster & More Human AI from Analytics Vidhya by Soumil Jain](#claude-45-smarter-faster-more-human-ai-from-analytics-vidhya-by-soumil-jain)
     1. [NotebookLM Essentials to Pro: The Complete Practical Guide from Analytics Vidhya by Sarthak Dogra](#notebooklm-essentials-to-pro-the-complete-practical-guide-from-analytics-vidhya-by-sarthak-dogra)
@@ -159,6 +169,8 @@
 1. [AIOps](#aiops-2)
     1. [AIOps: Observability and Explainability for Production Models from Pluralsight by Russ Thomas](#aiops-observability-and-explainability-for-production-models-from-pluralsight-by-russ-thomas)
     1. [Scale and Deploy LLMs in Production Environments from Pluralsight by Abhishek Kumar](#scale-and-deploy-llms-in-production-environments-from-pluralsight-by-abhishek-kumar)
+1. [AI Infrastructure](#ai-infrastructure-1)
+    1. [Master NVIDIA AI Infrastructure & Pass NCA-AIIO from Udemy by Ashish Prajapati](#master-nvidia-ai-infrastructure-pass-nca-aiio-from-udemy-by-ashish-prajapati)
 1. [AWS](#aws-15)
     1. [Building Your Agentic Applications the Well-Architected Way from AWS](#building-your-agentic-applications-the-well-architected-way-from-aws)
     1. [Amazon Bedrock Getting Started from AWS](#amazon-bedrock-getting-started-from-aws)
@@ -180,7 +192,7 @@
 ## Resources
 
 1. [Artificial Intelligence Resource Links](../../links/artificial-intelligence/)
-## Strategy (4)
+## Strategy (5)
 ### AI Strategy and Governance from University of Pennsylvania, Wharton School
 * [John's University of Pennsylvania, Wharton School online credential](https://coursera.org/verify/DGB6XB4C7VKD)
 
@@ -190,6 +202,11 @@
 * [John's Vanderbilt University online credential](https://coursera.org/verify/specialization/MZFR2PSPD5UK)
 
 <img src="../cert_ai_gen-ai_generative-ai-strategic-leader_vanderbiltu_jules-white_spec-MZFR2PSPD5UK_2025-11-30.png" alt="John's Generative AI Strategic Leader Specialization (4 Courses) from Vanderbilt University by James White" style="border:1px solid #000000" />
+
+### Agentic AI and AI Agents for Leaders Specialization (3 Courses) from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/specialization/QZWH1IOG281V)
+
+<img src="../cert_ai_gen-ai_agentic-ai-agents-leaders-specialization_cousera_vanderbiltu_jules-white_spec-QZWH1IOG281V_2026-02-15.png" alt="John's Agentic AI and AI Agents for Leaders Specialization (3 Courses) from Vanderbilt University by James White" style="border:1px solid #000000" />
 
 ### Chief Artificial Intelligence Officer from Copenhagen Compliance by Kersi Porbunderwalla
 
@@ -340,7 +357,7 @@
 
 <img src="../cert_ai_agents_building-intelligent-ai-agents_greatlearning_sneha-vk_2025-10-06.jpg" alt="John's Building Intelligent AI Agents from Great Learning Academy by Sneha VK" style="border:1px solid #000000" />
 
-## AI Agents Orchestration (16)
+## AI Agents Orchestration (17)
 ### Multi AI Agent Systems with CrewAI from CrewAI by João Moura
 
 <img src="../cert_ai_multi-agent_multi-ai-agent-systems-with-crewai_crewai_2025-06-08.png" alt="John's Multi AI Agent Systems with CrewAI from CrewAI by João Moura" style="border:1px solid #000000" />
@@ -389,6 +406,11 @@
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/6h9cj1q0zm)
 
 <img src="../cert_ai_multi-agent_building-a-deep-research-ai-agent_analyticsvidhya_cert-6h9cj1q0zm_2026-01-11.jpg" alt="John's Building a Deep Research AI Agent from Analytics Vidhya by Dipanjan Sarkar" style="border:1px solid #000000" />
+
+### From Chat to Action: Automate with OpenClaw from Analytics Vidhya by Riya Bansal
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/oxpmayyk8a)
+
+<img src="../cert_ai_multi-agent_openclaw-chat-action-automate_analyticsvidhya_cert-oxpmayyk8a_2026-02-14.jpg" alt="John's From Chat to Action: Automate with OpenClaw from Analytics Vidhya by Riya Bansal" style="border:1px solid #000000" />
 
 ### Applying Multi-agent Systems to Daily Tasks from Pluralsight by Bogdan Sucaciu
 
@@ -567,11 +589,26 @@
 
 <img src="../cert_ai_vibe-coding_vibe-coding_sololearn_cert-CC-H5DTUCSU_2025-07-15.jpg" alt="John's Vibe Coding from Sololearn" style="border:1px solid #000000" />
 
-## Prompt Engineering (5)
+## Prompt Engineering (8)
 ### Prompt Engineering for ChatGPT from Vanderbilt University by James White
 * [John's Vanderbilt University online credential](https://coursera.org/verify/9VHLWEHPR0QV)
 
 ![John's Prompt Engineering for ChatGPT from Vanderbilt University by James White](cert_ai_gen-ai_prompt-engineering-chatgpt_vanderbiltu_jules-white_cert-9VHLWEHPR0QV_2025-11-30.png)
+
+### OpenAI GPTs: Creating Your Own Custom AI Assistants from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/I1DJ1OJFH3OG)
+
+![John's OpenAI GPTs: Creating Your Own Custom AI Assistants from Vanderbilt University by James White](cert_ai_gen-ai_openai-gpts-your-own-custom-ai-assistants_coursera_vanderbiltu_jules-white_cert-I1DJ1OJFH3OG_2026-02-15.png)
+
+### OpenAI GPTs: Creating Your Own Custom AI Assistants from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/I1DJ1OJFH3OG)
+
+![John's OpenAI GPTs: Creating Your Own Custom AI Assistants from Vanderbilt University by James White](cert_ai_gen-ai_openai-gpts-your-own-custom-ai-assistants_coursera_vanderbiltu_jules-white_cert-I1DJ1OJFH3OG_2026-02-15.png)
+
+### Trustworthy Generative AI from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/UXT985TM8GW3)
+
+![John's Trustworthy Generative AI from Vanderbilt University by James White](cert_ai_genai_trustworthy-generative-ai_coursera_vanderbiltu_jules-white_cert-UXT985TM8GW3_2026-02-15.png)
 
 ### Essentials of Prompt Engineering from AWS
 
@@ -594,7 +631,12 @@
 
 <img src="../cert_ai_prompt-engineering_ai-prompting-essentials-certified_aipec_msi_cert-335389458_2024-03-14.png" alt="John's AI Prompting Essentials Certified (AIPEC) from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Generative AI (16)
+## Generative AI (21)
+### Generative AI Assistants Specialization (3 Courses) from Vanderbilt University by James White
+* [John's Vanderbilt University online credential](https://coursera.org/verify/specialization/YQAU0GX75L2Q)
+
+<img src="../cert_ai_genai_generative-ai-assistants-specialization__cousera_vanderbiltu_jules-white_spec-YQAU0GX75L2Q_2026-02-15.png" alt="John's Generative AI Assistants Specialization (3 Courses) from Vanderbilt University by James White" style="border:1px solid #000000" />
+
 ### Generative AI SQL Database Specialist with ChatGPT Specialization (3 Courses) from Vanderbilt University by James White
 * [John's Vanderbilt University online credential](https://coursera.org/verify/specialization/PFS4AXZ9EIF4)
 
@@ -635,6 +677,11 @@
 
 <img src="../cert_ai_genai_work-smarter-with-ai_canva_2025-11-09.png" alt="John's Work smarter with AI from Canva" style="border:1px solid #000000" />
 
+### AI in the classroom from Canva
+* [John's Canva online credential](https://www.canva.com/design-school/certification-award/688ed81d-9f99-414a-aefc-6261feb55472)
+
+<img src="../cert_ai_genai_ai-classroom_canva_cert-688ed81d-9f99-414a-aefc-6261feb55472_2026-02-16.png" alt="John's AI in the classroom from Canva" style="border:1px solid #000000" />
+
 ### Introduction to Generative AI from Google Cloud
 * [John's Google Cloud online credential](https://coursera.org/verify/3VBHJ76MBTU9)
 
@@ -649,6 +696,21 @@
 * [John's Udemy online credential](http://ude.my/UC-ee0ddc67-8697-4d0f-b00d-d81bd8bb75c7/)
 
 <img src="../cert_ai_gen-ai_ai-literacy-basics_udemy_nicolle-merrill_UC-ee0ddc67-8697-4d0f-b00d-d81bd8bb75c7_2025-10-31.jpg" alt="John's AI Literacy Basics: Applying Generative AI in the Workplace from Udemy by Nicolle Merrill" style="border:1px solid #000000" />
+
+### The Automated Video Factory: AI Content Creation from Udemy by Yash Thakker
+* [John's Udemy online credential](http://ude.my/UC-78ccafaa-ab8a-4889-8180-3d3d27a167af/)
+
+<img src="../cert_ai_genai_automated-video-factory-ai-content-creation_udemy_yash-thakker_cert-UC-78ccafaa-ab8a-4889-8180-3d3d27a167af_2026-02-11.jpg" alt="John's The Automated Video Factory: AI Content Creation from Udemy by Yash Thakker" style="border:1px solid #000000" />
+
+### Become an Expert in AI Avatar Videos with HeyGen from Udemy by Stan Slavev
+* [John's Udemy online credential](http://ude.my/UC-684aeb80-ecbd-4c95-a5de-6793893d63ea/)
+
+<img src="../cert_ai_genai_heygen-ai-avatar-videos-expert_udemy_stan-slavev_cert-UC-684aeb80-ecbd-4c95-a5de-6793893d63ea_2026-02-14.jpg" alt="John's Become an Expert in AI Avatar Videos with HeyGen from Udemy by Stan Slavev" style="border:1px solid #000000" />
+
+### Create an AI Influencer: No-Code, for Free from Udemy by Filip Cermak
+* [John's Udemy online credential](http://ude.my/UC-093ddb18-9ad9-4ca1-a02e-e4e77e3eb016/)
+
+<img src="../cert_ai_genai_ai-influencer-creation_udemy_filip-cermak_cert-UC-093ddb18-9ad9-4ca1-a02e-e4e77e3eb016_2026-02-15.jpg" alt="John's Create an AI Influencer: No-Code, for Free from Udemy by Filip Cermak" style="border:1px solid #000000" />
 
 ### Gemini 3: The AI That Thinks, Sees and Creates from Analytics Vidhya by Dipanjan Sarkar, Soumil Jain
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/ugo7ifvh38)
@@ -857,6 +919,12 @@
 ### Scale and Deploy LLMs in Production Environments from Pluralsight by Abhishek Kumar
 
 <img src="../cert_ai_aiops_scale-deploy-llms-production-environments_pluralsight_abhishek-kumar_2025-06-20.png" alt="John's Scale and Deploy LLMs in Production Environments from Pluralsight by Abhishek Kumar" style="border:1px solid #000000" />
+
+## AI Infrastructure (1)
+### Master NVIDIA AI Infrastructure & Pass NCA-AIIO from Udemy by Ashish Prajapati
+* [John's Udemy online credential](http://ude.my/UC-f1ceb497-0f01-4b84-9ea2-c9621b99b402/)
+
+<img src="../cert_ai_aiinfra_nvidia-ai-infrastructure-nca-aiio_udemy_ashish-prajapati_cert-UC-f1ceb497-0f01-4b84-9ea2-c9621b99b402_2026-02-09.jpg" alt="John's Master NVIDIA AI Infrastructure & Pass NCA-AIIO from Udemy by Ashish Prajapati" style="border:1px solid #000000" />
 
 ## AWS (15)
 ### Building Your Agentic Applications the Well-Architected Way from AWS
