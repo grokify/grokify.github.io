@@ -4,7 +4,7 @@
     1. [Vector Search and Embeddings from Google Cloud](#vector-search-and-embeddings-from-google-cloud)
     1. [Intro to Hugging Face from Codecademy](#intro-to-hugging-face-from-codecademy)
     1. [Jupyter Notebook from Great Learning Academy by Anirudh Rao](#jupyter-notebook-from-great-learning-academy-by-anirudh-rao)
-1. [Large Language Models (LLMs)](#large-language-models-llms-11)
+1. [Large Language Models (LLMs)](#large-language-models-llms-12)
     1. [Fundamentals of LLMs from Hugging Face](#fundamentals-of-llms-from-hugging-face)
     1. [Introduction to Large Language Models from Google Cloud](#introduction-to-large-language-models-from-google-cloud)
     1. [Attention Mechanism from Google Cloud](#attention-mechanism-from-google-cloud)
@@ -16,6 +16,7 @@
     1. [LLM Observability: Search & Retrieval from Arize by Amber Roberts](#llm-observability-search-retrieval-from-arize-by-amber-roberts)
     1. [LLM Observability: Traces & Spans from Arize by Amber Roberts](#llm-observability-traces-spans-from-arize-by-amber-roberts)
     1. [Domain-specific LLM Agents from Pluralsight by Brian Letort](#domain-specific-llm-agents-from-pluralsight-by-brian-letort)
+    1. [LLM Basics and Transformers with Pytorch from Pluralsight by Ashraf AlMadhoun](#llm-basics-and-transformers-with-pytorch-from-pluralsight-by-ashraf-almadhoun)
 1. [Algorithms](#algorithms-1)
     1. [KNN Algorithm from Great Learning Academy by Anirudh Rao, Bharani Akella](#knn-algorithm-from-great-learning-academy-by-anirudh-rao-bharani-akella)
 1. [Data Engineering](#data-engineering-1)
@@ -48,7 +49,7 @@
 
 <img src="../cert_machine-learning_jupyter-notebook_greatlearning_cert-PPFKNCCJ_2024-02-28.jpg" alt="John's Jupyter Notebook from Great Learning Academy by Anirudh Rao" style="border:1px solid #000000" />
 
-## Large Language Models (LLMs) (11)
+## Large Language Models (LLMs) (12)
 ### Fundamentals of LLMs from Hugging Face
 
 ![John's Fundamentals of LLMs from Hugging Face](cert_machine-learning_llm_fundamentals-of-llms_hugging-face_2025-06-21.webp)
@@ -97,6 +98,10 @@
 ### Domain-specific LLM Agents from Pluralsight by Brian Letort
 
 <img src="../cert_machine-learning_llm_domain-specific-llm-agents_pluralsight_brian-letort_2025-06-28.png" alt="John's Domain-specific LLM Agents from Pluralsight by Brian Letort" style="border:1px solid #000000" />
+
+### LLM Basics and Transformers with Pytorch from Pluralsight by Ashraf AlMadhoun
+
+<img src="../cert_ai_pytorch_llm-transformers-pytorch_pluralsight_ashraf-almadhoun_2026-02-22.png" alt="John's LLM Basics and Transformers with Pytorch from Pluralsight by Ashraf AlMadhoun" style="border:1px solid #000000" />
 
 ## Algorithms (1)
 ### KNN Algorithm from Great Learning Academy by Anirudh Rao, Bharani Akella

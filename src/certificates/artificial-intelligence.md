@@ -79,11 +79,14 @@
     1. [Using Generative AI to Refine Communications to Executives from Pluralsight by Ed Freitas](#using-generative-ai-to-refine-communications-to-executives-from-pluralsight-by-ed-freitas)
     1. [SEO with AI from Sololearn](#seo-with-ai-from-sololearn)
     1. [ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy](#chatgpt-for-excel-from-great-learning-academy-by-e-balachandra-murthy)
-1. [AI Code Assistants](#ai-code-assistants-5)
+1. [AI Code Assistants](#ai-code-assistants-8)
     1. [Claude Code in Action from Anthropic](#claude-code-in-action-from-anthropic)
+    1. [Claude Code in Action from Anthropic by Stephen Grider](#claude-code-in-action-from-anthropic-by-stephen-grider)
     1. [Introduction to Amazon Q Developer (Technical) from AWS](#introduction-to-amazon-q-developer-technical-from-aws)
     1. [Intro to Claude AI from Scrimba by Shant Dashjian](#intro-to-claude-ai-from-scrimba-by-shant-dashjian)
     1. [Intro to OpenAI Codex: Fully Agentic Coding from Udemy by Yash Thakker](#intro-to-openai-codex-fully-agentic-coding-from-udemy-by-yash-thakker)
+    1. [Advanced AI-assisted Development from Pluralsight by Michael Perry](#advanced-ai-assisted-development-from-pluralsight-by-michael-perry)
+    1. [Advanced Claude Code from Pluralsight by Karoly Nyisztor](#advanced-claude-code-from-pluralsight-by-karoly-nyisztor)
     1. [Secure Coding with Amazon Q Developer from Pluralsight by Tom Taulli](#secure-coding-with-amazon-q-developer-from-pluralsight-by-tom-taulli)
 1. [Vibe Coding](#vibe-coding-7)
     1. [Vibe Coding with Cursor AI from Scrimba by Maham Codes](#vibe-coding-with-cursor-ai-from-scrimba-by-maham-codes)
@@ -166,7 +169,8 @@
     1. [Navigating Global AI Policy and Regulations: Insights for Latam from Silicon Valley Certification Hub by Merve Hickok](#navigating-global-ai-policy-and-regulations-insights-for-latam-from-silicon-valley-certification-hub-by-merve-hickok)
     1. [Artificial Intelligence Essentials: Responsible AI from Pluralsight by Ben Weissman](#artificial-intelligence-essentials-responsible-ai-from-pluralsight-by-ben-weissman)
     1. [AI and the Law: Implementing Trustworthy AI from Pluralsight by Anton Ekker](#ai-and-the-law-implementing-trustworthy-ai-from-pluralsight-by-anton-ekker)
-1. [AIOps](#aiops-2)
+1. [AIOps](#aiops-3)
+    1. [AIOps: CI/CD for AI Systems from Pluralsight by David Harris](#aiops-cicd-for-ai-systems-from-pluralsight-by-david-harris)
     1. [AIOps: Observability and Explainability for Production Models from Pluralsight by Russ Thomas](#aiops-observability-and-explainability-for-production-models-from-pluralsight-by-russ-thomas)
     1. [Scale and Deploy LLMs in Production Environments from Pluralsight by Abhishek Kumar](#scale-and-deploy-llms-in-production-environments-from-pluralsight-by-abhishek-kumar)
 1. [AI Infrastructure](#ai-infrastructure-1)
@@ -529,11 +533,16 @@
 
 <img src="../cert_ai_chatgpt-for-excel_greatlearning-by-e-balachandra-murthy_cert-WFDRKONI_2024-03-03.jpg" alt="John's ChatGPT for Excel from Great Learning Academy by E. Balachandra Murthy" style="border:1px solid #000000" />
 
-## AI Code Assistants (5)
+## AI Code Assistants (8)
 ### Claude Code in Action from Anthropic
 * [John's Anthropic online credential](https://verify.skilljar.com/c/j3k4jnhhakvj)
 
 <img src="../cert_ai_vibe-coding_claude-code-in-action_anthropic_cert-j3k4jnhhakvj-1753183000_2025-07-22.jpg" alt="John's Claude Code in Action from Anthropic" style="border:1px solid #000000" />
+
+### Claude Code in Action from Anthropic by Stephen Grider
+* [John's Anthropic online credential](https://coursera.org/verify/RJF2UUA2NIRY)
+
+![John's Claude Code in Action from Anthropic by Stephen Grider](cert_ai_code_claude-code-in-action_anthropic_stephenh-grider_cert-RJF2UUA2NIRY_2026-02-22.png)
 
 ### Introduction to Amazon Q Developer (Technical) from AWS
 
@@ -548,6 +557,14 @@
 * [John's Udemy online credential](http://ude.my/UC-07354aa3-db31-423f-92f4-74be93171cd9/)
 
 <img src="../cert_ai_coding_openai-codex-agentic-coding_udemy_yash-thakker_UC-07354aa3-db31-423f-92f4-74be93171cd9_2026-01-11.jpg" alt="John's Intro to OpenAI Codex: Fully Agentic Coding from Udemy by Yash Thakker" style="border:1px solid #000000" />
+
+### Advanced AI-assisted Development from Pluralsight by Michael Perry
+
+<img src="../cert_ai_code_advanced-ai-assisted-development_pluralsight_michael-perry_2026-02-22.png" alt="John's Advanced AI-assisted Development from Pluralsight by Michael Perry" style="border:1px solid #000000" />
+
+### Advanced Claude Code from Pluralsight by Karoly Nyisztor
+
+<img src="../cert_ai_code_advanced-claude-code_pluralsight_karoly-nyisztor_2026-02-22.png" alt="John's Advanced Claude Code from Pluralsight by Karoly Nyisztor" style="border:1px solid #000000" />
 
 ### Secure Coding with Amazon Q Developer from Pluralsight by Tom Taulli
 
@@ -911,7 +928,11 @@
 
 <img src="../cert_ai_governance_ai-law-implementing-trustworthy-ai_pluralsight_anton-ekker_2025-09-15.png" alt="John's AI and the Law: Implementing Trustworthy AI from Pluralsight by Anton Ekker" style="border:1px solid #000000" />
 
-## AIOps (2)
+## AIOps (3)
+### AIOps: CI/CD for AI Systems from Pluralsight by David Harris
+
+<img src="../cert_ai_aiops_aiops-ci-cd-ai-systems_pluralsight_david-harris_2026-02-22.png" alt="John's AIOps: CI/CD for AI Systems from Pluralsight by David Harris" style="border:1px solid #000000" />
+
 ### AIOps: Observability and Explainability for Production Models from Pluralsight by Russ Thomas
 
 <img src="../cert_ai_aiops_observability-and-explainability-for-production-models_pluralsight_russ-thomas_2025-06-20.png" alt="John's AIOps: Observability and Explainability for Production Models from Pluralsight by Russ Thomas" style="border:1px solid #000000" />

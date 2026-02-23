@@ -25,8 +25,9 @@
     1. [Machine Learning Foundations for Product Managers from Duke University by Jon Reifschneider](#machine-learning-foundations-for-product-managers-from-duke-university-by-jon-reifschneider)
 1. [Data](#data-1)
     1. [Data Product Fundamentals from Dremio by Andrew Madson](#data-product-fundamentals-from-dremio-by-andrew-madson)
-1. [Product Craft](#product-craft-1)
+1. [Product Craft](#product-craft-2)
     1. [The Emotional Side of Product Management from Pluralsight by Nicole Castillo](#the-emotional-side-of-product-management-from-pluralsight-by-nicole-castillo)
+    1. [AI-Powered A/B testing from Sololearn](#ai-powered-ab-testing-from-sololearn)
 1. [Product Owner](#product-owner-5)
     1. [Certified Scrum Product Owner (CSPO) from Scrum Alliance](#certified-scrum-product-owner-cspo-from-scrum-alliance)
     1. [Professional Scrum Product Owner I (PSPO I) from Scrum.org](#professional-scrum-product-owner-i-pspo-i-from-scrumorg)
@@ -127,10 +128,15 @@
 
 ![John's Data Product Fundamentals from Dremio by Andrew Madson](cert_data_product_data-product-fundamentals_dremio_andrew-madson_cert-67a3761b45e94205850a7ed5_2025-10-17.png)
 
-## Product Craft (1)
+## Product Craft (2)
 ### The Emotional Side of Product Management from Pluralsight by Nicole Castillo
 
 <img src="../cert_product_the-emotional-side-of-product-management_plurasight_nicole-castillo_2024-07-12.png" alt="John's The Emotional Side of Product Management from Pluralsight by Nicole Castillo" style="border:1px solid #000000" />
+
+### AI-Powered A/B testing from Sololearn
+* [John's Sololearn online credential](https://www.sololearn.com/en/certificates/CC-VZ6LXZAW)
+
+<img src="../cert_product_abtest_ai-powered-a-b-testing__sololearn_cert-CC-VZ6LXZAW_2026-02-17.jpg" alt="John's AI-Powered A/B testing from Sololearn" style="border:1px solid #000000" />
 
 ## Product Owner (5)
 ### Certified Scrum Product Owner (CSPO) from Scrum Alliance

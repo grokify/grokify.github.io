@@ -21,10 +21,11 @@
     1. [AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan](#aws-vs-azure-vs-gcp-from-great-learning-academy-by-vishal-padghan)
 1. [Compliance](#compliance-1)
     1. [Compliance for Secure Cloud Environments from Pluralsight by Alexander Shafe](#compliance-for-secure-cloud-environments-from-pluralsight-by-alexander-shafe)
-1. [AWS](#aws-12)
+1. [AWS](#aws-13)
     1. [Designing Landing Zone Architectures with AWS Control Tower from AWS](#designing-landing-zone-architectures-with-aws-control-tower-from-aws)
     1. [AWS Shared Responsibility Model from AWS](#aws-shared-responsibility-model-from-aws)
     1. [Generative AI Business Strategy and Solution Design from AWS by Jody Baty](#generative-ai-business-strategy-and-solution-design-from-aws-by-jody-baty)
+    1. [AWS Data Querying with S3 & Athena from Analytics Vidhya by Jatin Goel](#aws-data-querying-with-s3-athena-from-analytics-vidhya-by-jatin-goel)
     1. [Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha](#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha)
     1. [Essential Networking and Security for Amazon EKS from Pluralsight by Mario Mercado](#essential-networking-and-security-for-amazon-eks-from-pluralsight-by-mario-mercado)
     1. [Introduction to AWS Identity and Access Management (IAM) from Simplilearn](#introduction-to-aws-identity-and-access-management-iam-from-simplilearn)
@@ -140,7 +141,7 @@
 
 <img src="../cert_cloud_compliance_compliance-for-secure-cloud-environments_pluralsight_alexander-shafe_2025-11-23.png" alt="John's Compliance for Secure Cloud Environments from Pluralsight by Alexander Shafe" style="border:1px solid #000000" />
 
-## AWS (12)
+## AWS (13)
 ### Designing Landing Zone Architectures with AWS Control Tower from AWS
 
 <img src="../cert_cloud_aws_desiging-landing-zone-architectures-with-aws-control-tower_cert-67722468-123b-4efc-af0f-b3c596317b5c_2025-07-26.png" alt="John's Designing Landing Zone Architectures with AWS Control Tower from AWS" style="border:1px solid #000000" />
@@ -152,6 +153,11 @@
 ### Generative AI Business Strategy and Solution Design from AWS by Jody Baty
 
 <img src="../cert_aws_genai_generative-ai-business-strategy-solution-design_aws_jody-baty_cert-9ada1f86-5830-45c6-a6c1-88ca541dc29c_2025-11-03.png" alt="John's Generative AI Business Strategy and Solution Design from AWS by Jody Baty" style="border:1px solid #000000" />
+
+### AWS Data Querying with S3 & Athena from Analytics Vidhya by Jatin Goel
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/7equo1fh05)
+
+<img src="../cert_data_aws_aws-data-querying-s3-athena_analyticsvidhya_jatin-goel_cert-7equo1fh05_2026-02-22.jpg" alt="John's AWS Data Querying with S3 & Athena from Analytics Vidhya by Jatin Goel" style="border:1px solid #000000" />
 
 ### Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha
 
