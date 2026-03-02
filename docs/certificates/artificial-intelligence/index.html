@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://grokify.github.io/certificates/artificial-intelligence/" />
       <link rel="shortcut icon" href="../../img/favicon.ico" />
-    <title>Artificial Intelligence (171) - John Wang's Site</title>
+    <title>Artificial Intelligence (174) - John Wang's Site</title>
     <link rel="stylesheet" href="../../css/theme.css" />
     <link rel="stylesheet" href="../../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Artificial Intelligence (171)";
+        var mkdocs_page_name = "Artificial Intelligence (174)";
         var mkdocs_page_input_path = "certificates/artificial-intelligence.md";
         var mkdocs_page_url = "/certificates/artificial-intelligence/";
       </script>
@@ -65,7 +65,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../appreciation/">Appreciation (3)</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Artificial Intelligence (171)</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">Artificial Intelligence (174)</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#resources">Resources</a>
     </li>
@@ -463,9 +463,13 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#aws-15">AWS (15)</a>
+    <li class="toctree-l2"><a class="reference internal" href="#aws-18">AWS (18)</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#building-your-agentic-applications-the-well-architected-way-from-aws">Building Your Agentic Applications the Well-Architected Way from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-ai-factories-from-aws">Introduction to AWS AI Factories from AWS</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#introduction-to-aws-security-agent-tech-preview-from-aws">Introduction to AWS Security Agent (Tech Preview) from AWS</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</a>
     </li>
@@ -491,6 +495,8 @@
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#introduction-to-amazon-sagemaker-from-aws">Introduction to Amazon SageMaker from AWS</a>
     </li>
+    <li class="toctree-l3"><a class="reference internal" href="#aws-for-data-science-ec2-vs-sagemaker-vs-lambda-from-analytics-vidhya-by-jatin-goel">AWS for Data Science - EC2 vs. SageMaker vs. Lambda from Analytics Vidhya by Jatin Goel</a>
+    </li>
     <li class="toctree-l3"><a class="reference internal" href="#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</a>
@@ -509,7 +515,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../board-of-directors/">Board of Directors (5)</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../cloud-computing/">Cloud Computing (50)</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../cloud-computing/">Cloud Computing (53)</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../customer-service/">Customer Service (5)</a>
                   </li>
@@ -587,7 +593,7 @@
   <ul class="wy-breadcrumbs">
     <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
           <li class="breadcrumb-item">Certificates</li>
-      <li class="breadcrumb-item active">Artificial Intelligence (171)</li>
+      <li class="breadcrumb-item active">Artificial Intelligence (174)</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -816,8 +822,10 @@
 <li><a href="#master-nvidia-ai-infrastructure-pass-nca-aiio-from-udemy-by-ashish-prajapati">Master NVIDIA AI Infrastructure &amp; Pass NCA-AIIO from Udemy by Ashish Prajapati</a></li>
 </ol>
 </li>
-<li><a href="#aws-15">AWS</a><ol>
+<li><a href="#aws-18">AWS</a><ol>
 <li><a href="#building-your-agentic-applications-the-well-architected-way-from-aws">Building Your Agentic Applications the Well-Architected Way from AWS</a></li>
+<li><a href="#introduction-to-aws-ai-factories-from-aws">Introduction to AWS AI Factories from AWS</a></li>
+<li><a href="#introduction-to-aws-security-agent-tech-preview-from-aws">Introduction to AWS Security Agent (Tech Preview) from AWS</a></li>
 <li><a href="#amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</a></li>
 <li><a href="#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws">Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS</a></li>
 <li><a href="#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws">Automate Generative AI workflows using Amazon Bedrock Flows from AWS</a></li>
@@ -830,6 +838,7 @@
 <li><a href="#amazon-bedrock-agentcore-tools-tutorial-from-aws">Amazon Bedrock AgentCore Tools Tutorial from AWS</a></li>
 <li><a href="#generative-ai-business-strategy-and-solution-design-from-aws-by-jody-baty">Generative AI Business Strategy and Solution Design from AWS by Jody Baty</a></li>
 <li><a href="#introduction-to-amazon-sagemaker-from-aws">Introduction to Amazon SageMaker from AWS</a></li>
+<li><a href="#aws-for-data-science-ec2-vs-sagemaker-vs-lambda-from-analytics-vidhya-by-jatin-goel">AWS for Data Science - EC2 vs. SageMaker vs. Lambda from Analytics Vidhya by Jatin Goel</a></li>
 <li><a href="#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</a></li>
 <li><a href="#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</a></li>
 </ol>
@@ -1490,9 +1499,13 @@
 <li><a href="http://ude.my/UC-f1ceb497-0f01-4b84-9ea2-c9621b99b402/">John's Udemy online credential</a></li>
 </ul>
 <p><img src="../cert_ai_aiinfra_nvidia-ai-infrastructure-nca-aiio_udemy_ashish-prajapati_cert-UC-f1ceb497-0f01-4b84-9ea2-c9621b99b402_2026-02-09.jpg" alt="John's Master NVIDIA AI Infrastructure & Pass NCA-AIIO from Udemy by Ashish Prajapati" style="border:1px solid #000000" /></p>
-<h2 id="aws-15">AWS (15)</h2>
+<h2 id="aws-18">AWS (18)</h2>
 <h3 id="building-your-agentic-applications-the-well-architected-way-from-aws">Building Your Agentic Applications the Well-Architected Way from AWS</h3>
 <p><img src="../cert_ai_aws_building-agentic-applications-well-architected_aws_cert-7e3f09e6-26f1-40e5-8b1b-08e9d3ae5296_2025-11-02.png" alt="John's Building Your Agentic Applications the Well-Architected Way from AWS" style="border:1px solid #000000" /></p>
+<h3 id="introduction-to-aws-ai-factories-from-aws">Introduction to AWS AI Factories from AWS</h3>
+<p><img src="../cert_aws_ai_aws-ai-factories_aws_cert-149bbde6-eeae-4750-bd86-04fc8f7c4de1_2026-02-26.png" alt="John's Introduction to AWS AI Factories from AWS" style="border:1px solid #000000" /></p>
+<h3 id="introduction-to-aws-security-agent-tech-preview-from-aws">Introduction to AWS Security Agent (Tech Preview) from AWS</h3>
+<p><img src="../cert_aws_agent_aws-security-agent_aws-cert-039a6b52-d919-4207-b7ff-cad8feba59f4_2026-02-26.png" alt="John's Introduction to AWS Security Agent (Tech Preview) from AWS" style="border:1px solid #000000" /></p>
 <h3 id="amazon-bedrock-getting-started-from-aws">Amazon Bedrock Getting Started from AWS</h3>
 <p><img src="../cert_ai_aws-bedrock_amazon-bedrock-getting-started_aws_cert-ce0a575a-2277-48f0-9a70-e2acb21e0190_2025-07-26.png" alt="John's Amazon Bedrock Getting Started from AWS" style="border:1px solid #000000" /></p>
 <h3 id="introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws">Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS</h3>
@@ -1517,6 +1530,11 @@
 <p><img src="../cert_aws_genai_generative-ai-business-strategy-solution-design_aws_jody-baty_cert-9ada1f86-5830-45c6-a6c1-88ca541dc29c_2025-11-03.png" alt="John's Generative AI Business Strategy and Solution Design from AWS by Jody Baty" style="border:1px solid #000000" /></p>
 <h3 id="introduction-to-amazon-sagemaker-from-aws">Introduction to Amazon SageMaker from AWS</h3>
 <p><img src="../cert_ai_aws_introduction-to-amazon-sagemaker_aws_fan-li_cert-ba41249a-02c7-4598-872b-178ee4512905_2025-10-15.png" alt="John's Introduction to Amazon SageMaker from AWS" style="border:1px solid #000000" /></p>
+<h3 id="aws-for-data-science-ec2-vs-sagemaker-vs-lambda-from-analytics-vidhya-by-jatin-goel">AWS for Data Science - EC2 vs. SageMaker vs. Lambda from Analytics Vidhya by Jatin Goel</h3>
+<ul>
+<li><a href="https://courses.analyticsvidhya.com/certificates/xtayyqqd1z">John's Analytics Vidhya online credential</a></li>
+</ul>
+<p><img src="../cert_aws_ai_aws-data-science-ec2-sagemaker-lambda_analyticsvidhya_jatin-goel_cert-xtayyqqd1z_2026-03-02.jpg" alt="John's AWS for Data Science - EC2 vs. SageMaker vs. Lambda from Analytics Vidhya by Jatin Goel" style="border:1px solid #000000" /></p>
 <h3 id="introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid">Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid</h3>
 <p><img src="../cert_ai_aws_introduction-to-bedrock_pluralsight_muhammad-sajid_2025-06-15.png" alt="John's Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid" style="border:1px solid #000000" /></p>
 <h3 id="create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha">Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha</h3>
