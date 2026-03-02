@@ -21,11 +21,14 @@
     1. [AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan](#aws-vs-azure-vs-gcp-from-great-learning-academy-by-vishal-padghan)
 1. [Compliance](#compliance-1)
     1. [Compliance for Secure Cloud Environments from Pluralsight by Alexander Shafe](#compliance-for-secure-cloud-environments-from-pluralsight-by-alexander-shafe)
-1. [AWS](#aws-13)
+1. [AWS](#aws-16)
+    1. [Introduction to AWS AI Factories from AWS](#introduction-to-aws-ai-factories-from-aws)
+    1. [Introduction to AWS Security Agent (Tech Preview) from AWS](#introduction-to-aws-security-agent-tech-preview-from-aws)
     1. [Designing Landing Zone Architectures with AWS Control Tower from AWS](#designing-landing-zone-architectures-with-aws-control-tower-from-aws)
     1. [AWS Shared Responsibility Model from AWS](#aws-shared-responsibility-model-from-aws)
     1. [Generative AI Business Strategy and Solution Design from AWS by Jody Baty](#generative-ai-business-strategy-and-solution-design-from-aws-by-jody-baty)
     1. [AWS Data Querying with S3 & Athena from Analytics Vidhya by Jatin Goel](#aws-data-querying-with-s3-athena-from-analytics-vidhya-by-jatin-goel)
+    1. [AWS for Data Science - EC2 vs. SageMaker vs. Lambda from Analytics Vidhya by Jatin Goel](#aws-for-data-science-ec2-vs-sagemaker-vs-lambda-from-analytics-vidhya-by-jatin-goel)
     1. [Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha](#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha)
     1. [Essential Networking and Security for Amazon EKS from Pluralsight by Mario Mercado](#essential-networking-and-security-for-amazon-eks-from-pluralsight-by-mario-mercado)
     1. [Introduction to AWS Identity and Access Management (IAM) from Simplilearn](#introduction-to-aws-identity-and-access-management-iam-from-simplilearn)
@@ -141,7 +144,15 @@
 
 <img src="../cert_cloud_compliance_compliance-for-secure-cloud-environments_pluralsight_alexander-shafe_2025-11-23.png" alt="John's Compliance for Secure Cloud Environments from Pluralsight by Alexander Shafe" style="border:1px solid #000000" />
 
-## AWS (13)
+## AWS (16)
+### Introduction to AWS AI Factories from AWS
+
+<img src="../cert_aws_ai_aws-ai-factories_aws_cert-149bbde6-eeae-4750-bd86-04fc8f7c4de1_2026-02-26.png" alt="John's Introduction to AWS AI Factories from AWS" style="border:1px solid #000000" />
+
+### Introduction to AWS Security Agent (Tech Preview) from AWS
+
+<img src="../cert_aws_agent_aws-security-agent_aws-cert-039a6b52-d919-4207-b7ff-cad8feba59f4_2026-02-26.png" alt="John's Introduction to AWS Security Agent (Tech Preview) from AWS" style="border:1px solid #000000" />
+
 ### Designing Landing Zone Architectures with AWS Control Tower from AWS
 
 <img src="../cert_cloud_aws_desiging-landing-zone-architectures-with-aws-control-tower_cert-67722468-123b-4efc-af0f-b3c596317b5c_2025-07-26.png" alt="John's Designing Landing Zone Architectures with AWS Control Tower from AWS" style="border:1px solid #000000" />
@@ -158,6 +169,11 @@
 * [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/7equo1fh05)
 
 <img src="../cert_data_aws_aws-data-querying-s3-athena_analyticsvidhya_jatin-goel_cert-7equo1fh05_2026-02-22.jpg" alt="John's AWS Data Querying with S3 & Athena from Analytics Vidhya by Jatin Goel" style="border:1px solid #000000" />
+
+### AWS for Data Science - EC2 vs. SageMaker vs. Lambda from Analytics Vidhya by Jatin Goel
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/xtayyqqd1z)
+
+<img src="../cert_aws_ai_aws-data-science-ec2-sagemaker-lambda_analyticsvidhya_jatin-goel_cert-xtayyqqd1z_2026-03-02.jpg" alt="John's AWS for Data Science - EC2 vs. SageMaker vs. Lambda from Analytics Vidhya by Jatin Goel" style="border:1px solid #000000" />
 
 ### Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha
 

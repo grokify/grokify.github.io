@@ -175,8 +175,10 @@
     1. [Scale and Deploy LLMs in Production Environments from Pluralsight by Abhishek Kumar](#scale-and-deploy-llms-in-production-environments-from-pluralsight-by-abhishek-kumar)
 1. [AI Infrastructure](#ai-infrastructure-1)
     1. [Master NVIDIA AI Infrastructure & Pass NCA-AIIO from Udemy by Ashish Prajapati](#master-nvidia-ai-infrastructure-pass-nca-aiio-from-udemy-by-ashish-prajapati)
-1. [AWS](#aws-15)
+1. [AWS](#aws-18)
     1. [Building Your Agentic Applications the Well-Architected Way from AWS](#building-your-agentic-applications-the-well-architected-way-from-aws)
+    1. [Introduction to AWS AI Factories from AWS](#introduction-to-aws-ai-factories-from-aws)
+    1. [Introduction to AWS Security Agent (Tech Preview) from AWS](#introduction-to-aws-security-agent-tech-preview-from-aws)
     1. [Amazon Bedrock Getting Started from AWS](#amazon-bedrock-getting-started-from-aws)
     1. [Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS](#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws)
     1. [Automate Generative AI workflows using Amazon Bedrock Flows from AWS](#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws)
@@ -189,6 +191,7 @@
     1. [Amazon Bedrock AgentCore Tools Tutorial from AWS](#amazon-bedrock-agentcore-tools-tutorial-from-aws)
     1. [Generative AI Business Strategy and Solution Design from AWS by Jody Baty](#generative-ai-business-strategy-and-solution-design-from-aws-by-jody-baty)
     1. [Introduction to Amazon SageMaker from AWS](#introduction-to-amazon-sagemaker-from-aws)
+    1. [AWS for Data Science - EC2 vs. SageMaker vs. Lambda from Analytics Vidhya by Jatin Goel](#aws-for-data-science-ec2-vs-sagemaker-vs-lambda-from-analytics-vidhya-by-jatin-goel)
     1. [Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid](#introduction-to-amazon-bedrock-from-pluralsight-by-muhammad-sajid)
     1. [Create AWS Infrastructure as Code Templates Using Generative AI from Pluralsight by Shubham Sinha](#create-aws-infrastructure-as-code-templates-using-generative-ai-from-pluralsight-by-shubham-sinha)
 1. [Azure](#azure-1)
@@ -947,10 +950,18 @@
 
 <img src="../cert_ai_aiinfra_nvidia-ai-infrastructure-nca-aiio_udemy_ashish-prajapati_cert-UC-f1ceb497-0f01-4b84-9ea2-c9621b99b402_2026-02-09.jpg" alt="John's Master NVIDIA AI Infrastructure & Pass NCA-AIIO from Udemy by Ashish Prajapati" style="border:1px solid #000000" />
 
-## AWS (15)
+## AWS (18)
 ### Building Your Agentic Applications the Well-Architected Way from AWS
 
 <img src="../cert_ai_aws_building-agentic-applications-well-architected_aws_cert-7e3f09e6-26f1-40e5-8b1b-08e9d3ae5296_2025-11-02.png" alt="John's Building Your Agentic Applications the Well-Architected Way from AWS" style="border:1px solid #000000" />
+
+### Introduction to AWS AI Factories from AWS
+
+<img src="../cert_aws_ai_aws-ai-factories_aws_cert-149bbde6-eeae-4750-bd86-04fc8f7c4de1_2026-02-26.png" alt="John's Introduction to AWS AI Factories from AWS" style="border:1px solid #000000" />
+
+### Introduction to AWS Security Agent (Tech Preview) from AWS
+
+<img src="../cert_aws_agent_aws-security-agent_aws-cert-039a6b52-d919-4207-b7ff-cad8feba59f4_2026-02-26.png" alt="John's Introduction to AWS Security Agent (Tech Preview) from AWS" style="border:1px solid #000000" />
 
 ### Amazon Bedrock Getting Started from AWS
 
@@ -999,6 +1010,11 @@
 ### Introduction to Amazon SageMaker from AWS
 
 <img src="../cert_ai_aws_introduction-to-amazon-sagemaker_aws_fan-li_cert-ba41249a-02c7-4598-872b-178ee4512905_2025-10-15.png" alt="John's Introduction to Amazon SageMaker from AWS" style="border:1px solid #000000" />
+
+### AWS for Data Science - EC2 vs. SageMaker vs. Lambda from Analytics Vidhya by Jatin Goel
+* [John's Analytics Vidhya online credential](https://courses.analyticsvidhya.com/certificates/xtayyqqd1z)
+
+<img src="../cert_aws_ai_aws-data-science-ec2-sagemaker-lambda_analyticsvidhya_jatin-goel_cert-xtayyqqd1z_2026-03-02.jpg" alt="John's AWS for Data Science - EC2 vs. SageMaker vs. Lambda from Analytics Vidhya by Jatin Goel" style="border:1px solid #000000" />
 
 ### Introduction to Amazon Bedrock from Pluralsight by Muhammad Sajid
 
