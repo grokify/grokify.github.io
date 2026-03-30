@@ -9,6 +9,17 @@
     1. [Teaching AI Fluency from Anthropic](#teaching-ai-fluency-from-anthropic)
 1. [Fundamentals](#fundamentals-1)
     1. [AI Ready from STACKIT](#ai-ready-from-stackit)
+1. [AI DLC](#ai-dlc-10)
+    1. [AI Driven Development Lifecycle Foundations from AWS](#ai-driven-development-lifecycle-foundations-from-aws)
+    1. [AI-DLC Foundations: Introduction from AWS](#ai-dlc-foundations-introduction-from-aws)
+    1. [AI-DLC Foundations: Evolution from AWS](#ai-dlc-foundations-evolution-from-aws)
+    1. [AI-DLC Foundations: Principles from AWS](#ai-dlc-foundations-principles-from-aws)
+    1. [AI-DLC Foundations: Workflow and Collaboration from AWS](#ai-dlc-foundations-workflow-and-collaboration-from-aws)
+    1. [AI-DLC Foundations: Best Practices from AWS](#ai-dlc-foundations-best-practices-from-aws)
+    1. [AI-DLC Foundations: Planning, Implementation and Measurement from AWS](#ai-dlc-foundations-planning-implementation-and-measurement-from-aws)
+    1. [AI-DLC Foundations: Inception Deep Dive from AWS](#ai-dlc-foundations-inception-deep-dive-from-aws)
+    1. [AI-DLC Foundations: Construction Deep Dive from AWS](#ai-dlc-foundations-construction-deep-dive-from-aws)
+    1. [AI-DLC Foundations: Operations Deep Dive from AWS](#ai-dlc-foundations-operations-deep-dive-from-aws)
 1. [Product Management](#product-management-6)
     1. [Generative AI for Innovators from Pluralsight by Esteban Herrera](#generative-ai-for-innovators-from-pluralsight-by-esteban-herrera)
     1. [Artificial Intelligence Micro-Certification (AIC) from Product School by Sam Stevens](#artificial-intelligence-micro-certification-aic-from-product-school-by-sam-stevens)
@@ -234,6 +245,47 @@
 ### AI Ready from STACKIT
 
 <img src="../cert_ai_fundamentals_ai-ready_stackit_2025-08-06.png" alt="John's AI Ready from STACKIT" style="border:1px solid #000000" />
+
+## AI DLC (10)
+### AI Driven Development Lifecycle Foundations from AWS
+
+<img src="../cert_aws_ai-dlc_ai-driven-development-lifecycle-foundations_aws_2026-03-27.png" alt="John's AI Driven Development Lifecycle Foundations from AWS" style="border:1px solid #000000" />
+
+### AI-DLC Foundations: Introduction from AWS
+
+<img src="../cert_aws_ai-dlc_ai-dlc-foundations-introduction_aws_2026-03-24.png" alt="John's AI-DLC Foundations: Introduction from AWS" style="border:1px solid #000000" />
+
+### AI-DLC Foundations: Evolution from AWS
+
+<img src="../cert_aws_ai-dlc_ai-dlc-foundations-evolution_aws_2026-03-24.png" alt="John's AI-DLC Foundations: Evolution from AWS" style="border:1px solid #000000" />
+
+### AI-DLC Foundations: Principles from AWS
+
+<img src="../cert_aws_ai-dlc_ai-dlc-foundations-principles_aws_2026-03-24.png" alt="John's AI-DLC Foundations: Principles from AWS" style="border:1px solid #000000" />
+
+### AI-DLC Foundations: Workflow and Collaboration from AWS
+
+<img src="../cert_aws_ai-dlc_ai-dlc-foundations-workflow-collaboration_aws_2026-03-24.png" alt="John's AI-DLC Foundations: Workflow and Collaboration from AWS" style="border:1px solid #000000" />
+
+### AI-DLC Foundations: Best Practices from AWS
+
+<img src="../cert_aws_ai-dlc_ai-dlc-foundations-best-practices_aws_2026-03-27.png" alt="John's AI-DLC Foundations: Best Practices from AWS" style="border:1px solid #000000" />
+
+### AI-DLC Foundations: Planning, Implementation and Measurement from AWS
+
+<img src="../cert_aws_ai-dlc_ai-dlc-foundations-planning-implementation-measurement_aws_2026-03-27.png" alt="John's AI-DLC Foundations: Planning, Implementation and Measurement from AWS" style="border:1px solid #000000" />
+
+### AI-DLC Foundations: Inception Deep Dive from AWS
+
+<img src="../cert_aws_ai-dlc_ai-dlc-foundations-inception-deep-dive_aws_2026-03-27.png" alt="John's AI-DLC Foundations: Inception Deep Dive from AWS" style="border:1px solid #000000" />
+
+### AI-DLC Foundations: Construction Deep Dive from AWS
+
+<img src="../cert_aws_ai-dlc_ai-dlc-foundations-construction-deep-dive_aws_2026-03-27.png" alt="John's AI-DLC Foundations: Construction Deep Dive from AWS" style="border:1px solid #000000" />
+
+### AI-DLC Foundations: Operations Deep Dive from AWS
+
+<img src="../cert_aws_ai-dlc_ai-dlc-foundations-operations-deep-dive_aws_2026-03-27.png" alt="John's AI-DLC Foundations: Operations Deep Dive from AWS" style="border:1px solid #000000" />
 
 ## Product Management (6)
 ### Generative AI for Innovators from Pluralsight by Esteban Herrera
