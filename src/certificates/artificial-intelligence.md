@@ -20,6 +20,9 @@
     1. [AI-DLC Foundations: Inception Deep Dive from AWS](#ai-dlc-foundations-inception-deep-dive-from-aws)
     1. [AI-DLC Foundations: Construction Deep Dive from AWS](#ai-dlc-foundations-construction-deep-dive-from-aws)
     1. [AI-DLC Foundations: Operations Deep Dive from AWS](#ai-dlc-foundations-operations-deep-dive-from-aws)
+1. [Spec-Driven Development (SDD)](#spec-driven-development-sdd-2)
+    1. [Spec-Driven Development with Kiro from AWS](#spec-driven-development-with-kiro-from-aws)
+    1. [Spec-Driven Development with GitHub Spec Kit from LinkedIn by Morten Rand-Hendriksen](#spec-driven-development-with-github-spec-kit-from-linkedin-by-morten-rand-hendriksen)
 1. [Product Management](#product-management-6)
     1. [Generative AI for Innovators from Pluralsight by Esteban Herrera](#generative-ai-for-innovators-from-pluralsight-by-esteban-herrera)
     1. [Artificial Intelligence Micro-Certification (AIC) from Product School by Sam Stevens](#artificial-intelligence-micro-certification-aic-from-product-school-by-sam-stevens)
@@ -186,10 +189,12 @@
     1. [Scale and Deploy LLMs in Production Environments from Pluralsight by Abhishek Kumar](#scale-and-deploy-llms-in-production-environments-from-pluralsight-by-abhishek-kumar)
 1. [AI Infrastructure](#ai-infrastructure-1)
     1. [Master NVIDIA AI Infrastructure & Pass NCA-AIIO from Udemy by Ashish Prajapati](#master-nvidia-ai-infrastructure-pass-nca-aiio-from-udemy-by-ashish-prajapati)
-1. [AWS](#aws-18)
+1. [AWS](#aws-20)
     1. [Building Your Agentic Applications the Well-Architected Way from AWS](#building-your-agentic-applications-the-well-architected-way-from-aws)
     1. [Introduction to AWS AI Factories from AWS](#introduction-to-aws-ai-factories-from-aws)
     1. [Introduction to AWS Security Agent (Tech Preview) from AWS](#introduction-to-aws-security-agent-tech-preview-from-aws)
+    1. [Introduction to AWS DevOps Agent from AWS](#introduction-to-aws-devops-agent-from-aws)
+    1. [Build a migration assessment with AWS Transform from AWS](#build-a-migration-assessment-with-aws-transform-from-aws)
     1. [Amazon Bedrock Getting Started from AWS](#amazon-bedrock-getting-started-from-aws)
     1. [Introduction to Amazon Bedrock: Foundation Models and AI Applications from AWS](#introduction-to-amazon-bedrock-foundation-models-and-ai-applications-from-aws)
     1. [Automate Generative AI workflows using Amazon Bedrock Flows from AWS](#automate-generative-ai-workflows-using-amazon-bedrock-flows-from-aws)
@@ -286,6 +291,15 @@
 ### AI-DLC Foundations: Operations Deep Dive from AWS
 
 <img src="../cert_aws_ai-dlc_ai-dlc-foundations-operations-deep-dive_aws_2026-03-27.png" alt="John's AI-DLC Foundations: Operations Deep Dive from AWS" style="border:1px solid #000000" />
+
+## Spec-Driven Development (SDD) (2)
+### Spec-Driven Development with Kiro from AWS
+
+<img src="../cert_aws_kiro_spec-driven-development-kiro_aws_2026-03-31.png" alt="John's Spec-Driven Development with Kiro from AWS" style="border:1px solid #000000" />
+
+### Spec-Driven Development with GitHub Spec Kit from LinkedIn by Morten Rand-Hendriksen
+
+![John's Spec-Driven Development with GitHub Spec Kit from LinkedIn by Morten Rand-Hendriksen](cert_ai_aisdd_spec-driven-development-github-spec-kit_linkedin_morten-rand-hendriksen_2026-03-31.png)
 
 ## Product Management (6)
 ### Generative AI for Innovators from Pluralsight by Esteban Herrera
@@ -1002,7 +1016,7 @@
 
 <img src="../cert_ai_aiinfra_nvidia-ai-infrastructure-nca-aiio_udemy_ashish-prajapati_cert-UC-f1ceb497-0f01-4b84-9ea2-c9621b99b402_2026-02-09.jpg" alt="John's Master NVIDIA AI Infrastructure & Pass NCA-AIIO from Udemy by Ashish Prajapati" style="border:1px solid #000000" />
 
-## AWS (18)
+## AWS (20)
 ### Building Your Agentic Applications the Well-Architected Way from AWS
 
 <img src="../cert_ai_aws_building-agentic-applications-well-architected_aws_cert-7e3f09e6-26f1-40e5-8b1b-08e9d3ae5296_2025-11-02.png" alt="John's Building Your Agentic Applications the Well-Architected Way from AWS" style="border:1px solid #000000" />
@@ -1014,6 +1028,14 @@
 ### Introduction to AWS Security Agent (Tech Preview) from AWS
 
 <img src="../cert_aws_agent_aws-security-agent_aws-cert-039a6b52-d919-4207-b7ff-cad8feba59f4_2026-02-26.png" alt="John's Introduction to AWS Security Agent (Tech Preview) from AWS" style="border:1px solid #000000" />
+
+### Introduction to AWS DevOps Agent from AWS
+
+<img src="../cert_aws_agent_aws-devops-agent_aws_2026-03-31.png" alt="John's Introduction to AWS DevOps Agent from AWS" style="border:1px solid #000000" />
+
+### Build a migration assessment with AWS Transform from AWS
+
+<img src="../cert_aws_transform_aws-transform-migration-assessment_aws_2026-03-05.png" alt="John's Build a migration assessment with AWS Transform from AWS" style="border:1px solid #000000" />
 
 ### Amazon Bedrock Getting Started from AWS
 

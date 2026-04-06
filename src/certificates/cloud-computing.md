@@ -21,9 +21,12 @@
     1. [AWS vs Azure vs GCP from Great Learning Academy by Vishal Padghan](#aws-vs-azure-vs-gcp-from-great-learning-academy-by-vishal-padghan)
 1. [Compliance](#compliance-1)
     1. [Compliance for Secure Cloud Environments from Pluralsight by Alexander Shafe](#compliance-for-secure-cloud-environments-from-pluralsight-by-alexander-shafe)
-1. [AWS](#aws-16)
+1. [AWS](#aws-19)
     1. [Introduction to AWS AI Factories from AWS](#introduction-to-aws-ai-factories-from-aws)
     1. [Introduction to AWS Security Agent (Tech Preview) from AWS](#introduction-to-aws-security-agent-tech-preview-from-aws)
+    1. [Introduction to AWS DevOps Agent from AWS](#introduction-to-aws-devops-agent-from-aws)
+    1. [Build a migration assessment with AWS Transform from AWS](#build-a-migration-assessment-with-aws-transform-from-aws)
+    1. [Spec-Driven Development with Kiro from AWS](#spec-driven-development-with-kiro-from-aws)
     1. [Designing Landing Zone Architectures with AWS Control Tower from AWS](#designing-landing-zone-architectures-with-aws-control-tower-from-aws)
     1. [AWS Shared Responsibility Model from AWS](#aws-shared-responsibility-model-from-aws)
     1. [Generative AI Business Strategy and Solution Design from AWS by Jody Baty](#generative-ai-business-strategy-and-solution-design-from-aws-by-jody-baty)
@@ -144,7 +147,7 @@
 
 <img src="../cert_cloud_compliance_compliance-for-secure-cloud-environments_pluralsight_alexander-shafe_2025-11-23.png" alt="John's Compliance for Secure Cloud Environments from Pluralsight by Alexander Shafe" style="border:1px solid #000000" />
 
-## AWS (16)
+## AWS (19)
 ### Introduction to AWS AI Factories from AWS
 
 <img src="../cert_aws_ai_aws-ai-factories_aws_cert-149bbde6-eeae-4750-bd86-04fc8f7c4de1_2026-02-26.png" alt="John's Introduction to AWS AI Factories from AWS" style="border:1px solid #000000" />
@@ -152,6 +155,18 @@
 ### Introduction to AWS Security Agent (Tech Preview) from AWS
 
 <img src="../cert_aws_agent_aws-security-agent_aws-cert-039a6b52-d919-4207-b7ff-cad8feba59f4_2026-02-26.png" alt="John's Introduction to AWS Security Agent (Tech Preview) from AWS" style="border:1px solid #000000" />
+
+### Introduction to AWS DevOps Agent from AWS
+
+<img src="../cert_aws_agent_aws-devops-agent_aws_2026-03-31.png" alt="John's Introduction to AWS DevOps Agent from AWS" style="border:1px solid #000000" />
+
+### Build a migration assessment with AWS Transform from AWS
+
+<img src="../cert_aws_transform_aws-transform-migration-assessment_aws_2026-03-05.png" alt="John's Build a migration assessment with AWS Transform from AWS" style="border:1px solid #000000" />
+
+### Spec-Driven Development with Kiro from AWS
+
+<img src="../cert_aws_kiro_spec-driven-development-kiro_aws_2026-03-31.png" alt="John's Spec-Driven Development with Kiro from AWS" style="border:1px solid #000000" />
 
 ### Designing Landing Zone Architectures with AWS Control Tower from AWS
 

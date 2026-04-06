@@ -17,8 +17,9 @@
     1. [Get to the Root of Any Problem from Grovo by Alex Khurgin](#get-to-the-root-of-any-problem-from-grovo-by-alex-khurgin)
     1. [5W2H Problem-Solving Method from Management and Strategy Institute](#5w2h-problem-solving-method-from-management-and-strategy-institute)
     1. [Eight Disciplines (8D) Problem Solving Method from Management and Strategy Institute](#eight-disciplines-8d-problem-solving-method-from-management-and-strategy-institute)
-1. [Team Building](#team-building-10)
+1. [Team Building](#team-building-11)
     1. [Coaching Skills from Packt](#coaching-skills-from-packt)
+    1. [A Navy SEAL's Surprising Key to Building Unstoppable Teams: Caring from LinkedIn by Pete Mockaitis](#a-navy-seals-surprising-key-to-building-unstoppable-teams-caring-from-linkedin-by-pete-mockaitis)
     1. [Leading Effective 1-on-1 Meetings: Win loyalty and retention from Udemy by PracticalGrowth Inc.](#leading-effective-1-on-1-meetings-win-loyalty-and-retention-from-udemy-by-practicalgrowth-inc)
     1. [Coaching Skills from EJ4](#coaching-skills-from-ej4)
     1. [Planning an Effective Performance Appraisal from SkillSoft](#planning-an-effective-performance-appraisal-from-skillsoft)
@@ -96,11 +97,15 @@
 
 <img src="../cert_management_problem-solving-framework_eight-disciplines-8d-problem-solving-method_msicertified_cert-347364167_2025-06-26.png" alt="John's Eight Disciplines (8D) Problem Solving Method from Management and Strategy Institute" style="border:1px solid #000000" />
 
-## Team Building (10)
+## Team Building (11)
 ### Coaching Skills from Packt
 * [John's Packt online credential](https://coursera.org/verify/DMFB53N7SAZK)
 
 ![John's Coaching Skills from Packt](cert_leadership_teams_coaching-skills_packt_cert-DMFB53N7SAZK_2025-11-08.png)
+
+### A Navy SEAL's Surprising Key to Building Unstoppable Teams: Caring from LinkedIn by Pete Mockaitis
+
+![John's A Navy SEAL's Surprising Key to Building Unstoppable Teams: Caring from LinkedIn by Pete Mockaitis](cert_management_teams_navy-seal-unstoppable-teams_linkedin_pete-mockaitis_2026-03-31.png)
 
 ### Leading Effective 1-on-1 Meetings: Win loyalty and retention from Udemy by PracticalGrowth Inc.
 * [John's Udemy online credential](http://ude.my/UC-21f78c07-3e97-496b-a513-a07c9270c9b2/)

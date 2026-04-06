@@ -5,6 +5,9 @@
     1. [Intro to Claude AI from Scrimba by Shant Dashjian](#intro-to-claude-ai-from-scrimba-by-shant-dashjian)
     1. [OpenAI Chat Completions API from Pluralsight by Xavier Morera](#openai-chat-completions-api-from-pluralsight-by-xavier-morera)
     1. [OpenAI Assistant API from Pluralsight by Xavier Morera](#openai-assistant-api-from-pluralsight-by-xavier-morera)
+1. [Spec-Driven Development (SDD)](#spec-driven-development-sdd-2)
+    1. [Spec-Driven Development with Kiro from AWS](#spec-driven-development-with-kiro-from-aws)
+    1. [Spec-Driven Development with GitHub Spec Kit from LinkedIn by Morten Rand-Hendriksen](#spec-driven-development-with-github-spec-kit-from-linkedin-by-morten-rand-hendriksen)
 1. [Vibe Coding](#vibe-coding-7)
     1. [Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White](#claude-code-software-engineering-with-generative-ai-agents-from-vanderbilt-university-by-james-white)
     1. [Vibe Coding with Cursor AI from Scrimba by Maham Codes](#vibe-coding-with-cursor-ai-from-scrimba-by-maham-codes)
@@ -83,6 +86,15 @@
 ### OpenAI Assistant API from Pluralsight by Xavier Morera
 
 <img src="../cert_ai_agentic-ai_openai-assistant-api_pluralsight_xavier-morera_2025-06-23.png" alt="John's OpenAI Assistant API from Pluralsight by Xavier Morera" style="border:1px solid #000000" />
+
+## Spec-Driven Development (SDD) (2)
+### Spec-Driven Development with Kiro from AWS
+
+<img src="../cert_aws_kiro_spec-driven-development-kiro_aws_2026-03-31.png" alt="John's Spec-Driven Development with Kiro from AWS" style="border:1px solid #000000" />
+
+### Spec-Driven Development with GitHub Spec Kit from LinkedIn by Morten Rand-Hendriksen
+
+![John's Spec-Driven Development with GitHub Spec Kit from LinkedIn by Morten Rand-Hendriksen](cert_ai_aisdd_spec-driven-development-github-spec-kit_linkedin_morten-rand-hendriksen_2026-03-31.png)
 
 ## Vibe Coding (7)
 ### Claude Code: Software Engineering with Generative AI Agents from Vanderbilt University by James White

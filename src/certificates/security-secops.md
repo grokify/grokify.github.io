@@ -3,6 +3,8 @@
     1. [Security Assessment and Testing from Packt by Anthony Sequeira, Lauren Deal](#security-assessment-and-testing-from-packt-by-anthony-sequeira-lauren-deal)
 1. [Threat Intelligence](#threat-intelligence-1)
     1. [Threat Intelligence from Udemy by Peter A](#threat-intelligence-from-udemy-by-peter-a)
+1. [Threat Hunting](#threat-hunting-1)
+    1. [Threat Hunting: Review, Automate, and Improve from Pluralsight by Brandon DeVault](#threat-hunting-review-automate-and-improve-from-pluralsight-by-brandon-devault)
 1. [Threat Simulation](#threat-simulation-4)
     1. [Lateral Movement with Infection Monkey from Pluralsight by Maril Vernon](#lateral-movement-with-infection-monkey-from-pluralsight-by-maril-vernon)
     1. [Red Team Operations: Target and Capability Development from Pluralsight by Aaron Rosenmund](#red-team-operations-target-and-capability-development-from-pluralsight-by-aaron-rosenmund)
@@ -21,6 +23,11 @@
 * [John's Udemy online credential](http://ude.my/UC-5de04873-4909-4caf-a157-645531882407)
 
 <img src="../cert_securitysecops_threatintel_threat-intelligence_udemy_peter-a_cert-UC-5de04873-4909-4caf-a157-645531882407_2025-09-16.jpg" alt="John's Threat Intelligence from Udemy by Peter A" style="border:1px solid #000000" />
+
+## Threat Hunting (1)
+### Threat Hunting: Review, Automate, and Improve from Pluralsight by Brandon DeVault
+
+<img src="../cert_infosec_secops_threat-hunting-review-automate-improve_pluralsight_brandon-devault_2026-03-14.png" alt="John's Threat Hunting: Review, Automate, and Improve from Pluralsight by Brandon DeVault" style="border:1px solid #000000" />
 
 ## Threat Simulation (4)
 ### Lateral Movement with Infection Monkey from Pluralsight by Maril Vernon
